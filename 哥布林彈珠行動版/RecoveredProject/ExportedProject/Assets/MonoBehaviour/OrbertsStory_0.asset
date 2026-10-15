@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: OrbertsStory
+  m_EditorClassIdentifier:
+  locKey: more_treasure_nodes
+  descMod: 2
+  englishDisplayName: Orbert's Story
+  englishDescription: Every {[ORBERTS_NUM_SCENARIO_NODES]} '?' nodes visited will be a chest, and the chance for rare relics to appear in chests is increased by {[BETTER_TREASURE]}%.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: ae7cdbfee93445f4e8ce07edf06ff4ff, type: 2}
+  useSfx: {fileID: 8300000, guid: acd753fa397d9a84b8392e46bf5a26fb, type: 3}
+  effect: 119
+  globalRarity: 1

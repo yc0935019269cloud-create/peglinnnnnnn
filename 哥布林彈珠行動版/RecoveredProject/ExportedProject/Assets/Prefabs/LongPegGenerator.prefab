@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 6514724804207875695}
+  - component: {fileID: 114618682377417806}
+  - component: {fileID: 114703437598541787}
+  - component: {fileID: 114884547391421755}
+  m_Layer: 8
+  m_Name: LongPegGenerator
+  m_TagString: Peg
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.25, y: -0.76, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!1971053207 &6514724804207875695
+SpriteShapeRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 0
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_MaskInteraction: 0
+  m_ShapeTexture: {fileID: 2800000, guid: 7aeaa1911a013b2469e1431a93fc8874, type: 3}
+  m_Sprites:
+  - {fileID: 21300000, guid: c7c864fac082e7e49ba713c8926c9876, type: 2}
+  - {fileID: 0}
+  m_LocalAABB:
+    m_Center: {x: -1.1627893, y: 0.7052344, z: 0}
+    m_Extent: {x: 3.663031, y: 1.0351274, z: 0}
+  m_SpriteSortPoint: 0
+--- !u!114 &114618682377417806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -850231564, guid: 12831dbd5a9e24fd92fe9a125c26ccae, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  m_Spline:
+    m_IsOpenEnded: 1
+    m_ControlPoints:
+    - position: {x: -4.5023575, y: -0.14016509, z: 0}
+      leftTangent: {x: -0.75538063, y: -1.2878315, z: 0}
+      rightTangent: {x: 1.2125902, y: 2.067319, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 0
+      m_CornerMode: 0
+    - position: {x: 2.2220614, y: 0.023468494, z: 0}
+      leftTangent: {x: -1.5790808, y: 1.7467558, z: 0}
+      rightTangent: {x: 0.83103657, y: -0.9192803, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 0
+      m_CornerMode: 0
+  m_SpriteShape: {fileID: 11400000, guid: 3a4a3cf18ea0aad42877d514a80e48d2, type: 2}
+  m_FillPixelPerUnit: 16
+  m_StretchTiling: 1
+  m_SplineDetail: 16
+  m_AdaptiveUV: 1
+  m_StretchUV: 0
+  m_WorldSpaceUV: 0
+  m_CornerAngleThreshold: 30
+  m_ColliderDetail: 16
+  m_ColliderOffset: 0
+  m_UpdateCollider: 1
+  m_EnableTangents: 0
+  m_GeometryCached: 0
+  m_UTess2D: 0
+  m_Creator: {fileID: 0}
+  m_Modifiers: []
+  m_ColliderSegment: []
+--- !u!114 &114703437598541787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a4911e60a54e09c51fa1490d8b3dff7, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  isDummy: 0
+  nSegments: 25
+  objectLengthMax: 0.7
+  objectLengthMin: 0.3
+--- !u!114 &114884547391421755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7aef23f239707804e3ec3c9e1962d0d, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  longPegSnapData: {fileID: 11400000, guid: 67387d82fe39ead47a3da43955054681, type: 2}
+  longPegPrefab: {fileID: 114709867586078768, guid: 6f855dfd4cf79d447b6153fae889c4de, type: 2}
+  pegTextPrefab: {fileID: 1709254077376921, guid: 65ad598b181f5ec4eb0667ad5d2125bf, type: 2}
+  activeMaterial: {fileID: 2100000, guid: 0e5bc765ec54b0c4ebf9a51dec20f959, type: 2}
+  refreshMaterial: {fileID: 2100000, guid: dbb5e4150a0d35e4ca10d5bbe8e9ce5b, type: 2}
+  persistentRefreshMaterial: {fileID: 2100000, guid: 82986e1ff9c24cd47bafa425b6e6b0c8, type: 2}
+  critMaterial: {fileID: 2100000, guid: 684d3d1582ec1eb46a2c7834b85a077d, type: 2}
+  persistentCritMaterial: {fileID: 2100000, guid: 03e4958e2facf414f8398ff5101049dd, type: 2}
+  destroyedMaterial: {fileID: 2100000, guid: 384282dada9623d458ad33d55e98c4b1, type: 2}
+  vineMaterial: {fileID: 2100000, guid: ad88669c781e71e4083679380168327d, type: 2}
+  maxHpMaterial: {fileID: 2100000, guid: 63109861ff8cbb84a854b77f036df7cf, type: 2}
+  vineCenterSprite: {fileID: 21300000, guid: cffd69a81d1c21c4bb65fb982907b8c0, type: 2}
+  physicsMaterial: {fileID: 6200000, guid: f3b0fdb6ffb340643bb46a00f5a8707d, type: 2}
+  timeToDisappear: 0.5
+  relicManager: {fileID: 11400000, guid: 901276a4a71890a49b7be09f02933b45, type: 2}
+  colors:
+    Regular: {r: 1, g: 1, b: 1, a: 1}
+    Bonus: {r: 1, g: 0.4588, b: 0.4588, a: 1}
+    Hit: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 0.6}
+    Cleared: {r: 0.7254902, g: 0.7254902, b: 0.7254902, a: 1}
+  damageMultiplier: 1
+  resetSprite: {fileID: 21300000, guid: 9e3078f17e9adce4b92a641c0221d27b, type: 2}
+  critSprite: {fileID: 21300000, guid: 884fa0b0d0c8adb43a7491065f8f2641, type: 2}

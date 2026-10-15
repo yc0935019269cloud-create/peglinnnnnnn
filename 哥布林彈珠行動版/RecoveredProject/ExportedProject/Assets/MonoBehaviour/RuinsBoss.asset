@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: RuinsBoss
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 323167fe226a74c499bdbbd6b9f81a06
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 64f62177339de414d8f86a078aa56419, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 4c712587445d87b4f8690a6c2d3c36f9, type: 2}
+  LocKey: ruins_boss
+  location: 4
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 26c0841833f19a54981dba5a82903b29, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 3500
+  MaxHealthCruciball: 5500
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 3
+  ResearchPointTotal: 1000
+  PointsOnKill: 15
+  PointsOnLoot: 50
+  ChallengeReward1: 100
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.01
+  Type: 2

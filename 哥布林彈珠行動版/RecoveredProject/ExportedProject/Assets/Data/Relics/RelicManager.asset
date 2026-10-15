@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f08c5f4619c9e4f13495133d363c467c, type: 3}
+  m_Name: RelicManager
+  m_EditorClassIdentifier:
+  currentHitsNeededToSpawnSquirrel: 2
+  _deckManager: {fileID: 11400000, guid: d32e6008b3310fb4ebb9efcca6e7f96d, type: 2}
+  _secretSeedManager: {fileID: 11400000, guid: 88b4281a1350ac448897cf179271b62f, type: 2}
+  _debugRelics: {fileID: 11400000, guid: 2824e9746431c484c98dadde2dfa4da3, type: 2}
+  _globalRelics: {fileID: 11400000, guid: 494ff9208b93e7a4f996115ebad075d0, type: 2}
+  _introRelics: {fileID: 11400000, guid: 5407b8c85e8baf44fa0c0248439b007d, type: 2}
+  _classLoadouts:
+  - Class: 0
+    Loadout: {fileID: 11400000, guid: b3e901b3b564efc418a6befdfdc7584b, type: 2}
+  - Class: 1
+    Loadout: {fileID: 11400000, guid: 27951ce2222bbf842b02bac611781dcd, type: 2}
+  - Class: 2
+    Loadout: {fileID: 11400000, guid: b8add32e5c4ced04788e2f542a6865b2, type: 2}
+  - Class: 3
+    Loadout: {fileID: 11400000, guid: db6e8318b4e1cc046ac6d0927f72f3b6, type: 2}
+  consolationPrize: {fileID: 11400000, guid: faf3ff14abaaa314397941bcba104ab2, type: 2}
+  _playerHealth: {fileID: 11400000, guid: 00389a10084db144dadc749bd9930afe, type: 2}
+  _maxPlayerHealth: {fileID: 11400000, guid: debdd4a7a23740f4bb662b6fec784da8, type: 2}
+  _reductionToMaxPlayerHealth: {fileID: 11400000, guid: 3e4bdf0903e9c4a4099bbdab9ec5d950, type: 2}
+  squirrelball: {fileID: 1709254077376921, guid: b4cf97e3522832a459e8adffc357669a, type: 2}

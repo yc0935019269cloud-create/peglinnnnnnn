@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: LeshyBush
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 096023a3150e0a5498885cdb9ac2cc32
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: ddd1203c7ff649941b4214db2457a0ed, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 2ecfd2b5e5a58f3489b6517f3357c77b, type: 2}
+  LocKey: leshy_bush
+  location: 1
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 626d05b1a3efead4e98a1ef0837ffaf4, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: -8.981138, y: -0.92761326}
+  MaxHealth: 20
+  MaxHealthCruciball: 45
+  MeleeAttackDamage: 3
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 5
+  PointsOnLoot: 25
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.005
+  Type: 0

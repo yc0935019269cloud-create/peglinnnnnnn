@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: MinesFlickerGridBattleEasy
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: fbc8859d55c48444d94540f54c325b90, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 0
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: 56604d5d2d2a752458146a86ca3ca1c2, type: 2}
+  waveGroups: []
+  starterSpawns:
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: fc81e0ca6a360ab4f929358e866db9e5, type: 2}
+    slot: 2
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: fc81e0ca6a360ab4f929358e866db9e5, type: 2}
+    slot: 5
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 28219e0fa5cb1554a97f1f42e2d105e0, type: 2}
+    slot: 8
+  battleDoodads: []
+  NumberOfSlots: 9
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

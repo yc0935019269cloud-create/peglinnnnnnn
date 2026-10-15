@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: ConvergingWavesBattleMapData
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: 28be4ec745888044a9ce90b440a6c848, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 0
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: 6e1db2d7e4aef344985b9c780201a00c, type: 2}
+  waveGroups:
+  - waveType: 0
+    waveData:
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: d1daf0c36bc45a44fae3dbf27f62fff2, type: 2}
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: d1daf0c36bc45a44fae3dbf27f62fff2, type: 2}
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: d1daf0c36bc45a44fae3dbf27f62fff2, type: 2}
+    spawnPoint: {fileID: 1709254077376921, guid: 6aaa66db75415e140b5ed4cc8b869d66, type: 2}
+  starterSpawns:
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: d1daf0c36bc45a44fae3dbf27f62fff2, type: 2}
+    slot: 0
+  - spawnerType: 2
+    spawnData: {fileID: 11400000, guid: 7fdc404ed30cfb84cad732ea4adfe257, type: 2}
+    slot: 0
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: d1daf0c36bc45a44fae3dbf27f62fff2, type: 2}
+    slot: 4
+  - spawnerType: 2
+    spawnData: {fileID: 11400000, guid: 7fdc404ed30cfb84cad732ea4adfe257, type: 2}
+    slot: 5
+  - spawnerType: 2
+    spawnData: {fileID: 11400000, guid: 7fdc404ed30cfb84cad732ea4adfe257, type: 2}
+    slot: 6
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: d1daf0c36bc45a44fae3dbf27f62fff2, type: 2}
+    slot: 6
+  battleDoodads: []
+  NumberOfSlots: 7
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5c2d083f2dba421933743a7f23cd7e, type: 3}
+  m_Name: MovingRelicsMinigame
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 0}
+  _sceneOverride:
+  ignoreRemove: 0
+  bouncerPrefab: {fileID: 1709254077376921, guid: c0bbcd63de181bd449d0d8fc04a84450, type: 2}
+  pegLayout:
+    m_AssetGUID: 099166edc456de94d9812e7f1b701c62
+    m_SubObjectName:
+    m_SubObjectType:
+  pegLayoutData:
+    m_AssetGUID: 930d7e0dd90bcb54d896ab9d56f7854e
+    m_SubObjectName:
+    m_SubObjectType:
+  layoutDataFilename: PegMinigameMoving
+  relicManager: {fileID: 11400000, guid: 901276a4a71890a49b7be09f02933b45, type: 2}
+  rarity: 1
+  relicInfoWidget: {fileID: 1709254077376921, guid: 96473bec2852aba4c9aa5170c587cf84, type: 2}
+  numberOfRewards: 3

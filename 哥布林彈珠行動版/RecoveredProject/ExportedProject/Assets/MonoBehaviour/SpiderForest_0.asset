@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: SpiderForest
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 64cfc72d47547174aa51bc7d2a38443a
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: fb8dc008f5adb374e83df3d1edc26056, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 849734339c51d4b48906e8ede7beed16, type: 2}
+  LocKey: spider_forest
+  location: 1
+  Sprites:
+  - sprite: {fileID: 21300000, guid: e56048d92ab91e141add79a814f40ae6, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  - sprite: {fileID: 21300000, guid: a28c18d6dde2a2843b1b2d5836e805ab, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 0.8}
+    position: {x: 0, y: 1.04}
+  MaxHealth: 150
+  MaxHealthCruciball: 165
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 2
+  ResearchPointTotal: 1000
+  PointsOnKill: 2
+  PointsOnLoot: 15
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.025
+  CardDropRate: 0.0025
+  Type: 0

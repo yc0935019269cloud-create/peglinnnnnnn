@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: MoleBoss
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: fee45e5f03fd9de41824cbe6c38ad4f6
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 9245039a2888a5e4aa38886e7d5b8233, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 8eead25f81318754aa8a97bfdb32e4d9, type: 2}
+  LocKey: mole_boss
+  location: 1
+  Sprites:
+  - sprite: {fileID: 21300000, guid: f03313aaef91e024fb0ebf222fdd7cc2, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 602
+  MaxHealthCruciball: 831
+  MeleeAttackDamage: 8
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 50
+  PointsOnLoot: 50
+  ChallengeReward1: 100
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.2
+  CardDropRate: 0.03
+  Type: 2

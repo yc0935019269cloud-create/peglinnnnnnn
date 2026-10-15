@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: BallistaBoss
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 18c3b29d201e5514d89024bdbb8ad96e
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 654637cc70cac7545b1f099f11b807f7, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 88c5496e13fe77c48a2f9ce93d77e87f, type: 2}
+  LocKey: ballista
+  location: 2
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 81f32a25f8afa4641ae36448cdc2b139, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  - sprite: {fileID: 21300000, guid: 18da5ac9a8a017d4fa4c34aff1f25d3e, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 1.198, y: 1.208}
+  - sprite: {fileID: 21300000, guid: adb67957428f5754ea05458d430091a4, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: -0.831, y: -0.186}
+  - sprite: {fileID: 21300000, guid: adb67957428f5754ea05458d430091a4, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: -0.187, y: 0.56}
+  MaxHealth: 3000
+  MaxHealthCruciball: 3750
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 30
+  ResearchPointTotal: 1000
+  PointsOnKill: 50
+  PointsOnLoot: 50
+  ChallengeReward1: 100
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.2
+  CardDropRate: 0.03
+  Type: 2

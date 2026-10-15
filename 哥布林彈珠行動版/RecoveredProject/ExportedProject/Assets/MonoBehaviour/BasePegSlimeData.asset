@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f6c77815f6370a6607f25b477d8e76e, type: 3}
+  m_Name: BasePegSlimeData
+  m_EditorClassIdentifier:
+  enemyColor: {r: 1, g: 0.15686275, b: 0.15686275, a: 0.4}
+  webColor: {r: 1, g: 1, b: 1, a: 0.49019608}
+  yolkColor: {r: 1, g: 0.84705883, b: 0, a: 0.49019608}
+  lightningColor: {r: 0.5, g: 0, b: 1, a: 0.9019608}
+  bounceColor: {r: 1, g: 0.043137256, b: 0.8862745, a: 0.6509804}
+  poisonColor: {r: 0.16862744, g: 1, b: 0.8730445, a: 0.6}
+  healColor: {r: 0, g: 1, b: 0, a: 0.7490196}
+  doubleDamageColor: {r: 1, g: 0.5, b: 0, a: 0.8509804}
+  damageReductionColor: {r: 0.121568635, g: 0.30792004, b: 0.8784314, a: 0.9019608}
+  slowMaterial: {fileID: 6200000, guid: f72412aac337b5e438d46a249f25655d, type: 2}
+  noBounceMaterial: {fileID: 6200000, guid: be36093f236899144b1c54e0109ea7d7, type: 2}
+  yolkMaterial: {fileID: 6200000, guid: 662fe85f19cf20e4fb5ae184d4be5b10, type: 2}
+  bouncyMaterial: {fileID: 6200000, guid: d671431a77bf0c143838661e4414ef35, type: 2}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: SlimeGreen
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 8877e76a5e1ce404083d8f1cf216afe4
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: d856b914868eb7d479aa40a7ddb87004, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: db9f9bb8999637f41999355ef616c6cd, type: 2}
+  LocKey: slime_green
+  location: 1
+  Sprites:
+  - sprite: {fileID: 21300000, guid: ca1eb1ed348fe7448afbc01ef58b8862, type: 2}
+    color: {r: 0.29811314, g: 1, b: 0.122641504, a: 1}
+    position: {x: -8.981138, y: -0.92761326}
+  - sprite: {fileID: 21300000, guid: abeb26b3e1f82884db2797f400415c80, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: -0.61, y: 0.15}
+  - sprite: {fileID: 21300000, guid: c3d5a616ada523e43bcd7d4ab4696546, type: 2}
+    color: {r: 0.5248562, g: 1, b: 0.4811321, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 60
+  MaxHealthCruciball: 70
+  MeleeAttackDamage: 1
+  RangedAttackDamage: 1
+  ResearchPointTotal: 1000
+  PointsOnKill: 1
+  PointsOnLoot: 15
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.025
+  CardDropRate: 0.0025
+  Type: 0

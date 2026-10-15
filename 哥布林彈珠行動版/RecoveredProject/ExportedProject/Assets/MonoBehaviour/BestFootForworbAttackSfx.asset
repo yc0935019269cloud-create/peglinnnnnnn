@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bdc9ba1114ab4b0ae21aed9cfda85b, type: 3}
+  m_Name: BestFootForworbAttackSfx
+  m_EditorClassIdentifier:
+  SlowAttackClip: {fileID: 8300000, guid: 3547920c20f21cf46bd4770e8027e93e, type: 3}
+  FastAttackClip: {fileID: 8300000, guid: 3547920c20f21cf46bd4770e8027e93e, type: 3}
+  OnHitClip: {fileID: 8300000, guid: 70bb272e0d0b2d94f892b3c45d678bfb, type: 3}
+  OnWhiffClip: {fileID: 8300000, guid: 481f937e5c03e4248851ed1821fc0bd1, type: 3}
+  ForceSfxThreshold: {fileID: 0}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: BeleagueredBoots
+  m_EditorClassIdentifier:
+  locKey: retain_ballusion
+  descMod:
+  englishDisplayName: Beleaguered Boots
+  englishDescription: You retain {[LOSE_LESS_BALLUSION_NEW_PERCENT]}% <style=dodge>Ballusion</style> when <style=dodge>Ballusion</style> triggers, and <style=dodge>unused Ballusion</style> is retained between battles.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 4a0143ccf920f9240820b301747262f9, type: 2}
+  useSfx: {fileID: 0}
+  effect: 202
+  globalRarity: 2

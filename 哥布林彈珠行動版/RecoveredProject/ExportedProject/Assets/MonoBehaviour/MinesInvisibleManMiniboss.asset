@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: MinesInvisibleManMiniboss
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: fbc8859d55c48444d94540f54c325b90, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 2
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: 5081a4b22c001f245859876a8d47adfe, type: 2}
+  waveGroups: []
+  starterSpawns:
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 944e468d31b94a94eb901e3a3f26fcd1, type: 2}
+    slot: 0
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 944e468d31b94a94eb901e3a3f26fcd1, type: 2}
+    slot: 1
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 0944ecf7243fd9548b26b7b3c1a66ae1, type: 2}
+    slot: 2
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: ee39794dd45e5004c84577177cacd26e, type: 2}
+    slot: 3
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 944e468d31b94a94eb901e3a3f26fcd1, type: 2}
+    slot: 4
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 0944ecf7243fd9548b26b7b3c1a66ae1, type: 2}
+    slot: 5
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 944e468d31b94a94eb901e3a3f26fcd1, type: 2}
+    slot: 6
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 3ff50e1000e88c2458562fea4ba518a6, type: 2}
+    slot: 7
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: ee39794dd45e5004c84577177cacd26e, type: 2}
+    slot: 8
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: 6a8ba5f9d74ec1e4cb8ad0407b151c7b, type: 2}
+    slot: 8
+  battleDoodads:
+  - {fileID: 1709254077376921, guid: 999cba6cc6c55104eb509018f54ebc94, type: 2}
+  NumberOfSlots: 10
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

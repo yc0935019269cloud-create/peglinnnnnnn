@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: Chandelier
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 48cc94d9e1f5c9f4c905d21d67776d66
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 468c793da8d481046b2d79fc4dc1e1b9, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 9041f115c8e970c44a655a1e9f4e0100, type: 2}
+  LocKey: chandelier
+  location: 2
+  Sprites:
+  - sprite: {fileID: 21300000, guid: a02178a6aceca544986cb84fb85bf115, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 200
+  MaxHealthCruciball: 250
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 2
+  ResearchPointTotal: 1000
+  PointsOnKill: 6
+  PointsOnLoot: 28
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.005
+  Type: 0

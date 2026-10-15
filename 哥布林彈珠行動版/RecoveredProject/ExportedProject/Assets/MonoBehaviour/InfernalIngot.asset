@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: InfernalIngot
+  m_EditorClassIdentifier:
+  locKey: lifesteal_peg_hit
+  descMod:
+  englishDisplayName: Infernal Ingot
+  englishDescription: '<style=heal2>Steal</style> <style=damage>1 health</style> from the targeted enemy for every {[INFERNAL_PEGS]} <sprite name="PEG> <style=activate>Activated</style>.'
+  englishLockedDescription: Can only be found in a scenario.
+  lockedDescriptionPreset: 4
+  sprite: {fileID: 21300000, guid: 3673d01d91f92dd48b011a1ebca02832, type: 2}
+  useSfx: {fileID: 0}
+  effect: 49
+  globalRarity: 0

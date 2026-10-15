@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ecbd5f492001c0e1354087a13432a8, type: 3}
+  m_Name: CastleBackground_Day
+  m_EditorClassIdentifier:
+  Background: {fileID: 1709254077376921, guid: ce5f9d11d917ec4459a4763a2d194e7a, type: 2}
+  lengthOfRooms: 5
+  BouncerPrefab: {fileID: 1709254077376921, guid: c0bbcd63de181bd449d0d8fc04a84450, type: 2}

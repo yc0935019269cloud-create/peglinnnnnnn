@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: JustMirrorEasy
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: 28be4ec745888044a9ce90b440a6c848, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 0
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: 42f572280e73e7c45a29a46e37408a8a, type: 2}
+  waveGroups: []
+  starterSpawns:
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: 2b58b4adfff96934dbe7279c9584a2b0, type: 2}
+    slot: 2
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: 2b58b4adfff96934dbe7279c9584a2b0, type: 2}
+    slot: 4
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: 2b58b4adfff96934dbe7279c9584a2b0, type: 2}
+    slot: 6
+  battleDoodads: []
+  NumberOfSlots: 7
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

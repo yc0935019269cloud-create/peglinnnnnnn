@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: LeshyBossData
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 1709254077376921, guid: e5123f64124c61942be6ebd250897e11, type: 2}
+  pegboardFrameOverride: {fileID: 1709254077376921, guid: 845a91fbf95e5454a97e80bc312d075d, type: 2}
+  _musicOverride: {fileID: 8300000, guid: af745df21f0497f409d2cdef626a37bf, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 3
+  availableGoldModifier: 0
+  grantChallenge: 1
+  mapIconOverride: {fileID: 21300000, guid: cf1da2f90fe70b642b601aaa534b914c, type: 2}
+  pegLayout: {fileID: 11400000, guid: ea8dd84e6bb3f614ca1bceafc5900fa9, type: 2}
+  waveGroups:
+  - waveType: 0
+    waveData:
+    - turnNumber: 5
+      spawnData: {fileID: 11400000, guid: e7d3c0a44a2c07f4b929d2b682521a9d, type: 2}
+    - turnNumber: 10
+      spawnData: {fileID: 11400000, guid: e7d3c0a44a2c07f4b929d2b682521a9d, type: 2}
+    - turnNumber: 15
+      spawnData: {fileID: 11400000, guid: e7d3c0a44a2c07f4b929d2b682521a9d, type: 2}
+    - turnNumber: 20
+      spawnData: {fileID: 11400000, guid: e7d3c0a44a2c07f4b929d2b682521a9d, type: 2}
+    - turnNumber: 25
+      spawnData: {fileID: 11400000, guid: e7d3c0a44a2c07f4b929d2b682521a9d, type: 2}
+    - turnNumber: 30
+      spawnData: {fileID: 11400000, guid: e7d3c0a44a2c07f4b929d2b682521a9d, type: 2}
+    spawnPoint: {fileID: 0}
+  starterSpawns:
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: edbacff943cc15b4d938ede049de56ff, type: 2}
+    slot: 7
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: e637e68a6ee855240aed37d882e9cac7, type: 2}
+    slot: 6
+  battleDoodads: []
+  NumberOfSlots: 8
+  bossType: 3
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

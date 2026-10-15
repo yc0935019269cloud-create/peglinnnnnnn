@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bdc9ba1114ab4b0ae21aed9cfda85b, type: 3}
+  m_Name: SworbSfx
+  m_EditorClassIdentifier:
+  SlowAttackClip: {fileID: 8300000, guid: 4ee348af5712e3f49a68060f209807dd, type: 3}
+  FastAttackClip: {fileID: 8300000, guid: 0dddc46ae2f49cc4fb88d6a8c7901385, type: 3}
+  OnHitClip: {fileID: 8300000, guid: 12a0d53c6de3b47499884d7bb8c779e7, type: 3}
+  OnWhiffClip: {fileID: 8300000, guid: c0f739ebe46d85041b42f56d8514d89e, type: 3}
+  ForceSfxThreshold: {fileID: 11400000, guid: 5f5c43dff0be5434490755de8de4763a, type: 2}

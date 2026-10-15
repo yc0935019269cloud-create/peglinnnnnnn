@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: castle_mirror
+  m_Controller: {fileID: 9100000, guid: 785bed8cae820a547a9e9e857a2ef938, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b2850ac4831e57b4c8ea397b12dbdc7c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6f16a46d1984ee3449070b99c6ef1fd7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f61592d8c50902a41bcedf88424dc649, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5d9dfbecc56df444d9d1bc8f80fea47e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41a2f11d85f12574abe4fde2913caf4f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5ea20f03570e8b246b0ecd20a86f5415, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c9bca8aeb7d6fb3419034d47c75a7ef7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 91649cba92699bd4b8c5e4683a951b5c, type: 2}

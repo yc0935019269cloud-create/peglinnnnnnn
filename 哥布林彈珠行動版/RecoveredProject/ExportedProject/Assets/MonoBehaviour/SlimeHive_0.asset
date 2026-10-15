@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: SlimeHive
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 9356f3e42844f8b47b867cece6dd0ab2
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: dfec87a193c9519418a98801e32016ea, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 7003be6b092b5244d8a61096acd40343, type: 2}
+  LocKey: slime_hive
+  location: 1
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 7e5e9318fb3a76546a572f71d1c55162, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 735
+  MaxHealthCruciball: 1015
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 25
+  PointsOnLoot: 50
+  ChallengeReward1: 0
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.15
+  CardDropRate: 0.02
+  Type: 1

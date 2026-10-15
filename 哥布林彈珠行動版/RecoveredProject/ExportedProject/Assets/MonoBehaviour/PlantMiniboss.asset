@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: PlantMiniboss
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 0}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 2
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: ae1191f517ef2aa44816ec898cdceb5e, type: 2}
+  waveGroups: []
+  starterSpawns:
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: f6fcf11e718685b4bbe6fb2770359352, type: 2}
+    slot: 1
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: c5e62543abfd51447bb8801901f95887, type: 2}
+    slot: 3
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: a105f536997ef104cb283a8d41f76d33, type: 2}
+    slot: 5
+  battleDoodads: []
+  NumberOfSlots: 7
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

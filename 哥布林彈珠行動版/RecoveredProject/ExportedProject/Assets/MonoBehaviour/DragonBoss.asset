@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: DragonBoss
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: be1e31c0e65b3fc45bb0f8d72baa61e3
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 7ff7086ed032ef541ab80c202950fe36, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 74539d07c23b8d24b8f5c638722e828f, type: 2}
+  LocKey: dragon_boss
+  location: 4
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 4a747da44c4839a46ac4dee7b42a551d, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 12000
+  MaxHealthCruciball: 18000
+  MeleeAttackDamage: 20
+  RangedAttackDamage: 3
+  ResearchPointTotal: 1000
+  PointsOnKill: 50
+  PointsOnLoot: 50
+  ChallengeReward1: 100
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.2
+  CardDropRate: 0.03
+  Type: 2

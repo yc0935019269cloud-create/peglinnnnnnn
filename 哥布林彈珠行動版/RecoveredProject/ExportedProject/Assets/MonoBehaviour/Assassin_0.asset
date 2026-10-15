@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: Assassin
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: a654d60e094d7254b910ea630ecece35
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: fc0b40b8791c9974798e0fdb058e00cf, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 27eb12339dc0b494b9a585efc79de2c5, type: 2}
+  LocKey: assassin
+  location: 2
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 110754abad6b9ad4aa05b5affa54aad7, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  - sprite: {fileID: 21300000, guid: f6724b810fe33bf498e6b5a88ec69ce5, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: -0.16, y: 0.065}
+  MaxHealth: 120
+  MaxHealthCruciball: 150
+  MeleeAttackDamage: 10
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 6
+  PointsOnLoot: 28
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.005
+  Type: 0

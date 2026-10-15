@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: slobolisk_blackhole
+  m_Controller: {fileID: 9100000, guid: 8d38f68926b00124f885ba78de1564f9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 308675fc988b8ea428881d93328d5511, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef822b0da01437941a10c4a3b11f3cbc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9530863aa8ea8c34a943889b85a61d5d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3cfe001bf7b4fb24b9c3392251699a37, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c1d97053ca5ed1c43b72f07bceeffe4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9ec673dee9e287342b0733fefb32794b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6c4882648dadbb74cb733ecba28b1089, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: db90d412259a72242b2735f5eea1a913, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 475bf07e8b54e11458f16290b0373d40, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9e1f1f6a282400a49964ffb84afe90f4, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822a4c526df80805591262469cebc94b, type: 3}
+  m_Name: Stones
+  m_EditorClassIdentifier:
+  AvailableOrbs:
+  - {fileID: 1709254077376921, guid: bc23eaf860f1837478e51c0af2461ad2, type: 2}
+  - {fileID: 1709254077376921, guid: cdb3d1d42c286c941a403fee8d8926be, type: 2}
+  - {fileID: 1709254077376921, guid: 9f418b41016e1a647bbf054c7d598086, type: 2}

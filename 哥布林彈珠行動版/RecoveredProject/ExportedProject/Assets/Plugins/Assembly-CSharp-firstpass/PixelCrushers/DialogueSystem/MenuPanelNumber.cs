@@ -1,0 +1,40 @@
+namespace PixelCrushers.DialogueSystem
+{
+	public enum MenuPanelNumber
+	{
+		Default = 0,
+		Custom = 1,
+		Panel0 = 2,
+		Panel1 = 3,
+		Panel2 = 4,
+		Panel3 = 5,
+		Panel4 = 6,
+		Panel5 = 7,
+		Panel6 = 8,
+		Panel7 = 9,
+		Panel8 = 10,
+		Panel9 = 11,
+		Panel10 = 12,
+		Panel11 = 13,
+		Panel12 = 14,
+		Panel13 = 15,
+		Panel14 = 16,
+		Panel15 = 17,
+		Panel16 = 18,
+		Panel17 = 19,
+		Panel18 = 20,
+		Panel19 = 21,
+		Panel20 = 22,
+		Panel21 = 23,
+		Panel22 = 24,
+		Panel23 = 25,
+		Panel24 = 26,
+		Panel25 = 27,
+		Panel26 = 28,
+		Panel27 = 29,
+		Panel28 = 30,
+		Panel29 = 31,
+		Panel30 = 32,
+		Panel31 = 33
+	}
+}

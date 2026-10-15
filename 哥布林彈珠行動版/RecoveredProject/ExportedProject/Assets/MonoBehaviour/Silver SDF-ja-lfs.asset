@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -667331979, guid: 67dfb1fdfb2b407222eda8e23ac8b724, type: 3}
+  m_Name: Silver SDF-ja-lfs
+  m_EditorClassIdentifier:
+  hashCode: 1684754900
+  material: {fileID: 2100000, guid: 5cd5d07241333c141b70f4db1ad15eaf, type: 2}
+  materialHashCode: -240210828
+  m_Version: 1.1.0
+  m_SourceFontFileGUID: ec861743e7b1eca46ba5e3ce16dde688
+  m_SourceFontFile: {fileID: 0}
+  m_AtlasPopulationMode: 1
+  m_FaceInfo:
+    m_FaceIndex: 0
+    m_FamilyName: Silver
+    m_StyleName: Medium
+    m_PointSize: 114
+    m_Scale: 1
+    m_UnitsPerEM: 0
+    m_LineHeight: 126.00001
+    m_AscentLine: 72
+    m_CapLine: 54
+    m_MeanLine: 36
+    m_Baseline: 0
+    m_DescentLine: -54.000004
+    m_SuperscriptOffset: 72
+    m_SuperscriptSize: 0.5
+    m_SubscriptOffset: -54.000004
+    m_SubscriptSize: 0.5
+    m_UnderlineOffset: -9
+    m_UnderlineThickness: 6
+    m_StrikethroughOffset: 14.4
+    m_StrikethroughThickness: 6
+    m_TabWidth: 30
+  m_GlyphTable: []
+  m_CharacterTable: []
+  m_AtlasTextures:
+  - {fileID: 2800000, guid: 93986b8bf13b8f146a2d88679b02cf0d, type: 3}
+  m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 1
+  m_ClearDynamicDataOnBuild: 0
+  m_UsedGlyphRects: []
+  m_FreeGlyphRects:
+  - m_X: 0
+    m_Y: 0
+    m_Width: 2048
+    m_Height: 2048
+  m_fontInfo:
+    Name:
+    PointSize: 0
+    Scale: 0
+    CharacterCount: 0
+    LineHeight: 0
+    Baseline: 0
+    Ascender: 0
+    CapHeight: 0
+    Descender: 0
+    CenterLine: 0
+    SuperscriptOffset: 0
+    SubscriptOffset: 0
+    SubSize: 0
+    Underline: 0
+    UnderlineThickness: 0
+    strikethrough: 0
+    strikethroughThickness: 0
+    TabWidth: 0
+    Padding: 0
+    AtlasWidth: 0
+    AtlasHeight: 0
+  atlas: {fileID: 0}
+  m_AtlasWidth: 2048
+  m_AtlasHeight: 2048
+  m_AtlasPadding: 9
+  m_AtlasRenderMode: 4122
+  m_glyphInfoList: []
+  m_KerningTable:
+    kerningPairs: []
+  m_FontFeatureTable:
+    m_GlyphPairAdjustmentRecords: []
+  fallbackFontAssets: []
+  m_FallbackFontAssetTable:
+  - {fileID: 11400000, guid: 44c151bc7217342498ca5a75b9b2ed60, type: 2}
+  m_CreationSettings:
+    sourceFontFileName:
+    sourceFontFileGUID: ec861743e7b1eca46ba5e3ce16dde688
+    pointSizeSamplingMode: 0
+    pointSize: 114
+    padding: 9
+    packingMode: 0
+    atlasWidth: 2048
+    atlasHeight: 2048
+    characterSetSelectionMode: 7
+    characterSequence: "\n #&()+,-./0123568:<=>?ABCDEFGHIJKLMNOPRSTUVWXYZ[]_abcdefghijklmnoprstuvwxyz{}…→、。々「」『』あいうえおかがきぎくぐけげこごさざしじすずせそぞただちっつづてでとどなにねのはばひびふぶへべほぼぽまみむめもやゆょよらりるれろわをんァアィイウェエォオカガキギクグゲコゴサシジスズゼタダチッツテデトドナニヌネノバパヒビピフブプヘベペボポマミムメモャュユョラリルレロワン・ー一上下不与両中乗了予事互交人今介他付代以休伴伸低体何余作使供保信倒値側偽先光入全内再冒冷処出分切初別制則前劇力功加助効勇動化北厄及収取受叫可合同向君周呪味命商問器回囲国地城報場塩増壁壇声売変外大太央失奇奥奪好妙始媒字存安完定宝家寄対封射少岩巡左差巻師常幸幹底度延引弱強弾当影役彼征待後得復徴心必忍応念怒思急情想意感態慎懐懲成戦戻所手抜択拾持捕掴揮援揺撃支改攻放敗敢数敵新方旅既日早昇時晴暗更最有服期木本来果根格棄森極横止歩殊残段毎気沈法注流浴消深減温滞火炎無焦然照熱燃爆片版物特状狙率玉珠理甘生用由画界発登的盛目直相着瞬短石破硬確磁示祭私秒積穴空突立端算箱簡素終組続置羽翻耳背能自興良茂荒落蓄術表裏複要見視覚触言計訳詰認語謎識象負財貫貴賞賢走越足距跳踏身転軽辺込辿近迫追逃通速造進遊運過遠遭選邪部重量金釘錬録長開間闇闘降険陽際隠集離難雨雷電震非面響頭題顔飛食駆驚高魔鳴！（）：？"
+    referencedFontAssetGUID: eab749082cb182746842275c89a1d231
+    referencedTextAssetGUID:
+    fontStyle: 0
+    fontStyleModifier: 0
+    renderMode: 4122
+    includeFontFeatures: 0
+  m_FontWeightTable:
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  - regularTypeface: {fileID: 0}
+    italicTypeface: {fileID: 0}
+  fontWeights: []
+  normalStyle: 0
+  normalSpacingOffset: 0
+  boldStyle: 0.75
+  boldSpacing: 7
+  italicStyle: 35
+  tabSize: 10

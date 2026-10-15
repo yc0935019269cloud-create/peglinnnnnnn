@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf667927afc3066a4b0b1073e8fe005, type: 3}
+  m_Name: StatusEffects
+  m_EditorClassIdentifier:
+  StunnedStatusIcon: {fileID: 21300000, guid: 07035f568637d68419ed91c324da8c9d, type: 2}
+  StunnedLocKey: stunned
+  ReflectStatusIcon: {fileID: 21300000, guid: 409393d9364d981419822d97adf199b7, type: 2}
+  ReflectLocKey: reflect
+  PoisonIcon: {fileID: 21300000, guid: cac43cc50d4e73646af4adbbbf983317, type: 2}
+  PoisonLocKey: poison
+  PlayerPoisonLocKey: player_poison
+  ExploitaballIcon: {fileID: 21300000, guid: be69ac1659915de469fed0488b29278b, type: 2}
+  ExploitaballLocKey: exploitaball
+  TranspherencyIcon: {fileID: 21300000, guid: d55ab37c1c115f74e8ddb8a4e9ece082, type: 2}
+  TranspherencyLocKey: transpherency2
+  ConfusionStatusIcon: {fileID: 21300000, guid: 58b7f827635246c409319dd6d5f1282f, type: 2}
+  ConfusionLocKey: confuse
+  BalanceIcon: {fileID: 21300000, guid: 8aa0681dcc669704ba4067b141ec74d7, type: 2}
+  BalanceLocKey: balance
+  FinesseIcon: {fileID: 21300000, guid: ae766d7d5b864c94092942496b178640, type: 2}
+  FinesseLocKey: finesse
+  DexterityIcon: {fileID: 21300000, guid: 0299c9f0e6ebad24aa658e10f7dc7e46, type: 2}
+  DexterityLocKey: dexterity
+  BallwarkIcon: {fileID: 21300000, guid: 7afe9d2054ce4774eb025256e7bc2361, type: 2}
+  BallwarkLocKey: shield
+  StrengthIcon: {fileID: 21300000, guid: 18978258c858b1c4a93cfc7de6a24a90, type: 2}
+  StrengthLocKey: strength
+  BallusionIcon: {fileID: 21300000, guid: b57f011fc9d356541a306e9517eecb69, type: 2}
+  BallusionLocKey: dodge
+  IntangiballIcon: {fileID: 21300000, guid: 628f599e9be88ba4da2e63271f653fea, type: 2}
+  IntangiballLocKey: dmg_limit
+  ThornedStatusIcon: {fileID: 21300000, guid: c1539f81a6218b74b98837cb299f3c26, type: 2}
+  ThornedLocKey: bramble
+  PlayerThornedLocKey: player_bramble
+  BlindStatusIcon: {fileID: 21300000, guid: 4cc08504f4dabe84c8fe5e9c98c3b9cf, type: 2}
+  BlindLocKey: blind3
+  PlayerBlindLocKey: player_blind
+  LifelinkIcon: {fileID: 21300000, guid: 13514d02150212844b2988fa47ca547c, type: 2}
+  LifelinkLocKey: lifelink
+  PlayerLifelinkLocKey: player_lifelink
+  BalltiplierIcon: {fileID: 21300000, guid: 27fd92c3c0de612478c9cfb576add390, type: 2}
+  BalltiplierLocKey: balltiplier

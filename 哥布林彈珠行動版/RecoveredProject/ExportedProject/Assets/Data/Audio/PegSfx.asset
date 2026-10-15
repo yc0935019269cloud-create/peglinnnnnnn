@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ba0bf27480e7b1bb8535f7f3880ff76, type: 3}
+  m_Name: PegSfx
+  m_EditorClassIdentifier:
+  RegularPegSfx: {fileID: 8300000, guid: 33c4f4ee297035a43afbc3eaa6130c5a, type: 3}
+  CritPegSfx: {fileID: 8300000, guid: bd2cf08776a27d1449e7dfbfef38b7e0, type: 3}
+  ResetPegSfx: {fileID: 8300000, guid: 33b4bb9d37c57d34195f92c3b3adf642, type: 3}
+  BouncerSfx: {fileID: 8300000, guid: 9f887985ea3d95a4bba7d4a418fe2aac, type: 3}
+  BallDestructionSfx: {fileID: 8300000, guid: a18bdc8b8abe4c344a0290cc2d9a9803, type: 3}
+  BombBeforeExplosionSfx: {fileID: 8300000, guid: 001551e5456098d4c9bfbce6f202a789, type: 3}
+  BombExplosionSfx: {fileID: 8300000, guid: ba31f5a9a09abc540844a651e56d7139, type: 3}
+  BonusCoinAddedClips:
+  - {fileID: 8300000, guid: 055cb87cb8350224388eb53cccb770ab, type: 3}
+  - {fileID: 8300000, guid: c7e7ac8b6e65a824cb3e7fd67283b225, type: 3}
+  - {fileID: 8300000, guid: b07a863e8e9651d4db7cc7e00e5d648e, type: 3}
+  SpinfectionPegSfx: {fileID: 8300000, guid: 7d4c45a12f8be3a43b9ef259986bb0da, type: 3}
+  CoinCollectedClips:
+  - {fileID: 8300000, guid: e175fab52313b464b9f2a36f9f3e81b8, type: 3}
+  - {fileID: 8300000, guid: 2c24eb2146be92e4599b3857de8a3648, type: 3}
+  - {fileID: 8300000, guid: 951fa381ba97d7f4f8d7a7d969e98c60, type: 3}
+  - {fileID: 8300000, guid: 49fdb0d0ac6afe548b8c6b5bfe30319d, type: 3}
+  - {fileID: 8300000, guid: fac1bf09efe415d46bfc3528fbeed1d6, type: 3}
+  CoinStolenClip: {fileID: 8300000, guid: 815ff8eab428d364e819707ec4cf9670, type: 3}
+  CrystalPegBreakingClips:
+  - {fileID: 8300000, guid: 142d4a7311ab72e4a9b686f2f874c7ae, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bdc9ba1114ab4b0ae21aed9cfda85b, type: 3}
+  m_Name: ExacorbateAttackSfx
+  m_EditorClassIdentifier:
+  SlowAttackClip: {fileID: 8300000, guid: ef918c34060aab048a77f45edc3a9bed, type: 3}
+  FastAttackClip: {fileID: 8300000, guid: ef918c34060aab048a77f45edc3a9bed, type: 3}
+  OnHitClip: {fileID: 8300000, guid: 5bca0a228ae2c05438b30a6adef66325, type: 3}
+  OnWhiffClip: {fileID: 8300000, guid: 134040cff1816f144a8844cd7f4d2187, type: 3}
+  ForceSfxThreshold: {fileID: 0}

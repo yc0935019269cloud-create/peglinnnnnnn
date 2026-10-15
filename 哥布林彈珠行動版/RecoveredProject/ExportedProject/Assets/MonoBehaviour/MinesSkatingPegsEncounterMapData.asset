@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: MinesSkatingPegsEncounterMapData
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: fbc8859d55c48444d94540f54c325b90, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 0
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: d0c9a1f914be8fe40a430e8af0f10ae7, type: 2}
+  waveGroups:
+  - waveType: 0
+    waveData:
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: 53212bbdfb15ae84588734234b432f70, type: 2}
+    spawnPoint: {fileID: 0}
+  starterSpawns:
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 53212bbdfb15ae84588734234b432f70, type: 2}
+    slot: 5
+  - spawnerType: 2
+    spawnData: {fileID: 11400000, guid: 59fe852f57bf0084fa515398ce93094c, type: 2}
+    slot: 4
+  - spawnerType: 2
+    spawnData: {fileID: 11400000, guid: 59fe852f57bf0084fa515398ce93094c, type: 2}
+    slot: 6
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: 6a8ba5f9d74ec1e4cb8ad0407b151c7b, type: 2}
+    slot: 3
+  battleDoodads: []
+  NumberOfSlots: 7
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f75d443f6867c1ca0b94ced0aabb2871, type: 3}
+  m_Name: BrickBossHealerSFX
+  m_EditorClassIdentifier:
+  DamagedClip:
+  - {fileID: 8300000, guid: 4d7d54ca1758e6645a7421afff554ab1, type: 3}
+  DeadClips:
+  - {fileID: 8300000, guid: f89a2d86e0fa00f479b60b65368aad56, type: 3}
+  MeleeAttackClip: {fileID: 8300000, guid: 362cb99c68ce599498a88509197c9ede, type: 3}
+  RangedAttackClip: {fileID: 8300000, guid: 774c5671faa0af64283fd6ab9e9ce96a, type: 3}
+  SpecialClips:
+  - {fileID: 8300000, guid: fc0116f463914b441a58b00806756b8d, type: 3}

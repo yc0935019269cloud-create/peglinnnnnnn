@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b200558d0185676197734c858e45cca4, type: 3}
+  m_Name: DebugChallenges
+  m_EditorClassIdentifier:
+  _forestChallenge: {fileID: 0}
+  _castleChallenge: {fileID: 0}
+  _minesChallenge: {fileID: 0}
+  _coreChallenge: {fileID: 0}

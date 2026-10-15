@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78794b6a474a0a0741531141650d5634, type: 3}
+  m_Name: DeckManager
+  m_EditorClassIdentifier:
+  _relicManager: {fileID: 11400000, guid: e9e588048bfc719449ae717b3a664c65, type: 2}
+  _secretSeedManager: {fileID: 11400000, guid: ea27df537becdfd42842c5fce3e72da8, type: 2}
+  completeDeckOrbContainerPrefab: {fileID: 114724804207875695, guid: 241d9952d014d4b48b7618a99b619aa9, type: 2}
+  battleDeckOrbContainerPrefab: {fileID: 114724804207875695, guid: e56b0cada68c8dd4e8cc8468fefe0143, type: 2}
+  OrbPool: {fileID: 11400000, guid: c70278946fa4bb44e8312a9ec2621df4, type: 2}
+  assemballPrefab: {fileID: 1709254077376921, guid: 70f3127935dbf894b878a5dd122209fa, type: 2}
+  assemballParts:
+  - {fileID: 1709254077376921, guid: ccde2afb967a1654f872c28e281838f3, type: 2}
+  - {fileID: 1709254077376921, guid: 89e3fa64652dd7943b6abd1ffbe1cb40, type: 2}
+  - {fileID: 1709254077376921, guid: f24f3d80435120440acb666510f1a528, type: 2}
+  - {fileID: 1709254077376921, guid: 82427f75e3245d54c933f0aec431c64c, type: 2}
+  - {fileID: 1709254077376921, guid: b3663e37834ba09469121de4d506b846, type: 2}
+  _debugDeck: {fileID: 11400000, guid: 1c2b46c15466b1140986fee7841608cb, type: 2}
+  battleDeck: []
+  deckOrderRandomState:
+    initializationSeed: -1678444147
+    timesUsed: 6

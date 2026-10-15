@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: MinesMirrorEnemy
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: bdd05f8a0ef9067488ff016f7fbbc68c
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 97a5ecb290097bf468c73fdaf5d7c926, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 9563d0e9e12aa68458750af6dcd197ec, type: 2}
+  LocKey: mines_mirror_enemy
+  location: 4
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 0fa0db1f9dcb3774693298096b0e9faa, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 999
+  MaxHealthCruciball: 1331
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 7
+  PointsOnLoot: 30
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.005
+  Type: 0

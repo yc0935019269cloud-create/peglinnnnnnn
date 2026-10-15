@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: BigPlant
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 3b5d108d8c20cf844a7bdfd0266c0801
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 3d6ed1878c6c2b54999c6c127fa15a2c, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: b68bf2cca4d52184d92430f9e95579fc, type: 2}
+  LocKey: big_plant
+  location: 1
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 0ec70aae7fe1ff44287af75908b21386, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 250
+  MaxHealthCruciball: 300
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 5
+  ResearchPointTotal: 1000
+  PointsOnKill: 10
+  PointsOnLoot: 50
+  ChallengeReward1: 0
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.01
+  Type: 1

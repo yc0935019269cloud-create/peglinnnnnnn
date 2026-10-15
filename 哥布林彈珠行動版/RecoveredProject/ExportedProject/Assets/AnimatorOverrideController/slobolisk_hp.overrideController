@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: slobolisk_hp
+  m_Controller: {fileID: 9100000, guid: 8d38f68926b00124f885ba78de1564f9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 308675fc988b8ea428881d93328d5511, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4e2b40a17a7f53f43b20d2c6efd88298, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9530863aa8ea8c34a943889b85a61d5d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 487ec060005735f4b8792234f37b9b1b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c1d97053ca5ed1c43b72f07bceeffe4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f661f767feb438b45a0693b8be15614e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6c4882648dadbb74cb733ecba28b1089, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 833f9602542b1dd49ba8b382c5e69226, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 475bf07e8b54e11458f16290b0373d40, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 59bcdc7505e8dce40a1e0dfb81eaf421, type: 2}
