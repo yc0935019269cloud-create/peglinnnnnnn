@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec771d936d4afffabd47af42059f90a, type: 3}
+  m_Name: GlobalChallenges
+  m_EditorClassIdentifier:
+  _challenges:
+  - {fileID: 11400000, guid: 2e32220011d59814b86b5bff903c8299, type: 2}
+  - {fileID: 11400000, guid: cdf1186315cbbfc41880c89d56c292d7, type: 2}
+  - {fileID: 11400000, guid: fcd23580c20d91c4c984d785ff3cb8c2, type: 2}
+  - {fileID: 11400000, guid: 1be9adb4131236f44a5540c4e748be83, type: 2}
+  - {fileID: 11400000, guid: 5b6b41fd260eeec4f97a8aedd7f54742, type: 2}
+  - {fileID: 11400000, guid: 4284f4beac1b4234d9a16e95fd13d987, type: 2}
+  - {fileID: 11400000, guid: e0b08f72aa1f29f43b168374041a38e2, type: 2}
+  - {fileID: 11400000, guid: dd78ffbaeb1a42a4dba9739f0b17cdd0, type: 2}
+  - {fileID: 11400000, guid: 6ab7c08ce8d5faf42a96ce17d199527b, type: 2}
+  - {fileID: 11400000, guid: 5f353c0e6c8a1ad419cc8e151fcdb50b, type: 2}
+  - {fileID: 11400000, guid: f4fbf54ca18bb8e44a3035d60f4e5fe7, type: 2}
+  - {fileID: 11400000, guid: ba3a75e89e095f04490e073aeb87f8e1, type: 2}
+  - {fileID: 11400000, guid: 1fa7df6154e523c4ea995291bb74a390, type: 2}
+  - {fileID: 11400000, guid: a96624274bbcc7e4c8f24345a665a3cb, type: 2}

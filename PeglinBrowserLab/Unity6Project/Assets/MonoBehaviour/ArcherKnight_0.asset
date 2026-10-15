@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: ArcherKnight
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 4adaf12dac8e51b4cadf2cdd2758623d
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 73d0affed7506db41908a2690944a7ed, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 36c4cabe82eecbe4796d79c16b88628c, type: 2}
+  LocKey: archer_knight
+  location: 2
+  Sprites:
+  - sprite: {fileID: 21300000, guid: bb9f3fe6b56af744e9bc08819b8d84ee, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 200
+  MaxHealthCruciball: 250
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 6
+  ResearchPointTotal: 1000
+  PointsOnKill: 3
+  PointsOnLoot: 18
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.025
+  CardDropRate: 0.0025
+  Type: 0

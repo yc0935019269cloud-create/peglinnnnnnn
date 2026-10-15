@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ff259284c6d93a435cbf11f007dd61, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier:
+  enemyAssetReference:
+    m_AssetGUID: d66ff460fdd811843a90418bdbcdf4ff
+    m_SubObjectName:
+    m_SubObjectType:
+  randomizedAssets:
+  - m_AssetGUID: 29bb879d84e1f6f4a943b2209d0418bd
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: b6ab182b1c60e8e48aa27aad60592629
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: c88eb5882208ce24db2ad03f28a65680
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 3a1154339373a8f4db4a48145b8dfa32
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: d66ff460fdd811843a90418bdbcdf4ff
+    m_SubObjectName:
+    m_SubObjectType:
+  spawnSlot: -1
+  SpawnPointInitialAnimationTrigger: spawn
+  SpawnPointFinalAnimationTrigger: endSpawn

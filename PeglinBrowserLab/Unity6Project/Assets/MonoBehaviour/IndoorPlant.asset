@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: IndoorPlant
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 3f96fcde8cc61904faec00a0e3d44d9c
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 42aae28b59461f444bf6b2a654ac269a, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 47f78e205fa0abc4da8697c15d5648ba, type: 2}
+  LocKey: indoor_plant
+  location: 2
+  Sprites:
+  - sprite: {fileID: 21300000, guid: ed775eb9388525a4b80e293eb3b3d91b, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0.1}
+  MaxHealth: 300
+  MaxHealthCruciball: 375
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 6
+  ResearchPointTotal: 1000
+  PointsOnKill: 25
+  PointsOnLoot: 50
+  ChallengeReward1: 0
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.15
+  CardDropRate: 0.02
+  Type: 0

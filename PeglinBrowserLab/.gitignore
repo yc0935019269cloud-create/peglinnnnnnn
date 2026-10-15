@@ -1,0 +1,14 @@
+# Unity working copy caches and per-user state
+Unity6Project/Library/
+Unity6Project/Logs/
+Unity6Project/Temp/
+Unity6Project/UserSettings/
+# Raw logs; scratch linker experiments and the empty baseline project
+Reports/*.log
+LinkerLab/
+BaselineWebGL/
+# Development builds (wasm 135 MB > GitHub's 100 MB limit); WebRelease is tracked
+Builds/PlatformSmoke/
+Builds/WebTest/
+# Backup of the Steam Windows Addressables (one bundle is 105.7 MB > 100 MB limit; originals are in the Steam install)
+RecoveredLibraries/Originals/StreamingAssets_windows/aa/StandaloneWindows64/

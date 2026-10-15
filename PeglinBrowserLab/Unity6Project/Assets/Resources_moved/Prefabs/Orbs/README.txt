@@ -1,0 +1,1 @@
+Do not rename these Prefabs without a good reason!! We have to invalidate old save files to avoid crashes on load.

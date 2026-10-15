@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: PerfectForger
+  m_EditorClassIdentifier:
+  locKey: upgrade_added_orbs
+  descMod:
+  englishDisplayName: Perfect Forger
+  englishDescription: Whenever an upgradeable orb is added to your deck, upgrade it and <style=damage>take {[FORGE_DMG]} damage</style>.
+  englishLockedDescription: Can only be found in a scenario.
+  lockedDescriptionPreset: 4
+  sprite: {fileID: 21300000, guid: e0baef68bafb04f46870420dd7cbf398, type: 2}
+  useSfx: {fileID: 8300000, guid: cb4f2ee32332f954dabb3aea60ade107, type: 3}
+  effect: 113
+  globalRarity: 0

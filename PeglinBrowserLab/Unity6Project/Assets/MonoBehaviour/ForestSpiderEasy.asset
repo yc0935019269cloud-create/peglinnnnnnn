@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: ForestSpiderEasy
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 0}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 0
+  availableGoldModifier: 20
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: de2916bb53602964c9688e669d943ab1, type: 2}
+  waveGroups:
+  - waveType: 0
+    waveData:
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: d25e042694e85fe4da4c5397ddfcefde, type: 2}
+    - turnNumber: 1
+      spawnData: {fileID: 11400000, guid: d25e042694e85fe4da4c5397ddfcefde, type: 2}
+    - turnNumber: 3
+      spawnData: {fileID: 11400000, guid: d25e042694e85fe4da4c5397ddfcefde, type: 2}
+    spawnPoint: {fileID: 0}
+  - waveType: 2
+    waveData:
+    - turnNumber: 2
+      spawnData: {fileID: 11400000, guid: 248d76a6eef0ef143a074413a0d67c27, type: 2}
+    spawnPoint: {fileID: 0}
+  starterSpawns:
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: 8b98e27715e548841b0d8e1b31ee784c, type: 2}
+    slot: 3
+  - spawnerType: 2
+    spawnData: {fileID: 11400000, guid: 248d76a6eef0ef143a074413a0d67c27, type: 2}
+    slot: 4
+  - spawnerType: 2
+    spawnData: {fileID: 11400000, guid: 8b98e27715e548841b0d8e1b31ee784c, type: 2}
+    slot: 5
+  - spawnerType: 2
+    spawnData: {fileID: 11400000, guid: 248d76a6eef0ef143a074413a0d67c27, type: 2}
+    slot: 6
+  battleDoodads: []
+  NumberOfSlots: 7
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: 1
+    maxDifficulty: 1

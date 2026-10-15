@@ -1,0 +1,41 @@
+namespace PixelCrushers.DialogueSystem
+{
+	public enum SubtitlePanelNumber
+	{
+		Default = 0,
+		UseBarkUI = 1,
+		Custom = 2,
+		Panel0 = 3,
+		Panel1 = 4,
+		Panel2 = 5,
+		Panel3 = 6,
+		Panel4 = 7,
+		Panel5 = 8,
+		Panel6 = 9,
+		Panel7 = 10,
+		Panel8 = 11,
+		Panel9 = 12,
+		Panel10 = 13,
+		Panel11 = 14,
+		Panel12 = 15,
+		Panel13 = 16,
+		Panel14 = 17,
+		Panel15 = 18,
+		Panel16 = 19,
+		Panel17 = 20,
+		Panel18 = 21,
+		Panel19 = 22,
+		Panel20 = 23,
+		Panel21 = 24,
+		Panel22 = 25,
+		Panel23 = 26,
+		Panel24 = 27,
+		Panel25 = 28,
+		Panel26 = 29,
+		Panel27 = 30,
+		Panel28 = 31,
+		Panel29 = 32,
+		Panel30 = 33,
+		Panel31 = 34
+	}
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0243f51bbc2aa746d4bc147c964cd4, type: 3}
+  m_Name: BalladinClassLoadout
+  m_EditorClassIdentifier:
+  Class: 1
+  StartingOrbs:
+  - {fileID: 1709254077376921, guid: a1597e216d7919c42a8846b50b34580a, type: 2}
+  - {fileID: 1709254077376921, guid: a1597e216d7919c42a8846b50b34580a, type: 2}
+  - {fileID: 1709254077376921, guid: a1597e216d7919c42a8846b50b34580a, type: 2}
+  - {fileID: 1709254077376921, guid: 53c53cb5d6c6a65408ed7d08e5287ece, type: 2}
+  StartingRelics:
+  - {fileID: 11400000, guid: 1939079ec91da5a4c98536bddcf978b3, type: 2}
+  CommonRelicOverrides: {fileID: 0}
+  RareRelicOverrides: {fileID: 0}
+  BossRelicOverrides: {fileID: 0}
+  RareScenarioRelicOverrides: {fileID: 0}
+  UnavailableRelicOverrides: {fileID: 11400000, guid: 88396089d4ec4a246bdffe153e592326, type: 2}
+  ShopRelicOverrides: {fileID: 11400000, guid: a069df88aef7977418cc7296405f68e1, type: 2}
+  chanceForGuaranteedShopRelicInShops: 0.9

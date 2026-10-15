@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Stats
+  - Curtain
+  - PersistentUI
+  - BossHealthBar
+  - InputSystem
+  - Peg
+  - Bomb
+  - PachinkoBall
+  - TooltipCanvas
+  - MapController
+  - Bouncer
+  - BrickBoss
+  - CastleBgLight
+  - CastleBgWall
+  - DebugCanvas
+  - LogPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacles
+  - Post_Processing
+  - Bombs
+  - PlayerDetection
+  - Player
+  - PachinkoBall
+  - PachinkoBallTrigger(Peg)
+  - PegCollider
+  - ClickDetection
+  - PegboardNoCollide
+  - PachinkoBallTrigger(Ball)
+  - PoppedPegTrigger
+  - PoppedPegCollider
+  - SpecialPegCollider
+  - PachinkoBallSpecialPegCollider
+  - CollidesWithPoppedPegs
+  - BattlefieldFloor
+  - OrbAttacks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3873253345
+    locked: 0
+  - name: TilemapLayer1
+    uniqueID: 4737393
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TilemapLayer2
+    uniqueID: 2649889591
+    locked: 0
+  - name: PegBoardBg
+    uniqueID: 2322515129
+    locked: 0
+  - name: PegboardMain
+    uniqueID: 1792466893
+    locked: 0
+  - name: PegBoardOverlay
+    uniqueID: 2738924163
+    locked: 0
+  - name: SidescrollerBackground
+    uniqueID: 1112664423
+    locked: 0
+  - name: SidescrollerBackgroundBlend
+    uniqueID: 1487134311
+    locked: 0
+  - name: Sidescroller
+    uniqueID: 3662346749
+    locked: 0
+  - name: SidescrollerOverlay
+    uniqueID: 529829323
+    locked: 0
+  - name: SidescrollerUI
+    uniqueID: 3928394283
+    locked: 0
+  - name: SidescrollerUIOverlay
+    uniqueID: 2877274959
+    locked: 0
+  - name: UI
+    uniqueID: 2416433507
+    locked: 0
+  - name: UITop
+    uniqueID: 1950804591
+    locked: 0
+  - name: Phase2Special
+    uniqueID: 3883349437
+    locked: 0
+  - name: MapBase
+    uniqueID: 4068304705
+    locked: 0
+  - name: MapView
+    uniqueID: 3436854279
+    locked: 0
+  - name: UI Overlay
+    uniqueID: 2488231497
+    locked: 0

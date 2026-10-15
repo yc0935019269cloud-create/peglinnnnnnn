@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7af41180cd23cb831f16d75fff56c604, type: 3}
+  m_Name: UISfx
+  m_EditorClassIdentifier:
+  ButtonClickSound: {fileID: 8300000, guid: 243c5114e9d0ef446909c12b898f11b7, type: 3}
+  HoverSound: {fileID: 8300000, guid: 55ea28cbb62a7264b9ee2ade054a31b7, type: 3}
+  ConfirmButtonClickSound: {fileID: 8300000, guid: 71a125f1344290445b1baf9575ce8c22, type: 3}
+  BackButtonClickSound: {fileID: 8300000, guid: 122178abfb14b094faffeb787d96b3c6, type: 3}
+  InvalidSelectionSound: {fileID: 8300000, guid: d190ebdcf73bfed46ad9e92c9a833c6f, type: 3}
+  WindowOpenSound: {fileID: 8300000, guid: 6a93ab5f2c6da8540aa806a6ef1b154b, type: 3}
+  WindowCloseSound: {fileID: 8300000, guid: 6b68ac55619ff154e8e5ea8f2bd01df7, type: 3}
+  AddOrbSound: {fileID: 8300000, guid: 317e1124e13e54a49bf0543a73713d00, type: 3}
+  UpgradeOrbSound: {fileID: 8300000, guid: cb4f2ee32332f954dabb3aea60ade107, type: 3}
+  RemoveOrbSound: {fileID: 8300000, guid: 8e7b52b159bee2249955286959523e24, type: 3}
+  AddRelicSound: {fileID: 8300000, guid: 57675df0f2bcf7840a1976808219a3eb, type: 3}

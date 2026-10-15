@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1137b4c16e58fa256416e83303539a0, type: 3}
+  m_Name: DeckIcons
+  m_EditorClassIdentifier:
+  _switchIcon: {fileID: 21300000, guid: 4056cb6ef69c4ce40a50ff2ba8eb3ca2, type: 2}
+  _switchIconPressed: {fileID: 21300000, guid: a7878ca09d0be2d4b87ee9c805bd7423, type: 2}
+  _xboxIcon: {fileID: 21300000, guid: d2635c7a4dd223a499862c29ec13efce, type: 2}
+  _xboxIconPressed: {fileID: 21300000, guid: 625dab2cc4281994b9566bbe71df803a, type: 2}
+  _psIcon: {fileID: 21300000, guid: 30809ce8c97ebbb48b6769c584030237, type: 2}
+  _psIconPressed: {fileID: 21300000, guid: 53b14d02a7e64fe4c970cdaa2ba075df, type: 2}
+  _keyboardIcon: {fileID: 21300000, guid: 1c9c6a96888587942b9fc13aeefe3d4b, type: 2}
+  _keyboardIconPressed: {fileID: 21300000, guid: c1983b1ceeafe70459e7a63418fff4f5, type: 2}

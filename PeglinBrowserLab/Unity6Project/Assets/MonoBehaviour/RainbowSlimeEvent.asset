@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24db7f22bf6a83bce25c5557af48090b, type: 3}
+  m_Name: RainbowSlimeEvent
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 0}
+  _sceneOverride:
+  ignoreRemove: 0
+  scenarioPreReqs: 12000000cb000000
+  scenarioName: General/RainbowSlime
+  scenarioDoodads:
+  - {fileID: 1709254077376921, guid: e0e3d09af6694be43be0ca90d1ed5c0b, type: 2}
+  - {fileID: 1709254077376921, guid: 75c1e33ef6cdc7348bdf1d81f0753bce, type: 2}
+  navigationPegLayout: {fileID: 11400000, guid: 7a89d1f7d9c7e76479e56c5d476103db, type: 2}
+  forceNavigation: 1

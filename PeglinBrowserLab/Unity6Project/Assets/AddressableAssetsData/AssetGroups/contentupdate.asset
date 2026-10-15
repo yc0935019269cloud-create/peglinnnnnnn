@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: contentupdate
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: contentupdate
+  m_GUID: d29feb2968a087e4f9b794833de1d682
+  m_SerializeEntries:
+  - m_GUID: 0c1aabcf6a25c314880707bc911bf623
+    m_Address: Assets/Art/Peglin/Roundrel/Sprites/roundrel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a834545a267d2e4e881ce6c3c91a64a
+    m_Address: Assets/Prefabs/PegLayouts/PegBlocks/ShopContentsBrick.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5965839cc43756645897506111b0c52a
+    m_Address: Assets/Prefabs/UI/Tooltips/KeywordDescription.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f855dfd4cf79d447b6153fae889c4de
+    m_Address: Assets/Prefabs/LongPeg.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d05547f87e67ec48acc4d3eef6dab6b
+    m_Address: Assets/Fonts/bin/Silver/Silver SDF-ja-lfs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1432b2d6e36a2b40b3c53c2581547a7
+    m_Address: Assets/Prefabs/UI/Tooltips/OrbInfoWidget.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dadfe9bf8be92f4459f9e2bf1d135e67
+    m_Address: Assets/Prefabs/SpecialPegs/MarchingPegRight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3fb70c6d3e02824887f313a289ce8c3
+    m_Address: Assets/Prefabs/SpecialPegs/MarchingPegLeft.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f101deeb87f34744a81c15a00ffb99e6
+    m_Address: Assets/Fonts/bin/Silver/Silver SDF-ko-lfs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3bf87c6ed174fe648887dcf510e8fd4b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6dbdfd846c3cd2d48be909fe54f9eeb9, type: 2}
+    m_SchemaDisplayOrder:
+    - contentupdate_BundledAssetGroupSchema
+  m_IncludeInBuild: 1
+  m_IncludeInBuildMigrated: 1

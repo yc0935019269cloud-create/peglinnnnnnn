@@ -1,0 +1,7 @@
+<!-- Web port: Odin Serializer uses reflection on IL2CPP (no Reflection.Emit), so serialized game
+     types and their fields must survive managed code stripping. -->
+<linker>
+  <assembly fullname="Assembly-CSharp" preserve="all" />
+  <assembly fullname="Assembly-CSharp-firstpass" preserve="all" />
+  <assembly fullname="Peglin.OdinSerializer" preserve="all" />
+</linker>

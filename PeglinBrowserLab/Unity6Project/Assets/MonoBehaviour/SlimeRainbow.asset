@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: SlimeRainbow
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 6bdc002fbffa40a458371ec4587a855f
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 054d8069218e84441b27910fd810dcb7, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: a24ab1fce23c2174c9fa89537b686591, type: 2}
+  LocKey: slime_rainbow
+  location: 1
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 91c84046430f76f4b8b7feffb2019d13, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: -8.981138, y: -0.9276133}
+  MaxHealth: 200
+  MaxHealthCruciball: 300
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 25
+  PointsOnLoot: 50
+  ChallengeReward1: 0
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.15
+  CardDropRate: 0.02
+  Type: 0

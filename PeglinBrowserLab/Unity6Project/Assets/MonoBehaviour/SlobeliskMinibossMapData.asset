@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: SlobeliskMinibossMapData
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: f60e950f4d47a0244b02baea3899c9de, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 2
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 21300000, guid: 138faa7829a230a42ab565bb14d3dd3d, type: 2}
+  pegLayout: {fileID: 11400000, guid: 8163f845add1de44b9320372ceade1dd, type: 2}
+  waveGroups:
+  - waveType: 0
+    waveData:
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: 1fabeb78d406bf34dba7fb9274ef6e21, type: 2}
+    - turnNumber: 2
+      spawnData: {fileID: 11400000, guid: 438158b5954a37842bf182c0dfb31ad5, type: 2}
+    - turnNumber: 4
+      spawnData: {fileID: 11400000, guid: 4d768076915d5ab43968d56cde568dc2, type: 2}
+    - turnNumber: 6
+      spawnData: {fileID: 11400000, guid: 8316358ffb7fb434f96a0f119f753c66, type: 2}
+    - turnNumber: 8
+      spawnData: {fileID: 11400000, guid: ffedd4de913f2e94eb2b7af87fe52923, type: 2}
+    spawnPoint: {fileID: 0}
+  starterSpawns: []
+  battleDoodads: []
+  NumberOfSlots: 7
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

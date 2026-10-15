@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: LightningRodMines
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: e102510761e24944391f9aad66567752
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: c5fdabc72c546c645bbd23f100a66ef4, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: c08a23c216fd7504c896efb80ce62f53, type: 2}
+  LocKey: lightning_rod_mines
+  location: 4
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 1d841096ddd1246459732657cf7a73bb, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 777
+  MaxHealthCruciball: 1077
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 12
+  PointsOnLoot: 35
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.08
+  CardDropRate: 0.01
+  Type: 0

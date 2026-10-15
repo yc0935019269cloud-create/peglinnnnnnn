@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: BeckoningCrit
+  m_EditorClassIdentifier:
+  locKey: coins_to_crits
+  descMod:
+  englishDisplayName: Beckoning Crit
+  englishDescription: Every {[COIN_CRIT]} <sprite name="COIN_ONLY"> collected triggers a crit.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 4e521d7827e317d4394224a496c25b75, type: 2}
+  useSfx: {fileID: 0}
+  effect: 131
+  globalRarity: 2

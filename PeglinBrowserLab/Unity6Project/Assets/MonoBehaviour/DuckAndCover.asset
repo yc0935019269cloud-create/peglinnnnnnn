@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: DuckAndCover
+  m_EditorClassIdentifier:
+  locKey: gain_ballusion_on_dodge
+  descMod:
+  englishDisplayName: Duck (And Cover)
+  englishDescription: Whenever you <style=dodge>evade an attack</style>, gain <style=dodge>{[DUCK_DODGE]} Ballusion</style>.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 6f2a4a8507ba4014fb9bd248258a460f, type: 2}
+  useSfx: {fileID: 8300000, guid: b5a8e1e931b19b6468aef314801d698d, type: 3}
+  effect: 199
+  globalRarity: 1

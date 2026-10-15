@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: AllKnightsMapLayoutEasy
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: 28be4ec745888044a9ce90b440a6c848, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 0
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: 571dae1f9847e4c4e964b5365798d586, type: 2}
+  waveGroups: []
+  starterSpawns:
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: abe81aafda178d042a2f8fa0bfd0eecf, type: 2}
+    slot: 3
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: e88e776864e29bc42abccd7d0d158310, type: 2}
+    slot: 4
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: e88e776864e29bc42abccd7d0d158310, type: 2}
+    slot: 5
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: f8eb33bf880d48b4987158c6cdb628f3, type: 2}
+    slot: 6
+  battleDoodads: []
+  NumberOfSlots: 7
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

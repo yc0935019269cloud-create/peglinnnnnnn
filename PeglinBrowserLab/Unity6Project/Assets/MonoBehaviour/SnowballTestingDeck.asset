@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4757ea7c139adcec5af3d86c25d3465e, type: 3}
+  m_Name: SnowballTestingDeck
+  m_EditorClassIdentifier:
+  Balls:
+  - {fileID: 1709254077376921, guid: 741730b387ab17b44ac16ba2ef5c6bc2, type: 2}
+  - {fileID: 1709254077376921, guid: edeb2d38beb5a9c40b24b013022d3ea4, type: 2}
+  - {fileID: 1709254077376921, guid: 49e82d3a769e6c841b12649d9d01918e, type: 2}

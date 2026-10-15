@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: BigFish
+  m_EditorClassIdentifier:
+  locKey: large_orbs_dmg_target
+  descMod: 2
+  englishDisplayName: Big Fish
+  englishDescription: Orbs that are larger than the standard orb size <style=damage>deal damage equal to the number of owned large orbs</style> to the targeted enemy for each <sprite name="PEG"> <style=hit>Hit</style>.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: a700e2fd925a56948bf3a09242fc7fbf, type: 2}
+  useSfx: {fileID: 0}
+  effect: 196
+  globalRarity: 1

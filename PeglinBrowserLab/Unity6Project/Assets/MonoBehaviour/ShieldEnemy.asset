@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ff259284c6d93a435cbf11f007dd61, type: 3}
+  m_Name: ShieldEnemy
+  m_EditorClassIdentifier:
+  enemyAssetReference:
+    m_AssetGUID: 934577c000ff0ac4eb44c1ed778ec8ee
+    m_SubObjectName:
+    m_SubObjectType:
+  randomizedAssets:
+  - m_AssetGUID: bd38b587416cccc43a156ab2d56492e5
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: af7121567088beb468439674ca58ca82
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 128ad28c3b63401478b40c1b6a572be1
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: d167c462bf897e44a9f28ab528631755
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 934577c000ff0ac4eb44c1ed778ec8ee
+    m_SubObjectName:
+    m_SubObjectType:
+  spawnSlot: -1
+  SpawnPointInitialAnimationTrigger: spawn
+  SpawnPointFinalAnimationTrigger: endSpawn

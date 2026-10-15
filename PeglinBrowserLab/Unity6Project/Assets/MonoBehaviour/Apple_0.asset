@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier:
+  locKey: max_health_small
+  descMod:
+  englishDisplayName: An Apple A Day
+  englishDescription: Increases your <style=heal>max health by {[MAX_HEALTH_SMALL_AMOUNT]}</style>.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 639bbc3a5a540d54b932423925028693, type: 2}
+  useSfx: {fileID: 0}
+  effect: 23
+  globalRarity: 1

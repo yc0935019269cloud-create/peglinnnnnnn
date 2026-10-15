@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: GloriousSuffeRing
+  m_EditorClassIdentifier:
+  locKey: all_orbs_buff
+  descMod:
+  englishDisplayName: Glorious SuffeRing
+  englishDescription: Every <sprite name=PEG> <style=activate>Activated</style> gets upgraded <style=dmg_bonus>(+{[ALL_ORBS_BUFF_AMOUNT]} damage)</style> but all attacks lose <style=dmg_negative>{[ALL_ORBS_BUFF_DMG_RED]}/{[ALL_ORBS_BUFF_CRIT_RED]}</style>.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 0de7ac0ab403d2547a67692469435930, type: 2}
+  useSfx: {fileID: 0}
+  effect: 61
+  globalRarity: 3

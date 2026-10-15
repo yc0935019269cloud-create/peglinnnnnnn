@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: GoblinFlyingSapperMinion
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 0ccf08b60df6bdd40a4dddb1b1174568
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: bfa65f65fc293d34faf25ce596137d78, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: e51396134956d684bbde32649d34bcd5, type: 2}
+  LocKey: goblin_sapper_flying_minion
+  location: 4
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 96b24a39701305e4da140319022576f1, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 300
+  MaxHealthCruciball: 400
+  MeleeAttackDamage: 30
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 4
+  PointsOnLoot: 20
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.025
+  CardDropRate: 0.0025
+  Type: 0

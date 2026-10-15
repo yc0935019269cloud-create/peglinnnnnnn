@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: CounterfeitCrits
+  m_EditorClassIdentifier:
+  locKey: hitting_crit_adds_temp_crits
+  descMod:
+  englishDisplayName: Counterfeit Crits
+  englishDescription: Whenever <sprite name="CRIT_PEG"> is <style=hit>Hit</style> convert {[TEMP_CRITS_CREATED_ON_CRIT_PEG_HIT]} <sprite name="PEG"> to <sprite name="TEMP_CRIT">.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: c015964351763db4ca6bb4acec4af675, type: 2}
+  useSfx: {fileID: 0}
+  effect: 168
+  globalRarity: 2

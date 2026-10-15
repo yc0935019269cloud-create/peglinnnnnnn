@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: teleporting_knight
+  m_Controller: {fileID: 9100000, guid: 1071b7f0b38510042a37174161c0982d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d79913c72da2f794d8d61fed889fa3cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d1297f8edb4247b48aafe3b3cdf2b12f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ce58fd1c3b2f9b0488b091eadb844988, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fb2d258d80198ce4bb86a81071f34a37, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f328a75899bd9e04a8c0ce8e64215137, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cc21000c23853b248906b81253989d9c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5c8853c40d0e2734db68499668ceb3da, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 961dbcfa7da45994f8772ad57d6ce898, type: 2}

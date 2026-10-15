@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: DragonBossMapData
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: a060fcd57f72cd54f8661e20cced5dcd, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 3
+  availableGoldModifier: 250
+  grantChallenge: 0
+  mapIconOverride: {fileID: 21300000, guid: 4ac39f3c867af1b40bca55cabc85819f, type: 2}
+  pegLayout: {fileID: 11400000, guid: 1fc8661131ae6c644977969ba6e38962, type: 2}
+  waveGroups: []
+  starterSpawns:
+  - spawnerType: 1
+    spawnData: {fileID: 11400000, guid: e30d2f2539d3eca488527a7c64821057, type: 2}
+    slot: 0
+  battleDoodads: []
+  NumberOfSlots: 3
+  bossType: 6
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

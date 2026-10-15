@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bdc9ba1114ab4b0ae21aed9cfda85b, type: 3}
+  m_Name: LazorbSFX
+  m_EditorClassIdentifier:
+  SlowAttackClip: {fileID: 8300000, guid: 3e0f8933ddef1fe4695a33f5c6eba2a8, type: 3}
+  FastAttackClip: {fileID: 8300000, guid: 3e0f8933ddef1fe4695a33f5c6eba2a8, type: 3}
+  OnHitClip: {fileID: 8300000, guid: d7e9fa4778befdd44bea1f84879e667a, type: 3}
+  OnWhiffClip: {fileID: 8300000, guid: 073c4bcf809f935419a924bbeb25c1ab, type: 3}
+  ForceSfxThreshold: {fileID: 11400000, guid: 5f5c43dff0be5434490755de8de4763a, type: 2}

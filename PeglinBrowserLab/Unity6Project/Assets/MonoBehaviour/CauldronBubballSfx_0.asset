@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bdc9ba1114ab4b0ae21aed9cfda85b, type: 3}
+  m_Name: CauldronBubballSfx
+  m_EditorClassIdentifier:
+  SlowAttackClip: {fileID: 8300000, guid: fa50f55bbd9f9e24a96a83aa6cdf7964, type: 3}
+  FastAttackClip: {fileID: 8300000, guid: 192e2788d7ff4a34bb40f4859bc1ad2c, type: 3}
+  OnHitClip: {fileID: 8300000, guid: 60694e2e498a1994b8e478b205b5a828, type: 3}
+  OnWhiffClip: {fileID: 8300000, guid: d93eb54ff2201e94aa29b63899d84fa9, type: 3}
+  ForceSfxThreshold: {fileID: 11400000, guid: 5f5c43dff0be5434490755de8de4763a, type: 2}

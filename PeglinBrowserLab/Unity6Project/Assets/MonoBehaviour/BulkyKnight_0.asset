@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: BulkyKnight
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 5bb8991d079bdaf408b6515f466c8e6f
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: fee47b13660fd58469317fa38553c382, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 864001ebee305d64eb5f093678c80890, type: 2}
+  LocKey: bulky_knight
+  location: 2
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 79968adde47fa14458f0178ce0713b76, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 450
+  MaxHealthCruciball: 550
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 6
+  ResearchPointTotal: 1000
+  PointsOnKill: 6
+  PointsOnLoot: 28
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.005
+  Type: 0

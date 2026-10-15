@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0243f51bbc2aa746d4bc147c964cd4, type: 3}
+  m_Name: RoundrelClassLoadout
+  m_EditorClassIdentifier:
+  Class: 2
+  StartingOrbs:
+  - {fileID: 1709254077376921, guid: a1597e216d7919c42a8846b50b34580a, type: 2}
+  - {fileID: 1709254077376921, guid: a1597e216d7919c42a8846b50b34580a, type: 2}
+  - {fileID: 1709254077376921, guid: a1597e216d7919c42a8846b50b34580a, type: 2}
+  - {fileID: 1709254077376921, guid: 5b08c4c13eb8919469e8e21d8239819b, type: 2}
+  StartingRelics:
+  - {fileID: 11400000, guid: 92281d202a665764eb958cd11ffe973a, type: 2}
+  CommonRelicOverrides: {fileID: 0}
+  RareRelicOverrides: {fileID: 0}
+  BossRelicOverrides: {fileID: 0}
+  RareScenarioRelicOverrides: {fileID: 0}
+  UnavailableRelicOverrides: {fileID: 11400000, guid: 19e42632d98c7ea478e6975e5df10fd0, type: 2}
+  ShopRelicOverrides: {fileID: 11400000, guid: 5a1912e50af67ff4cac10a40c42569a6, type: 2}
+  chanceForGuaranteedShopRelicInShops: 0.7

@@ -1,0 +1,884 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: pegboarddata
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: pegboarddata
+  m_GUID: f9397757f2aa3ea498a8ad4c53072b97
+  m_SerializeEntries:
+  - m_GUID: 04fb70132f14ded4e8797abd9bc785bd
+    m_Address: MirrorPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 054b3b02d8effc34ab9bdf0b24772052
+    m_Address: PeglinEchoNavigationLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 065a77e21cbe6b34bae62cfbc5de39c7
+    m_Address: BallistaBossPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0735b0a13705ef1429b7a521c5f32d75
+    m_Address: MinesMirrorAndRangedPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 079a57db63c3f0148a2373f47858a7eb
+    m_Address: Pegboards/MimicPegLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 095f17359460cb24fbfc7b9185c25a90
+    m_Address: FlickerGridLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a73d8daaecc1d042a532ab206f17f66
+    m_Address: BrickSlimeFloorPegs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ba4d050b70f296499588e7f884e2311
+    m_Address: Pegboards/BazaarStand.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dc6ef48041116648b45456573739d1c
+    m_Address: Sun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 116341dc1f3e54e4fa11c0d121cbe6bb
+    m_Address: ShieldArcherHealBattle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 135ac7fa01a71c049900cc8101db3211
+    m_Address: RandomMirrorNavLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 162d3fa3b96bd4e438e20b642f9bb350
+    m_Address: Pegboards/InfernoScenarioNav.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16c2f7166c561a643b099c3374a31120
+    m_Address: PegMinigameFlicker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1924e46dcf206814d804bfd7cd0c596d
+    m_Address: UpwardZigZag
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1926ca75d4ae34f4a9623319b7dc3cc1
+    m_Address: MinesEldritchLayoutTest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1972565b8a516474a845d72a55c60a15
+    m_Address: AltarPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19feba2dcfa4e7444b1611afcddb3d83
+    m_Address: MinecartNavigationLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a8d6f6440b7ba947bc9a48ac6615bc3
+    m_Address: DebugPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c20dfb05a2d51449addf415ad22f282
+    m_Address: MinotaurLayout2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c75b1f7fefd7634f89e786872ec11ad
+    m_Address: BrickBossWide
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d0dcf6d4fd80a34792b5b1d56e41568
+    m_Address: SlimyPath
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1da793afaafcab64ba0949edce805981
+    m_Address: StumpPlantsPegLayout2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f8745a519b07544fa8166d131a6f013
+    m_Address: Waves
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ff41a2ef5903a741b8de494e17404e5
+    m_Address: MinesMushroomLayoutEASY
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20a509a8e27d7b641bb5b86e9b654edf
+    m_Address: GhostPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20c05f2b378822744a1bdbf234bfe8e4
+    m_Address: JustMirror_Easy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 210f8dfeef190804cb337a8182c3f4b0
+    m_Address: ShadeMinibossPegLayoutData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 218ac1f489080e84ab298ed84d47a465
+    m_Address: PegMinigameMoving
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 225dd702b67441743a78a1c7ed8084e9
+    m_Address: StumpPlantsPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23e299e02a572b6488b8ec2cff7580e2
+    m_Address: ForestRandom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24127349b59ce87458ed5e2152d0c041
+    m_Address: DemonWallBossPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 288e37df528b01e4592b95e3ad75b3f5
+    m_Address: ForestNoBombs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b37289557e147b4fa87cc079704fca7
+    m_Address: MinesEldritchLayout1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c9a7d399cbeaf44098930d9c70a1038
+    m_Address: DuplicationAltarLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f419eef6e01f3f4ba2482db6a651b31
+    m_Address: ShieldMinibossPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31fdad146fc7c4349a057615c362b8ae
+    m_Address: Circles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3352eed7838d31a4e9093c72811ff105
+    m_Address: Pegboards/MinesMushroomLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ac4b9912e284a347ae87b397d2ea2b2
+    m_Address: SmallLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 442b96212eea7064595aeb47ad5e4334
+    m_Address: SuperSapperBossPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44b4640074fba4949a95a7947e0ba543
+    m_Address: Pegboards/CrowStonesNavigation.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4671d2f7dc989164180438b08030a2a4
+    m_Address: Pegboards/ForestLongPegSpiral.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46f58e8b2d9fbd745bcd04822129c69e
+    m_Address: WaterfallLayoutPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47aaee8757c8cdc4a871172488a8ea48
+    m_Address: LightningLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48fd7e99a78fb0e469c7a727e71ba6e8
+    m_Address: InverseWaves
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a068be2c6f61a545a446b651ba9d991
+    m_Address: Pegboards/DebugBlackHoleLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4dc6142b08475d546be6e3e3865b1dd9
+    m_Address: CastlePegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 547c323b8bdce3247a02602c772b3204
+    m_Address: CastleFullZigZagLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54d0a9dc66b65664994fc9a8b53edb8a
+    m_Address: Pegboards/BrickBouncerLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 565be3518dd973142860de850a84c302
+    m_Address: Pegboards/RainbowSlimeNavigation.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56a2c3afa93200d4ebe9f9ece42d18ff
+    m_Address: ShopNavPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a1030648c32ac44f84c928c4d928657
+    m_Address: BasicPegMinigameLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b0c8e43b33ac7442a761981bae70688
+    m_Address: /BoidsPegLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e55e7c8208197f41b0fc2da05e0cc96
+    m_Address: BombGroups
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f1869f8c3b45ab46825a34ffbf7471b
+    m_Address: BatsAndSlime
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 620224cc0edf9514792779819fd0f4c2
+    m_Address: SecretTunnelPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6203f69cd036e774b91c7bd1ff14b301
+    m_Address: LongPegsPlusBomb
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64353b67ce646154d99c2a1b89d4703f
+    m_Address: Pegboards/CoreRegularBattleVoidSlimeLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64bbc2bdfe4d6ac429ca26d936996fd2
+    m_Address: WavesDebug
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64d1dab8d7b05f64888c49173e96e7a4
+    m_Address: GamblerNavPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 662747319d9c2f44aad0043bc5666f3e
+    m_Address: MinesLightningSapperPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 663bf83cbb668de41b8f6eca2072801d
+    m_Address: DebugOopsAllBombs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b721ccbbf70fc944a683d663d818581
+    m_Address: Slime
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bd37431b337d3645a11050fbbf2f546
+    m_Address: RotatingCircle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7168e45bd4f020846b4227deb15f03e7
+    m_Address: MinesMixedMovementPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73d152e1dc760334db16d6215173906b
+    m_Address: Pegboards/ConvergingWavesLayoutPrefab.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 743ffd3b53b1e69459761b45511682a2
+    m_Address: FlickerPegDebug
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76f09f52a439a2745b4c1d7150535911
+    m_Address: RotatingShieldedBombLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 775b399eaf02e35449c95e289df8da3a
+    m_Address: Pegboards/GiantBrickSlimeLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77ee2a2cc3e0482458a3384d3d90cf4f
+    m_Address: StumpBombChip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7971709eeec63cd408d62d71cbcd5500
+    m_Address: TeleportAlternate
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cb4731885105024d998a787b1a87156
+    m_Address: PortableForgePegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e36a6b43c9e1044da00cc21f31f48a4
+    m_Address: MinesEldritchLayoutEasy1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e815e3db1010c3418de447ea5be90af
+    m_Address: Pegboards/RainbowSlimeOnlyBattlePegLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 832b048937058964fbe90a89cce66af8
+    m_Address: SlimeMinibossLayoutv1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86def4bc16c2c1d4c95f2a4adcf2fc05
+    m_Address: SlimeAndBat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 877c1262e051f7845999ff02e60ab7dc
+    m_Address: BrickSlimeScenarioLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c28fc3cfaa35484ea31b4df40766c93
+    m_Address: LeshyBossLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ceb71075743e5f4aa2eba987f6863eb
+    m_Address: LayeredShieldLayoutData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8de886e9764db0a42a0d583ee3c8d52e
+    m_Address: bombsawaylayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ff88cc7537e2f342ad3d3a824351324
+    m_Address: MidasOrbNavigationPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 984353912f4056f46a2db5456cb17a15
+    m_Address: SlimeBossv2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a07cbcd45ba42a4eaefd659965b9be4
+    m_Address: BigPlants
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b25b3bc3a6f5084294188c9055f4813
+    m_Address: MinesMirrorPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d1630af67c82a1459dc826ac867e378
+    m_Address: GamblerNavReversePegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d2447ddde5e19a48b7611d02692a7c8
+    m_Address: Pegboards/SlimeHiveLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f096a2d25b968143b62eb55e54460d5
+    m_Address: BrickSlimeRegularLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0219d2236b616746b2f26b36e397415
+    m_Address: SmallLayoutLongPegs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0d80dae0d487e049b82388fdeb3098b
+    m_Address: OneOfEveryPeg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a10123b74eae16c47bcedef963712de0
+    m_Address: BrickLinesLayoutPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a85fffd4abc9ba3419b75a7bfbbf632b
+    m_Address: ShieldGuy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acfa48cedbeeacc498754fe9a8ca2550
+    m_Address: Pegboards/FlickeringSpiderWebLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adab58a72019a0644b45e585bece0df5
+    m_Address: Pegboards/SloberliskMinibossLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af9676e870122684f9f7282cae37a766
+    m_Address: InvisibleLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aff38cb651c89264c9e533cb044408d5
+    m_Address: Pegboards/AllKnightsBasic.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b226be6e654c9f1438a907582ffbcdf9
+    m_Address: SlenderlinLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b27340c8646f5ff47ae6b715cb7e0aca
+    m_Address: ForestRandomScenario
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b39b9cc2a6956ae40a6a6e83c7b22abf
+    m_Address: Pegboards/3PaintingsLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b61249d054ce33549a031bfe18fe580e
+    m_Address: BrickBoss
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b843f4b8a7381d34cbdc456e34566fc1
+    m_Address: Pegboards/ForestLongPegSlides.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b84a7ea8bac20e740a8b1d35d25abe1d
+    m_Address: ShieldArcherLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b850d83ea5636da4b9d0b9b098ad0edc
+    m_Address: Pegboards/CastleRotatingBouncersMap.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b87b5c87376a4224f8ea9badac2589da
+    m_Address: ReachingPlants
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9630fe760e8ef342a1038776034108d
+    m_Address: ONLYBATS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcf5d3a21719dc04f856846d51847ec5
+    m_Address: DemonWallMinibossv1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfb24d21a14d2854fa8f327c8d9e2f5d
+    m_Address: PlantSpirals
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c13bf1ccb77e82442a283d106e25fc3d
+    m_Address: MarchingPegs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3c6a3979efba5446a93274444bb84d7
+    m_Address: ForestDense
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c59640af2083928408bfe5f688a38384
+    m_Address: Pegboards/ResistanceKnightMinibossPegLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6f403c08d0a7b5489dd23d40ef77abf
+    m_Address: Pegboards/BlackHoleSpirals.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c73e99c4dfbcfbf45b5826df0f446c30
+    m_Address: BatsForNav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b1625f218555847a51fc3be4f1e5d2
+    m_Address: BrickSlimeEasyLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca1c1a3f0e6f49a4f9daac560f54d49b
+    m_Address: Pegboards/SloberliskMinibossLayoutAlternative.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb0a4636d7279a24d926a1b952ab165c
+    m_Address: DarkCorridor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d004c5f2cf70e594fb7c758733274c90
+    m_Address: Pegboards/MinesSkatingPegLayoutPrefab.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3425ff1dc2b8fc45932d4088bd33575
+    m_Address: Fractal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d45572201a45f114991c8c527d7c8fc2
+    m_Address: FlickerSpirals
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5defbb82054fc54db2df974bc68190c
+    m_Address: HealForMaxHealthLayoutData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6c97c2309742ef46b9d6ec97b083ef9
+    m_Address: MoleBossLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6fb552469a6b014e991f1f8a3e8e10f
+    m_Address: MinesBasicSapperPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7a81d36551b9c74689b7c331b3ff733
+    m_Address: Pegboards/TreeLoopDeLoopLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9b2019c4a3dc9349b8ab7b063239d66
+    m_Address: OrbeliskLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dabfc63d0e5664645a56925122584d7c
+    m_Address: BombShield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de2d642dbee91a246b0a1223f7128c20
+    m_Address: SlimeBossv3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df9bc2fff04466e4098610d1737d36bb
+    m_Address: OrbeliskTripleLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0928955b8441794ca62c3637f38e25b
+    m_Address: DragonBossPegLayoutSimulated
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0b0954d40ef3064e8b8b16247dada8c
+    m_Address: TurnedManPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e32b2ac051fc16b4bbb5fdafde072813
+    m_Address: DemonWallMinibossPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4da22e8b791731428f74323708b2458
+    m_Address: Pegboards/BrickSlimeScenarioBattleLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb6bbe33c047a27469e228e036db1cba
+    m_Address: SlimeSmallThree
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebb6004814c300045a36ba4035deb8f2
+    m_Address: Pegboards/PainterBossLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed2c4064fc8ad6e42805b98243b9e4f1
+    m_Address: RemoveOrUpgradeStonesPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed5a02898674d8d4bb3f04b3fd40f556
+    m_Address: VampireLayoutPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef2a1a518f518784584c3dfbf0b44d21
+    m_Address: Pegboards/TreasurePegLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0053c21f98e0224cb9b1d01a73080e0
+    m_Address: HelpfulSpritsNavigation
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3c87b214f465734ba8b81ad129abadb
+    m_Address: MirrorPlantLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5da167136df0aa4ba392e91810b1cd5
+    m_Address: SpiderwebRegularLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f65f9a424798ec44ba863a641425c2e2
+    m_Address: Pegboards/SpiritOfRadiaBossLayout.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f846df9c078c7af4aa7e9aa03c8b23c4
+    m_Address: SpiderWebPegLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f94c70dc9094a0c46921bb247821462b
+    m_Address: StumpLayoutEasy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f972cfba19e90f943bfebb62f540209d
+    m_Address: SlimeMinibossLayoutv2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcead8cb5e85cd04cb60c06508e84e0d
+    m_Address: MinotaurLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd259ab3affc2534fbcb29391bd1b2ed
+    m_Address: KnightMinibossLayout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff56fba684103854495599c6ad785a23
+    m_Address: BazaarStandIndestructible
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pegboards
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3bf87c6ed174fe648887dcf510e8fd4b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5fe31238edaef8b42982a731c07c37e8, type: 2}
+    m_SchemaDisplayOrder:
+    - pegboarddata_BundledAssetGroupSchema
+  m_IncludeInBuild: 1
+  m_IncludeInBuildMigrated: 1

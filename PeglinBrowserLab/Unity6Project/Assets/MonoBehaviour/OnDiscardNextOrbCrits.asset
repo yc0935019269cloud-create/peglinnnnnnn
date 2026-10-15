@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b73a1dccf6cb538edeeac15884e27d9, type: 3}
+  m_Name: OnDiscardNextOrbCrits
+  m_EditorClassIdentifier:
+  onlyApplyToNextOrbDrawn: 0
+  modifierTypes: 8
+  modifierPhase: 2
+  baseDamageModification: 0
+  critDamageModification: 0
+  multiballFiredForceMultipliers: []
+  baseData: {fileID: 11400000, guid: e0aa37c2acb98fb4ca916366ccbbf8af, type: 2}

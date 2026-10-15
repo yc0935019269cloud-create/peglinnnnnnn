@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: BasaltToadem
+  m_EditorClassIdentifier:
+  locKey: battle_upgrades_heal_max_hp
+  descMod: 2
+  englishDisplayName: Basalt Toadem
+  englishDescription: Post battle upgrading now includes the option to <style=heal>increase your Max HP by {[FROGGY_HP]}</style>.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 7e8a597a30bcf8843b0e37fb0972cfa6, type: 2}
+  useSfx: {fileID: 0}
+  effect: 111
+  globalRarity: 1

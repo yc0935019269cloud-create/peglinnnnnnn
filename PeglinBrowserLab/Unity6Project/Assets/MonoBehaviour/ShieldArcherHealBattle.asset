@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6451360d594a1717860cbf7a74aeb96, type: 3}
+  m_Name: ShieldArcherHealBattle
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 8300000, guid: 28be4ec745888044a9ce90b440a6c848, type: 3}
+  _sceneOverride:
+  ignoreRemove: 0
+  grantedRelicRarity: 0
+  availableGoldModifier: 0
+  grantChallenge: 0
+  mapIconOverride: {fileID: 0}
+  pegLayout: {fileID: 11400000, guid: ceb1aabae9ec2c746a820e33f30fe63c, type: 2}
+  waveGroups:
+  - waveType: 0
+    waveData:
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: 793926a3a116e954781628182cb501dd, type: 2}
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: 793926a3a116e954781628182cb501dd, type: 2}
+    - turnNumber: 0
+      spawnData: {fileID: 11400000, guid: f8eb33bf880d48b4987158c6cdb628f3, type: 2}
+    spawnPoint: {fileID: 1709254077376921, guid: 6aaa66db75415e140b5ed4cc8b869d66, type: 2}
+  starterSpawns:
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: abe81aafda178d042a2f8fa0bfd0eecf, type: 2}
+    slot: 4
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: abe81aafda178d042a2f8fa0bfd0eecf, type: 2}
+    slot: 5
+  - spawnerType: 0
+    spawnData: {fileID: 11400000, guid: abe81aafda178d042a2f8fa0bfd0eecf, type: 2}
+    slot: 6
+  battleDoodads: []
+  NumberOfSlots: 7
+  bossType: 0
+  c19BattleData:
+    canAddEnemiesFromOutsideBattle: 1
+    maxExtraEnemies: -1
+    maxDifficulty: -1

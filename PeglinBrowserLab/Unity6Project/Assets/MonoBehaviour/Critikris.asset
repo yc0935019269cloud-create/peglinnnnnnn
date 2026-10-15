@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: Critikris
+  m_EditorClassIdentifier:
+  locKey: crit_damages_enemies
+  descMod:
+  englishDisplayName: Critikris
+  englishDescription: Whenever a crit is triggered, <style=damage>deal damage to all enemies</style> equal to ({[CRITIKRIS_MULT]} x your orb's <sprite name="CRIT_PEG"> x # crits).
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 957b117b00943e64b8dcb9e131861a82, type: 2}
+  useSfx: {fileID: 0}
+  effect: 96
+  globalRarity: 2

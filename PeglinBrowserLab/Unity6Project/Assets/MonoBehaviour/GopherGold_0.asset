@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: GopherGold
+  m_EditorClassIdentifier:
+  locKey: new_matryoshka
+  descMod:
+  englishDisplayName: Gopher Gold
+  englishDescription: Every shot gains <style=multiball>+{[NEW_MATRY_MULTIBALL]} Multiball</style>, but attacks lose <style=dmg_negative>{[NEW_MATRY_REG_DMG]}/{[NEW_MATRY_CRIT_DMG]}</style>.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 1794f878b38b92144b469f94a80ed0bc, type: 2}
+  useSfx: {fileID: 0}
+  effect: 187
+  globalRarity: 3

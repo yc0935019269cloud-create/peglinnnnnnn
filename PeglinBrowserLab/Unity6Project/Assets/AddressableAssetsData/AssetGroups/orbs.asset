@@ -1,0 +1,2048 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: orbs
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: orbs
+  m_GUID: c6885b1452a10c7408547414480f2a80
+  m_SerializeEntries:
+  - m_GUID: 010dfba927d0c614ca630e3af889665e
+    m_Address: Orbs/BrambleBall-Lv3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0184f30e50a1c8246b57d50e4ae56f5e
+    m_Address: Orbs/CollatorballDamage-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02d4379d4fed636478d6eafe0ccb3d6d
+    m_Address: Orbs/EvasiveManeuvorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02e176487a55c9545bd851685c986c00
+    m_Address: Orbs/Orbsium-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 034d057f609293044bb1d3793ca78692
+    m_Address: Orbs/Activatorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03c71a89189a96e468f8677a535100de
+    m_Address: Orbs/Orblation-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05c4305b163344a4faa362cb19e1838c
+    m_Address: Orbs/CauldronBubball-Lv1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08915234724555842bc2974ebdd6d83f
+    m_Address: Orbs/Echorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 090ec2609cb83424fb672b392618255c
+    m_Address: Orbs/GhostOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a3f000af0990924fa9b9c4d55c6a6ff
+    m_Address: Orbs/PupilOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0af5b64a0a01c1d40a3bd864cb6f5c9a
+    m_Address: Orbs/RenewedVigorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b7c07bc449a40642a760aa03049539b
+    m_Address: Orbs/VampireOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bc080be59b63be49ae754238a315ada
+    m_Address: Orbs/Spinpoint-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d4c7160b41c91446a1ef37731e96bfe
+    m_Address: Orbs/HighwayOrbbery-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dac0c414b6d7204eab0044c8a097660
+    m_Address: Orbs/Worbhammer-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0db91b2e7a2de6442bd2ecdcc63860c7
+    m_Address: Orbs/Jupitorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ed5a00117d27724b85b4fadc25c8af6
+    m_Address: Orbs/CollatorballDamage-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f624420a6ab7e542b850ac32d3934cc
+    m_Address: Orbs/Critiball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1002e69b07098684aac2861b8ff0dde3
+    m_Address: Orbs/Instigatorb-Lv3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 103f60cf8b9d4a844aa98445a73c09ea
+    m_Address: Orbs/Restorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1090e37739fbafe4e98f2272c8741b02
+    m_Address: Orbs/SpinnyBank-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 117f4cac83ac9c543b1a1842855f2445
+    m_Address: Orbs/Orb Variant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11af6d0b4ddce0044bb6467ec6be78b3
+    m_Address: Orbs/Duplicatorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13466f82cc8fa904590a024aa4f9fb92
+    m_Address: Orbs/Bob-Orb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1346bea00abdac943a5223d3ce6613a9
+    m_Address: Orbs/Allorbnothing-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1394ac0f071f7aa40a9386633bb02460
+    m_Address: Orbs/Morbidorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 141d7774a2afa544792420d4d0989fdb
+    m_Address: Orbs/ShockOrbsorber-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 158acd7a50ff6b3459daca45a416c4f9
+    m_Address: Orbs/Concentrication-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15aa5ce6d7ca2744d96470cf657797a2
+    m_Address: Orbs/BlindOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15b1258171530fd488eaecc244f62666
+    m_Address: Orbs/Orblation-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15b8439c3c5bc214198317c13cb5440b
+    m_Address: Orbs/Ballectrum-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 177411a3e2d47ff49862ecb233c767bd
+    m_Address: Orbs/ChemiballHazard-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17b4d518684571644912def33aae6e21
+    m_Address: Orbs/Memorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17da7ae82ed52d64493fcc9b7ef7e6ca
+    m_Address: Orbs/Critorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18031766e981b89458c52a8e1b025296
+    m_Address: Orbs/Bullyball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18042579f9647bb40b3b6eeff743a6d3
+    m_Address: Orbs/DisplayPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18f1e41bc0dd8b74ca14671287a11c40
+    m_Address: Orbs/Cleavorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 191a0b0399164e8409bce71f8cc364a2
+    m_Address: Orbs/Spinpoint-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b751d1205a7ac04189f3a3d0ec4ada5
+    m_Address: Orbs/Oreb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b99ef83660efab418498441371b2ca5
+    m_Address: Orbs/Splatorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bda4cd43a2a28e459f9239450f16e78
+    m_Address: Orbs/Ballestra-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c0bdac1cbc125647ad4ffa7edf3468b
+    m_Address: Orbs/Matryoshka-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d7b694f36da14e459f86afdd0f3f695
+    m_Address: Orbs/GlassHalfBall-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e62e6e9bdeb1ee4eb177fb6f2b43c54
+    m_Address: Orbs/Ballanx-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f152943ee018954f85f2db18452bdd0
+    m_Address: Orbs/Etherwheel-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f16a4436c3f223448b591807a85e558
+    m_Address: Orbs/Etherwheel-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f757c7298113ce46abdb6719adde897
+    m_Address: Orbs/Memorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2071b360cda57954da46ada32d5e89b8
+    m_Address: Orbs/NavigationOrb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20ec5b5b8f653e64c8e220992b855e17
+    m_Address: Orbs/Doctorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21f570c9accd0864d8e9f0455aadd0fa
+    m_Address: Orbs/Arccentuate-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 222ae4c334fe2dc41af9c25585200dd0
+    m_Address: Orbs/Roundabout-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 227abf83498380a439fe0aca1291a87c
+    m_Address: Orbs/Bucklorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23a5f584da1cc1f468b89079842f9d4d
+    m_Address: Orbs/Orboros-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2410be8701cdcdd45b2bb69983cc69d5
+    m_Address: Orbs/RubberApplierOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24978ff60cbc10b4d8bd3240f8356aa3
+    m_Address: Orbs/Ellucircle-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24ef570004dd0a14da60832e4adfd36d
+    m_Address: Orbs/Balleviation-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 261caaa09ecb2164ba59fa298c631c30
+    m_Address: Orbs/Bouldorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2771f339286e97d418bd68dfe1adcd95
+    m_Address: Orbs/DebuffOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27de192aeeb828b4db26f0d75a50a5d3
+    m_Address: Orbs/Circcae-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28799faee1331af4d9e31155b6f68229
+    m_Address: Orbs/SpinnyBank-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 294a6be5ab7f99c4ba0bc716e7f2e9b2
+    m_Address: Orbs/Roundabout-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29c8fcb628b66b54c8df87e1da204206
+    m_Address: Orbs/SignalBoostorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c3c92b25bd439d44a0452bc768ee663
+    m_Address: Orbs/Snowball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cb363627ed7c5e4f958326db11c23e6
+    m_Address: Orbs/DoubleDamageSlimeOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cea7b020843dcd45a3c9d483592dda8
+    m_Address: Orbs/SummoningCircle-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e530d7e5e6621a47ad0ba93c50e3fce
+    m_Address: Orbs/Orbrasion-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e9bdd868ccc81048a311f5a9f4ea6e1
+    m_Address: Orbs/ShuffleOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f11d16732391c949875c1cf99c3159c
+    m_Address: Orbs/Echorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30bfa75166933094f85bcbd0ff7ecbba
+    m_Address: Orbs/Electorbmagnet-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32c4efc9b2a49794ea09e149b4a5fd67
+    m_Address: Orbs/Ellucircle-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 333d7f742eefa744cb420496cbfa2c2b
+    m_Address: Orbs/Jack-orb-lantern-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33ba8e6020ad16548b6dbc2e5c0dba09
+    m_Address: Orbs/Restorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35ec2c9c05a931c45b3f7fdfaf3d8927
+    m_Address: Orbs/Circcae-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 367bb0a2d0dff7941b4c12f62a67d222
+    m_Address: Orbs/GhostOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37a96ddc5bce3274097557c680ba468d
+    m_Address: Orbs/Refreshiball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3844d1780a787f34c88e49e3a9b3a54e
+    m_Address: Orbs/Nimball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 385f5393472ccce40b5b93a9c132ed4f
+    m_Address: Orbs/Irresponsiball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39a13943ad6a1b143838539cf66430ac
+    m_Address: Orbs/Daggorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39d7b625afab17b4bb1cd4127964996c
+    m_Address: Orbs/OffeRing-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39f03dc524fe0874fa92bee5ea321289
+    m_Address: Orbs/Forbification-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b94dfc6cbaf33e4fad95992cff2a7cf
+    m_Address: Orbs/ToilAndTrouball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c7d3538016bc654084ecc178fd1b357
+    m_Address: Orbs/Susceptiball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cf03e9e365539a44a013e0a251d672e
+    m_Address: Orbs/Allorbnothing-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d7c50e6cec2f6d4bba9981c99342af2
+    m_Address: Orbs/Forbification-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f5350df7e705354d8b8973f639e66d9
+    m_Address: Orbs/Instigatorb-Lv1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f558ed95e613ea4b941fc380cd1bd05
+    m_Address: Orbs/Spinpoint-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f8258205192e0a4db76a4851a3aa9a3
+    m_Address: Orbs/BestFootForworb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40a82a2c698872d4984d0908c3e95a3d
+    m_Address: Orbs/Exacorbate-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4113ef31545a3be41af8ba40d61c9739
+    m_Address: Orbs/DouballDouball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 411e2b60eb7dc3941b0587c34ad920f1
+    m_Address: Orbs/Bouldorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41f6c4b1cd791784ba5f9b531caba6cf
+    m_Address: Orbs/GoldPeg.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4286368b0f13b434a94b8bf9cd0e6362
+    m_Address: Orbs/Protectorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 432d9812c7230ec469d100db1b325382
+    m_Address: Orbs/CritDamageToBallusion-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 446e06666a253df469d524b19197a7c6
+    m_Address: Orbs/Lazorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 457eeff30210a4e46afc383800bec505
+    m_Address: Orbs/CauldronBubball-Lv2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48075640237a8ad41bbc09674388461a
+    m_Address: Orbs/AssemballPiece-Red.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48a45ed8e2f272d4f81c01273341a3c3
+    m_Address: Orbs/Necorbmancer-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 492d140113b13de4cbfa7c68556a6fae
+    m_Address: Orbs/DoubleDamageSlimeOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49c56bb721ee4e24eac63963491655cb
+    m_Address: Orbs/PupilOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a183bb02d49a8141a2e8ebfdf003c2c
+    m_Address: Orbs/Duplicatorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a4e079e8f327a7449b0aa0dc869286c
+    m_Address: Orbs/AngryTomahawk-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e0f21f2ad152ee4e830eebf0ff2ce84
+    m_Address: Orbs/Terriball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e6c08980e81d4649984f343793d29cf
+    m_Address: Orbs/GlassHalfBall-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea96dab8675e7744919656505b987d2
+    m_Address: Orbs/Restorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ef0949805f8ad640ae506d656fc443c
+    m_Address: Orbs/Irresponsiball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f6dee1e3b057cc4f98fc93c9eef6af4
+    m_Address: Orbs/SpinterestPayment-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5024699d65bcf424abbe0ff9b7610dd5
+    m_Address: Orbs/VampireOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5041e331ea7459841b41dfd9bfb8da1c
+    m_Address: Orbs/Orbust-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51397443f72ee6e49965c5cf06b6d87c
+    m_Address: Orbs/RenewedVigorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52680b566368fc4449a4c2d64a70bba6
+    m_Address: Orbs/Bullyball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 537baa7e7e3605140b4dbb7776e3cb0f
+    m_Address: Orbs/Orblation-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 559f1f9e3681255468310541423a6b38
+    m_Address: Orbs/Orbelisk-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55c3b813e98bde64a8798f6fa04112f4
+    m_Address: Orbs/Refreshorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59915ca878219cf4084ebe9a7cd36e7a
+    m_Address: Orbs/Extraorbinary-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a750636b95f64d46a3d83e0541cc1f2
+    m_Address: Orbs/BlindOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bdaad70c08e9bd4d93185fba178d072
+    m_Address: Orbs/Balleviation-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c701c2273e97064d8af10caee4fed5f
+    m_Address: Orbs/AngryTomahawk-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d0ccca7349c6e642848e0f1bcb29a47
+    m_Address: Orbs/Nimball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d9de1bc16cbf0d4aac719bd65580730
+    m_Address: Orbs/Protectorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e289b0f6f005da4496989faf3af7e46
+    m_Address: Orbs/Activatorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e304f4454bbf134087ab928edfea4b3
+    m_Address: Orbs/FireBall-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e66fe0381baca34aaff4e9f0367fe7c
+    m_Address: Orbs/DoubleTrouball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f15fa7365f77534999d3780dca8140d
+    m_Address: Orbs/CountOrbAttack-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f1a3f02d68ed6145bbb4e238a5e9b1b
+    m_Address: Orbs/Critorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60996fae6f93a5040817a5f80ae51095
+    m_Address: Orbs/BestOrbfence-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61d159a4fef660d429efb37b1af5396f
+    m_Address: Orbs/AssemballPiece-White.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6312e879fa0a52641aca88c45c5ccd32
+    m_Address: Orbs/PoisonOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 638eca2891b3a0e48a1fe620c3ca083e
+    m_Address: Orbs/Rubborb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6411fe8d77cb3c24ea2ea212b35eeccc
+    m_Address: Orbs/Ohmygorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 642f2ff67674ed0488d8d111632baefd
+    m_Address: Orbs/IceBall-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 644aa3175eefee24ba132c271b5dcc0c
+    m_Address: Orbs/Ballestra-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 653dd902770f3fd4e8d2a4a6c8aa666b
+    m_Address: Orbs/Korban-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 654ff74154531054a87b0a49ba532d61
+    m_Address: Orbs/PotionBallt-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6673e0c5623fb374d9f3e613bfc24b71
+    m_Address: Orbs/Extraorbinary-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66bb6a64fced8724094fb8cbc0234f28
+    m_Address: Orbs/Exacorbate-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 688f9e9c7f61aab418db6b6a3ff97ebe
+    m_Address: Orbs/Worbhammer-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69901ef703970ef4db9c4a64178049da
+    m_Address: Orbs/BestFootForworb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 699743926b9d3b640b5cdd097cb94f18
+    m_Address: Orbs/Forbification-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a282b60a131ca647ac92adb2ec9d9a4
+    m_Address: Orbs/Eviscorbate-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a343f7a88f939d44b654be1ccd0b73a
+    m_Address: Orbs/AssemballPiece-Yellow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aa1f5bb51c63b744a55e95174f37e12
+    m_Address: Orbs/Ballectrum-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ac7c30b7f6f1784ca952fea77dc2534
+    m_Address: Orbs/Cleavorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b503635d9b165748bff022c62f6df14
+    m_Address: Orbs/Oreb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b534ae5ec284dc4b9f19aea898375d5
+    m_Address: Orbs/Twinorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c3c3bd2ff0a7e94e8af0698dffc0f47
+    m_Address: Orbs/Morbidorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c706d1f243173a47ae905ea0515d33c
+    m_Address: Orbs/Jupitorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c73510496c988044976f2572de91e6c
+    m_Address: Orbs/Morbidorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6da041fcabcff374dace62c86ee5c187
+    m_Address: Orbs/ChemiballHazard-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6df951bade32a3648a48995b42220686
+    m_Address: Orbs/Orboros-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 718163c6e59fb264594517a0de928106
+    m_Address: Orbs/Orboros-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72727a5707797e04f910a43069f14aca
+    m_Address: Orbs/Horriball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7724772f5ff6a714ebc7d336f2477026
+    m_Address: Orbs/Activatorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7787d05e087ad78408d7c62610acb02c
+    m_Address: Orbs/ChoppingBallock-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78272571593025b4db8b816b5c40095b
+    m_Address: Orbs/PotionBallt-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 783bb9f1d4e7288448ca901d7faa0a5f
+    m_Address: Orbs/LightningBall-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78449c9bc0f743b48baa55c99319fc0f
+    m_Address: Orbs/LightningBall-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7860c13db7bd64742945d9b60183c287
+    m_Address: Orbs/Ballad-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78645f95102f4a1428d51a7fe65e5381
+    m_Address: Orbs/Lazorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7865b96823de99043b6f7e2a9e5356b1
+    m_Address: Orbs/EvasiveManeuvorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 798a317f917485e4b84173e25e5ee904
+    m_Address: Orbs/Ballanx-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a1236243fb670d4c979d1a47a0b7ffb
+    m_Address: Orbs/Oreb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7af4f0cec0612894aa56d678492193c4
+    m_Address: Orbs/Ballad-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b68ab23e08438e428dc6301b4b9d49f
+    m_Address: Orbs/SummoningCircle-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b81778953ecab4459c57467b94b9efc
+    m_Address: Orbs/FireBall-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d196fa58356ccd4ab56f2d2dd780cc3
+    m_Address: Orbs/Sworb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d72789e8bb60104c88c1fc9af30f2b1
+    m_Address: Orbs/Cleavorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d73feeecf5e9b3458e4bad15bc4001e
+    m_Address: Orbs/Echorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dd7ff5a7863960458e7b417a4fb60c5
+    m_Address: Orbs/Eviscorbate-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dda3c5c44b31d5499ae434fa75a97d0
+    m_Address: Orbs/ChemiballHazard-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7df096374e6675e4593b099ae997b544
+    m_Address: Orbs/RubberApplierOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f5ebe6e032b46749a9c7e8d9b62da33
+    m_Address: Orbs/ShuffleOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81875ca2b5f47ba4691bdedbfb3b584f
+    m_Address: Orbs/Swashbucklorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81d9ba7a9e394e0418b5b0b1867201b1
+    m_Address: Orbs/UltraBuffOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 821ec34d4a7945b4785b826969306c66
+    m_Address: Orbs/Daggorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82aefaf31da68614c8addb68c5338f15
+    m_Address: Orbs/GhostOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84473dfe32c767c449b47834d9440f2e
+    m_Address: Orbs/Swashbucklorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8496fb8f6e6d6ac4ea401b9b6b2d0eac
+    m_Address: Orbs/Splatorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84bfae8b29f154a4e8bfac10b53e53b0
+    m_Address: Orbs/BrambleBall-Lv1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8560971c902cabd42b96205446c61264
+    m_Address: Orbs/DoubleDamageSlimeOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85aa4c223e5e41a4198c6ffffe1e8676
+    m_Address: Orbs/RenewedVigorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85d3b5873c1e5f44b8456e536ff1f7da
+    m_Address: Orbs/Duplicatorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86ac9bd11472b5945a0e286524ae3b18
+    m_Address: Orbs/Critiball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86b218f81025b6c40a49f1a85e7cc372
+    m_Address: Orbs/Mirrorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86c4a0831bc3dbd46bd2d08802adc087
+    m_Address: Orbs/AssemballPiece-Pink.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a20de830a4f63348a1cd004482505b7
+    m_Address: Orbs/DebuffOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a68ab817df3283498ce97bf8d2a36cd
+    m_Address: Orbs/Orbust-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ae0a5cd612e33a40a388bcd669529ac
+    m_Address: Orbs/DoubleTrouball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c13469b7e691f248a318bc804522f0a
+    m_Address: Orbs/VampireOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c45b9e93ef21e041ae3420103e676f6
+    m_Address: Orbs/Refreshorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d15fb7bdbe7c8846881c39decdba08f
+    m_Address: Orbs/Twinorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d468d7913c1c2140882e078dab83886
+    m_Address: Orbs/AssemballPiece-Green.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e6dff749afcd7c4d83f508b475cbf29
+    m_Address: Orbs/Rubborb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f6ae562f0c29564dbb474c5af618bef
+    m_Address: Orbs/Ellucircle-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f74f50b76b39eb49854bc541c2f1bc1
+    m_Address: Orbs/IceBall-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fa7ce81ee0cd714c8534b9cd5bc1902
+    m_Address: Orbs/RubberApplierOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 909299b8eabc8844e8e884ede90c537d
+    m_Address: Orbs/Ballad-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91a322ea4cc393e4f8a888dbbb35cd33
+    m_Address: Orbs/Orbsium-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9235a728acca15d4aa88c30736851091
+    m_Address: Orbs/Electorbmagnet-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 924db84e3a8b7c043ac098303bfd3153
+    m_Address: Orbs/SpinnyBank-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9263a172e43edf0419670cf64f1f08ef
+    m_Address: Orbs/DoubleEdgedSworb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92bc5d44fd44f974187abe4d25f673d2
+    m_Address: Orbs/ToilAndTrouball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93f4d20041236d04392cf3f497bc5449
+    m_Address: Orbs/Exacorbate-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9655a743388b1524886403128297876e
+    m_Address: Orbs/Orbelisk-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 970e2d34a34789a4d9e4fc5280050039
+    m_Address: Orbs/IceBall-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99bc5de69c6acff4ea5ef72f3a531ffe
+    m_Address: Orbs/Jupitorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a5022bd07d438f4191908c799e266ed
+    m_Address: Orbs/EvasiveManeuvorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b517d21a52a2ce4cbb99d2755c10996
+    m_Address: Orbs/Refreshiball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b809650a52b3244591ebd69bda9f80e
+    m_Address: Orbs/BestOrbfence-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c1a74edddfefad43b4a1312299cd7d2
+    m_Address: Orbs/Generatorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ca404404318bd849a4c69b390914e76
+    m_Address: Orbs/Concentrication-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ce6495176375a84aa73f2c2d1de5bc6
+    m_Address: Orbs/Daggorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e1fa007b4a18b74f93ba3d4d8e31ada
+    m_Address: Orbs/CountOrbAttack-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e25eb3017eae6b47a8d3916a0d82285
+    m_Address: Orbs/Snowball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f418b41016e1a647bbf054c7d598086
+    m_Address: Orbs/StoneOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fa05a77a262bba4a9142a3afda76a62
+    m_Address: Orbs/Orbsium-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0bcc5104c7d47342879fefc782fdab7
+    m_Address: Orbs/DouballDouball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0c8b3afbb7631946856997451a7aa66
+    m_Address: Orbs/GlassHalfBall-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1340f06a369f484e90fefdf9c937cb7
+    m_Address: Orbs/Concentrication-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a191dd35c50cd464788ca8f5f5ec05a8
+    m_Address: Orbs/Splatorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1d1b44148c9a4347a36d68311994767
+    m_Address: Orbs/Irresponsiball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a23cd3736bf07754abaf3369e1745317
+    m_Address: Orbs/Roundabout-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2f072be42fc0974193100061d75b001
+    m_Address: Orbs/HighwayOrbbery-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a31ee3665dcd47f40bd2e79c8056dbd7
+    m_Address: Orbs/Matryoshka-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3544e26368f4834ea382d6b86e90a1c
+    m_Address: Orbs/GoForTheIcircle-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3a94fb9874f3f54898e2ad62e4ab6f7
+    m_Address: Orbs/ShockOrbsorber-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4560f645b7e78548947b52861f0788e
+    m_Address: Orbs/SpinDoctorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5e826fd3dfc5fa4c8abd3311a1a1a83
+    m_Address: Orbs/Korban-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a65eb966ebc1f8f47a6688a0409b2359
+    m_Address: Orbs/SpinDoctorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7064abb3876031459972ef82f50b300
+    m_Address: Orbs/BuffOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7a13bc18ccf73d42b707370ca449395
+    m_Address: Orbs/BrambleBall-Lv2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7ee7a4591cf2554595b2250be98718b
+    m_Address: Orbs/Nimball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9b46dc984524df4798f15cfd476eb8e
+    m_Address: Orbs/Bullyball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaef11d295329a04f84ec1d9d7bc796a
+    m_Address: Orbs/Necorbmancer-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab1ce90387a27e84e9fb374c81fbd221
+    m_Address: Orbs/Matryoshka-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad3b3811670c785479d97620a6864b95
+    m_Address: Orbs/CountOrbAttack-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adf8feda09602154db3de0de098c8155
+    m_Address: Orbs/SpinterestPayment-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aef10fa6c10a68a45805f1fd8729dac7
+    m_Address: Orbs/Arccentuate-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0a4cffae442ce647894179a6640ceca
+    m_Address: Orbs/BuffOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b11878ee6d19c6b4d8f686fc08bbbca7
+    m_Address: Orbs/BestOrbfence-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b17596bb662998342bb2f087f6b58871
+    m_Address: Orbs/Memorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b230bb17623f9e640a3fabb0c723f0db
+    m_Address: Orbs/Sworb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b429db0d6e5ea25499a904d006dc789b
+    m_Address: Orbs/Sphear-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4cf97e3522832a459e8adffc357669a
+    m_Address: Orbs/Squirrelball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b624fdc67999bd44691c25df82859e2c
+    m_Address: VineMultiball-Lvl1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b626848d54bfced4abd8d5d835bcf6b5
+    m_Address: Orbs/Circcae-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6d9891c913731a42b4491586fce57c5
+    m_Address: Orbs/Refreshiball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6f03013b2af82d4f8066dbc55299cf0
+    m_Address: Orbs/UltraBuffOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9d1c82e05805bc4e8b939eda3844eb5
+    m_Address: Orbs/DemonSquirrel-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb29357bfe7d1a54590a8955fe8dcc8f
+    m_Address: Orbs/ToilAndTrouball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb3d8019478de0748a7536d1f14de4ed
+    m_Address: Orbs/BaseOrb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb5d7aa0a16d7bc4c918f6536465b3b4
+    m_Address: Orbs/Korban-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb8b1290e2d015642bae364009159596
+    m_Address: Orbs/Arccentuate-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc23eaf860f1837478e51c0af2461ad2
+    m_Address: Orbs/StoneOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcefd3cd9a78246458895b121e231338
+    m_Address: Orbs/Orbelisk-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcf8081fd0be81c4fb89c08f0c903866
+    m_Address: Orbs/Generatorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfb3bf5a720d362409b0ec1800916a9a
+    m_Address: Orbs/Electorbmagnet-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0cd57de465adac49a8aaf1e9ec8d582
+    m_Address: Orbs/Susceptiball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0e367fb486b9e34e920fb44089386b7
+    m_Address: Orbs/GoForTheIcircle-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c30402e858f52b44ea28fae7598e5926
+    m_Address: Orbs/SpinDoctorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c421c13defda5fd4fa11572192996de6
+    m_Address: Orbs/Bob-Orb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4ba6b862d28cc8488327c6130827866
+    m_Address: Orbs/UltraBuffOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4fbe4d66f51a224587b48a0d4c55a2a
+    m_Address: Orbs/Snowball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c51a5660ff0889a4dae9eea5908bace6
+    m_Address: Orbs/Doctorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c75f71db4f969cb4da9b46eb30718a06
+    m_Address: Orbs/Sphear-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7fe129af41da024a8cdd497a4c311e4
+    m_Address: Orbs/GoForTheIcircle-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8679de84b7293f4191137e800cc23cd
+    m_Address: Orbs/Jack-orb-lantern-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c92a67b9f0177b144bd8850b5d666a7e
+    m_Address: Orbs/BlindOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9d341b5d06f5c14a9b755100ec8f83b
+    m_Address: Orbs/AngryTomahawk-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca15a1bcc70a9e147a3ece8eac510f03
+    m_Address: Orbs/Ohmygorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: caccb6d32d696de48ae402b827fba64e
+    m_Address: Orbs/CollatorballDamage-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb03750015cf73440a1a368e0369db38
+    m_Address: Orbs/VineMultiballSmall-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdb3d1d42c286c941a403fee8d8926be
+    m_Address: Orbs/StoneOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf38ad15546cbcb42b521666ffd5576e
+    m_Address: Orbs/VineMultiballLarge-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf908d4123cb8394ba4a0e271d9ba89d
+    m_Address: Orbs/OffeRing-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf95fa3dc8f9e654c991db8d78b1f5b2
+    m_Address: Orbs/SummoningCircle-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfd6915ffb517714087c21d094d2b014
+    m_Address: Orbs/Sphear-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d06446295326d064e8451d7528d640d0
+    m_Address: Orbs/Doctorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d19ef4a8c1af6524995fe81de0bf163e
+    m_Address: Orbs/Bouldorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1b948ad40cedb949a3f39cfa2d2c860
+    m_Address: Orbs/OffeRing-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1dabe5a159371d43aa77fa388e77591
+    m_Address: Orbs/HighwayOrbbery-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d283c02b29bd06e4bb8d7157d11a721b
+    m_Address: Orbs/ChoppingBallock-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b9320a2da859940bc33074067effec
+    m_Address: Orbs/Orbust-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3bdf94646a333447be66081ff10316b
+    m_Address: Orbs/Ballestra-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6041362846eaee418aa10603af2f1c2
+    m_Address: Orbs/Susceptiball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d65937841edffc5418f0c0b312fa98dd
+    m_Address: Orbs/PoisonOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d785c683434d7c64ea5b2746c9ade5a4
+    m_Address: Orbs/CauldronBubball-Lv3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8ef7d376a2d1be4990225b0f420f38f
+    m_Address: Orbs/SpinterestPayment-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcb057459ab928642852d332b499b51c
+    m_Address: Orbs/Instigatorb-Lv2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd12414c5d54771429169cc998d5173a
+    m_Address: Orbs/Generatorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd5f9a18d2f94694e99e05d59ad179e5
+    m_Address: Orbs/Sworb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddabbb0c66649894a97daa9e05f83a2a
+    m_Address: Orbs/FireBall-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de045c898a3f06a4f92ab4dc00834c2c
+    m_Address: Orbs/Necorbmancer-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de9a9c1cda10cd744bcd4f0cae5798c0
+    m_Address: Orbs/README.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dee0c1df4feb07b4d94af968e42a391b
+    m_Address: Orbs/DoubleEdgedSworb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df2b5130f3e40714caae08af766d870f
+    m_Address: Orbs/Orbrasion-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e03c6206dae41864d9d40a0d5f5ec5a4
+    m_Address: Orbs/BestFootForworb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e093a634310d13d4ab0af4d6e540b43e
+    m_Address: Orbs/Bucklorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2bc5755adb105242955dac991ff52fb
+    m_Address: Orbs/PoisonOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e39d486333f2f5849ae8e13bb2d9c9b9
+    m_Address: Orbs/Twinorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4f61ea111c9869459fa390e49d84be2
+    m_Address: Orbs/Ballanx-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e68e84526bbb5a34fa0d833c7ec66a37
+    m_Address: Orbs/Jack-Orb-Lantern-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e73e160036ba639479de6eed7e837cf1
+    m_Address: Orbs/Critiball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7a4376f568e8c94c97bdb2e53bffe80
+    m_Address: Orbs/Worbhammer-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e872deed5625c0042bb3d5707a9a07af
+    m_Address: Orbs/Bob-Orb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9631dd75095a7046929792a92fc5943
+    m_Address: Orbs/Critorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e983b958032751e4c8be2eb419c53a5d
+    m_Address: Orbs/Ohmygorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea3768376c74f3443ad3beaadfb471c4
+    m_Address: Orbs/Ballm-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebbb0b586f6c4824284631052ca8e347
+    m_Address: Orbs/Assemball-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebf7ffa173cf3b0458f23e4340c2c9ee
+    m_Address: Orbs/Extraorbinary-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec9ff7a204a6dac468e8b13a02558952
+    m_Address: Orbs/PupilOrb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed414163135c03d47b247ae42864513a
+    m_Address: Orbs/Orbrasion-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edc1a8844572fb247b450bad5bdcb182
+    m_Address: Orbs/Eviscorbate-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eebb41bfd9a0ea04fa5bdb9ed3bb6621
+    m_Address: Orbs/Allorbnothing-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc3e5f6aacf60d439b079e7041ffdcd
+    m_Address: Orbs/PotionBallt-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f06ad9415e824f74a8a80a3e7787366b
+    m_Address: Orbs/SignalBoostorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0abec3ff4c84d8498859a19e0948348
+    m_Address: Orbs/DoubleEdgedSworb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1928855d5378174eaf0104d2e4a21a3
+    m_Address: Orbs/Etherwheel-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f21677e1d91c89a46bde14b29c8e68b6
+    m_Address: Orbs/Bucklorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f306d543f817bc2499e6d4a8fc1217bb
+    m_Address: Orbs/BuffOrb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f34b4f679651f324296a394a96fe437e
+    m_Address: Orbs/Balleviation-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3c373e644ed5394c975535a39a0bbad
+    m_Address: Orbs/Ballectrum-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3da406f1473e8849a646349ba89f491
+    m_Address: Orbs/Egg-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3f531d31db275446814d088e3f4dda6
+    m_Address: Orbs/Ballm-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4308af1df41a19499afbaf4208ed2b9
+    m_Address: Orbs/Rubborb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f475fd56e7639ed4688fa1c954c25199
+    m_Address: Orbs/DouballDouball-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f82a87ac765d37d4487c908afd32f1dd
+    m_Address: Orbs/LightningBall-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f94be4d22469cdf4eba62bb323672a20
+    m_Address: Orbs/Swashbucklorb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faaf3447eb9a4ce419809366202ffa41
+    m_Address: Orbs/DebuffOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb111b010c6ed1140963de3c5ab08985
+    m_Address: Orbs/ChoppingBallock-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc0660f564777a74f8858499e6800bc1
+    m_Address: Orbs/Refreshorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc1dcba7c9efdf949bfdda49161f559b
+    m_Address: Orbs/ShuffleOrb-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc2e005bf34fb29409046ee01a387830
+    m_Address: Orbs/Ballm-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd9c6ef21704eba489eef49b8f946b16
+    m_Address: Orbs/ShockOrbsorber-Lvl2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe17677ed44a9d5419b01cd04e880dfb
+    m_Address: Orbs/SignalBoostorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffbdb338834475b46bead2450a7e223c
+    m_Address: Orbs/Lazorb-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffc9a6b67048d814ca8212e89e132f29
+    m_Address: Orbs/DoubleTrouball-Lvl3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffd002f7b3b66764ab61995a885855fd
+    m_Address: Orbs/Protectorb-Lvl1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Orbs
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3bf87c6ed174fe648887dcf510e8fd4b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1e55c4a3e5f1ae34786698bea92f0c02, type: 2}
+    m_SchemaDisplayOrder:
+    - orbs_BundledAssetGroupSchema
+  m_IncludeInBuild: 1
+  m_IncludeInBuildMigrated: 1

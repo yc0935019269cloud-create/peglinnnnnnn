@@ -1,0 +1,756 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Duplicate Asset Isolation
+  m_GUID: 42b47fc308555c546b909f002dae282b
+  m_SerializeEntries:
+  - m_GUID: 001551e5456098d4c9bfbce6f202a789
+    m_Address: Assets/Audio/GB Sound Assets/Item Drop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03e4958e2facf414f8398ff5101049dd
+    m_Address: Assets/Art/BoardElements/persistentCritLongPegRect.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 054ac428972cf104e8396962c009ff2a
+    m_Address: Assets/Art/Enemies/CastleEnemies/ballista/ballista_arrow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05db082d4601c814d83fc20491396e96
+    m_Address: Assets/Art/BoardElements/Crit Peg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09cd8b3e273a8054ea9fe0369b3bac1c
+    m_Address: Assets/Fonts/ChevyPixelFonts/Fonts/ChevyRay - Bird Seed.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e26f1d9fdbe7e44aa948167563a4ade
+    m_Address: Assets/Art/16x16_rpg/ui (new)/enemy_health_ui_extended.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e5bc765ec54b0c4ebf9a51dec20f959
+    m_Address: Assets/Art/BoardElements/longpegrect.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e6541efad6562d4bacde033ae76e698
+    m_Address: Assets/Art/16x16_rpg/ui (new)/status_effect_icons/bramble_status.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e9a2b8785d5b5b41bfa97c8e72e40bf
+    m_Address: Assets/Art/UI/Controller/Gamepad Prompts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1121fdc77bd5a194099f69cc1c78207d
+    m_Address: Assets/Fonts/bin/ChevyRay - Bird Seed SDF.lfs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14593a653bc15c646869de245f7c6d3b
+    m_Address: Assets/Audio/attacks/Magic_Reflection_Spell.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15d1cdf0f586410498bd297e623d77e8
+    m_Address: Assets/Art/UI/Controller/Keyboard Prompts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1649e2990e2ae344687e5711eea73eef
+    m_Address: Assets/Art/UI/MayUI/Notice_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 170a49ed24e224541b6624b57ed7b15a
+    m_Address: Assets/Art/health_bar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b0f9790bb2ccc04a86ffffceec02d89
+    m_Address: Assets/Data/Pegs/BasePegSlimeData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e0dd280e582a7d4d9ad12a5e1ebd386
+    m_Address: Assets/Art/Particles/Cure(Frame 4).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a226dae821bb0545ac5a2a7ffe7ee59
+    m_Address: Assets/Art/Pegs/Animations/shield_peg_Crack1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b7e47d705a710a498f69de87cf86988
+    m_Address: Assets/Art/Scenarios/orbelisk/Sprites/orbelisk_scenario.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c24eb2146be92e4599b3857de8a3648
+    m_Address: Assets/Audio/JoelBurford/ItemOrCoin/Item or Coin 2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d1e37f6668efec4cb2e134f69289f3c
+    m_Address: Assets/Art/BoardElements/LongPegSlimeMat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d5f475acc945884d86b4cca034d5f6d
+    m_Address: Assets/Art/Peglin/Spinventor/spinventor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2db72f3c2c7b2174daadcc6dc6956a1e
+    m_Address: Assets/Art/UI/PixelUIPack/pixelUIPack.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f16c4d261ef0174c8f4a5cbc8388916
+    m_Address: Assets/Fonts/bin/ChevyRay - Skullboy SDF.lfs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30bfbef534e84164384c6a0cd930cb6c
+    m_Address: Assets/Art/Animations/Animations/stone_slime_dust_Dust_land.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 316eb8fc60277b9488857c0b1cf9f7cd
+    m_Address: Assets/Art/BoardElements/Slime/Sprites/peg_slime.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33c4f4ee297035a43afbc3eaa6130c5a
+    m_Address: Assets/Audio/GB Sound Assets/Low Thud.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e98822b93fe214082d7bae97181c72
+    m_Address: Assets/Art/Pegs/shield_peg.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 384282dada9623d458ad33d55e98c4b1
+    m_Address: Assets/Art/BoardElements/smallpegrect.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38e43fd3fb8b85149bc74407732afcd9
+    m_Address: Assets/Art/BoardElements/critLongPegRect.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39f117812331eb14b978901ef844ab24
+    m_Address: Assets/Art/BoardElements/persistentRefreshPeg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a4a3cf18ea0aad42877d514a80e48d2
+    m_Address: Assets/Data/SpriteShapes/LongPegs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cddcf3914301e246b949fa57d7d4160
+    m_Address: Assets/Data/Audio/PegSfx.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3de7ac881ce62c44dafd43ad518fb1d5
+    m_Address: Assets/Art/BoardElements/persistentRefreshLongPegRect.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e3a37def12f8224d9633c691113139a
+    m_Address: Assets/Art/Pegs/Sprites/peg_coin_small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e47f0eaa5bc89444a657e6f0002f040
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_shine_Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e63bff4c469f9a49ac936b232cba211
+    m_Address: Assets/Art/16x16_rpg/BombAnims/DefaultBombState.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f4b8bbe5cb288d439e00d231f675b11
+    m_Address: Assets/Art/UI/MayUI/Crit_Peg_tooltip.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42c9456b33e15fd42977a6fe5b38e0ac
+    m_Address: Assets/Art/Pegs/Animations/peg_coin_small_Break.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4721f442ab5fe0a468138e204d07f184
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 497c8546d6db6294f94cc6110f7443ba
+    m_Address: Assets/Art/UI/crit_sprite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49fdb0d0ac6afe548b8c6b5bfe30319d
+    m_Address: Assets/Audio/JoelBurford/ItemOrCoin/Item or Coin 5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b412646b93756141ae723267dcce1d4
+    m_Address: Assets/Art/Enemies/CastleEnemies/archer_knight/Sprites/Arrow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bde5570b6ca9aa4abd7d040930b848e
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_crit_Off.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d3521cc39f1f4f42bf601eeb5ab90e6
+    m_Address: Assets/Art/BoardElements/WhitePeg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d8fa242b5c57794099f8d2651b5eba3
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_shine_on.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ec7b6148bd57d7459c001b0b2c90632
+    m_Address: Assets/Art/BoardElements/small_rect_peg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 504dc88b28125164bacc20bcd7407cc1
+    m_Address: Assets/Art/BoardElements/Slime/SlimePegShineAnimator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 508b7fd7a725c624b8f6cf039ce545cd
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_Off.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53253ca1fa334f34284b1bd502c64a88
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_cleared.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 537803d49ed5c784caf13dbb4c65bcfa
+    m_Address: Assets/Audio/attacks/impact/Combat_Shield_Block.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 539c0b287c85ee845ba9c7cfb83c902b
+    m_Address: Assets/Art/Tiles/tileset.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 597d90e730cb99e49b2111a43ebc04ae
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_shine_Off.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c113a23b7c6d7f4e91e6e74391bf8bb
+    m_Address: Assets/Art/Pegs/Animations/shield_peg_Shield.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c65fb432ba2c1446a1979d9da654921
+    m_Address: Assets/Art/Relics/Sprites/grubby_hand.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c7583a313421094aa3db6a539e67206
+    m_Address: Assets/Art/UI/reset_sprite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fa5e9bf46716e34489d1b570d8832fb
+    m_Address: Assets/Fonts/ChevyPixelFonts/Fonts/ChevyRay - Pinch.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fce6506154c2c740ab4ce039b928ef5
+    m_Address: Assets/Art/UI/MayUI/StatusEffect_Shadow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 613f3154b1f370847898f3451332048e
+    m_Address: Assets/Prefabs/UI/Battle/Status Effect Icon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63005b945c3b7aa49a47d5a68c506945
+    m_Address: Assets/Art/Forest/tree_with_hole.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63083a0f621096840a5fff9e3bf7b457
+    m_Address: Assets/Art/UI/plus_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6359d30f808ffba448f35a94dc11b1a9
+    m_Address: Assets/Art/Pegs/Animations/peg_coin_Break.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65ad598b181f5ec4eb0667ad5d2125bf
+    m_Address: Assets/Prefabs/PegText.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66aed29c5189ab04698c5ead73fae24a
+    m_Address: Assets/Art/Particles/Cure(Frame 1).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 684d3d1582ec1eb46a2c7834b85a077d
+    m_Address: Assets/Art/BoardElements/critLongPegRect.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 684e240622e934b49a005c3b1f2a2226
+    m_Address: Assets/Art/Animations/Animations/stone_slime_dust_Dust_Jump.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68648ad68da73e544b201a6252f8230b
+    m_Address: Assets/Art/Particles/Cure(Frame 2).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69428840c7e496547ace4862985d7e5c
+    m_Address: Assets/Art/Orbs/goblin_orb.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69b8ab48c6bf19b4681460c429b580cf
+    m_Address: Assets/Art/Forest/ForestEnemies/slime_boss/slime_health_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bd6d9e77271a0346a56418d87eb3c43
+    m_Address: Assets/Art/BoardElements/LongSlime.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d4b607a5cbd616489a1cedfc68c6baf
+    m_Address: Assets/Fonts/bin/ChevyRay - Love Bug SDF.lfs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f4877431064f1f45a41819676df4b09
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_on.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 715698906ead88c44952534a114aca67
+    m_Address: Assets/Art/Pegs/Animations/shield_peg_Crack3.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71b61b7b69fa95d468aa3f72d894891f
+    m_Address: Assets/Art/Pegs/Animations/peg_coin_Appear.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 726018c449daa6a409b74da22e508003
+    m_Address: Assets/Art/Scenarios/Sprites/purple_mirror.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72de3f2674091804ab2187de39aeccee
+    m_Address: Assets/Art/Animations/Animations/stone_slime_dust.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 762bdd62120bd8e41b7dce11148607dd
+    m_Address: Assets/Art/Particles/CureParticle.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 779bd0d79c2f719499f119170fb946ae
+    m_Address: Assets/Art/16x16_rpg/BombAnims/Rigged/RiggedBombHit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78e132f8e6bf5884a89d8a556d2cad15
+    m_Address: Assets/PhysicsMaterials/BouncyBottomBouncer.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 793c7601ee485de428732a531f33fdd6
+    m_Address: Assets/Art/BoardElements/Fire/peg_fire.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7964d1bebf0523f4f9a7bed20073051c
+    m_Address: Assets/Art/Scenarios/Animations/purple_mirror_Animation.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a437ee726698534dbc934782023a49b
+    m_Address: Assets/Art/BoardElements/Slime/Sprites/peg_slime_crit.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7aeaa1911a013b2469e1431a93fc8874
+    m_Address: Assets/Art/BoardElements/longpegrect.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b3e98b8a74fbf547b21b91bd6dbadbf
+    m_Address: Assets/Art/BoardElements/refreshLongPegRect.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c1595d9478acd84ead1058d6dd0757e
+    m_Address: Assets/Art/16x16_rpg/RiggedBomb.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ca0ebf30235d1c4fa2bc90e86ee3dc8
+    m_Address: Assets/PhysicsMaterials/InverseCurveMaterial.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d9dd6418a8f3564886574c4c1fca044
+    m_Address: Assets/PhysicsMaterials/SlimePegMaterials/RubberSlimeMaterial.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f423d2409fbea44189fab57dbf6d234
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_crit_Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81a7d31652d5b534fbd3354e5223faf1
+    m_Address: Assets/Art/16x16_rpg/Hit bomb.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8251ece6b3b8e1641ac2e03769475bf8
+    m_Address: Assets/Art/Relics/Sprites/branch_of_ember.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82986e1ff9c24cd47bafa425b6e6b0c8
+    m_Address: Assets/Art/BoardElements/persistentRefreshLongPegRect.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85f0684f686244441aa9ba1113a27f7b
+    m_Address: Assets/Art/Particles/HealEffect.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dc03e699f7072f4284b6968d504fb60
+    m_Address: Assets/Audio/attacks/impact/Magic_Cure_Major.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 951fa381ba97d7f4f8d7a7d969e98c60
+    m_Address: Assets/Audio/JoelBurford/ItemOrCoin/Item or Coin 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95440c3199fb70b4aba4a1c19e7360f3
+    m_Address: Assets/Art/UI/MayUI/greypeg_tooltip.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97b843ea0502f0f4b822469e742d18e4
+    m_Address: Assets/Art/Pegs/Animations/shield_peg_Break.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f887985ea3d95a4bba7d4a418fe2aac
+    m_Address: Assets/Audio/GB Sound Assets/Eat.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a109d3003cfb9c6479199efea8bdc31e
+    m_Address: Assets/Art/Relics/Sprites/Clock.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a583b5a70375dcf449b02c5a828b41c0
+    m_Address: Assets/Art/16x16_rpg/BombAnims/Rigged/RiggedBombAnimator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a96e506bc1f481142bdb276f5ce3f1c2
+    m_Address: Assets/Art/Animations/Sprites/stone_slime_dust.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9aeb58375ad66b4f9c505f64d8d6f4b
+    m_Address: Assets/Audio/attacks/impact/Combat_Parry_Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeae75414c71e48458d968f09efe429e
+    m_Address: Assets/Art/UI/MayUI/Notice_Nail.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2590ae372da2924898a1da70ac199e4
+    m_Address: Assets/Art/Relics/Sprites/au_auger.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2ec13277eb0069499691fa66bda5674
+    m_Address: Assets/Art/BoardElements/peg_lit.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b436f4fbcedb1f241b83b9f9ef54eb12
+    m_Address: Assets/Art/BoardElements/Slime/Sprites/peg_slime_shine.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5936cc799cfff74ea2a55e516b2bd32
+    m_Address: Assets/Art/Particles/Cure(Frame 3).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7aa614de369e3c4db5869d672fd5a58
+    m_Address: Assets/PhysicsMaterials/PegMaterial.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba31f5a9a09abc540844a651e56d7139
+    m_Address: Assets/Audio/GB Sound Assets/Power Hit.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd2cf08776a27d1449e7dfbfef38b7e0
+    m_Address: Assets/Audio/UI/16-bit/UI_Equip_Major.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bde0c38cdfe684b41b7cf00bfbda3b71
+    m_Address: Assets/Fonts/ChevyPixelFonts/Fonts/ChevyRay - Skullboy.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3f6c4aa479757b4db4eeac103f29092
+    m_Address: Assets/Art/16x16_rpg/BombAnims/Hit bomb_Hit_bomb.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4d6076803a0cf742b959a5705c577eb
+    m_Address: Assets/Fonts/ChevyPixelFonts/Fonts/ChevyRay - Love Bug.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb27b7ec8ceef7048816fd349284fb40
+    m_Address: Assets/Art/Pegs/Animations/peg_coin_small_Appear.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccf1fda113f9ef14b9977a98049eba3f
+    m_Address: Assets/Art/Pegs/Animations/shield_peg_Crack2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cde7cabbf69d34e46924e4b0e304e86d
+    m_Address: Assets/PhysicsMaterials/BottomBouncer.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d049b793f860d704d9d56139d7b63445
+    m_Address: Assets/Art/BoardElements/Slime/SlimePegCoreAnimator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d116d8259c1861e46806d5aaa6602811
+    m_Address: Assets/Art/BoardElements/Slime/Animations/peg_slime_shine_cleared.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d260216d82481dc4292868f8893f3207
+    m_Address: Assets/Art/16x16_rpg/ui (new)/status_effect_icons/status_effect_flash.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7fafbfd85029e547a510fdae9350d4b
+    m_Address: Assets/Audio/SuperFXMisc/Magic_Healing_Medium.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9273a96d695dbe4b9e951b53b440683
+    m_Address: Assets/Art/Pegs/peg_coin.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d93eb54ff2201e94aa29b63899d84fa9
+    m_Address: Assets/Audio/attacks/impact/Combat_Wood_Block.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db672648b7439064eb511447c98ca9a5
+    m_Address: Assets/PhysicsMaterials/SlimePegMaterials/YolkSlimeMaterial.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dba876c28a06299409f2352b03cadc86
+    m_Address: Assets/Art/BoardElements/Fire/Animations/peg_fire_fade_out.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbb5e4150a0d35e4ca10d5bbe8e9ce5b
+    m_Address: Assets/Art/BoardElements/refreshLongPegRect.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc5b2c3e937382a429c43181340804e8
+    m_Address: Assets/Art/Pegs/Sprites/peg_coin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcaf7160e64ef0d4b8d6982370b43937
+    m_Address: Assets/Art/Relics/3rdParty/Icons/skull_01b.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcf853253c892584e95d2547905431ca
+    m_Address: Assets/Art/16x16_rpg/BombAnims/Rigged/RiggedBombDefault.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddd8ab7790c74c44b91ebddf00a46532
+    m_Address: Assets/Art/Pegs/Sprites/shield_peg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: def6d71b2af05c2429e169bcf4c890f4
+    m_Address: Assets/Fonts/Silver.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e175fab52313b464b9f2a36f9f3e81b8
+    m_Address: Assets/Audio/JoelBurford/ItemOrCoin/Item or Coin 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6dd16fdf2d8e5c4a807e0f16637cf38
+    m_Address: Assets/Art/16x16_rpg/effects (new)/BombAnimator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed18f36c7fbe39349a3687bb0197b9db
+    m_Address: Assets/Art/BoardElements/Refresh Peg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed616dea3c814284d8f6055e2509d89e
+    m_Address: Assets/Art/BoardElements/Fire/Sprites/peg_fire.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eddfdd1e1aadfb84da1d16b0c2437a33
+    m_Address: Assets/Art/BoardElements/persistentCritPeg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee26ce7d8415bcf4e9eceb7bfd0663d9
+    m_Address: Assets/PhysicsMaterials/SlimePegMaterials/SlowSlimeMaterial.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee465af1dcabf5e45b7d2ac8a33bb38a
+    m_Address: Assets/Art/Scenarios/Sprites/haglin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eeab9e6bd0bbc294584a47e21f827d3b
+    m_Address: Assets/Art/BoardElements/ShieldPegOverlay.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3b0fdb6ffb340643bb46a00f5a8707d
+    m_Address: Assets/PhysicsMaterials/CurveSplineBounce.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f80481bba7508634ba009d77ac94412d
+    m_Address: Assets/Art/16x16_rpg/ui (new)/health_ui_v3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8336c5e47256184e87de864fc730334
+    m_Address: Assets/Fonts/bin/ChevyRay - PinchOfSugar.lfs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f841ff89b368f614f9a19b2a0e1c3131
+    m_Address: Assets/Audio/enemies/Combat_Beast_Attack.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8cb1f015f1145947a968c73d56e938d
+    m_Address: Assets/PhysicsMaterials/NoBounce.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f91d3c605a6db6249bd69032510535b5
+    m_Address: Assets/Art/filled_circle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa8fc9fa393eb314fbc651ca36a6b4c6
+    m_Address: Assets/Art/BoardElements/Fire/Animations/peg_fire_idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fac1bf09efe415d46bfc3528fbeed1d6
+    m_Address: Assets/Audio/JoelBurford/ItemOrCoin/Item or Coin 6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fafa74fc5d3c77b44b93a29c42160245
+    m_Address: Assets/Art/BoardElements/persistentCritLongPegRect.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc25668a4307b384aba1af6e6d6ca29e
+    m_Address: Assets/Audio/attacks/Magic_Shatter_Crystal_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3bf87c6ed174fe648887dcf510e8fd4b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8d275f5d7b316b54e854b09a7b046494, type: 2}
+    m_SchemaDisplayOrder:
+    - Duplicate Asset Isolation_BundledAssetGroupSchema
+  m_IncludeInBuild: 1
+  m_IncludeInBuildMigrated: 1

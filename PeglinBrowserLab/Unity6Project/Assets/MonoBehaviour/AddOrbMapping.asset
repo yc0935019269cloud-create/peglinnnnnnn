@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1137b4c16e58fa256416e83303539a0, type: 3}
+  m_Name: AddOrbMapping
+  m_EditorClassIdentifier:
+  _switchIcon: {fileID: 21300000, guid: 67b8100061282e841a4954757ce4bc47, type: 2}
+  _switchIconPressed: {fileID: 21300000, guid: ba6a05fc712d72447b644238742fdd44, type: 2}
+  _xboxIcon: {fileID: 21300000, guid: 6e39fe997798772488a1e0930ecea559, type: 2}
+  _xboxIconPressed: {fileID: 21300000, guid: 7d090bc5c6ad0704f85548bad7149fac, type: 2}
+  _psIcon: {fileID: 21300000, guid: e827c161e079dd3459bc04f6abc700d6, type: 2}
+  _psIconPressed: {fileID: 21300000, guid: 0debfee8555ec744e83ab2f5ee2d88fe, type: 2}
+  _keyboardIcon: {fileID: 21300000, guid: cfec72144fb5e93419b0715894171adb, type: 2}
+  _keyboardIconPressed: {fileID: 21300000, guid: ec952b36702d5544ca71cf4b4b1ee6cf, type: 2}

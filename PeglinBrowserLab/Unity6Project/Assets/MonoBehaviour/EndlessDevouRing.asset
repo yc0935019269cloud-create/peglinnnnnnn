@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: EndlessDevouRing
+  m_EditorClassIdentifier:
+  locKey: all_orbs_debuff
+  descMod:
+  englishDisplayName: Endless DevouRing
+  englishDescription: Attacks deal <style=dmg_bonus>2x damage</style> but every <sprite name=PEG> <style=activate>Activated</style> gets downgraded <style=dmg_negative>(-{[ALL_ORBS_DEBUFF_AMOUNT]} damage)</style>.
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 6442c4af153b476459843e675d01cf7a, type: 2}
+  useSfx: {fileID: 0}
+  effect: 154
+  globalRarity: 3

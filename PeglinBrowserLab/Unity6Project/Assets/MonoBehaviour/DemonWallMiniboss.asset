@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: DemonWallMiniboss
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: a95ca55ba5ba66a498dad53a12dc1cc2
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 047cb65cbafe7924fa8fd507c211456c, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 6ccbb7d1dc8ee204999f367942892ac0, type: 2}
+  LocKey: demon_wall_miniboss
+  location: 2
+  Sprites:
+  - sprite: {fileID: 21300000, guid: f25256585381f0a4c926cf2d75114786, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 1989
+  MaxHealthCruciball: 2500
+  MeleeAttackDamage: 25
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 25
+  PointsOnLoot: 50
+  ChallengeReward1: 0
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.15
+  CardDropRate: 0.02
+  Type: 1

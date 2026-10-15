@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bdc9ba1114ab4b0ae21aed9cfda85b, type: 3}
+  m_Name: PotionSfx
+  m_EditorClassIdentifier:
+  SlowAttackClip: {fileID: 8300000, guid: 80b2329da713c16468e9e08b52a4cec5, type: 3}
+  FastAttackClip: {fileID: 8300000, guid: 80b2329da713c16468e9e08b52a4cec5, type: 3}
+  OnHitClip: {fileID: 8300000, guid: fc8ee1158d42db6499eff00b98b3c290, type: 3}
+  OnWhiffClip: {fileID: 8300000, guid: 56a9e0f96ef4d2644a03df6ff47916bb, type: 3}
+  ForceSfxThreshold: {fileID: 11400000, guid: 5f5c43dff0be5434490755de8de4763a, type: 2}

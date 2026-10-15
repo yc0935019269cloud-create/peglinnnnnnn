@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1137b4c16e58fa256416e83303539a0, type: 3}
+  m_Name: MapIcons
+  m_EditorClassIdentifier:
+  _switchIcon: {fileID: 21300000, guid: 7a0e037f1522ecb46b370dfbc8daeebf, type: 2}
+  _switchIconPressed: {fileID: 21300000, guid: fa617bd64f0bcbf43b5d6be5c98d84f4, type: 2}
+  _xboxIcon: {fileID: 21300000, guid: 331c8c072c16ae144b4562db20ade34e, type: 2}
+  _xboxIconPressed: {fileID: 21300000, guid: 3aebd2a7717c1b24fb290e005e0d9434, type: 2}
+  _psIcon: {fileID: 21300000, guid: 30809ce8c97ebbb48b6769c584030237, type: 2}
+  _psIconPressed: {fileID: 21300000, guid: 53b14d02a7e64fe4c970cdaa2ba075df, type: 2}
+  _keyboardIcon: {fileID: 21300000, guid: 8c26d54ce255b9642ad8baff86b56926, type: 2}
+  _keyboardIconPressed: {fileID: 21300000, guid: 90fd2846a83fa8e43a49de3b8edb8fe7, type: 2}

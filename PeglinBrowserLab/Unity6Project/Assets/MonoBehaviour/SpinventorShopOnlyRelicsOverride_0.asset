@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86f0fb2b747711d6abfd50db56b0bdae, type: 3}
+  m_Name: SpinventorShopOnlyRelicsOverride
+  m_EditorClassIdentifier:
+  _relics:
+  - {fileID: 11400000, guid: efd55bf932122a047ab142695943386c, type: 2}
+  - {fileID: 11400000, guid: 279d2ee6401bfcf48af90efa34343c66, type: 2}
+  - {fileID: 11400000, guid: 38733c3616e94274fa93df0093166d8f, type: 2}
+  - {fileID: 11400000, guid: 76619db29fca22e47856c26ff45f95eb, type: 2}
+  - {fileID: 11400000, guid: 5f6beea60a83ef64e83ab39cbafb4d19, type: 2}
+  - {fileID: 11400000, guid: 492f9de7d7b2af34a9f2c41e462f9173, type: 2}
+  - {fileID: 11400000, guid: c10ae86fe58b22848a05791a74736225, type: 2}
+  - {fileID: 11400000, guid: c0183e1d90f09b64c9d73b7db977c8d6, type: 2}
+  - {fileID: 11400000, guid: 21ce2b4351a730b49808ca5aa6157f3e, type: 2}

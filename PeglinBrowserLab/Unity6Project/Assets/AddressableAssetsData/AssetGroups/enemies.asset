@@ -1,0 +1,938 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: enemies
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: enemies
+  m_GUID: 0b25e91236ed2ce4d9bba18b7fcb6faf
+  m_SerializeEntries:
+  - m_GUID: 02d70c1986fad9d4e8e51dbcbb14a663
+    m_Address: Enemies/Bosses/PainterBossProjectile/paintMaterial.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0769e882d8c0bff4e880961c30b3b155
+    m_Address: Enemies/Beasts/SpiderMines.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07f8a4a198132564c856b896da5ae8f8
+    m_Address: Enemies/Humanoids/KnightWeak.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0885e8c3f5f3d4c44b9a7b2dc11a6ca6
+    m_Address: Enemies/Bosses/PainterBossProjectile/PaintProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08975df45c2d5ae47970356801dbb7aa
+    m_Address: Enemies/Bosses/OrbserverSwordProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c082c6f60aa2584493225850e3a7b06
+    m_Address: Enemies/Slimes/NoSwordVarients/SlobeliskFire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ccf08b60df6bdd40a4dddb1b1174568
+    m_Address: Enemies/Humanoids/GoblinFlyingSapperMinion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d054e987ee5ead47bb0c26932f91798
+    m_Address: Enemies/Bosses/BallistaProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0da63e5294a09424ca175e9341ee2be4
+    m_Address: Enemies/Bosses/SuperSapperBossPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ef6f046c4d9e464bbca109d7d2a5b8c
+    m_Address: Enemies/Bosses/SlimeLobMaxHPAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 128ad28c3b63401478b40c1b6a572be1
+    m_Address: Enemies/Humanoids/ShieldKnight_Variant_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12cd2cad81c899046aca3c91e7565f8f
+    m_Address: Enemies/Bosses/PainterBoss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a21b4042ad720249becf4efb98ee8d7
+    m_Address: Enemies/Slimes/NoSwordVarients/RedSlimeEnemyNoSword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ae480262b24a4548bef3915d70c37cd
+    m_Address: Enemies/Humanoids/GoblinFlyingSapper.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1af7722960e4eb94fa6876ddf16f2f80
+    m_Address: Enemies/Humanoids/BeamProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c0b26dd43419c041a30e4b29122b1ec
+    m_Address: Enemies/Eldritch/GhostMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c981c4e82a88c94ca2ef8ffa83c4586
+    m_Address: Enemies/Slimes/SlimeGoopProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e60f69c1bcb16a459cbafc5ccbec257
+    m_Address: Enemies/Material/MimicArcingProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 217f57df2a6dad349b8368208735e57e
+    m_Address: Enemies/Material/PaintingRightOffset.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 236ceb4672010494f9ae20e48f343c0a
+    m_Address: Enemies/Plants/Plant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24c92eedcb974e5419573cf60b844565
+    m_Address: Enemies/Material/Painting_Variant_Base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25482a5b50655b34d95f4c1d95a28707
+    m_Address: Enemies/Slimes/SlimeMiniBoss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26e8dd426c0c7fa4796f260df728e9d9
+    m_Address: Enemies/Material/ChandelierProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29bb879d84e1f6f4a943b2209d0418bd
+    m_Address: Enemies/Humanoids/Knight_Variant_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29d8531877c231b4a893419d48933add
+    m_Address: Enemies/Bosses/BallistaBossPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a9e63063abfb3a49a981f98da5cf422
+    m_Address: Enemies/Bosses/SlimeBossPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b83eb9bd521cac43884d1d27104d90e
+    m_Address: LeshyBossRootAttack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e0f523b455ae3a49aad2af45b0506dc
+    m_Address: Enemies/Humanoids/ClericMagicProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30534c9a97e40494b9107a8dbef0a657
+    m_Address: Enemies/Slimes/BrickSlime.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30d76cf074ec2734cb54f05c36869edd
+    m_Address: LeshyBushEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31fb65f4b0d02d445ab4c9524c3bdc19
+    m_Address: Enemies/Plants/TreeBarricade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36183124536f0194191ec7dd3fafcc84
+    m_Address: Enemies/Material/CastleMirrorEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36c16e71f8133df4e8d8cc97fe9dce30
+    m_Address: Enemies/Material/BrickBoss/BrickBossHeal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36f014d5bfc740e49b73ffce45bf18b4
+    m_Address: Enemies/Bats/MinesEyeBat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38f470637ab4ca04ab730c80c48b1206
+    m_Address: Enemies/Slimes/PainbowSlime.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 398df0248e09b4a4196dfd122e483d50
+    m_Address: Enemies/Bosses/MoleBoss(Avogadro).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39cd16cc042e9cf4c9f67bcff3075bd0
+    m_Address: Enemies/Material/BrickBoss/BrickBossProjectileBlue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a1154339373a8f4db4a48145b8dfa32
+    m_Address: Enemies/Humanoids/Knight_Variant_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cda9be22382d3b49be231fe37d41dd4
+    m_Address: Enemies/Humanoids/ShieldMageProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e0288ad5bea548418da68217ea4843e
+    m_Address: Enemies/Material/MinesMirrorEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f96fcde8cc61904faec00a0e3d44d9c
+    m_Address: Enemies/Plants/IndoorPlant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 402c6e71dd9e01d438a823b100f66748
+    m_Address: Enemies/Eldritch/MinesInvisibleMinionRanged.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42e60f7fbe9578e4c997fcffab7f3f60
+    m_Address: Enemies/Plants/StompyStompProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 430d31f36f5f297468936df87ab8c36a
+    m_Address: Enemies/Effects/CoinAddParticles.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 461f9c7fda6ad0040bfb4d6c1d5a380d
+    m_Address: Enemies/Plants/Plant2 (unused).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 471d598bb91623942bd2b930c3486dbb
+    m_Address: Enemies/Material/Painting_Variant_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49f327c2e715f77449aa44e0511d235a
+    m_Address: Enemies/Plants/StompyStompDead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4adaf12dac8e51b4cadf2cdd2758623d
+    m_Address: Enemies/Humanoids/ArcherKnight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b413cb4819c7e84eb974296cb9c3271
+    m_Address: Enemies/Plants/MolePlantProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ce5dd7b0262af54bb0b9e280f6627ef
+    m_Address: Enemies/Humanoids/ShieldMagePuff.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e87e446b015c4b4396231c4cf57d9fa
+    m_Address: Enemies/Bosses/SuperSapperCrystalProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50545faac1d3e8841b6bc15e5fe801ac
+    m_Address: Enemies/Slimes/SlimeHiveTreeDoodad.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 518066b818fd11d4492bc4205626e3be
+    m_Address: Enemies/Humanoids/KnightMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55607d09dec2b924b969a095ed1e6688
+    m_Address: Enemies/Eldritch/ShadeMinesMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57459fbf04459114c939ad3635a69ab6
+    m_Address: Enemies/BaseEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5948df69fa6f225429f30df79306b34d
+    m_Address: Enemies/Humanoids/DemonWallFodder.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bb8991d079bdaf408b6515f466c8e6f
+    m_Address: Enemies/Humanoids/BulkyKnight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bcfb0936c1c89e4bb749094f5e03122
+    m_Address: Enemies/Eldritch/MinesEldritchEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5be83898bfc38d843aa3aa2c15f79951
+    m_Address: Enemies/Plants/PlantProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d3c8256f88566444abd16469a998237
+    m_Address: Enemies/Slimes/NoSwordVarients/VoidSlimeEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f0cb091c63259543a8ce7b7547cbb60
+    m_Address: Enemies/Eldritch/InvisibleProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f19e24fd131a6c4dbfd1d020d542345
+    m_Address: Enemies/Plants/SporeshroomProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6503de54b2bb24b42a86e50cb94f45de
+    m_Address: Enemies/Slimes/NoSwordVarients/SlobeliskLifelink.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65c68b5861d94a64dbe2f58155a939fa
+    m_Address: Enemies/Material/ChandelierFalling.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66dea81ab7e1b39429ec5809b81c01b3
+    m_Address: Enemies/Plants/MolePlant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69df41865e2328343b650891e40be970
+    m_Address: Enemies/Humanoids/GoblinSapper.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69e4657b8b986fa4db9ed23c6db7e6d5
+    m_Address: Enemies/Slimes/NoSwordVarients/BlueSlimeEnemyNoSword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bdc002fbffa40a458371ec4587a855f
+    m_Address: Enemies/Slimes/RainbowSlime.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f03a92c671c8ca42aa2cfe7cec4415a
+    m_Address: Enemies/Slimes/RedSlimeEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 725a0279202708a4c984d61cf4fa7cef
+    m_Address: Enemies/Plants/StumpDead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7336592622c88a54aa3f69e0cc9b2588
+    m_Address: Enemies/Bosses/Container-DragonBoss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73a8742ee74165b4a83cbc901fcdd648
+    m_Address: Enemies/Effects/VinesAnimation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7535790c4ef4ed24d949ce9e835ee870
+    m_Address: Enemies/Slimes/NoSwordVarients/SlobeliskGoopProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76b801ac197c38049ae4447cd1fb1e0c
+    m_Address: Enemies/Slimes/SlimeHive.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 779fcb63903c10a408133c5beca7a075
+    m_Address: Enemies/Material/BrickBoss/BrickBossDamage2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78e1cf46d0a66a540a5c5388ccf67def
+    m_Address: Enemies/Plants/Big Plant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c384dd4a204c9747b003ca49ad9f513
+    m_Address: Enemies/Bosses/PainterBossProjectile/splatter.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c8491086704bda4888d05e30bc959ac
+    m_Address: Enemies/Slimes/BlueSlimeEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dc0cbe7ad854a941acb41d85e05d85d
+    m_Address: Enemies/Material/dullTheBoardEffect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e6a248a1e9e85247a395c3cf2e09bb3
+    m_Address: Enemies/Material/BrickBoss/BrickBossBuff.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eaf1f07a03f62041a5046dff8ce4e14
+    m_Address: Enemies/Plants/Sporeshroom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 822b176021860214dae7d74a06d960b5
+    m_Address: Enemies/Material/PaintingProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8749fad8867596644b99f6ce5de1fb72
+    m_Address: Enemies/Slimes/NoSwordVarients/GreenSlimeEnemyNoSword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8804b8ec64d23284b9ee793c35f5168a
+    m_Address: Enemies/Eldritch/MinesInvisibleMinionSingleHit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a2cf7739b04b3a438c0fe00409e9508
+    m_Address: Enemies/Slimes/NoSwordVarients/SlobeliskBlackHole.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a47a64419302674f8097a8b0b9f6818
+    m_Address: Enemies/Eldritch/TurnedKnightMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e2a66951c1e24147bd84707dfddcc09
+    m_Address: Enemies/Material/Chandelier.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ee130c5d5bc70f44ba7b8563912cce6
+    m_Address: Enemies/Material/AddSpinfectionPegsEffect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 910f64b8aae501c468fd901808aeb93d
+    m_Address: Enemies/Material/CastleLightningRod.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 934577c000ff0ac4eb44c1ed778ec8ee
+    m_Address: Enemies/Humanoids/ShieldKnight_Variant_Base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94689e91c72b7804db19b1fcc5c30c9f
+    m_Address: Enemies/Material/Painting_Variant_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96b4d8a0e571d054e92d94640c2308da
+    m_Address: Enemies/Beasts/SpiderForest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2a0bd5bce80f9e43b0f1a15afc3b167
+    m_Address: Enemies/SimpleArrowProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3039b39265be8748bbc57321e797cc5
+    m_Address: Enemies/Eldritch/Slenderboulder.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a43d2800496f02444ac5c0c07ab1bf6e
+    m_Address: Enemies/Bosses/SpiritOfRadiaBoss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7e79cc0adb5aa74ba03bd5919bfe68a
+    m_Address: Enemies/Beasts/MinesWormRangedEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a95ca55ba5ba66a498dad53a12dc1cc2
+    m_Address: Enemies/Material/DemonWallMinibossPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa7bcddc7829cba49aa74e8874a19769
+    m_Address: Enemies/Humanoids/CrossbowBoltProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aabad68127d305d40a8b2cd8feec72e8
+    m_Address: Enemies/Slimes/CrystalSlimeMiniBoss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeabf2215c195064892d4f0d097fe63b
+    m_Address: Enemies/Humanoids/GoblinSapperMinion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af7121567088beb468439674ca58ca82
+    m_Address: Enemies/Humanoids/ShieldKnight_Variant_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afb8c4756164e76439c65e6cb8a42f7e
+    m_Address: Enemies/Plants/Stump.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b15e92337e35aa245838f1f439f8c049
+    m_Address: Enemies/Slimes/NoSwordVarients/SlobeliskMuscircle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4edb9a9568d0db479dd1772bce879eb
+    m_Address: Enemies/Slimes/GreenSlimeEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5f389861cd6ff446a8af047a9d14ce8
+    m_Address: Enemies/Humanoids/KnightRockProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b65ff98453245a54598484830e373200
+    m_Address: Enemies/Beasts/Minotaur.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6ab182b1c60e8e48aa27aad60592629
+    m_Address: Enemies/Humanoids/Knight_Variant_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b78bde2e41919d84099f146e7e40d906
+    m_Address: Enemies/Humanoids/Assassin.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8a49969af45b1b4d9828183163d4970
+    m_Address: Enemies/Slimes/NoSwordVarients/SlobeliskBase.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baad7783c724dd4498b09812dfbb4aae
+    m_Address: Enemies/Humanoids/ShieldMageMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bac6705666c859b47ab8857ddd9eeacf
+    m_Address: Enemies/Material/Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc0e3e8a58ba4cb41a45449dedec5172
+    m_Address: Enemies/Eldritch/MinesInvisibleMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd38b587416cccc43a156ab2d56492e5
+    m_Address: Enemies/Humanoids/ShieldKnight_Variant_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be213d0727125c24280a00c46b9ffd8d
+    m_Address: Enemies/Eldritch/GhostProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf45fec362785f94f9de9209fb1161e9
+    m_Address: Enemies/Slimes/NoSwordVarients/SlobeliskResistances.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfec415929e15604c8d004ee31fcea27
+    m_Address: Enemies/Effects/FlyingCoinEffect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0bc71d00be33b74d80a507f478a774b
+    m_Address: Enemies/Humanoids/ShieldBashProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2cd57c828902504d9dec9889c4ebbfd
+    m_Address: Enemies/Plants/StompyStomp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4168f5441709fb4082a1ece833d5c95
+    m_Address: Enemies/Bosses/DragonBoss(Thesaurosus).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4eb1db54a7ee5d4d9ff7307fdf58565
+    m_Address: Enemies/Bosses/SlimeLobMaxHPAttackFAST.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7d639f099430d5408e711239a44b059
+    m_Address: Enemies/Bosses/MaxHPBeamProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c88eb5882208ce24db2ad03f28a65680
+    m_Address: Enemies/Humanoids/Knight_Variant_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cda1161d1a1d1ad4c91a615dc6ab306b
+    m_Address: LeshyBossPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d00871b40deb1ba408648390adf6bdb8
+    m_Address: Enemies/Bosses/Container-SuperSapperBoss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d167c462bf897e44a9f28ab528631755
+    m_Address: Enemies/Humanoids/ShieldKnight_Variant_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b59cd490b75af4c947f340499e844f
+    m_Address: Enemies/Eldritch/WormRangedProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d66ff460fdd811843a90418bdbcdf4ff
+    m_Address: Enemies/Humanoids/Knight_Variant_Base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d681fe6e8324dba47aa6f0a5f4f0c963
+    m_Address: Enemies/Material/MirrorProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9dd539ad46bf434292aa9e572058651
+    m_Address: Enemies/Material/DemonWallBossPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9ff5322122df0e4dadaf4d4c9e0270a
+    m_Address: Enemies/Slimes/NoSwordVarients/SlobeliskHp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de59feecd38d6494293929f9b2b0a99b
+    m_Address: Enemies/Slimes/SlimeBossGoopProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e102510761e24944391f9aad66567752
+    m_Address: Enemies/Material/LightningRodMines.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2324f028d45ef549ad0f18055127344
+    m_Address: Enemies/Slimes/CrystalSlime.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e63ef63bb2856934e9dff131c2cc4ae3
+    m_Address: Enemies/Bosses/Debug/DebugMole.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e99cb146ebb0c664991a2a2b2d93fd02
+    m_Address: Enemies/Material/BrickBoss/BrickBossDamage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea9f9594a5d1c654dacd25c6d6dde3ea
+    m_Address: Enemies/Humanoids/ClericSmall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec522c9057ebc1a4982b37033c46b563
+    m_Address: Enemies/Material/BrickBoss/BrickBossProjectileRed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee2f3cc99a244544e87d79bc58422ec5
+    m_Address: Enemies/Eldritch/MinesInvisibleMinion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef8ffce67a3b3354b992270b6d658de1
+    m_Address: Enemies/Material/DebugDemonWallMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f218cc708bdc9c94e90ea6dc0d452b9a
+    m_Address: Enemies/Beasts/MinesSpiderProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f22ef59c050ab464c8dfee9a270fdb2d
+    m_Address: Enemies/Material/MimicEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5ff318c9b44fa0428bbbcee0fabdb9f
+    m_Address: Enemies/Eldritch/SlenderlinMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8faeaee716a14849b29f2ab873a46cd
+    m_Address: Enemies/Humanoids/ResistanceKnightMiniboss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f956bff336ed8774d97d23195192a83d
+    m_Address: Enemies/Effects/DustAnimation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa234b63b30c02747b9947d9ef4cde37
+    m_Address: Enemies/Material/Painting_Variant_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa6a5a69baa82b14389cce801b4705b8
+    m_Address: Enemies/Slimes/RainbowSlimeNoCoins.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fabbf975e974e5241a4a64ef801c104a
+    m_Address: Enemies/Bosses/Container-BallistaBoss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb5aaf4e43035884489c6e1e9eb88f34
+    m_Address: Enemies/Bosses/GroundBossRoot.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc00e5a1f6ec55a4a883c0e32a622831
+    m_Address: Enemies/Material/BrickBoss/BrickBossProjectilePurple.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe7a8552208826b46a6673f94c37fffe
+    m_Address: Enemies/Humanoids/DemonWallFodderEnemyContainer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff8ddeaf17976694194bd9e619e01063
+    m_Address: Enemies/Bats/Bat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffb53e3839a96f9478012ece6946ffbf
+    m_Address: Enemies/Beasts/SpiderWebProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemies
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3bf87c6ed174fe648887dcf510e8fd4b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e4c50536387ae764cb2c09d3dec8c575, type: 2}
+    m_SchemaDisplayOrder:
+    - enemies_BundledAssetGroupSchema
+  m_IncludeInBuild: 1
+  m_IncludeInBuildMigrated: 1

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: SpiritOfRadiaBoss
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: a43d2800496f02444ac5c0c07ab1bf6e
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 48bf5cf1884a71d4aa0171fc337bc99b, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 77944c6fc8a595a4c8f9ce94e8a74534, type: 2}
+  LocKey: spirit_of_radia
+  location: 8
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 88664ef03b74a7b4e8335e548779e8e0, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  - sprite: {fileID: 21300000, guid: 70b2d0c2ab4b2c548a064f270c318e89, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: -0.058, y: 4.49}
+  - sprite: {fileID: 21300000, guid: 70b2d0c2ab4b2c548a064f270c318e89, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0.996}
+  MaxHealth: 600000
+  MaxHealthCruciball: 999999
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 8
+  ResearchPointTotal: 1000
+  PointsOnKill: 50
+  PointsOnLoot: 50
+  ChallengeReward1: 100
+  ChallengeReward2: 100
+  ChallengeReward3: 0
+  LootDropRate: 0.25
+  CardDropRate: 0.04
+  Type: 2

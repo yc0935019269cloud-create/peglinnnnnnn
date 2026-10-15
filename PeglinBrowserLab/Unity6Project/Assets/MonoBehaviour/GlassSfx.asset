@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bdc9ba1114ab4b0ae21aed9cfda85b, type: 3}
+  m_Name: GlassSfx
+  m_EditorClassIdentifier:
+  SlowAttackClip: {fileID: 8300000, guid: 27ac29d7f3094c04ab5cdd045dffbc7b, type: 3}
+  FastAttackClip: {fileID: 8300000, guid: 27ac29d7f3094c04ab5cdd045dffbc7b, type: 3}
+  OnHitClip: {fileID: 8300000, guid: 3713fafda031cc34bac3f865c1d11112, type: 3}
+  OnWhiffClip: {fileID: 8300000, guid: d8ae5b99fa9e25643bdb30c5325b6358, type: 3}
+  ForceSfxThreshold: {fileID: 11400000, guid: 96f14c7f1a925af46ab990c115855cbe, type: 2}

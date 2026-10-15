@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bdc9ba1114ab4b0ae21aed9cfda85b, type: 3}
+  m_Name: GeneratorbPotionSfx
+  m_EditorClassIdentifier:
+  SlowAttackClip: {fileID: 8300000, guid: d744be8bb2089984d839d75a167a75ff, type: 3}
+  FastAttackClip: {fileID: 8300000, guid: d744be8bb2089984d839d75a167a75ff, type: 3}
+  OnHitClip: {fileID: 8300000, guid: a036395a8cb55e94cbb5e6519c5443a9, type: 3}
+  OnWhiffClip: {fileID: 8300000, guid: 944a7321daf7d7b48984466b5aaa3146, type: 3}
+  ForceSfxThreshold: {fileID: 11400000, guid: 96f14c7f1a925af46ab990c115855cbe, type: 2}

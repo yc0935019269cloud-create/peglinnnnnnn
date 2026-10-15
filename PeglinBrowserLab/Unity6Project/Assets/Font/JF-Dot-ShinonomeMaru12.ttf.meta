@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 36dc58c6802208c4eb4eebaa7bf3c723
+timeCreated: 1791985754
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - JF Dot Shinonome Marumoji 12
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3c0e69e76b8bcc5448671b5fe5846814, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

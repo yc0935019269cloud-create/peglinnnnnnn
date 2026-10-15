@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3571d97ed9b726309a99631ea30fba, type: 3}
+  m_Name: ShortFuse
+  m_EditorClassIdentifier:
+  locKey: bombs_one_hit
+  descMod:
+  englishDisplayName: Short Fuse
+  englishDescription: '<sprite name="BOMB"> detonate in one hit.'
+  englishLockedDescription: You haven't encountered this relic yet...
+  lockedDescriptionPreset: 0
+  sprite: {fileID: 21300000, guid: 487015eb478276d4c838be2e1b34c31d, type: 2}
+  useSfx: {fileID: 0}
+  effect: 15
+  globalRarity: 1

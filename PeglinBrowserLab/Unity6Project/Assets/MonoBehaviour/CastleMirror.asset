@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: CastleMirror
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: 36183124536f0194191ec7dd3fafcc84
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 286f49bdcaf37d341b0413354e3cbe66, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 261afdf90e91f2e4195a5716eac97fd0, type: 2}
+  LocKey: castle_mirror_enemy
+  location: 2
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 3fb607601fe7a2d458528fb3d612dd5b, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 777
+  MaxHealthCruciball: 1001
+  MeleeAttackDamage: 0
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 6
+  PointsOnLoot: 28
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.005
+  Type: 0

@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: pegboardassets
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: pegboardassets
+  m_GUID: d6281e14268de1342a1b1a9a090d308b
+  m_SerializeEntries:
+  - m_GUID: 023db6a320af88d45af8f493687ce5ca
+    m_Address: greypeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d7bc774439bafa4e84049d5313bdac4
+    m_Address: DefaultRefreshPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e512df7c161d3544833207a2b8c6f7d
+    m_Address: SlimeOnlyPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 111d27ad4a65d5e45a71141c9b49f05e
+    m_Address: BothSidesExtraLongPegSnapData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13108d97bf2e65140adce85a6a5ca107
+    m_Address: BombMovable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 158f0276b8e2035419b322560d2489fb
+    m_Address: MirroredPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b60b5c13a148c8429ebc38fca989dea
+    m_Address: LargeBouncerPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c43bc87bce85e849ac417eafd217e5e
+    m_Address: BoidsContainer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c2d2f9d0323ec1448aae07d4fcce3c9
+    m_Address: ExtraSnapLongPegSnapData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ff2467f2d9cba5478f2fa4ab60c2086
+    m_Address: SlimeOnlyPegMovable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31d09ee4d16341947bbe85f1e38d4350
+    m_Address: RegularPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 336368ccc8472ff4cbaea35e96fdcd82
+    m_Address: PegCoinOverlay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56c5c4830da0dc64e8c8382bf8f0c82a
+    m_Address: Bomb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5be46c1c064e56342ba144bd6878dbb5
+    m_Address: BombRigged
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65d92598615baa14db6fb0dc175b8949
+    m_Address: FlickerPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67387d82fe39ead47a3da43955054681
+    m_Address: DefaultLongPegSnapData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ca136b32e39af94e98260ab4c3611f0
+    m_Address: CrystalPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73a2e28cf4f65044687826245d1acfa6
+    m_Address: BouncerMines
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79d0e9aec34a19d43aff71770fc20a5f
+    m_Address: Square
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83e6ea5dd567aea44b3a63a56d6b6d00
+    m_Address: BothSidesLongPegSnapData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a27c3d70a026ebf4fbca21f94a2a2750
+    m_Address: BlackHole
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a67a9e06fc6a5e646bd935d834b8b31e
+    m_Address: SFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9fe347104597c542a97402aeeb9ec21
+    m_Address: RegularPegMovable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bad29882f8f543f4aa9481de794c02a7
+    m_Address: LongPegGenerator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0b1d4dcba5a5b54f96a608c742b7af1
+    m_Address: SapperSweeperField
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d41de01f23ac0a444b975c86eaf82ff2
+    m_Address: DullPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df82c8cf80e443c48909e5c78b43fb02
+    m_Address: PegSplineFollowGenerator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e13914bda27017547811d37e2a334592
+    m_Address: Firework
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5e72b1eb9121934eb3d96d45ed6a35d
+    m_Address: BouncerRound
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f77195db777aa764391678b3feff5030
+    m_Address: IndestructiblePeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f88ab9258a80b76448ab9ca6455b94a3
+    m_Address: baseLargeBouncerEffectPeg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd55a0c6813e7304eb7268aec2c2df26
+    m_Address: UI_Purchase_Item
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3bf87c6ed174fe648887dcf510e8fd4b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ea4e71d35d2c541459084c7ffcdc4fe8, type: 2}
+    m_SchemaDisplayOrder:
+    - pegboardassets_BundledAssetGroupSchema
+  m_IncludeInBuild: 1
+  m_IncludeInBuildMigrated: 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24db7f22bf6a83bce25c5557af48090b, type: 3}
+  m_Name: DuplicationAltar
+  m_EditorClassIdentifier:
+  backgroundOverride: {fileID: 0}
+  pegboardFrameOverride: {fileID: 0}
+  _musicOverride: {fileID: 0}
+  _sceneOverride:
+  ignoreRemove: 1
+  scenarioPreReqs: 13000000
+  scenarioName: General/DuplicationAltar
+  scenarioDoodads:
+  - {fileID: 1709254077376921, guid: 78648a9eb8a9efe4c96bc79585f47c5f, type: 2}
+  - {fileID: 1709254077376921, guid: e0e3d09af6694be43be0ca90d1ed5c0b, type: 2}
+  - {fileID: 1709254077376921, guid: 78e6d64b17aa15849b4090329b2c293b, type: 2}
+  navigationPegLayout: {fileID: 11400000, guid: c9f1c3799156ed3469c129973b679d38, type: 2}
+  forceNavigation: 0

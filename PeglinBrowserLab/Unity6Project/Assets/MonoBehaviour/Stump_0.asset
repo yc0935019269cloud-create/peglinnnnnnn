@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2385ad1b082ce37faa99203086a940f4, type: 3}
+  m_Name: Stump
+  m_EditorClassIdentifier:
+  enemyPrefabAssetReference:
+    m_AssetGUID: afb8c4756164e76439c65e6cb8a42f7e
+    m_SubObjectName:
+    m_SubObjectType:
+  encirclepediaSprite: {fileID: 21300000, guid: 9bd3b6b5165125f43ac0d5e66decf401, type: 2}
+  lootDropSprite: {fileID: 21300000, guid: 69973dda11b5e8d448f09b8d7e95b47b, type: 2}
+  LocKey: stump
+  location: 1
+  Sprites:
+  - sprite: {fileID: 21300000, guid: 57be1b0e49ac0974db2b3f8f6c8d5a23, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    position: {x: 0, y: 0}
+  MaxHealth: 200
+  MaxHealthCruciball: 220
+  MeleeAttackDamage: 2
+  RangedAttackDamage: 0
+  ResearchPointTotal: 1000
+  PointsOnKill: 5
+  PointsOnLoot: 25
+  ChallengeReward1: 0
+  ChallengeReward2: 0
+  ChallengeReward3: 0
+  LootDropRate: 0.05
+  CardDropRate: 0.005
+  Type: 0
