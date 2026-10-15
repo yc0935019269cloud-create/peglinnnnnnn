@@ -1,0 +1,59 @@
+{
+  "commit": "332340e7bc2f8257816dd28784607a1edf6b6c2a",
+  "package": {
+    "name": "com.coffee.ui-effect",
+    "displayName": "UI Effect",
+    "description": "UI Effect provides visual effect components for Unity UI.\nLet's decorate your UI with effects!",
+    "version": "4.0.0-preview.10",
+    "unity": "2017.1",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mob-sakai/UIEffect.git"
+    },
+    "author": {
+      "name": "mob-sakai",
+      "email": "sakai861104@gmail.com",
+      "url": "https://github.com/mob-sakai"
+    },
+    "dependencies": {},
+    "keywords": [
+      "ui",
+      "effect"
+    ],
+    "samples": [
+      {
+        "displayName": "Demo",
+        "description": "UI Effect Demo",
+        "path": "Samples~/Demo"
+      }
+    ]
+  },
+  "changes": [
+    {
+      "file": "Assets\\Resources\\uidissolve.shader",
+      "source": "https://raw.githubusercontent.com/mob-sakai/UIEffect/332340e7bc2f8257816dd28784607a1edf6b6c2a/Resources/UIDissolve.shader",
+      "missingOldProperties": []
+    },
+    {
+      "file": "Assets\\Resources\\uieffect.shader",
+      "source": "https://raw.githubusercontent.com/mob-sakai/UIEffect/332340e7bc2f8257816dd28784607a1edf6b6c2a/Resources/UIEffect.shader",
+      "missingOldProperties": []
+    },
+    {
+      "file": "Assets\\Resources\\uihsvmodifier.shader",
+      "source": "https://raw.githubusercontent.com/mob-sakai/UIEffect/332340e7bc2f8257816dd28784607a1edf6b6c2a/Resources/UIHsvModifier.shader",
+      "missingOldProperties": []
+    },
+    {
+      "file": "Assets\\Resources\\uishiny.shader",
+      "source": "https://raw.githubusercontent.com/mob-sakai/UIEffect/332340e7bc2f8257816dd28784607a1edf6b6c2a/Resources/UIShiny.shader",
+      "missingOldProperties": []
+    },
+    {
+      "file": "Assets\\Resources\\uittransition.shader",
+      "source": "https://raw.githubusercontent.com/mob-sakai/UIEffect/332340e7bc2f8257816dd28784607a1edf6b6c2a/Resources/UITtransition.shader",
+      "missingOldProperties": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+pipeline=UniversalRenderPipeline(2D)
+renderer=UniversalRenderPipeline(2D)_Renderer
+PreMainMenu: missingScripts=0 lights=0 urpCameras=1 spriteRenderers=0
+MainMenu: missingScripts=0 lights=0 urpCameras=1 spriteRenderers=10
+ForestMap: missingScripts=0 lights=0 urpCameras=1 spriteRenderers=462
+Battle: missingScripts=0 lights=0 urpCameras=1 spriteRenderers=104

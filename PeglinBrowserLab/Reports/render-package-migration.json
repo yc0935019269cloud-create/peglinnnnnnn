@@ -1,0 +1,374 @@
+{
+  "mappedTypes": {
+    "UnityEngine.Rendering.Universal.Bloom": 1,
+    "UnityEngine.Rendering.Universal.ChannelMixer": 1,
+    "UnityEngine.Rendering.Universal.ChromaticAberration": 1,
+    "UnityEngine.Rendering.Universal.ColorAdjustments": 1,
+    "UnityEngine.Rendering.Universal.DepthOfField": 1,
+    "UnityEngine.Rendering.Universal.FilmGrain": 1,
+    "UnityEngine.Rendering.Universal.LensDistortion": 1,
+    "UnityEngine.Rendering.Universal.MotionBlur": 1,
+    "UnityEngine.Rendering.Universal.PaniniProjection": 1,
+    "UnityEngine.Rendering.Universal.Vignette": 3,
+    "UnityEngine.Rendering.Universal.WhiteBalance": 1
+  },
+  "unresolved": {},
+  "changes": [
+    {
+      "file": "Assets/MonoBehaviour/Bloom.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/ChannelMixer.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/ChromaticAberration.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/ColorAdjustments.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/DepthOfField.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/FilmGrain.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/LensDistortion.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/MotionBlur.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/PaniniProjection.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/Vignette.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/Vignette_0.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/Vignette_1.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/MonoBehaviour/WhiteBalance.asset",
+      "reason": "DLL script reference to package source script"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIBitField.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIBitField.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIButton.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIButton.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIColor.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIColor.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIEnumField.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIEnumField.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIEnumHistory.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIEnumHistory.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIFloatField.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIFloatField.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIFoldout.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIFoldout.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIGroup.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIGroup.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIHBox.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIHBox.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIIntField.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIIntField.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIMessageBox.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIMessageBox.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObject.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObject.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObjectList.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObjectList.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObjectPopupField.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObjectPopupField.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIPanel.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIPanel.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIProgressBar.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIProgressBar.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIRow.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIRow.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIToggle.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIToggle.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIToggleHistory.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIToggleHistory.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIUIntField.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIUIntField.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValue.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValue.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValuePersistent.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValuePersistent.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValueTuple.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValueTuple.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVBox.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVBox.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector2.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector2.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector3.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector3.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector4.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector4.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/Resources/DebugUICanvas.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/Resources/DebugUICanvas.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/Resources/DebugUIPersistentCanvas.prefab",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/Resources/DebugUIPersistentCanvas.prefab.meta",
+      "reason": "Quarantine obsolete unreferenced SRP debug prefab"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipeline.Universal.ShaderLibrary.dll.meta",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll.meta",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.ShaderLibrary.dll.meta",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.meta",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.2D.Internal.dll",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.2D.Internal.dll.meta",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Config.Runtime.dll.meta",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll.meta",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Shaders.dll",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Shaders.dll.meta",
+      "reason": "Remove old render DLL in favor of official package"
+    },
+    {
+      "file": "Packages/manifest.json",
+      "reason": "Use editor bundled URP 17.6.0"
+    },
+    {
+      "file": "Assets/Scripts/Assembly-CSharp/PeglinUI/OrbDisplay/OrbInfoWidget.cs",
+      "reason": "PixelPerfectCamera namespace moved in URP"
+    }
+  ]
+}

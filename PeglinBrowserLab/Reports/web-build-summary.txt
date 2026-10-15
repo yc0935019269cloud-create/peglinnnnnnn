@@ -1,0 +1,5 @@
+result=Succeeded
+errors=0
+warnings=17
+bytes=293561296
+scope=Platform compilation test only. Not a playable Peglin release.

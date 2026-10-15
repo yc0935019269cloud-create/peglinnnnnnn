@@ -292,3 +292,11 @@
 - 本機伺服器：scripts/serve-web.py。注意本機 Windows 保留了 8768–8967 等 TCP 埠（netsh excludedportrange），會出現 WinError 10013；改用 8760。
 - 全新 Edge 設定檔測試（browser-release-2.log、Reports/rel-*.png）：冷啟動（含下載）31 秒到主選單；預載時畫面顯示「Loading xx%」；**瀏覽器語言 zh-TW 時自動繁體中文**（新的遊戲／哥布林寶典／選項…），角色說明等繁體字完整（動態補字正常）；無開發者主控台。新遊戲→遺物→森林關卡 1 戰鬥，可發射彈珠；此關含 SpriteShape 曲線長釘，正常顯示——先前「SpriteShape 17 序列化相容性未驗證」的風險在這裡得到實際驗證。除已知 ServicesCore 設定檔訊息外無錯誤。
 - 尚未驗證：實體手機（iOS Safari／Android Chrome）效能與記憶體、Boss 與後段地區、長時間遊玩。
+
+## 2026-10-15｜推上私人 GitHub repo
+
+- 使用者把 https://github.com/yc0935019269cloud-create/peglinnnnnnn 改為私人後，要求推整個資源（未登入 API 查詢回 404，確認非公開）。
+- 結構：git 資料在 哥布林彈珠行動版\.git，`core.worktree=E:/NEWTEST`，`.git/info/exclude` 白名單只收 `哥布林彈珠行動版/` 與 `PeglinBrowserLab/`（Unity 專案必須留在英文路徑，所以不搬資料夾）。E:\NEWTEST 其他專案不受影響。之後在 `哥布林彈珠行動版` 資料夾內執行 git 指令即可。
+- 分四批提交推送：研究筆記／腳本／報告 → RecoveredProject → Unity6Project＋RecoveredLibraries → Reports＋Builds/WebRelease。
+- 未收錄：tools/ 下載檔、原始 Unity 日誌、Development 建置（wasm 135 MB）、Steam 原版 Windows Addressables 副本（一個 bundle 105.7 MB 超過 GitHub 上限）。
+- repo 必須保持私人；不要開 GitHub Pages 或其他公開網址（公開散布商業遊戲內容）。

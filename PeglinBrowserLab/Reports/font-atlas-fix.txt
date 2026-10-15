@@ -1,0 +1,29 @@
+ChevyRay - Bird Seed SDF.lfs | Assets/Fonts/bin/ChevyRay - Bird Seed Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Love Bug SDF.lfs | Assets/Fonts/bin/ChevyRay - Love Bug SDF Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - PinchOfSugar.lfs | Assets/Fonts/bin/ChevyRay - Pinch Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Skullboy SDF.lfs | Assets/Fonts/bin/ChevyRay - Skullboy Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+Silver SDF-ko-lfs | Assets/Fonts/bin/Silver/Silver SDF-ko-lfs Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+Silver SDF-ko-lfs | Assets/Fonts/bin/Silver/Silver SDF-ko-lfs Atlas 1.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+BitPotionExt SDF.lfs | Assets/Texture2D/BitPotionExt Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Babyblocks SDF.lfs | Assets/Texture2D/ChevyRay - Babyblocks Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Bird Seed SDF.lfs | Assets/Texture2D/ChevyRay - Bird Seed Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Bubble Time SDF.lfs | Assets/Texture2D/ChevyRay - Bubble Time Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Bubble Time SDF.lfs | Assets/Texture2D/ChevyRay - Bubble Time Atlas_0.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Love Bug SDF.lfs | Assets/Texture2D/ChevyRay - Love Bug SDF Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - PinchOfSugar.lfs | Assets/Texture2D/ChevyRay - Pinch Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Skullboy SDF CRUCIBALL.lfs | Assets/Texture2D/ChevyRay - Skullboy Atlas_0.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Skullboy SDF.lfs | Assets/Texture2D/ChevyRay - Skullboy Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Softsquare.lfs | Assets/Texture2D/Softsquare Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ChevyRay - Softsquare.lfs | Assets/Texture2D/Softsquare Atlas_0.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+indienovaBC-Regular-12px SDF-lfs | Assets/Texture2D/indienovaBC-Regular-12px SDF Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 4096x8192
+indienovaBC-Regular-12px SDF-lfs | Assets/Texture2D/indienovaBC-Regular-12px SDF Atlas_0.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 4096x8192
+ShinonomeMaru-lfs | Assets/Texture2D/JF-Dot-ShinonomeMaru12 Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ShinonomeMaru-lfs | Assets/Texture2D/JF-Dot-ShinonomeMaru12 Atlas 1.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ShinonomeMaru-lfs | Assets/Texture2D/JF-Dot-ShinonomeMaru12 Atlas 2.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+ShinonomeMaru-lfs | Assets/Texture2D/JF-Dot-ShinonomeMaru12 Atlas 3.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+Silver SDF-ko-lfs | Assets/Texture2D/Silver SDF-ko-lfs Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+Silver SDF-ko-lfs | Assets/Texture2D/Silver SDF-ko-lfs Atlas 1.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+Silver SDF-lfs | Assets/Texture2D/Silver SDF-lfs Atlas.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+Silver SDF-lfs | Assets/Texture2D/Silver SDF-lfs Atlas 1.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+Silver SDF-lfs | Assets/Texture2D/Silver SDF-lfs Atlas_0.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024
+Silver SDF-lfs | Assets/Texture2D/Silver SDF-lfs Atlas 1_0.png | before format=AutomaticCompressed compression=CompressedHQ readable=True actual=DXT5 | after actual=Alpha8 1024x1024

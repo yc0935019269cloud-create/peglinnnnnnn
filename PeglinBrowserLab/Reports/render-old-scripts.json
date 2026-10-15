@@ -1,0 +1,550 @@
+{
+    "scripts": [
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerField`1",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1071703638
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerUIntField",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1559174154
+        },
+        {
+            "type": "UnityEngine.Rendering.CameraSwitcher",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1050186434
+        },
+        {
+            "type": "UnityEngine.Rendering.ProbeVolumeAsset",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1743807979
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerButton",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1971800143
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerBitField",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1461880871
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerGroup",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1991480869
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerVector4",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1704656213
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerObjectList",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -783771462
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerPanel",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1896559392
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerVector3",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1774521519
+        },
+        {
+            "type": "UnityEngine.Rendering.ProbeTouchupVolume",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 781949735
+        },
+        {
+            "type": "UnityEngine.Rendering.DebugUpdater",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -512903154
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerValue",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 786239023
+        },
+        {
+            "type": "UnityEngine.Rendering.LensFlareDataSRP",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -597221735
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerVBox",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1326230830
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerVector2",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 473584849
+        },
+        {
+            "type": "UnityEngine.Rendering.SceneRenderPipeline",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1550720555
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerProgressBar",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -299163931
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerColor",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 841238517
+        },
+        {
+            "type": "UnityEngine.Rendering.VolumeComponent",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1547277137
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerContainer",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1244478167
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerEnumHistory",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1252061853
+        },
+        {
+            "type": "UnityEngine.Rendering.Volume",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1520420858
+        },
+        {
+            "type": "UnityEngine.Rendering.ProbeVolume",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1592508801
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerPersistentCanvas",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1551053277
+        },
+        {
+            "type": "UnityEngine.Rendering.FreeCamera",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1617399385
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerToggle",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1740881597
+        },
+        {
+            "type": "UnityEngine.Rendering.LensFlareComponentSRP",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -384056926
+        },
+        {
+            "type": "UnityEngine.Rendering.VolumeProfile",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 250344640
+        },
+        {
+            "type": "UnityEngine.Rendering.ProbeReferenceVolumeProfile",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 653341637
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerHBox",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -2094448278
+        },
+        {
+            "type": "UnityEngine.LightAnchor",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 720871262
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerMessageBox",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -604948099
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerIndirectToggle",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1298775899
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerIndirectFloatField",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -874900598
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerWidget",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1211874341
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerRow",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1009444461
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerCanvas",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -455843761
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerEnumField",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1967957788
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerIntField",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1500305735
+        },
+        {
+            "type": "UnityEngine.Rendering.RenderPipelineResources",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -2000653763
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerValueTuple",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 859163855
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.UIFoldout",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 1584280941
+        },
+        {
+            "type": "UnityEngine.Rendering.ProbeVolumePerSceneData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 374722389
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerObject",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 710982576
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerToggleHistory",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -1593630288
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerFloatField",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": -947882065
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 837809467
+        },
+        {
+            "type": "UnityEngine.Rendering.UI.DebugUIHandlerFoldout",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+            "guid": "57c9a3e5193e26c4b968cc86e528416d",
+            "fileID": 908903843
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.Bloom",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 464656391
+        },
+        {
+            "type": "UnityEngine.Experimental.Rendering.Universal.PixelPerfectCamera",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 2042377659
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ChromaticAberration",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 456897975
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.XRSystemData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 1073360554
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.UniversalRendererData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1575395517
+        },
+        {
+            "type": "UnityEngine.Experimental.Rendering.Universal.RenderObjects",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -36843972
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.UniversalAdditionalLightData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1431003440
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ScreenSpaceAmbientOcclusion",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 2046858975
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.Light2D",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 796348501
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ScriptableRendererFeature",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 1412837110
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorResources",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1847985617
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.Tonemapping",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 640956576
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.Vignette",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 565963466
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.DepthOfField",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -2085558323
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -549186028
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ScriptableRendererData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 359977525
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.DecalRendererFeature",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 1619829637
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.WhiteBalance",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1094021734
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ShadowCasterGroup2D",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -141394137
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ForwardRendererData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1982320787
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.MotionBlur",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 224828655
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.CompositeShadowCaster2D",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 322347406
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.PostProcessData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 304953222
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ShadowCaster2D",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 595394949
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ColorAdjustments",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1728269046
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ColorLookup",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 257616187
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ShadowsMidtonesHighlights",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 815276277
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.SplitToning",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1771661620
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.Renderer2DData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 1561790554
+        },
+        {
+            "type": "FullScreenPassRendererFeature",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 999485770
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ScreenSpaceShadows",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 394374998
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.FilmGrain",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -534242816
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ChannelMixer",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1142122322
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 938447500
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.LensDistortion",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1562019045
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.LiftGammaGain",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 282247082
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.PaniniProjection",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": -1302714509
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.ColorCurves",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 1948069495
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.DecalProjector",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 1667301410
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.CinemachineUniversalPixelPerfect",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 203823972
+        },
+        {
+            "type": "UnityEngine.Rendering.Universal.UniversalRenderPipelineGlobalSettings",
+            "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+            "guid": "c88ab7b37c4f350242674d2efd621c19",
+            "fileID": 474283971
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+MoreMountains.Tools.dll: UnityEngine.Rendering.Universal.Light2D: Unity.RenderPipelines.Universal.Runtime -> Unity.RenderPipelines.Universal.2D.Runtime
+# 2026-10-15 re-check (dry-run incl. attribute arguments): 0 remaining changes

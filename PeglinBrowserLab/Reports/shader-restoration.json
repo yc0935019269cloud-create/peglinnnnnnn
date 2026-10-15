@@ -1,0 +1,395 @@
+{
+  "restored": [
+    {
+      "file": "Assets\\Shader\\Hidden_Core_FallbackError.shader",
+      "name": "Hidden/Core/FallbackError",
+      "source": "Packages/com.unity.render-pipelines.core/Runtime/RenderPipelineResources/FallbackShader.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Shader Graph_FallbackError.shader",
+      "name": "Hidden/Shader Graph/FallbackError",
+      "source": "Packages/com.unity.shadergraph/Editor/Resources/Shaders/FallbackError.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Shadow2DShadowSprite.shader",
+      "name": "Hidden/Shadow2DShadowSprite",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Shadow-Sprite.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Shadow2DUnshadowGeometry.shader",
+      "name": "Hidden/Shadow2DUnshadowGeometry",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Unshadow-Geometry.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Shadow2DUnshadowSprite.shader",
+      "name": "Hidden/Shadow2DUnshadowSprite",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Unshadow-Sprite.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_ShadowProjected2D.shader",
+      "name": "Hidden/ShadowProjected2D",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Projected.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_Bloom.shader",
+      "name": "Hidden/Universal Render Pipeline/Bloom",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/Bloom.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_BokehDepthOfField.shader",
+      "name": "Hidden/Universal Render Pipeline/BokehDepthOfField",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/BokehDepthOfField.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_CameraMotionBlur.shader",
+      "name": "Hidden/Universal Render Pipeline/CameraMotionBlur",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/CameraMotionBlur.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_Debug_DebugReplacement.shader",
+      "name": "Hidden/Universal Render Pipeline/Debug/DebugReplacement",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/Debug/DebugReplacement.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_Edge Adaptive Spatial Upsampling.shader",
+      "name": "Hidden/Universal Render Pipeline/Edge Adaptive Spatial Upsampling",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/EdgeAdaptiveSpatialUpsampling.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_FallbackError.shader",
+      "name": "Hidden/Universal Render Pipeline/FallbackError",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_FinalPost.shader",
+      "name": "Hidden/Universal Render Pipeline/FinalPost",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/FinalPost.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_GaussianDepthOfField.shader",
+      "name": "Hidden/Universal Render Pipeline/GaussianDepthOfField",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/GaussianDepthOfField.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_LensFlareDataDriven.shader",
+      "name": "Hidden/Universal Render Pipeline/LensFlareDataDriven",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LensFlareDataDriven.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_LutBuilderHdr.shader",
+      "name": "Hidden/Universal Render Pipeline/LutBuilderHdr",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LutBuilderHdr.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_LutBuilderLdr.shader",
+      "name": "Hidden/Universal Render Pipeline/LutBuilderLdr",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LutBuilderLdr.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_PaniniProjection.shader",
+      "name": "Hidden/Universal Render Pipeline/PaniniProjection",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/PaniniProjection.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_Sampling.shader",
+      "name": "Hidden/Universal Render Pipeline/Sampling",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/Utils/Sampling.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_Scaling Setup.shader",
+      "name": "Hidden/Universal Render Pipeline/Scaling Setup",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/ScalingSetup.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_Stop NaN.shader",
+      "name": "Hidden/Universal Render Pipeline/Stop NaN",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/StopNaN.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_SubpixelMorphologicalAntialiasing.shader",
+      "name": "Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/SubpixelMorphologicalAntialiasing.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_TemporalAA.shader",
+      "name": "Hidden/Universal Render Pipeline/TemporalAA",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/TemporalAA.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal Render Pipeline_UberPost.shader",
+      "name": "Hidden/Universal Render Pipeline/UberPost",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/UberPost.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal_BlitHDROverlay.shader",
+      "name": "Hidden/Universal/BlitHDROverlay",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/Utils/BlitHDROverlay.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal_CoreBlit.shader",
+      "name": "Hidden/Universal/CoreBlit",
+      "source": "Packages/com.unity.render-pipelines.core/Documentation~/Examples/Blit.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal_CoreBlitColorAndDepth.shader",
+      "name": "Hidden/Universal/CoreBlitColorAndDepth",
+      "source": "Packages/com.unity.render-pipelines.core/Documentation~/Examples/BlitColorAndDepth.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Universal_HDRDebugView.shader",
+      "name": "Hidden/Universal/HDRDebugView",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/Debug/HDRDebugView.shader"
+    },
+    {
+      "file": "Assets\\Shader\\TextMeshPro_Distance Field.shader",
+      "name": "TextMeshPro/Distance Field",
+      "source": "TMP Essential Resources/TMP_SDF.shader"
+    },
+    {
+      "file": "Assets\\Shader\\TextMeshPro_Distance Field_0.shader",
+      "name": "TextMeshPro/Distance Field",
+      "source": "TMP Essential Resources/TMP_SDF.shader"
+    },
+    {
+      "file": "Assets\\Shader\\TextMeshPro_Mobile_Distance Field.shader",
+      "name": "TextMeshPro/Mobile/Distance Field",
+      "source": "TMP Essential Resources/TMP_SDF-Mobile.shader"
+    },
+    {
+      "file": "Assets\\Shader\\TextMeshPro_Mobile_Distance Field_0.shader",
+      "name": "TextMeshPro/Mobile/Distance Field",
+      "source": "TMP Essential Resources/TMP_SDF-Mobile.shader"
+    },
+    {
+      "file": "Assets\\Shader\\TextMeshPro_Sprite.shader",
+      "name": "TextMeshPro/Sprite",
+      "source": "TMP Essential Resources/TMP_Sprite.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Universal Render Pipeline_2D_Sprite-Lit-Default.shader",
+      "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Universal Render Pipeline_2D_Sprite-Lit-Default_0.shader",
+      "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Universal Render Pipeline_2D_Sprite-Lit-Default_1.shader",
+      "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Universal Render Pipeline_2D_Sprite-Lit-Default_2.shader",
+      "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader"
+    },
+    {
+      "file": "Assets\\Shader\\Universal Render Pipeline_2D_Sprite-Mask.shader",
+      "name": "Universal Render Pipeline/2D/Sprite-Mask",
+      "source": "Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Mask.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_bitmap-custom-atlas.shader",
+      "name": "TextMeshPro/Bitmap Custom Atlas",
+      "source": "TMP Essential Resources/TMP_Bitmap-Custom-Atlas.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_bitmap-mobile.shader",
+      "name": "TextMeshPro/Mobile/Bitmap",
+      "source": "TMP Essential Resources/TMP_Bitmap-Mobile.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_bitmap.shader",
+      "name": "TextMeshPro/Bitmap",
+      "source": "TMP Essential Resources/TMP_Bitmap.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_sdf overlay.shader",
+      "name": "TextMeshPro/Distance Field Overlay",
+      "source": "TMP Essential Resources/TMP_SDF Overlay.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_sdf-mobile masking.shader",
+      "name": "TextMeshPro/Mobile/Distance Field - Masking",
+      "source": "TMP Essential Resources/TMP_SDF-Mobile Masking.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_sdf-mobile overlay.shader",
+      "name": "TextMeshPro/Mobile/Distance Field Overlay",
+      "source": "TMP Essential Resources/TMP_SDF-Mobile Overlay.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_sdf-mobile.shader",
+      "name": "TextMeshPro/Mobile/Distance Field",
+      "source": "TMP Essential Resources/TMP_SDF-Mobile.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_sdf-surface-mobile.shader",
+      "name": "TextMeshPro/Mobile/Distance Field (Surface)",
+      "source": "TMP Essential Resources/TMP_SDF-Surface-Mobile.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_sdf-surface.shader",
+      "name": "TextMeshPro/Distance Field (Surface)",
+      "source": "TMP Essential Resources/TMP_SDF-Surface.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_sdf.shader",
+      "name": "TextMeshPro/Distance Field",
+      "source": "TMP Essential Resources/TMP_SDF.shader"
+    },
+    {
+      "file": "Assets\\Resources\\shaders\\tmp_sprite.shader",
+      "name": "TextMeshPro/Sprite",
+      "source": "TMP Essential Resources/TMP_Sprite.shader"
+    }
+  ],
+  "remaining": [
+    {
+      "file": "Assets\\Resources\\uidissolve.shader",
+      "name": "Hidden/UI/Default (UIDissolve)"
+    },
+    {
+      "file": "Assets\\Resources\\uieffect.shader",
+      "name": "Hidden/UI/Default (UIEffect)"
+    },
+    {
+      "file": "Assets\\Resources\\uihsvmodifier.shader",
+      "name": "Hidden/UI/Default (UIHsvModifier)"
+    },
+    {
+      "file": "Assets\\Resources\\uishiny.shader",
+      "name": "Hidden/UI/Default (UIShiny)"
+    },
+    {
+      "file": "Assets\\Resources\\uittransition.shader",
+      "name": "Hidden/UI/Default (UITransition)"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Light2d-Point-Volumetric.shader",
+      "name": "Hidden/Light2d-Point-Volumetric"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Light2D-Point.shader",
+      "name": "Hidden/Light2D-Point"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Light2D-Shape-Volumetric.shader",
+      "name": "Hidden/Light2D-Shape-Volumetric"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_Light2D-Shape.shader",
+      "name": "Hidden/Light2D-Shape"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Bloom.shader",
+      "name": "Hidden/PostProcessing/Bloom"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Copy.shader",
+      "name": "Hidden/PostProcessing/Copy"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_CopyStd.shader",
+      "name": "Hidden/PostProcessing/CopyStd"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_CopyStdFromDoubleWide.shader",
+      "name": "Hidden/PostProcessing/CopyStdFromDoubleWide"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_CopyStdFromTexArray.shader",
+      "name": "Hidden/PostProcessing/CopyStdFromTexArray"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Debug_Histogram.shader",
+      "name": "Hidden/PostProcessing/Debug/Histogram"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Debug_LightMeter.shader",
+      "name": "Hidden/PostProcessing/Debug/LightMeter"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Debug_Overlays.shader",
+      "name": "Hidden/PostProcessing/Debug/Overlays"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Debug_Vectorscope.shader",
+      "name": "Hidden/PostProcessing/Debug/Vectorscope"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Debug_Waveform.shader",
+      "name": "Hidden/PostProcessing/Debug/Waveform"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_DeferredFog.shader",
+      "name": "Hidden/PostProcessing/DeferredFog"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_DepthOfField.shader",
+      "name": "Hidden/PostProcessing/DepthOfField"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_DiscardAlpha.shader",
+      "name": "Hidden/PostProcessing/DiscardAlpha"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_FinalPass.shader",
+      "name": "Hidden/PostProcessing/FinalPass"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_GrainBaker.shader",
+      "name": "Hidden/PostProcessing/GrainBaker"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Lut2DBaker.shader",
+      "name": "Hidden/PostProcessing/Lut2DBaker"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_MotionBlur.shader",
+      "name": "Hidden/PostProcessing/MotionBlur"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_MultiScaleVO.shader",
+      "name": "Hidden/PostProcessing/MultiScaleVO"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_ScalableAO.shader",
+      "name": "Hidden/PostProcessing/ScalableAO"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_ScreenSpaceReflections.shader",
+      "name": "Hidden/PostProcessing/ScreenSpaceReflections"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_SubpixelMorphologicalAntialiasing.shader",
+      "name": "Hidden/PostProcessing/SubpixelMorphologicalAntialiasing"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_TemporalAntialiasing.shader",
+      "name": "Hidden/PostProcessing/TemporalAntialiasing"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Texture2DLerp.shader",
+      "name": "Hidden/PostProcessing/Texture2DLerp"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_PostProcessing_Uber.shader",
+      "name": "Hidden/PostProcessing/Uber"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_VFX_Empty.shader",
+      "name": "Hidden/VFX/Empty"
+    },
+    {
+      "file": "Assets\\Shader\\Hidden_VoxelizeShader.shader",
+      "name": "Hidden/VoxelizeShader"
+    },
+    {
+      "file": "Assets\\Shader\\Shader Graphs_LaserShader.shader",
+      "name": "Shader Graphs/LaserShader"
+    }
+  ]
+}

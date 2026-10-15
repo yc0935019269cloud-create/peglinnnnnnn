@@ -1,0 +1,885 @@
+{
+  "changedOrQuarantinedFiles": [
+    {
+      "file": "Packages/manifest.json",
+      "backupSHA256": "cd7b002596e6ae3c94f416051c17191dea6a9f9ac2ee27b7a016798016803c80",
+      "currentSHA256": "4fe08896ca9f6e1fc34a5605f628d89e46d8bccb5ae31fc69183909b4f87cbab"
+    },
+    {
+      "file": "Assets/GameObject/DebugUIBitField.prefab",
+      "backupSHA256": "0d0f9aece0661004005b4705a526b978d3040a725ab07f96cf5029e3326de6cf",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIBitField.prefab.meta",
+      "backupSHA256": "2664cafb7126e5df6a28987019e2b1e0b182d0e491dea456fb2e8ab15044475b",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIButton.prefab",
+      "backupSHA256": "eb3551dd8fab30520257e6a84908fbe4c61aeb75af7b145a90520a3f1762de89",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIButton.prefab.meta",
+      "backupSHA256": "93c97baeaf853d64b15ec960fe25bb13378628f2b2d327a26f4fe34db508a184",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIColor.prefab",
+      "backupSHA256": "f0896e3a8b35500c22844f82841dacbc624181ad99cee1772f179c932991815c",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIColor.prefab.meta",
+      "backupSHA256": "5e590da33efd665ecb7c3247fb64d21a303b4b496138a6b951fbd7525dca1e83",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIEnumField.prefab",
+      "backupSHA256": "5353ba55f940e007756bbf66afe008b3b20327157e07607ac0fd0a50f9780997",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIEnumField.prefab.meta",
+      "backupSHA256": "636a73561cadab7a84289ba2fdff7ec2f4a72b0906428250e5776db8131f0bdb",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIEnumHistory.prefab",
+      "backupSHA256": "c0c4bdef3986e1938482d11a8232b6e9dfd618a9c357f98bf213554e80ca969d",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIEnumHistory.prefab.meta",
+      "backupSHA256": "45f9ab6aad0ef07d8d17c1ead8d9c99343727b529a983f702e3a03fa6016d1e5",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIFloatField.prefab",
+      "backupSHA256": "3ae207489ffce2dfd030a334c8e41a04edf8257e489ce49453c6892fc115b38c",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIFloatField.prefab.meta",
+      "backupSHA256": "866736fa27b6843bdb0bbe0ce1d296d580a94faeaaaae5bba29af67c744022fa",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIFoldout.prefab",
+      "backupSHA256": "92dec71f5f02ebdb4c080067031de774ab69e0cbbe78fb52329f647047f151d0",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIFoldout.prefab.meta",
+      "backupSHA256": "b089506e63d228d9334ccec1b54605f3783963a14318cc56b4415c05ccb9b3d7",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIGroup.prefab",
+      "backupSHA256": "6e29984a258df6f76a58430b87419d3b56fc79fac0686ca1f51976f0327d0fa8",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIGroup.prefab.meta",
+      "backupSHA256": "94458c11367b6fb09249b695d858661e1962a4bfdd69eeb3b8ba35744454a922",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIHBox.prefab",
+      "backupSHA256": "2b4f5401a11bb4ad1d786ca6c4a486c4723ab983d2a7c48e1157119e0338943d",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIHBox.prefab.meta",
+      "backupSHA256": "efe27102f751f759c384f0fddccc7edbbecffea659aa21268382dfbd54e47123",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIIntField.prefab",
+      "backupSHA256": "608bfeed0fb40942fe48a2abd9562d811af5756827fcc4b796f579dac77a2f17",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIIntField.prefab.meta",
+      "backupSHA256": "6afee1a1ceaeb541cbe69b83be15185e4ffd44304658d59ed4ff18b025f84d02",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIMessageBox.prefab",
+      "backupSHA256": "28eceeb335b3d334fe5483845c677e4c31027c9266563c6a8405dcc5633faa3c",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIMessageBox.prefab.meta",
+      "backupSHA256": "cc55114732500fe99ad776625d841d7a312254a1ea33160248887c8abca32c44",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObject.prefab",
+      "backupSHA256": "e645cc6b00279d224067e0a878b35a7fe0b63c5fc8799acc6917feb21c3425c8",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObject.prefab.meta",
+      "backupSHA256": "c08e9502e660946bb6d3e3a496fd50bdc987db684c9bc8251271e7a381704444",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObjectList.prefab",
+      "backupSHA256": "b0b5d74690b63683c6a9d8c2b1541418db80c832553e4d8227cb12d308e3f04e",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObjectList.prefab.meta",
+      "backupSHA256": "0fe694ff18762035e0b8c4643438d742f775a01842dc258cc8ae6f1d52f98398",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObjectPopupField.prefab",
+      "backupSHA256": "577947127a2648938ee2800d32a2331c3fd7eff8472f9bcd45387d1d5b7ee9e0",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIObjectPopupField.prefab.meta",
+      "backupSHA256": "c792acf6c8a0eb7fc5e9dfaf3055f5c42aaad7d35c5ba2d6fbb1c8c5933e1080",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIPanel.prefab",
+      "backupSHA256": "8dd7d7a2ee8afe200d480b62f80ae6f1d69183ea48467e6cf570ea08d433821c",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIPanel.prefab.meta",
+      "backupSHA256": "c2f16b51419928a023dfadc946daae7cbdf1a0a88a480c110a3c3fd2f889622b",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIProgressBar.prefab",
+      "backupSHA256": "f67263c17c99e51e987e217101667e37ad005e4adcef1d97081699a820980dd2",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIProgressBar.prefab.meta",
+      "backupSHA256": "543ef18711900218f0250fb0c21c3babed5d972c66ae21a809f0298ba93d7f9c",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIRow.prefab",
+      "backupSHA256": "4104897c873c4cee02d8c564ffd98b2c5b16ef5a28e11c8b3c11fadaf44912b2",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIRow.prefab.meta",
+      "backupSHA256": "1bb6fd12c3fcadcf9330ca9de4cae47b7e29e4d8cb8d5deb4bb4e801f58d573f",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIToggle.prefab",
+      "backupSHA256": "b97b44980cdac6f1bdca0f0d52e5b74ee412e62809a4916bd67e283db00f668f",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIToggle.prefab.meta",
+      "backupSHA256": "6c229b55aaa8322df6b5fb4f3a7826aa4b0d4a972cff694eeb2243da2f92a482",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIToggleHistory.prefab",
+      "backupSHA256": "8c7cffa326361f3c78a1ddd4c4e7d5768073c92aec80a07789fdd22c87add7f5",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIToggleHistory.prefab.meta",
+      "backupSHA256": "a8d1d69182bae17b47fe9229a260ae10442009ee017bde6692a2b5d777328208",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIUIntField.prefab",
+      "backupSHA256": "c4798514ae9c1b6679d338bcd6133c56f3dbd949f7daacfdccc3b7d3efcef8d3",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIUIntField.prefab.meta",
+      "backupSHA256": "d66748c6a75ad8cc6ca4f5567c2a2b08c107aac778fdd6846b775aef214af9f6",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValue.prefab",
+      "backupSHA256": "087f9d9eeef96881803730152c2f3b825497bd03c5b940b6631a3ab07f2a378c",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValue.prefab.meta",
+      "backupSHA256": "c48db98629890afbe9c3c6b817b7715df68a05d201495d826d2d2f9c4813a601",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValuePersistent.prefab",
+      "backupSHA256": "ecb125c9b823623b07431fd7597f59e59a86debb81f130219070d32f01c5bf07",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValuePersistent.prefab.meta",
+      "backupSHA256": "d6a8c3c408cf6cf341fadc60553b4cfdc51d5f5d3af64d5b44ee9e233694693c",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValueTuple.prefab",
+      "backupSHA256": "aa6d59b36c932be57d0afb2ef09719b1befdd001b8a51247670115289cd516b0",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIValueTuple.prefab.meta",
+      "backupSHA256": "4bbb6835b64a9efde7da8fc1254935408ecae4817f43688bf05dd40ceb844aa1",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVBox.prefab",
+      "backupSHA256": "afc96d94f6a1a1b8cac36eaf68659ee6a213527ea10c98712ab13d792a5f41ed",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVBox.prefab.meta",
+      "backupSHA256": "a4403e3201a14ae4336f96e9f4e6ca61edfc747b0e2932f4650d8df5451e421d",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector2.prefab",
+      "backupSHA256": "3500391c060ee0169388e8759bacc0e55b3356a2c2e1b6b4ca4e4010cec57db4",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector2.prefab.meta",
+      "backupSHA256": "1b54d1e90ed50e86ad98802c242ab5436387f6439017f200db74f84599eab66a",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector3.prefab",
+      "backupSHA256": "13859eb6790b0a1a4a8ce6fe5328b38408af864e5ba9a95547aaf3ed9572b7e1",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector3.prefab.meta",
+      "backupSHA256": "0d5eb1d900b63c6ec0eda1f6c36b9c1ce5534bab97fa46337a968d39ba102a70",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector4.prefab",
+      "backupSHA256": "aee032de57a548d4d5e9030fddc78f9e3afee6045a994a16d51a4d0260cccd2b",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/GameObject/DebugUIVector4.prefab.meta",
+      "backupSHA256": "905cbb10f4853238dc54b6b67127f1332c93c540e13f4cfca1ddbbf116609af4",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/MonoBehaviour/BattleCameraProfile.asset",
+      "backupSHA256": "f178b35e5a5013afcd949d162e2d49e1a4b9891d21d32cf84be88973a767b0da",
+      "currentSHA256": "07f0afaa4fd8f1935d6f0a96a9402337473d0fac3b38a082da285291b5368502"
+    },
+    {
+      "file": "Assets/MonoBehaviour/Bloom.asset",
+      "backupSHA256": "a6ba70904f6b0af7bd794169a26541501833554be5e02530be9575276b6057a9",
+      "currentSHA256": "e149e7091f93d259489f9fa6f6856144975dcbd8e47b0cc65c9dd89c308bc919"
+    },
+    {
+      "file": "Assets/MonoBehaviour/ChannelMixer.asset",
+      "backupSHA256": "66fed70c7152ddfe222c885f0b0474d1012a1b1e6b7d3a859fa66b1db5741b2c",
+      "currentSHA256": "010e37a5a3788d4bce2a1842fdb5969848e8200bfa368feb2399a291eb2b7dd1"
+    },
+    {
+      "file": "Assets/MonoBehaviour/ChromaticAberration.asset",
+      "backupSHA256": "8cad22cd3378419b9dd8489282efb6d7ff13479813e97a11fa0b177763aac188",
+      "currentSHA256": "34ea0c36004cd492f05e33aeff81a374d6c3a0003b653a6c96bedb5501eac7e0"
+    },
+    {
+      "file": "Assets/MonoBehaviour/ColorAdjustments.asset",
+      "backupSHA256": "61a280d448cea0aa4d674ffa34d21aa0419d7600c4abac69c4efed313a17a45c",
+      "currentSHA256": "cd5fc787d55b7831f64683eb43a07387d8b2eb4fb07dce748610d833d2d7f1b2"
+    },
+    {
+      "file": "Assets/MonoBehaviour/DepthOfField.asset",
+      "backupSHA256": "9f2cb90553e7edf358863ba8953401deb62f58a74044bf6bfe8613bf3b40faf7",
+      "currentSHA256": "9cf64b7f0a5f1c1c375aeae0159c5ef7263faac99f2cd11734cb6056248f9635"
+    },
+    {
+      "file": "Assets/MonoBehaviour/FilmGrain.asset",
+      "backupSHA256": "77e0426cdc45abd2945d0e49e84e9abf9e93b0587c7c5b41d9807baeb6c8b915",
+      "currentSHA256": "a745702d4b471256444c897be511b7e6d666ab0d508f049bfb33fa60d85d2c5f"
+    },
+    {
+      "file": "Assets/MonoBehaviour/LensDistortion.asset",
+      "backupSHA256": "2e18a2f8fbb230455863ded1eb08b8ac72109303331d58359168aa3e467072e2",
+      "currentSHA256": "d6b6dfe6125f9a632c692fdc95b856a64daece2c8047a13d33b49f6b27b05e1b"
+    },
+    {
+      "file": "Assets/MonoBehaviour/MapCameraProfile.asset",
+      "backupSHA256": "e9bb026d75d58d1b536e975ccfdd3344dca1e6adf918327cc32392234a874d17",
+      "currentSHA256": "0422a35789928240743b12b883206d7d0932add8d2a776cbd5b01df6fed97d0a"
+    },
+    {
+      "file": "Assets/MonoBehaviour/MotionBlur.asset",
+      "backupSHA256": "daec710990c68028213722f7340124601ec26c4737cb6545f247a409433413bb",
+      "currentSHA256": "d0d9f4be4ae7f4fef50f9efec71970ae3a6a9549e9f4c3a611544215a12aa9de"
+    },
+    {
+      "file": "Assets/MonoBehaviour/PaniniProjection.asset",
+      "backupSHA256": "858ff6a24bcc84e255c401762257633b6928b50f132b292c87e47ed3f67bd352",
+      "currentSHA256": "98ee205034d02fbe22e1bf3369f57393471b7208d2b94afa68bff0879f965732"
+    },
+    {
+      "file": "Assets/MonoBehaviour/PostProcessData.asset",
+      "backupSHA256": "b674bf3c035b2433b9ca79d2972121746e0989dd8b58049fa7d64cbda5de88db",
+      "currentSHA256": "2a97889bb9dabe9cd9de66c0e24f6100e03398cb3a6b638e5031801707399c17"
+    },
+    {
+      "file": "Assets/MonoBehaviour/UniversalRenderPipeline(2D).asset",
+      "backupSHA256": "d8795524ce0bce4384a9c2253ae81a12303a59257005eb965c090273b600077b",
+      "currentSHA256": "63ab4ec12e5b4c5db4aebe536637a73e20dbcbe149995c973d6604b6b366deb8"
+    },
+    {
+      "file": "Assets/MonoBehaviour/UniversalRenderPipeline(2D)_Renderer.asset",
+      "backupSHA256": "cc997b9c556e5737f081583d03d3252547e9ac69dcfe0d0f5208b7e6910dff81",
+      "currentSHA256": "e04ba5b0a509ee87e8247e424befbdf3e7e32a6d1746d2a2c5f4eb7b00ce42a9"
+    },
+    {
+      "file": "Assets/MonoBehaviour/UniversalRenderPipelineGlobalSettings.asset",
+      "backupSHA256": "f19df18c5f24bb7d8c9d81aa1ed16db6fb8ab9b5f14e07bb364925542c633ef4",
+      "currentSHA256": "5410b2253018dc6ad8aa209c1f02d1d076f7a9f875af15c799c2de1bfec6eb0b"
+    },
+    {
+      "file": "Assets/MonoBehaviour/Vignette.asset",
+      "backupSHA256": "36df4e08efaee2a34074e7786276c660ff9881c3ae05503ba7d13ee230a8d8e4",
+      "currentSHA256": "73610b6d8f22efe899179e67b798f107e5ae48ad55784585c7ad08e4b1e7a317"
+    },
+    {
+      "file": "Assets/MonoBehaviour/Vignette_0.asset",
+      "backupSHA256": "b532bcee07309e64b59c1cf02264d444152ced74c6d9e9b71832a1ce7cc37d62",
+      "currentSHA256": "314264aaad3da56cc8ec1d410561265b66f0aec9ff664047845188fdf2df5ee9"
+    },
+    {
+      "file": "Assets/MonoBehaviour/Vignette_1.asset",
+      "backupSHA256": "4c8ed9e5f527bf1484ee8ee2fa4ab4f40756346b9f4c4596752da032c122bc19",
+      "currentSHA256": "70e507eb35a8689fde92c875b6b2b1e177ec67f789afefc443ed3075fb598c2c"
+    },
+    {
+      "file": "Assets/MonoBehaviour/WhiteBalance.asset",
+      "backupSHA256": "db860eaaa313bf6df116a843148da063b667bffecb62835261fbab1a6ad38854",
+      "currentSHA256": "3f429b8ebb5f40010d70ffa50042dd20945fa8203fd8d5f46f1b5818f55462b5"
+    },
+    {
+      "file": "Assets/Plugins/MoreMountains.Tools.dll",
+      "backupSHA256": "93df60b508489933d543227f8421d0c749d732e2a9fa6117add3fad484c3cf59",
+      "currentSHA256": "8bc83a681c18df7a093638d7c18d4184321bc20d8743d5d46b33d234e3ccfdda"
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "backupSHA256": "0c62c530d2e194d5d4b93f32152ef1fde85f93f7d481c7f3d2e8f009b2471873",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipeline.Universal.ShaderLibrary.dll.meta",
+      "backupSHA256": "07123679e0bc25d34ec2810caf7567dbbf442cb9e24a38fd23b4a4829f51182a",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+      "backupSHA256": "8dbd493a3b84881f60cbf1c8fe5ddbb4724c8c2228df1674693d1fd2aad5fcbd",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll.meta",
+      "backupSHA256": "fe9d25e613b854f7b4c6dceff8933826352e61ab03b83f3e8c542adeec0d9ef3",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "backupSHA256": "8bdc12b7054d72156a5c98fdd3f8b66bb8bd531e16ff97c8c860f52bcde020fd",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.ShaderLibrary.dll.meta",
+      "backupSHA256": "3c4943b69972ac3fea6a7118bb6df513b9d9133709bddc46d3ac9bb9798576b7",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "backupSHA256": "d8f039e6beaa291438b0d796fb262ffee767a05941327e14074cf2fbb8d39832",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.meta",
+      "backupSHA256": "3824e3f49a4144101de5672afccf6e424815135b68259a8b0f59d8df50099629",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.2D.Internal.dll",
+      "backupSHA256": "fd024821647f5b8119236917c1e014a361b2cb8aa52eac14ee34bc19bdc5a77a",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.2D.Internal.dll.meta",
+      "backupSHA256": "a1c8ba31a14b2ae7af83014d5f455e893da07cff132e7cdac16fef786b037598",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+      "backupSHA256": "23b698d4861f837a4eb46824445228f2e6ccebbd336bfcd36fa99b9c876935e3",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Config.Runtime.dll.meta",
+      "backupSHA256": "359151e3f6c5d1eeb7eeeacbe3815d575d245be030fa20ec288216f422a9ea21",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+      "backupSHA256": "9738fe8e449f918d35069739469b49a7fbc47243eb5952ca23508642312540fe",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll.meta",
+      "backupSHA256": "a8a60d2ae6d2e61d3153364647e96a558002e40ace82c9883d095d2fa3b06563",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Shaders.dll",
+      "backupSHA256": "a189e7160e88aa3ac82f2dd6092a03562a371d136d66a091a8fb62c9bef8cac6",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Shaders.dll.meta",
+      "backupSHA256": "2960353466486cc4c26154121b04218c7422d206a4433d8a7e910547ca95621d",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Resources/DebugUICanvas.prefab",
+      "backupSHA256": "fca4d60fce0fd8ea48f74c32737a8a4ab61efd5152208c743add620c56e30f09",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Resources/DebugUICanvas.prefab.meta",
+      "backupSHA256": "45dfde10380f1b7b60e4dba115ee846e8ff33ea207718ed4e0178d4f5e9d83f2",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Resources/DebugUIPersistentCanvas.prefab",
+      "backupSHA256": "38cbfd167f9726dd2b7a90e7fab5af0c3f8ce3b68c44366d9e2c811f5dc49851",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Resources/DebugUIPersistentCanvas.prefab.meta",
+      "backupSHA256": "21fc702730e38b6800f7fe53e93912d13326696464f36027a1c0c64549d39e32",
+      "currentSHA256": null
+    },
+    {
+      "file": "Assets/Resources/MMDefaultHDRPProfile.asset",
+      "backupSHA256": "e918406fac111edb0b4863dcd188a36f1cab8280129f7d3964c228dbd1fbc600",
+      "currentSHA256": "a6eb29139573b4608c6f4458e2176a4d59ce8cc7112fa3e5758509b916b2ba44"
+    },
+    {
+      "file": "Assets/Resources/MMDefaultHDRPVolume.prefab",
+      "backupSHA256": "c14318f60db487e96eecd19d2d16864a0f9da78b4d08f70dc8d9e839612a7d96",
+      "currentSHA256": "c16a76b09360bf98abd19289997323447103a01c055ea4579455f20f6e091f03"
+    },
+    {
+      "file": "Assets/Resources/MMDefaultURPProfile.asset",
+      "backupSHA256": "2d7a2c469bc83ad536f067951c91fb7a77fcb2cbdf3f61ce438e252b7f59541d",
+      "currentSHA256": "3640ec382da596db06747d3df74bcc9048be9ee9e4dd710944e2eae7723e1195"
+    },
+    {
+      "file": "Assets/Resources/MMDefaultURPVolume.prefab",
+      "backupSHA256": "87765d249509d29647701ad577b9ae2cb66d6e267fee847d96d388728ef013c2",
+      "currentSHA256": "7467a463a6f58725666a0efc30531c86ca77fbe1f4f92312afd4a9ba3a2069ea"
+    },
+    {
+      "file": "Assets/Resources/uidissolve.shader",
+      "backupSHA256": "772f539700035cf4f8e066c401ae0027f8513aa066125e5016c6f1a19691f2bf",
+      "currentSHA256": "af5be869ebf93c92b2765264ad7dd9834700e26dd8dc4629b635ff06d486376b"
+    },
+    {
+      "file": "Assets/Resources/uieffect.shader",
+      "backupSHA256": "e018f438a413b0913d090a99be9a884afb71055c47e1b755fed0e0878e343649",
+      "currentSHA256": "3756812d2138aad70cf8baf0758e7378bda0b36f6306a04cf8937ce5124ad5f7"
+    },
+    {
+      "file": "Assets/Resources/uihsvmodifier.shader",
+      "backupSHA256": "d7754a3eac4f0698114ff2b1ae1ada9e4b22b96e6f1af2fddd46c624c32ea8f8",
+      "currentSHA256": "f875583ae4b0a65b73db65541a7c25e2960da865402848bf5538a8a2d858f884"
+    },
+    {
+      "file": "Assets/Resources/uishiny.shader",
+      "backupSHA256": "a788851f0a4111f7a02501db7a0b8e86968e0bac6922ff8e54d45a1a9010632a",
+      "currentSHA256": "a9518fd0e757d714c0aec69fc03baa64e5ad0834cb7625a2cbd7a49cc285af9f"
+    },
+    {
+      "file": "Assets/Resources/uittransition.shader",
+      "backupSHA256": "4b4bc581d92568eeec218e932e0a6933e750dbf9665006d575437e2b4cf421ae",
+      "currentSHA256": "46350f5f6c1a51eb6df077b66aaed4ac15142126ec39f3ed15a4287913eb6eea"
+    },
+    {
+      "file": "Assets/Scenes/Battle.unity",
+      "backupSHA256": "0aff3cb18b537a5ecb9ebd8cee93ff4586eb0ce714538d24a5501c06a1f2a99d",
+      "currentSHA256": "94c195eda5fcee025530df1b5d3280d8f70db0f26aa351376e13dc9b4c055c33"
+    },
+    {
+      "file": "Assets/Scenes/CastleMap.unity",
+      "backupSHA256": "9d347649cc37b525079ead1df568f4c99ea84f14cb0fe7a5cec4ae6f93fd4ead",
+      "currentSHA256": "82c505863e3c27166ddc056c75ee6b4e2e084ee3c1fa7c0a0afb776f56f09663"
+    },
+    {
+      "file": "Assets/Scenes/CastleWinScene.unity",
+      "backupSHA256": "ce881247ef781a606733d3e50ac3a27eaf8b40918c17e771609586712daab0fd",
+      "currentSHA256": "50ac42af61a191b84f64dd381233c64d851bb65a264e3fd8cb2c3c85f4f1fb0e"
+    },
+    {
+      "file": "Assets/Scenes/CoreMap.unity",
+      "backupSHA256": "e014680ba6f5afdf42da00634c0a811a3d7ae0c4ed5ce1efcd3c0867ec58c61b",
+      "currentSHA256": "e560588506e71dfa75c078760d863343cdf801eacf3c198b9042088b1ba075c7"
+    },
+    {
+      "file": "Assets/Scenes/CoreWinScene.unity",
+      "backupSHA256": "910f60fbd3b714cd6c1128a45382173840c969e52dd64076cb2ac0cb8db51502",
+      "currentSHA256": "06fb46d157902dcea1bb58bd1cba78b3e8fd944c404c4bec021fab6112e6a179"
+    },
+    {
+      "file": "Assets/Scenes/FinalWinScene.unity",
+      "backupSHA256": "16cab589856bb8e6dd8b7f21b8ba1a64fc25c8f906f28608a2a35d93391b60f3",
+      "currentSHA256": "7d91ad401f93c188d7b5dadf21440a7923123d670fb50eb0962e59950b2dcfb8"
+    },
+    {
+      "file": "Assets/Scenes/ForestMap.unity",
+      "backupSHA256": "01d35400e7c5321744661ffdbd11aa26c3116e8fe15a115e69bafbe0de05896f",
+      "currentSHA256": "7d3ae4e1234592c212be71d8bc87e83ae53b8e9fbc6dab073a4d167e25c77054"
+    },
+    {
+      "file": "Assets/Scenes/ForestWinScene.unity",
+      "backupSHA256": "fc8b1ac9c8c60655bb22126d3a156a4c1d8e4af153725b5be0228a7611581b10",
+      "currentSHA256": "57710c456c0e2abf182e76de7db5b4b3e84a4bec5ffe89b0a8937f46e0e59bdd"
+    },
+    {
+      "file": "Assets/Scenes/MainMenu.unity",
+      "backupSHA256": "0e8b370dffd8a57239959aa9ab5be1bfbb87e3e2bc795a1a41ca6817b0918123",
+      "currentSHA256": "d15731418e817a057e79bfd3519ab05a0fa5f8c42d60c3a6590742a1fa02792e"
+    },
+    {
+      "file": "Assets/Scenes/MinesMap.unity",
+      "backupSHA256": "73c9714b0a22b65c7ace8fb79f900e65cc1f30574609e0e2ea165a4061512de2",
+      "currentSHA256": "2cde911e8f965cbb02890dd007e41bfd011d97bcca7ef4a3926a0c3d88b25cc8"
+    },
+    {
+      "file": "Assets/Scenes/PegMinigame.unity",
+      "backupSHA256": "67f43cef0ffee36b55645a2cd76b1bdc24d83ef40cd58f9e0dcd37b9196c1690",
+      "currentSHA256": "c3c4e95a4be7a4ff64dba1bc8a03364bf27115e176ff69c456f7e224b3da3359"
+    },
+    {
+      "file": "Assets/Scenes/PostMainMenu.unity",
+      "backupSHA256": "388def4641b2390bc7491f2a3c14f24dcb91df7258a3318c3b44ab11c5966471",
+      "currentSHA256": "3cb6e5ad28be47c9ac59833a8180c475ecb2678d038cef2e12cca9b074d44819"
+    },
+    {
+      "file": "Assets/Scenes/PreMainMenu.unity",
+      "backupSHA256": "5b6b4dd56d16dd6061a555fe5b90707cd716e3ed6385555e3d5e4131cf232107",
+      "currentSHA256": "8538842f6735111445733a1137f3dfa72e5e2b9040efa3c21b8012326281e96a"
+    },
+    {
+      "file": "Assets/Scenes/RunSummary.unity",
+      "backupSHA256": "4c3193988c3f7e905ad559392d4dd2e04656928b85d5c0343ff0bef0f1efd6e0",
+      "currentSHA256": "fbcb52be54aedb8006215b8b97a3d876d68d3f8dbb8757bac696b6becbef57b3"
+    },
+    {
+      "file": "Assets/Scenes/ShopScenario.unity",
+      "backupSHA256": "dc4b223190e15b101fa39d0244e0ce9494bdd8e18568bc876d70adeb20d02e5a",
+      "currentSHA256": "400d80055374b5a4c7f0d2f9ef27388abccdf1e1d30c287a9afbaaa0997f4da3"
+    },
+    {
+      "file": "Assets/Scenes/TextScenario.unity",
+      "backupSHA256": "81a66c2aae2577c9b22ea55319e7b6cb4f3df2db01fea69323c47f46523f962f",
+      "currentSHA256": "7cd08df6334b61d8acd5fdd9a9466950b2faf2e5cfeec3cb51f77811ac3930fc"
+    },
+    {
+      "file": "Assets/Scenes/Treasure.unity",
+      "backupSHA256": "1a6892ab484223d87a9f2ebcfe6f48077d6b067fb908ff8105942099f6f6c99a",
+      "currentSHA256": "477cf125cda24deaebaba8d5e40579d983ca83eb50684cecec324081d1b37119"
+    },
+    {
+      "file": "Assets/Scenes/WinScene.unity",
+      "backupSHA256": "b03aaf480e71d17752a10b5197e831b247a2433111c4f548f57d652182c47a4d",
+      "currentSHA256": "3359e315e132590563f95e9194349054f19885c0b08606125e4ffa7118164c3b"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Core_FallbackError.shader",
+      "backupSHA256": "bd011358b05b5d89b83dd47f94d8f7837ecfc12ed83b3a82d8fae534c568e441",
+      "currentSHA256": "d98a814cd05dc721837098cdeb82e916f7f452e125de12f49ed1bb02f2b21e93"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Shader Graph_FallbackError.shader",
+      "backupSHA256": "119324c23f5762c54b793cc419526544be4b56e594ad2548ffc24f369d9e14ec",
+      "currentSHA256": "ed25f92548fb8a4b99574118079b877352dd8142eda87df02ce2c01b25af2699"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Shadow2DShadowSprite.shader",
+      "backupSHA256": "00bd567300fdc5c7d25574de3c4b3bd3ab74a1c62c2bc99097ef7f0ba8d57f66",
+      "currentSHA256": "51cc1d078b8303ad36fe4cd0467d4f37c80cf4eb94a59ce124cc8b095372e10e"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Shadow2DUnshadowGeometry.shader",
+      "backupSHA256": "cb4454d4ebfd767c2caba06b389344b2a7c3c8d07875db2ccf0443f7540eb75e",
+      "currentSHA256": "584efa10cb4eddaec2c74d5f57c1a4a65bc81a16ce5f2081d02ec7d598f91402"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Shadow2DUnshadowSprite.shader",
+      "backupSHA256": "102d759b63e0cac39a3a44a0665c327e5fe6271f00c34d326d8283d87674ad7f",
+      "currentSHA256": "74f1f9096f0843ab92471a3589d9420905b427bf9cf58b117f950fb29d4950cd"
+    },
+    {
+      "file": "Assets/Shader/Hidden_ShadowProjected2D.shader",
+      "backupSHA256": "d7d42c84937b737cd62e7f9aac44bd41a4c1348f36abad0b7bfb45f0e344ca2d",
+      "currentSHA256": "e970477d7d3113ab801bd7d232829aa8d376406ce9ff2229edb4f7998957e4e8"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Bloom.shader",
+      "backupSHA256": "53763d79575cb6ef4ff3727982d52e73bd7c56399e4e90b4d9ae731d6b92f61e",
+      "currentSHA256": "7c0fe7d6e3e79ecce5ddd0de29574298723789c650f4db60940b6fe2e4ca1942"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_BokehDepthOfField.shader",
+      "backupSHA256": "c749444f5a0161329a8ab5cd982f73a258a38db4a7fa0e305228d0ff7d567db9",
+      "currentSHA256": "0832e88938830e8e08613830643ef0b48572408e40fc4540de7e702731b1e233"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_CameraMotionBlur.shader",
+      "backupSHA256": "ccc406272dd8c50243ec138729e98eed961cf34ffefa10b9c46a081b82e1d9ab",
+      "currentSHA256": "60555b5c91155f7f6a32f9abac04faa62a78a9a3d58034882aff7b6440644780"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Debug_DebugReplacement.shader",
+      "backupSHA256": "8ee6fd33ec0a1e69a2a29379d62b65734c4b91e24ec685333a26d2f903cb4a5e",
+      "currentSHA256": "87aa9907968957814bd7fea5c0954afe73e3b5be5a9883b670f0f2cf89753ff3"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Edge Adaptive Spatial Upsampling.shader",
+      "backupSHA256": "97802eec3a7df9365f25b8197dc7268a5a85b9d7b08e5034a8ccf4344c5e536d",
+      "currentSHA256": "8c00ba6f3465720e9295e7335c2e6958b3000d5cefd1363ea876fc4c6d917ecd"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_FallbackError.shader",
+      "backupSHA256": "76cd46ebe34c65703bef3ae731c7faf3aa33b3b9342732566731fd4e3c730f3f",
+      "currentSHA256": "6bdb875dc44fdbdd5ea2a92b3c9bd7aaf9ac9e7650c62bd9e77d0332d048418e"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_FinalPost.shader",
+      "backupSHA256": "c386f502abe069c13d39c68a492707f31562ac6f18f3a199330d2fcbd48de56a",
+      "currentSHA256": "31347fbb2cc8a479818684ce6419e77e5a26c8ece8e8d215820813b3fc343f47"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_GaussianDepthOfField.shader",
+      "backupSHA256": "f516c1e0da00258bfd7bf182336db9ef044817e5bd47095cc19a639f29fce2bb",
+      "currentSHA256": "daf1449bbd23d14eba8381cba415b2fae995ea7a1f0ab279d1731e40f3537735"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_LensFlareDataDriven.shader",
+      "backupSHA256": "93392da81301f9527d73931cb51e1f0490f3ca5aa1f552916a6b37f007c3b9a3",
+      "currentSHA256": "bf43d36bf0e1e24c1ec6fd08dfb5e378a5d3fd299465d3c1531f225bdea94e3c"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_LutBuilderHdr.shader",
+      "backupSHA256": "4d39809171fbff98884dbc4f3c723758a3a0faff986d3b1389329fe6c19159b6",
+      "currentSHA256": "9aaa902e8d6b47f9fd9a96b6d52fe0c677cb98204fa8e0f96a7995dc8b711f9a"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_LutBuilderLdr.shader",
+      "backupSHA256": "986c9b32faee317e5bf59e3adaf03e09b043c9cd43589342f409c0223b78e974",
+      "currentSHA256": "e858546a45890d9b45f3d83f289ced7ab28a594c6bbfaa76e484f2b954e34f4a"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_PaniniProjection.shader",
+      "backupSHA256": "632943a8714dd8fefed57e1e4a7ef40f4fad8ae00667fb7ce5a5a933587bd472",
+      "currentSHA256": "e9d728d3e795e1b551f0acc73b69717cc1d10754ec6f7712266977e80918bb1d"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Sampling.shader",
+      "backupSHA256": "4e03ebf8d2d349026a30f2ef6b8d064a270f24aa2cf872127331b0b2d67631b4",
+      "currentSHA256": "097d0523ccfe54bcd351ff5273840ed5a84dc1ee3ae9fa91bd230003b611c968"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Scaling Setup.shader",
+      "backupSHA256": "403d14b7512f278a4720b7307e723bcb67e3848751d77944d92941954586c293",
+      "currentSHA256": "9e3ce9bc1d27d9d39496c023c1d3bf208f4e253295a2fcee2e1dc7391521008b"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Stop NaN.shader",
+      "backupSHA256": "6983f1ee17b549323610d0d412d091cfa9d3570d470899261d82d197dea2de54",
+      "currentSHA256": "157731dfb02a03e11525737375c1872296eb0e1e301cac9ab56edb97162ff489"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_SubpixelMorphologicalAntialiasing.shader",
+      "backupSHA256": "f910ec98c422468684b8118f0edae3f23cdbe76feac71f969f8557a0114bb768",
+      "currentSHA256": "4b35d21fbbb3a5fd18a753fda332ea081bff79f1506eff40a9b785ea0cadb270"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_TemporalAA.shader",
+      "backupSHA256": "1a3f80c404d5dc0f13842f3a89dab22d824d3d53ea1cf13ecac3205eabaf83c5",
+      "currentSHA256": "48b53bc4087c86a1e56976afbe1faefbd73a4e6452997a670de0a4d887488451"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_UberPost.shader",
+      "backupSHA256": "69e4ce6c88264d2ccad76cda6f0686d9f2e6a95a6c076d5ac1d90d90a996e0c9",
+      "currentSHA256": "45844e94306f54d05090a75a7c12faa262dc552fbe02dff89cf4e747c33f3685"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal_BlitHDROverlay.shader",
+      "backupSHA256": "eaeb4c5389057d819f0c58629db33fd0ca5baf8d9f431fd1480f89c33f183737",
+      "currentSHA256": "30e8725cf1c0f59b03e0299475e0519d9c582e3e1ce87c2acea7b3c468bea346"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal_CoreBlit.shader",
+      "backupSHA256": "6f3165b151180bc899f6ae57a61318f6a2bd8a98d1be2d105a5ae2a9f49e35a3",
+      "currentSHA256": "820e71f51690a7e7ac7ee5db174ac379364e3541ec3d0ff75c001dcc552b2fe7"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal_CoreBlitColorAndDepth.shader",
+      "backupSHA256": "b921fd0c8ff6032989597d8322f2fa55cbeac32eb66ae2b4a79c07ae71841f88",
+      "currentSHA256": "285c72fa70a3083a185031f2b4f452e763a02514b5c6a4934939b0e6afe37bbc"
+    },
+    {
+      "file": "Assets/Shader/Hidden_Universal_HDRDebugView.shader",
+      "backupSHA256": "c0eea7f1641fcb66f3b3da53988272f2e039b3757e2e474aa21f445c07f8a70a",
+      "currentSHA256": "b6bf1c24c3522ca660981312bbf6184d0ca7269d0e4f36988c294b124cecf696"
+    },
+    {
+      "file": "Assets/Shader/TextMeshPro_Distance Field.shader",
+      "backupSHA256": "8e5c75e9315b9614f207a53d4bfb6cd60690d518e100026b2c1d84f3a1a01ff3",
+      "currentSHA256": "10efe6d4728474a09970b857faf37913793e168dc13dbd4d7316b54b37615d97"
+    },
+    {
+      "file": "Assets/Shader/TextMeshPro_Distance Field_0.shader",
+      "backupSHA256": "8e5c75e9315b9614f207a53d4bfb6cd60690d518e100026b2c1d84f3a1a01ff3",
+      "currentSHA256": "10efe6d4728474a09970b857faf37913793e168dc13dbd4d7316b54b37615d97"
+    },
+    {
+      "file": "Assets/Shader/TextMeshPro_Mobile_Distance Field.shader",
+      "backupSHA256": "0c09175f7d88e23ab4b025599541ba5935ec4c71dd1a24e9f3f0282c4b336891",
+      "currentSHA256": "a954ea0fc2c7c03ae3feeb717bc5b06d478b31886c776c8809a1fa1d0ae08927"
+    },
+    {
+      "file": "Assets/Shader/TextMeshPro_Mobile_Distance Field_0.shader",
+      "backupSHA256": "0c09175f7d88e23ab4b025599541ba5935ec4c71dd1a24e9f3f0282c4b336891",
+      "currentSHA256": "a954ea0fc2c7c03ae3feeb717bc5b06d478b31886c776c8809a1fa1d0ae08927"
+    },
+    {
+      "file": "Assets/Shader/TextMeshPro_Sprite.shader",
+      "backupSHA256": "cdd05e0c2166efbc484dbdfa0fbe93f8d4d8d55316bebd316be33ee304db54df",
+      "currentSHA256": "af669bb9ae136c8099f8e0a94a6933fd2f1e1fb0a6842129939a319fab4b8dbb"
+    },
+    {
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Lit-Default.shader",
+      "backupSHA256": "39eb05c5d704c20d9fe845ed01d0206f0468477feaec635a06d3b705518a51cc",
+      "currentSHA256": "1429736dff787ea67213a3fa96225eac12e516a5cb67e4d7f97162c8ce1bac52"
+    },
+    {
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Lit-Default_0.shader",
+      "backupSHA256": "39eb05c5d704c20d9fe845ed01d0206f0468477feaec635a06d3b705518a51cc",
+      "currentSHA256": "1429736dff787ea67213a3fa96225eac12e516a5cb67e4d7f97162c8ce1bac52"
+    },
+    {
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Lit-Default_1.shader",
+      "backupSHA256": "39eb05c5d704c20d9fe845ed01d0206f0468477feaec635a06d3b705518a51cc",
+      "currentSHA256": "1429736dff787ea67213a3fa96225eac12e516a5cb67e4d7f97162c8ce1bac52"
+    },
+    {
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Lit-Default_2.shader",
+      "backupSHA256": "39eb05c5d704c20d9fe845ed01d0206f0468477feaec635a06d3b705518a51cc",
+      "currentSHA256": "1429736dff787ea67213a3fa96225eac12e516a5cb67e4d7f97162c8ce1bac52"
+    },
+    {
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Mask.shader",
+      "backupSHA256": "e0532ebef36a1aa710b79fc0479e57a407dc9caed429cd5d29568787f1a944c2",
+      "currentSHA256": "893a09f1e6d1b9293b0424aef69ae6cb7c04f2ef4fba33d2a0acf89871c8e204"
+    },
+    {
+      "file": "Assets/Scripts/Assembly-CSharp/PeglinUI/OrbDisplay/OrbInfoWidget.cs",
+      "backupSHA256": "49da83c60282a5df3dbad3c1bf0c20ffa6b38d684c7964fff504c830e272f197",
+      "currentSHA256": "597517848dd14cb28a1c9870bc8925ea100ff30d372043083811d381fce5fd94"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_bitmap-custom-atlas.shader",
+      "backupSHA256": "eb131dfe5a96a40a76ba25343dfb951414068cd9970fb757254dbac4fc48b596",
+      "currentSHA256": "42892a52f22bdde6d482cf2da5f35e4b813063fc6fe42189eee5562080079494"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_bitmap-mobile.shader",
+      "backupSHA256": "08e2c8642cc5c94b70af623ca45fa3bcc0bbcfee09feae8c4948c6e2706a7ea1",
+      "currentSHA256": "b50afc7edc8a710f8b4159149b2391e7238b5e4076cc0ea2119090ed29e13b4a"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_bitmap.shader",
+      "backupSHA256": "574522a33e5e3c8cb941324a126c7bfde79dae2ed3e8cfe8b22dc20a75921c4e",
+      "currentSHA256": "1d32f34c71276c1321aa0540a2410e15808743a38b2026923045a4dec4a79b58"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_sdf overlay.shader",
+      "backupSHA256": "506a5da3a43f8e69204ac4dbac4f839a87d6f2719ef1c0417436873206e89c4e",
+      "currentSHA256": "a0d318756cba0f95a7052c387e629d0add3e9a4125c8333f1d1ed591af5f17cb"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_sdf-mobile masking.shader",
+      "backupSHA256": "8a0c9ba1b1e2467eb86a440eb05529a8d02e7ef93ec6ea88ca11263a1272ac22",
+      "currentSHA256": "41cff58473557bf760d03513a8c098f43a24e4eeb4c8ccd7d828c045a338a9ed"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_sdf-mobile overlay.shader",
+      "backupSHA256": "5169df3c32c9ac13925cb5bbfb1a1c99ef5e0fe105e0174f6e522490796ca3af",
+      "currentSHA256": "fb286386d0592ce6d63eb736f180b4b0f638ec538b0855aa54767a438ebd1173"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_sdf-mobile.shader",
+      "backupSHA256": "0c09175f7d88e23ab4b025599541ba5935ec4c71dd1a24e9f3f0282c4b336891",
+      "currentSHA256": "a954ea0fc2c7c03ae3feeb717bc5b06d478b31886c776c8809a1fa1d0ae08927"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_sdf-surface-mobile.shader",
+      "backupSHA256": "24dcf1277b768a7075b44718adce64f97379b6a8ada92564b2853a02b8f242b3",
+      "currentSHA256": "f9fae5906dd37d89298338953294459975de58a5421e68dd9e82a79794b95509"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_sdf-surface.shader",
+      "backupSHA256": "f94ec6719cb1db23cc19113a923adb6e88ee7dd942e5e600b13d722eb7e94bf1",
+      "currentSHA256": "5dadb68b56429547918b392626e9af8fd5173936d20bb43cfca58dfa00947257"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_sdf.shader",
+      "backupSHA256": "8e5c75e9315b9614f207a53d4bfb6cd60690d518e100026b2c1d84f3a1a01ff3",
+      "currentSHA256": "10efe6d4728474a09970b857faf37913793e168dc13dbd4d7316b54b37615d97"
+    },
+    {
+      "file": "Assets/Resources/shaders/tmp_sprite.shader",
+      "backupSHA256": "cdd05e0c2166efbc484dbdfa0fbe93f8d4d8d55316bebd316be33ee304db54df",
+      "currentSHA256": "af669bb9ae136c8099f8e0a94a6933fd2f1e1fb0a6842129939a319fab4b8dbb"
+    }
+  ],
+  "mappedScriptReferences": {
+    "UnityEngine.Rendering.VolumeProfile": 4,
+    "UnityEngine.Rendering.Universal.Bloom": 1,
+    "UnityEngine.Rendering.Universal.ChannelMixer": 1,
+    "UnityEngine.Rendering.Universal.ChromaticAberration": 1,
+    "UnityEngine.Rendering.Universal.ColorAdjustments": 1,
+    "UnityEngine.Rendering.Universal.DepthOfField": 1,
+    "UnityEngine.Rendering.Universal.FilmGrain": 1,
+    "UnityEngine.Rendering.Universal.LensDistortion": 1,
+    "UnityEngine.Rendering.Universal.MotionBlur": 1,
+    "UnityEngine.Rendering.Universal.PaniniProjection": 1,
+    "UnityEngine.Rendering.Universal.PostProcessData": 1,
+    "UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset": 1,
+    "UnityEngine.Rendering.Universal.Renderer2DData": 1,
+    "UnityEngine.Rendering.Universal.UniversalRenderPipelineGlobalSettings": 1,
+    "UnityEngine.Rendering.Universal.Vignette": 3,
+    "UnityEngine.Rendering.Universal.WhiteBalance": 1,
+    "UnityEngine.Rendering.Volume": 7,
+    "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData": 18,
+    "UnityEngine.Experimental.Rendering.Universal.PixelPerfectCamera": 3
+  }
+}
