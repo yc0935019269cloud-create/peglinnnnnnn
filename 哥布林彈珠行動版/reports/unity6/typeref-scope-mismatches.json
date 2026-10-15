@@ -1,0 +1,1310 @@
+﻿[
+    {
+        "Dll":  "Febucci.TextAnimator.Runtime.dll",
+        "Type":  "UnityEngine.Scripting.PreserveAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Febucci.TextAnimator.Runtime.dll",
+        "Type":  "UnityEngine.UI.Graphic",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.RigidbodyType2D",
+        "Scope":  "UnityEngine.Physics2DModule",
+        "Real":  "UnityEngine.CoreModule"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.Text",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.Image",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.Graphic",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.InputField",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.Slider",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.Button",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.Selectable",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.ScrollRect",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.EventSystem",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.BaseEventData",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerDownHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.IEventSystemHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerEnterHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerUpHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerExitHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerClickHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.PointerEventData",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.CanvasScaler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.VertexHelper",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.StandaloneInputModule",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.UI.RawImage",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.ISubmitHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.IDragHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "MoreMountains.Tools.dll",
+        "Type":  "UnityEngine.EventSystems.IEndDragHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.PointerEventData",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.UI.ColorBlock",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.UI.SpriteState",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.UI.AnimationTriggers",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.UI.Graphic",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.UI.Image",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.BaseEventData",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.EventTriggerType",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.UI.Text",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerDownHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.IEventSystemHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerUpHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerEnterHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerExitHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.IBeginDragHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.IDragHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.IEndDragHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.RaycastResult",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.EventSystems.EventSystem",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Rewired_Core.dll",
+        "Type":  "UnityEngine.UI.CanvasScaler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UIEffect.dll",
+        "Type":  "UnityEngine.UI.Graphic",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UIEffect.dll",
+        "Type":  "UnityEngine.UI.VertexHelper",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UIEffect.dll",
+        "Type":  "UnityEngine.UI.IMaterialModifier",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UIEffect.dll",
+        "Type":  "UnityEngine.EventSystems.UIBehaviour",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UIEffect.dll",
+        "Type":  "UnityEngine.UI.IMeshModifier",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UIEffect.dll",
+        "Type":  "UnityEngine.UI.Text",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.2D.Common.Runtime.dll",
+        "Type":  "Unity.Collections.LowLevel.Unsafe.NativeDisableUnsafePtrRestrictionAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.2D.SpriteShape.Runtime.dll",
+        "Type":  "Unity.Burst.BurstDiscardAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.Burst.dll",
+        "Type":  "Unity.Collections.LowLevel.Unsafe.NativeDisableUnsafePtrRestrictionAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.Burst.dll",
+        "Type":  "UnityEngine.Scripting.PreserveAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.Burst.dll",
+        "Type":  "Unity.Burst.LowLevel.BurstCompilerService",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.BurstModule"
+    },
+    {
+        "Dll":  "Unity.Burst.dll",
+        "Type":  "Unity.Burst.LowLevel.BurstCompilerService/BurstLogType",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.BurstModule"
+    },
+    {
+        "Dll":  "Unity.Burst.dll",
+        "Type":  "Unity.Burst.BurstDiscardAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.Burst.dll",
+        "Type":  "AOT.MonoPInvokeCallbackAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.Collections.dll",
+        "Type":  "Unity.Collections.LowLevel.Unsafe.NativeDisableUnsafePtrRestrictionAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.Collections.dll",
+        "Type":  "Unity.Burst.BurstDiscardAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.MemoryProfiler.dll",
+        "Type":  "UnityEngine.Scripting.PreserveAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.MemoryProfiler.dll",
+        "Type":  "UnityEngine.Scripting.AlwaysLinkAssemblyAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.Postprocessing.Runtime.dll",
+        "Type":  "UnityEngine.Scripting.PreserveAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.EventSystems.EventSystem",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.EventSystems.BaseInputModule",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.EventSystems.StandaloneInputModule",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.EventSystems.BaseInput",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.UI.Text",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.UI.Toggle",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.UI.Graphic",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.UI.Image",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.UI.LayoutElement",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.UI.ScrollRect",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.UI.Mask",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Core.Runtime.dll",
+        "Type":  "UnityEngine.UI.LayoutRebuilder",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.RenderPipelines.Universal.Runtime.dll",
+        "Type":  "Unity.Collections.LowLevel.Unsafe.NativeDisableUnsafePtrRestrictionAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.ResourceManager.dll",
+        "Type":  "UnityEngine.Scripting.PreserveAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "Unity.Services.Core.Internal.dll",
+        "Type":  "UnityEngine.Scripting.RequireImplementorsAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.UIBehaviour",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.Graphic",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.ILayoutElement",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.LayoutRebuilder",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.CanvasUpdate",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.CanvasUpdateRegistry",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.ICanvasElement",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.MaskableGraphic",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.MaskUtilities",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.StencilMaterial",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.GraphicRegistry",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.ColorBlock",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.Selectable",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.Image",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.Scrollbar",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.Button",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.RectMask2D",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.LayoutElement",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.Toggle",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.ScrollRect",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.Mask",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerClickHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IEventSystemHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.ISubmitHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.ICancelHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.BaseRaycaster",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.GraphicRaycaster",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.PointerEventData",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.BaseEventData",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.Navigation",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IPointerEnterHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.EventSystem",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IUpdateSelectedHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IBeginDragHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IDragHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IEndDragHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IScrollHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.LayoutGroup",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.BaseInputModule",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.BaseInput",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.ILayoutController",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.AbstractEventData",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventModifiers",
+        "Scope":  "UnityEngine.IMGUIModule",
+        "Real":  "UnityEngine.CoreModule"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.VertexHelper",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.UI.IMaterialModifier",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.ISelectHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.TextMeshPro.dll",
+        "Type":  "UnityEngine.EventSystems.IDeselectHandler",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.VisualEffectGraph.Runtime.dll",
+        "Type":  "UnityEngine.UI.Dropdown",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.VisualEffectGraph.Runtime.dll",
+        "Type":  "UnityEngine.UI.Slider",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "Unity.VisualEffectGraph.Runtime.dll",
+        "Type":  "UnityEngine.UI.Toggle",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.AppleMacosStub.dll",
+        "Type":  "UnityEngine.Purchasing.INativeAppleStore",
+        "Scope":  "UnityEngine.Purchasing.AppleCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.AppleStub.dll",
+        "Type":  "UnityEngine.Purchasing.INativeAppleStore",
+        "Scope":  "UnityEngine.Purchasing.AppleCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.Product",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.UI.Button",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.PurchaseProcessingResult",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.PurchaseEventArgs",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.PurchaseFailureDescription",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IStoreController",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IExtensionProvider",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.InitializationFailureReason",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.PurchaseFailureReason",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.ConfigurationBuilder",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.ProductCatalog",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.UI.Text",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IDetailedStoreListener",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IStoreListener",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.ProductCollection",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IMicrosoftExtensions",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IAppleExtensions",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.StandardPurchasingModule",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.AppStore",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IGooglePlayStoreExtensions",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.FakeStoreUIMode",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.IPurchasingModule",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.UnityPurchasing",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.ProductCatalogItem",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.ProductDefinition",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.ProductMetadata",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.StoreID",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IDs",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.PayoutDefinition",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.ProductCatalogPayout",
+        "Scope":  "UnityEngine.Purchasing.Stores",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.ProductType",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.IStoreConfiguration",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Codeless.dll",
+        "Type":  "UnityEngine.Purchasing.IStoreExtension",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.dll",
+        "Type":  "UnityEngine.Analytics.AnalyticsResult",
+        "Scope":  "UnityEngine.UnityAnalyticsModule",
+        "Real":  "UnityEngine.UnityAnalyticsCommonModule"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.SecurityStub.dll",
+        "Type":  "UnityEngine.Purchasing.Security.AppleReceipt",
+        "Scope":  "UnityEngine.Purchasing.SecurityCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.SecurityStub.dll",
+        "Type":  "UnityEngine.Purchasing.Security.IPurchaseReceipt",
+        "Scope":  "UnityEngine.Purchasing.SecurityCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.ProductDescription",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.ProductMetadata",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.ProductDefinition",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.ITelemetryDiagnostics",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "Uniject.IUtil",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Product",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.ITelemetryMetricsService",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Security.GooglePurchaseState",
+        "Scope":  "UnityEngine.Purchasing.SecurityStub",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.IStoreCallback",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.PurchaseFailureDescription",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.ProductCollection",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.InitializationFailureReason",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.INativeAppleStore",
+        "Scope":  "UnityEngine.Purchasing.AppleCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Security.AppleReceipt",
+        "Scope":  "UnityEngine.Purchasing.SecurityCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Security.AppleInAppPurchaseReceipt",
+        "Scope":  "UnityEngine.Purchasing.SecurityCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.IPurchasingBinder",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.ITelemetryMetricsInstanceWrapper",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.ITelemetryDiagnosticsInstanceWrapper",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.IStore",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Default.IWindowsIAP",
+        "Scope":  "UnityEngine.Purchasing.WinRTCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Default.WinProductDescription",
+        "Scope":  "UnityEngine.Purchasing.WinRTCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.PurchaseFailureReason",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.ProductType",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.IStoreExtension",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.IStoreConfiguration",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.AbstractStore",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Extension.AbstractPurchasingModule",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Default.IWindowsIAPCallback",
+        "Scope":  "UnityEngine.Purchasing.WinRTCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.LoggerExtensions",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Scripting.PreserveAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.TelemetryMetricDefinitions",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.TelemetryMetricDefinition",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.ProductPurchaseUpdater",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.PurchasingManager",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "AOT.MonoPInvokeCallbackAttribute",
+        "Scope":  "UnityEngine.CoreModule",
+        "Real":  "UnityEngine.ScriptingModule"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Security.AppleReceiptParser",
+        "Scope":  "UnityEngine.Purchasing.SecurityStub",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.iOSStoreBindings",
+        "Scope":  "UnityEngine.Purchasing.AppleStub",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.OSXStoreBindings",
+        "Scope":  "UnityEngine.Purchasing.AppleMacosStub",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.EventSystems.EventSystem",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.EventSystems.StandaloneInputModule",
+        "Scope":  "UnityEngine.UI",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.TelemetryDiagnosticsInstanceWrapper",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.TelemetryMetricsInstanceWrapper",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.TelemetryMetricsService",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Telemetry.TelemetryDiagnostics",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Default.Factory",
+        "Scope":  "UnityEngine.Purchasing.WinRTStub",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.Security.IAPSecurityException",
+        "Scope":  "UnityEngine.Purchasing.SecurityCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.Stores.dll",
+        "Type":  "UnityEngine.Purchasing.CoreServicesEnvironmentSubject",
+        "Scope":  "UnityEngine.Purchasing",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.Purchasing.WinRTStub.dll",
+        "Type":  "UnityEngine.Purchasing.Default.IWindowsIAP",
+        "Scope":  "UnityEngine.Purchasing.WinRTCore",
+        "Real":  "\u003cNOT FOUND\u003e"
+    },
+    {
+        "Dll":  "UnityEngine.UI.dll",
+        "Type":  "UnityEngine.EventModifiers",
+        "Scope":  "UnityEngine.IMGUIModule",
+        "Real":  "UnityEngine.CoreModule"
+    }
+]

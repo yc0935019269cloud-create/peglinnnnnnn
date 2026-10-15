@@ -1,0 +1,35 @@
+{
+  "file": "E:\\NEWTEST\\哥布林彈珠行動版\\reports\\unity6\\editor-import-20261014-234043.log",
+  "bytes": 905635,
+  "lines": 7794,
+  "repeatedThreadWarnings": 0,
+  "firstThreadWarningContext": [],
+  "lastDistinctLines": [
+    "Input Polling Thread exited.",
+    "Input System module state changed to: Shutdown.",
+    "[Licensing::IpcConnector] LicenseClient-USER-notifications channel disconnected successfully.",
+    "[Licensing::IpcConnector] LicenseClient-USER channel disconnected successfully.",
+    "Lingering sessions upon destruction of worker manager",
+    "Unity Data Store service was successfully shut down",
+    "UDS shutting down local client system",
+    "AcceleratorClientConnectionCallback - disconnected - :0",
+    "Cleanup mono",
+    "CodeReloadManager destroyed",
+    "Checking for leaked weakptr:",
+    "  Found no leaked weakptrs.",
+    "[Package Manager] Server process was shutdown",
+    "##utp:{\"type\":\"MemoryLeaks\",\"version\":2,\"phase\":\"Immediate\",\"time\":1791992499825,\"processId\":7936,\"allocatedMemory\":30900465,\"memoryLabels\":[{\"Default\":367770},{\"Permanent\":15516},{\"NewDelete\":81047},{\"Thread\":4198728},{\"Manager\":32541},{\"VertexData\":8},{\"Geometry\":816},{\"Texture\":24},{\"Shader\":847695},{\"Material\":132},{\"GfxDevice\":88288},{\"Animation\":1200},{\"FreeType\":8},{\"FontEngine\":736},{\"Physics\":1970},{\"Physics2D\":16},{\"Serialization\":1237216},{\"Input\":42840},{\"JobScheduler\":256},{\"TextLib\":280},{\"Mono\":48},{\"MonoCode\":704},{\"ScriptingNativeRuntime\":1296884},{\"BaseObject\":49360},{\"Resource\":1444},{\"Renderer\":2536},{\"Transform\":4685},{\"File\":7389},{\"WebCam\":616},{\"Culling\":32},{\"Terrain\":11442},{\"Wind\":24},{\"STL\":40},{\"String\":2156152},{\"StaticString\":3808},{\"Utility\":2674262},{\"Curl\":2579},{\"PoolAlloc\":2168},{\"AI\":80},{\"TypeTree\":17165},{\"ScriptManager\":12656},{\"CodeReload\":448},{\"RuntimeInitializeOnLoadManager\":64},{\"Sprites\":102},{\"SpriteAtlas\":120},{\"GI\":7816},{\"Director\":8048},{\"CloudService\":7296},{\"WebRequest\":4564},{\"VR\":49650},{\"SceneManager\":608},{\"Video\":64},{\"LazyScriptCache\":32},{\"Camera\":729},{\"Secure\":2377},{\"SerializationCache\":9256},{\"APIUpdating\":10320},{\"Subsystems\":336},{\"VirtualTexturing\":57888},{\"StaticSafetyDebugInfo\":278528},{\"Analytics\":768},{\"Hierarchy\":1188},{\"UIElements\":40},{\"CoreStats\":14456},{\"Identifiers\":7152},{\"Gui\":128},{\"EditorUtility\":152474},{\"VersionControl\":8},{\"Undo\":931},{\"AssetDatabase\":18274421},{\"AssetImporter\":40},{\"EditorGi\":328},{\"UnityConnect\":40441},{\"Upm\":1912},{\"UpmDiagnostics\":8},{\"AssetCompliance\":96},{\"DrivenProperties\":72},{\"LocalIPC\":258},{\"ProfilerEditor\":9746},{\"CoreBusinessMetrics\":3618},{\"Windowing\":456},{\"Licensing\":12909},{\"AssetReference\":32},{\"IPCStream\":32}]}"
+  ],
+  "compilerErrors": [],
+  "lastImportedAssets": [
+    "Importing 'GUID: bad29882f8f543f4aa9481de794c02a7 - Path: Assets/Prefabs/LongPegGenerator.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: df82c8cf80e443c48909e5c78b43fb02 - Path: Assets/Prefabs/PegSplineFollowGenerator.prefab' with importer (PrefabImporter)"
+  ],
+  "buildErrors": [
+    "Error: IL2CPP error for type '<PrivateImplementationDetails>/__StaticArrayInitTypeSize=44' in assembly 'E:\\NEWTEST\\PeglinBrowserLab\\Unity6Project\\Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\System.dll'",
+    "Error: IL2CPP error for type 'Unity.IL2CPP.Metadata.__Il2CppUInt64Enum' in assembly '__Generated'",
+    "Exception: Platform smoke build failed: Failed",
+    "System.InvalidOperationException: Error while creating VTable for GwKCNWerMwGDIZpUKnXBMbelrGkBA. The base method System.Int32 GwKCNWerMwGDIZpUKnXBMbelrGkBA::VAPbiekCQMZJJOeqBPnWQivgRCpsA() is implemented both by System.Int32 YmINImHbaSxJTFQFGdWHiozJCXxDb::VAPbiekCQMZJJOeqBPnWQivgRCpsA() and System.Int32 YmINImHbaSxJTFQFGdWHiozJCXxDb::GwKCNWerMwGDIZpUKnXBMbelrGkBA.get_VAPbiekCQMZJJOeqBPnWQivgRCpsA().",
+    "System.InvalidOperationException: Error while creating VTable for RfFMKuqZhISUwrYUdqXdXiowfWsg. The base method dFGwIisbtfHayiNXiRBRWpMCngGv RfFMKuqZhISUwrYUdqXdXiowfWsg::nbPsxFsGmeDxGPfgFiEHaGeUHNgb() is implemented both by dFGwIisbtfHayiNXiRBRWpMCngGv gQYWqRhlmkWRkkrRpWjcmQltnfCL::nbPsxFsGmeDxGPfgFiEHaGeUHNgb() and dFGwIisbtfHayiNXiRBRWpMCngGv gQYWqRhlmkWRkkrRpWjcmQltnfCL::RfFMKuqZhISUwrYUdqXdXiowfWsg.get_nbPsxFsGmeDxGPfgFiEHaGeUHNgb()."
+  ]
+}

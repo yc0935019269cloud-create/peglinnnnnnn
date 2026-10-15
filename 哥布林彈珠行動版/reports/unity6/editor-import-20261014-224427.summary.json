@@ -1,0 +1,30 @@
+{
+  "file": "E:\\NEWTEST\\哥布林彈珠行動版\\reports\\unity6\\editor-import-20261014-224427.log",
+  "bytes": 874547,
+  "lines": 7505,
+  "repeatedThreadWarnings": 0,
+  "firstThreadWarningContext": [],
+  "lastDistinctLines": [
+    "Input Polling Thread exited.",
+    "Input System module state changed to: Shutdown.",
+    "[Licensing::IpcConnector] LicenseClient-USER-notifications channel disconnected successfully.",
+    "[Licensing::IpcConnector] LicenseClient-USER channel disconnected successfully.",
+    "Lingering sessions upon destruction of worker manager",
+    "Unity Data Store service was successfully shut down",
+    "UDS shutting down local client system",
+    "AcceleratorClientConnectionCallback - disconnected - :0",
+    "Cleanup mono",
+    "CodeReloadManager destroyed",
+    "Checking for leaked weakptr:",
+    "  Found no leaked weakptrs.",
+    "[Package Manager] Server process was shutdown",
+    "##utp:{\"type\":\"MemoryLeaks\",\"version\":2,\"phase\":\"Immediate\",\"time\":1791989125695,\"processId\":18636,\"allocatedMemory\":30589407,\"memoryLabels\":[{\"Default\":359967},{\"Permanent\":15516},{\"NewDelete\":80279},{\"Thread\":4198728},{\"Manager\":32541},{\"VertexData\":8},{\"Geometry\":816},{\"Texture\":24},{\"Shader\":841246},{\"Material\":132},{\"GfxDevice\":88288},{\"Animation\":1200},{\"FreeType\":8},{\"FontEngine\":736},{\"Physics\":1970},{\"Physics2D\":16},{\"Serialization\":828704},{\"Input\":42840},{\"JobScheduler\":256},{\"TextLib\":280},{\"Mono\":48},{\"MonoCode\":640},{\"ScriptingNativeRuntime\":1296884},{\"BaseObject\":49360},{\"Resource\":1444},{\"Renderer\":2536},{\"Transform\":4685},{\"File\":7389},{\"WebCam\":616},{\"Culling\":32},{\"Terrain\":11442},{\"Wind\":24},{\"STL\":40},{\"String\":1862210},{\"StaticString\":3808},{\"Utility\":2674262},{\"Curl\":2579},{\"PoolAlloc\":2168},{\"AI\":80},{\"TypeTree\":17165},{\"ScriptManager\":12656},{\"CodeReload\":448},{\"RuntimeInitializeOnLoadManager\":64},{\"Sprites\":102},{\"SpriteAtlas\":120},{\"GI\":7816},{\"Director\":8048},{\"CloudService\":7296},{\"WebRequest\":4516},{\"VR\":49650},{\"SceneManager\":608},{\"Video\":64},{\"LazyScriptCache\":32},{\"Camera\":729},{\"Secure\":2377},{\"SerializationCache\":9256},{\"APIUpdating\":10320},{\"Subsystems\":336},{\"VirtualTexturing\":57888},{\"StaticSafetyDebugInfo\":278528},{\"Analytics\":768},{\"Hierarchy\":1188},{\"UIElements\":40},{\"CoreStats\":14456},{\"Identifiers\":7152},{\"Gui\":128},{\"EditorUtility\":152440},{\"VersionControl\":8},{\"Undo\":931},{\"AssetDatabase\":18272407},{\"AssetImporter\":40},{\"EditorGi\":328},{\"UnityConnect\":40441},{\"Upm\":1912},{\"UpmDiagnostics\":8},{\"AssetCompliance\":96},{\"DrivenProperties\":72},{\"LocalIPC\":258},{\"ProfilerEditor\":9746},{\"CoreBusinessMetrics\":3618},{\"Windowing\":456},{\"Licensing\":12909},{\"AssetReference\":32},{\"IPCStream\":32}]}"
+  ],
+  "compilerErrors": [],
+  "lastImportedAssets": [],
+  "buildErrors": [
+    "Exception: Platform smoke build failed: Failed",
+    "MissingMethodException: Method not found: uint UnityEngine.TextCore.LowLevel.FontEngine.GetGlyphIndex(uint)",
+    "Mono.Cecil.AssemblyResolutionException: Failed to resolve assembly: 'UnityEngine.SharedInternalsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'"
+  ]
+}

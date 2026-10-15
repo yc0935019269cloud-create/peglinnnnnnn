@@ -1,0 +1,468 @@
+{
+  "project": "E:\\NEWTEST\\PeglinBrowserLab\\Unity6Project",
+  "targetEditor": "6000.6.5f1",
+  "rawRecoveryUnchanged": true,
+  "changes": [
+    {
+      "path": "Assets/Plugins/AssetIcons.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "fd0d6ed0e9910129060a4afff71176397f33eb2ad326e96d7ef5d23e53e3f894",
+      "afterSHA256": "810f3e54a05212f537d491c95157e959fce5a7e6b3913f79a337c2f6bf749df5"
+    },
+    {
+      "path": "Assets/Plugins/DemiLib.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "850dfd32bad8267a7fa77ac59f767c790304c9038aec2c29d6045293b66f1f22",
+      "afterSHA256": "2fb1c0d7e614d7428be907d09ff442d80668fe9a451ff74492ea0630d23cc254"
+    },
+    {
+      "path": "Assets/Plugins/DOTween.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "6582b5273003ecb2188441e6e791bff98c05b55b0fbb7abc96416055eeb7c82f",
+      "afterSHA256": "3f617abe03fc739ddeddbfac7b3d1f6074184f58abe462188ce3adf92dc4e50d"
+    },
+    {
+      "path": "Assets/Plugins/DOTweenPro.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "8d16c41c415ae14422a6d9a3fa7712f2824a7dc7e41a20605e6bb85db2579fd4",
+      "afterSHA256": "51629e4b78c1e6cb1f2c277ba6997215b4240a10c5269bea246d3be8684ea752"
+    },
+    {
+      "path": "Assets/Plugins/Febucci.TextAnimator.Runtime.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "9c577ecf75cd87cda66079b826f39be58a009eb696eb364f49c7f2e767dc46af",
+      "afterSHA256": "d3dfc9636e750db4c59ba4905e7c6fcd30a0870cb83a52fa297647f17cb9942c"
+    },
+    {
+      "path": "Assets/Plugins/GalaxyCSharp.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "4880aed74df92a9f85e2e42100798b6406e7a9383299f85cf5bc908f5c6c5177",
+      "afterSHA256": "f4e83ad58b9f682123b7fbf216f09733ff02514385e8994e247ec7033907a43e"
+    },
+    {
+      "path": "Assets/Plugins/Google.Apis.Auth.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "bdb04566cb40e6ca6789581802d1ec67818a0d27119c28b92634ae8b617bc85f",
+      "afterSHA256": "d0f6ff5d7bd83d104711cbab7549becf5f0c72a160d7ddeba8ad188501cf0ce4"
+    },
+    {
+      "path": "Assets/Plugins/Google.Apis.Auth.PlatformServices.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "e68ca90da8d73dd912c748f1d6e52af3f0685b8e8840ac46baaff4063344a6c5",
+      "afterSHA256": "4db05f67c2fbbb4dbbe983138ac8ba03c27071cc159dcd8013030523360b8d3b"
+    },
+    {
+      "path": "Assets/Plugins/Google.Apis.Core.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "558f56fb6fd31726910e2d60cc2d3ee2b3d8bde677bfc695828c409b6a8f200a",
+      "afterSHA256": "b31075580aea76a97d2e96ea592f822ce698dc24ae004875c824ef1e377d3675"
+    },
+    {
+      "path": "Assets/Plugins/Google.Apis.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "ffcbacda95ebbbe802ccde78566ce4dc76b43001ef1d1ac51451310cb17c19be",
+      "afterSHA256": "7b43fbf5eac4f4004392d575ac253a918f3e4925f503548cad5a856d96ab1103"
+    },
+    {
+      "path": "Assets/Plugins/Google.Apis.PlatformServices.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "91d53c0998f95d190b96425e6028940ce70910d3ac7f7f81e26302af0a84c351",
+      "afterSHA256": "19ed37ccca6c6cd9eaf16aca27db4475724948591aa8551dfd5f4944a944b08c"
+    },
+    {
+      "path": "Assets/Plugins/Google.Apis.Sheets.v4.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "113035ee073c89f7c3abbee20d753d09a7a147c0d169bb783e6ad9a2e54dd6e1",
+      "afterSHA256": "2ab33c4019174cae406d833ba1cc6fbb75d66cd29b044c5480af4e4a464916e0"
+    },
+    {
+      "path": "Assets/Plugins/MoreMountains.Tools.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "e39f9b5085b9e88dd1ad388b60caa0ca4e8a598e236f71cb80a568e53d48df15",
+      "afterSHA256": "291f08c04335841d1a085072a32d5b129d6255da853474a07cb0f9d855be62f8"
+    },
+    {
+      "path": "Assets/Plugins/NaughtyAttributes.Core.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "665055f518de27780a74a67671216180ca9394a2dc6e90704c66c170c0c270d1",
+      "afterSHA256": "0582e552f5632012c43114cbd73acb81445599f613e496879ff84c5950573660"
+    },
+    {
+      "path": "Assets/Plugins/NaughtyAttributes.Test.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "bdfbb8ce954bad63aa06e26baaac9089d4d63676c4ef9891887731e80041d977",
+      "afterSHA256": "30b7254ea43db5a8bfd2657084d581175c54f0eb29d81607b6be4e31c5fd608f"
+    },
+    {
+      "path": "Assets/Plugins/Newtonsoft.Json.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "c347726ad0a6339103d336ddb3c6882a43b1a94f117c418257943e7a0291af6f",
+      "afterSHA256": "02101f93c47ab20c7f3e22acfda3b5377fb25d2f2a0267b2f536e1f07f8138e4"
+    },
+    {
+      "path": "Assets/Plugins/Peglin.OdinSerializer.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "e088254904c328ed1fb68c3a0ce641226b718f256041e13a1d55b992e900dc90",
+      "afterSHA256": "36f6e55487444c58f996bbe64c7eea1a08bbf30468e766862ef6a32c394ed41b"
+    },
+    {
+      "path": "Assets/Plugins/Purchasing.Common.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "49f14e19dcec3af4c4a685e8ae4d8d1904887dc8a0cf48df94d768850b78790f",
+      "afterSHA256": "6133bf585b806c88e89f8c5efc7e766fc825975d1c70ece158cd0a0f1cd3a5b1"
+    },
+    {
+      "path": "Assets/Plugins/Rewired_Core.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "d7549b0655a20ea3bc9c5ce7196e40e704e41b5ac46b3ecf00cede9dc75c9f0a",
+      "afterSHA256": "da724f8fb01b5e1cfc876f76765f4ae121508be848dbb78fcb02fdcad4a4fdbd"
+    },
+    {
+      "path": "Assets/Plugins/Rewired_Windows.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "491157e5f1d79e4ef41eace8c79efeb4905295d0d7278d68b2bf640f03be11a2",
+      "afterSHA256": "337a78f09d7f97f3119a84a82cf4eba852ea4c67796d0fc4807757627319de63"
+    },
+    {
+      "path": "Assets/Plugins/Rewired_Windows_Functions.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "a014845fb29b5dd925829df547595a889f2a1610b70a1423ba076ea81aa7f90d",
+      "afterSHA256": "49c311332915334689e3d83566a9aef0eb36f174cde1a88d9d35ee5672d5cde4"
+    },
+    {
+      "path": "Assets/Plugins/System.Runtime.CompilerServices.Unsafe.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "eb06b2abc7db3d37872ff4e8c5ded7f128ac2f77e1a1dbab93b134e3442820c3",
+      "afterSHA256": "c049d855d6979300a82479dd6b3d646a26171acf0040be7ce35464b837badea6"
+    },
+    {
+      "path": "Assets/Plugins/UIEffect.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "0ccd8ceafe081f026f59e2004df8d79abef1087fe535c8156724ec6db0935e50",
+      "afterSHA256": "c7c1418bc5b414a48105c498e9313c201ffff53ab455c6496e6f01488cdad6aa"
+    },
+    {
+      "path": "Assets/Plugins/Unity.2D.Common.Runtime.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "2a5961ac1d6032ef6bdffb21b782644e419ee6af2c3b773a1ca868e7b454ca20",
+      "afterSHA256": "f5415f6dd2dbe86a092bca8e56b0e8715110a6a98aaac763be12a96844ff1c20"
+    },
+    {
+      "path": "Assets/Plugins/Unity.2D.SpriteShape.Runtime.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "fbde8bcb73e1ecacb106caf76cebfb03023180abff0cc3e303ce0e44c2119c75",
+      "afterSHA256": "34b55a303636e0514b4246d0aaa64c4ead31d67ed4f9e4ad38e4488c285a9922"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Addressables.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "f29a22a2c5cbc02bc13554ee3a696cc6f4af98b4d6833e27c69135e6eba9bdc8",
+      "afterSHA256": "fd0897b41a0898f8352d09cfbc64e07750069c9b958134d332a5d0c76cf26595"
+    },
+    {
+      "path": "Assets/Plugins/Unity.AI.Navigation.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "e3d83fc65b146c8eb173b3750957b826a0a63dbf5b8e9e4e4d2fab81b3259f16",
+      "afterSHA256": "837d883f1df8b3bf9b2a3c4e6e0ff4bd68cf50dfc5af2d3b2ccf9cd200c34545"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Burst.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "dace769cc0ea6b327dc5f5fd3d054dc0e84fec3e5abef1e3b203313459e43954",
+      "afterSHA256": "0494a6b58e0bfd840a33f04650d6aa31c72bc81b4ae8437bd3348d35504b9c4b"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Burst.Unsafe.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "4788062421a85ea9424e4ae81cc5a782a364bcc239fec2846740ca6b2afab9da",
+      "afterSHA256": "f322969a15505af41046ecc8f73cd3981d47085f744af96b937b37e0cbeb1c46"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Collections.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "295cc1f6f686b1a9668fd2ba1a8febffa91063169e240d3f48f22e1423c1167d",
+      "afterSHA256": "5b48bbc37856f5a3d0269e83aa76f4a2c9ebbf4aafb4701171c69c4000d20b39"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Collections.LowLevel.ILSupport.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "84cfc929f5fd52c42bce07c06c939b7e21b63de8564a39f167c4c39380699f1a",
+      "afterSHA256": "4db21189b021157377e8b6ace1d04393758fa3f0a307b09d2f2f4da03427b148"
+    },
+    {
+      "path": "Assets/Plugins/Unity.InternalAPIEngineBridge.001.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "098c6e00d92f548ae214668e85d01d373d9f499d55c5417acc3d355cfdc67d8d",
+      "afterSHA256": "cfe30106e60aa433ded135441c3558529ab41fdd2f3986d1a93ab6c59ac85705"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Mathematics.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "f468b1946fcd7754cf9ea293fce92aeac70d246627f094e9728ef842232c2487",
+      "afterSHA256": "d8cc11ed27905db43d618750d5827be2bd78f36fe4a64ed36420fb751bef778f"
+    },
+    {
+      "path": "Assets/Plugins/Unity.MemoryProfiler.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "d39d15d67938f359bc40dc66c07ea87827cf7ffdcfadbd974f3195488eebb4a7",
+      "afterSHA256": "6b1eb1fb1bc8b44fd82b5f8b7bdc4c959452a7f2c5fc4358a0a6f962b8c11ebf"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Postprocessing.Runtime.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "e08b10dcc7e6c061eebb0a6d3652630f5d65b67558cd5c0fe9ac70c1b349caa2",
+      "afterSHA256": "12403fcf1904b497974caa5c2409796c1be01c7e5608ab8620fc35ddb37adcab"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Profiling.Core.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "7eebcdd438a745ec11e4ecaa5814b1c1150f8934cb5eb0dacd2fb41e4cba2e67",
+      "afterSHA256": "12c684e8b4db129b72e63bebcb54909e32468caf47011c3a5b038de915c119b6"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Recorder.Base.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "e16a9a3bfcedf39a1d402ce909a1785e91336e4ebe909f0076bfd08264d094dd",
+      "afterSHA256": "7e5e4ccdfd19d71a75722be351c8953f64048116434deb909454e2a22f8aa0aa"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Recorder.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "aebca0a168e1f78189bfa48ead33a74e221317726450d543c6cd22b2ac667770",
+      "afterSHA256": "bc7eb6cf52aa5f92580cf899ec4a2fff97573fb8fadb893d7d0f5b475e2663e1"
+    },
+    {
+      "path": "Assets/Plugins/Unity.RenderPipeline.Universal.ShaderLibrary.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "90237b27fcf2c4d36cafe83d0771dfa49ec5bc914d3ee03b6f67597566add5c9",
+      "afterSHA256": "ed059dc25a5ff738b8136f3f3a61e724ab148cbc3ee0b5124561aca426616442"
+    },
+    {
+      "path": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "aefa2875d5667bf67f791101699c47c2ac78038a0804d12ff0233a23b513bb3f",
+      "afterSHA256": "050ac8ea7e5b1defef800e93edc0295639400e24f6959f74a02102b56f754241"
+    },
+    {
+      "path": "Assets/Plugins/Unity.RenderPipelines.Core.ShaderLibrary.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "d51441b56ede6dcf345ecc7ad6890b922f018d6a46c5c9580561837a41b57a26",
+      "afterSHA256": "506c240ffea72cbc0bc9690fc6519ccc1cfb9f824d6a4c5d2066b66e85532cb3"
+    },
+    {
+      "path": "Assets/Plugins/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "7078adf3704b9d815a8bf6bd39d6451726135ef55682b52ffc2ab496deea2152",
+      "afterSHA256": "98fad88c1a2b3d6c8a343e4b7aee2d886d493fc057438ee6ef27fb9c3a4de992"
+    },
+    {
+      "path": "Assets/Plugins/Unity.RenderPipelines.Universal.2D.Internal.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "07740c68c5ff108e4d414052a365257042504f7cb16a6fd145decd0f1c9aac94",
+      "afterSHA256": "3060b525c26d5ceb64882276224be3d7489c9be72abd21e011e77fbff5b5abf3"
+    },
+    {
+      "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Config.Runtime.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "290cdb405862469b7bb9860a7e9a43e3c781f095ef673ebc17c8d1fd0ede6889",
+      "afterSHA256": "b54b14015644d389f204c1b56781d89a40472d89658a49f12a11b46756aafc6d"
+    },
+    {
+      "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "31ac3191a3b8e8c4935e137f4cd82e7c8e36a9d3435ba359d4d130763b9d1e90",
+      "afterSHA256": "7cf251692b412d0ff86fb8d907dfc24295b458c0083c3fc8b0f1727260b55b9a"
+    },
+    {
+      "path": "Assets/Plugins/Unity.RenderPipelines.Universal.Shaders.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "b5dd602a306d41565ebd0dd073eb743812bce11d54a096a02f9a7390723f8942",
+      "afterSHA256": "c70d515264470ae16b6d433dea24700534032e1851b9814d952c3c0196071e85"
+    },
+    {
+      "path": "Assets/Plugins/Unity.ResourceManager.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "a3854bdc05f2270f49f2b3fd6836b1dc9fc17d132443ac220f3cd5c2ac0a4502",
+      "afterSHA256": "fc3176682bcbc0c7280e29445775bd8a53cdf7f1480f2cf5ddcd24be0e58247d"
+    },
+    {
+      "path": "Assets/Plugins/Unity.ScriptableBuildPipeline.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "4842bad2f23ca038fed8753e1e2343d7efcba559996dac229cc1ea89b916de9a",
+      "afterSHA256": "8779b0b4b976d5087f19510a5cca2fe45c4f9307085b177a9f5968fae414a0e9"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Analytics.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "7390ac1af2b4e333265b56dbb05c7509c6d3696b37a65798410a640363abece2",
+      "afterSHA256": "cadd4a10a70f4577e76e1c676d123991a849ded9970ab7455b4a6201a7e37bfc"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Components.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "5c80e4d707453d0d0d75c5353d5de3b6a13e4719f147430aa78d5677ad8580ac",
+      "afterSHA256": "a39ecd30f3af637179f203590d34d47f56645d458a46210350f96898f59bfcc7"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Configuration.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "6598c6f1d904b3790052c5cf42e1b5f6157cf3fd54766753d142767324d1fb91",
+      "afterSHA256": "52236c9bb3f1065ed8e820d3b146d26d4b728d1d39d5c7f73aa3308a29001d16"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Device.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "4d711e7b10f84fd56ef4ade7d8c1c0c3842e0794025550f03db2458d1fe9cca3",
+      "afterSHA256": "bc76bab66fe150b4f50e3f6caeb1ad2e3cae1b07540c388ac4facd188d298ac2"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "6bfdc3c07fc7ff86620e1d95f6a52c9837b21d3e2a678892f9e93902ee3b9bed",
+      "afterSHA256": "ff5cbbe8cf40c303f8be5d4ca1c53f3e9de5ddc14266b339be26288d57b5a4f8"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Environments.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "7f5f69f3e82f797a4a146164cca83b183450885c8f6860e15746f09fe15fad15",
+      "afterSHA256": "32e9b869a04174fae91de0b5d2b9459f6ce2ced738fa7c13ec75affb92a6bf01"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Environments.Internal.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "af1d57602e98939ac5360de512d54dc85c5f0b68d1b5e3fc0ac750d69dc27818",
+      "afterSHA256": "c3a41b98eeda5edbc993a96cbeb5ea2b0524a0654c65bbdc9a546653abcc9330"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Internal.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "99db3af4c6d3fbb6ad9b42c344544c5a5f6d5e5484ce7e3c9a098586817a9f5d",
+      "afterSHA256": "583d5899552f877aef6d9c324cafdef3223fb7b94628d3ed4d8a1195eb5447e2"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Networking.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "c8acff4bf7c79fa3dec833f568ea45eb86fb8ebc0ebd1bf5b0d3e97a86b92669",
+      "afterSHA256": "bfd4f27c91aadb4a2019c1ffcb9860ab238e3f8c9ff7fcaa7e2b61dfe69f341e"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Registration.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "9faf35fa309ab6808f61438ea988ef9646b41e702b686cabd3b8b4bec607705d",
+      "afterSHA256": "49d1ddd7c5c1bef61942f059fa540d1bf2aeeefb5831455baa2ad1eca946cbec"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Scheduler.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "38764ee452233895299749b9ce0741295cca44d677a68a8cc02ff6d06359678a",
+      "afterSHA256": "5b858f6b4b7ced1dd4e724c3e324cf715c0e5caf247af6cb390323e612c70ced"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Telemetry.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "61931c797b5abffe7b8505ad5fa8674d0668c89a207cd23ee048670b6e9eee10",
+      "afterSHA256": "2c219b71c403bb1ed29d98d5cad45690947309b675674a0b11ea791e306cc2e5"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Services.Core.Threading.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "076573fd5690f00d1787f77ceb2c41bfc3493a9a40535759b69f1f7c09152c28",
+      "afterSHA256": "469c76bed181772b9093c73e4b9b0092420000ff43dd84c0dddcc9d655075165"
+    },
+    {
+      "path": "Assets/Plugins/Unity.TextMeshPro.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "88b02ab96a15dbf51d2fa6e848b6a5f98736d36cba3b5b2aff1174da07553b9e",
+      "afterSHA256": "54b665709460f9632b0b0ee916e37314b4f11b62a7e8cd5cd683745269e330b3"
+    },
+    {
+      "path": "Assets/Plugins/Unity.Timeline.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "145c7e8175a682fdd1ee2b27d7e0cdf94dd202af3a336a7ce203251f9e935d17",
+      "afterSHA256": "ca3472b12213bc92fce8b11087083da96c6d884aa6473db94c44012e0c3002de"
+    },
+    {
+      "path": "Assets/Plugins/Unity.VisualEffectGraph.Runtime.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "0bbe155eef7a518d75c2e2eca7b76da4a500bbf00a8eb20923a232cd46be0247",
+      "afterSHA256": "23adc92781d98c1f427c6b4f70eaa4af2e61f9d64d9b86292d3227ae3b055236"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.AppleCore.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "415c613429917e664cfb5b40c569caa8663898a37768c76571f38a85c282836c",
+      "afterSHA256": "675f8ba2b098143df6298d37e633d5976ac95544ce91df354d11a641a79b5ab7"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.AppleMacosStub.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "b0cb7ed18dcdd84536d9df172c40ba47a960026417d8b6c286c6a2f22a238956",
+      "afterSHA256": "47a79539ee0dedcf3f0c0d66a1f3b3faced564ec43b2c1385281cac7e712cd0a"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.AppleStub.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "246066c784ccae749406352087803465276494b3f84041a08282ba0971402d05",
+      "afterSHA256": "b9bffeae412c92da05c524b79582e7ebddbda7b3a7a086b94d97ac9371d45d77"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.Codeless.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "32575d6933a3c494cf5e5fc91ed2d4d084f2d1b90172cef2f618e5a09dfb8f0b",
+      "afterSHA256": "ec3b0ead8476de8af0828c017efdd156f858983d996b4fd68c439c9f96e5b1c0"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "fa4f82f5e43a05824584401afd03748151fb15e96bc6b96b46dd0619aa9ba962",
+      "afterSHA256": "024b82368801628161a22022a8df7a4373eccd38a9dce69715d88e286f402d85"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.SecurityCore.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "5d9d6b66f32eda9f9ed52e39271e14bf34ce5d5e9ae007258f453df9ec40d491",
+      "afterSHA256": "f7259da86b4e0a10f410cddc18cc05ed8bd6b0d49f0e4638c7857623f962ee84"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.SecurityStub.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "7736e1888a950ee02c7949e264cbd6d85d41f115c879da7fe18e51bf5f0a08e0",
+      "afterSHA256": "e14674b5b5724d4f95b2ab638c6df0d2899a3c619c4852b0196a3df17a18bfbd"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.Stores.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "ecb8bde216100e3609c161547457b4f8f068fbd60091050fcff6b83cc0a2312c",
+      "afterSHA256": "15477a28b6ce4ac2f9c88dc3dc5a2690ddf5c21a7bd1fa359fb2c9c8423ea680"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.WinRTCore.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "a83a0ab6121079939a80906f62005d47daf2f77e9f378e5d9bdc56baa42c742e",
+      "afterSHA256": "6aa62f75ceedaef7c4a0b65f3606ef4324ee6e4591889260b0d4f670c9203dcb"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.Purchasing.WinRTStub.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "7c2b17cc12d81437facd606f67022cf04c735c0ac5e40ea33a4feed382f44a84",
+      "afterSHA256": "f73f1d5a828021543da52d2e52429cef9c2326ad3e9fbbcdc462feb71455b97c"
+    },
+    {
+      "path": "Assets/Plugins/UnityEngine.UI.dll.meta",
+      "reason": "Enable recovered managed plugin for initial Editor import; no new package DLLs installed yet.",
+      "beforeSHA256": "03784fcc8ca503ee1e94f2dba07408c7eb8eba03201c3409c9d5fca5226e8463",
+      "afterSHA256": "1b0aef0c3d5ffb992066445ec0523f8edf7830e0ceecbcc8084addccd421fe86"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "reason": "Separate test save identity and detach original developer cloud project in working copy.",
+      "beforeSHA256": "cc3e9672ea789d9ae4f7ae9a1d246a270f3b12c363fa1cf6ee846b3b3acd1df0",
+      "afterSHA256": "7e4c5fc35223a362ad61127a9c36fc957f300889270f425f69c26e62aaf3b1f4"
+    }
+  ],
+  "notes": [
+    "Initial import uses recovered package DLLs to measure actual upgrade failures.",
+    "No game rules, purchase checks, scenes, or placeholder shaders changed here.",
+    "No play session or Web build has run yet."
+  ]
+}

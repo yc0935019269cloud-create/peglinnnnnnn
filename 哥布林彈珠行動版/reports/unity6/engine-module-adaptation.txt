@@ -1,0 +1,6 @@
+Unity.Postprocessing.Runtime.dll getters=0 setters=0 glyphCalls=0 movedTypes=1
+Unity.RenderPipelines.Core.Runtime.dll getters=0 setters=0 glyphCalls=0 movedTypes=1
+Unity.TextMeshPro.dll getters=0 setters=0 glyphCalls=14 movedTypes=0
+Unity.Timeline.dll getters=0 setters=0 glyphCalls=0 movedTypes=2
+UnityEngine.Purchasing.dll: AnalyticsResult scope UnityAnalyticsModule -> UnityAnalyticsCommonModule (1 typeref), via PowerShell+Cecil 2026-10-14
+Peglin.OdinSerializer.dll: EmitUtilities.CanEmit -> false (IL2CPP has no Reflection.Emit), scripts/adapt-odin-canemit.ps1

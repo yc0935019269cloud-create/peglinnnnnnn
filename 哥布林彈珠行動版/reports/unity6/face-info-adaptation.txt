@@ -1,0 +1,1 @@
+Unity.TextMeshPro.dll getters=35 setters=1

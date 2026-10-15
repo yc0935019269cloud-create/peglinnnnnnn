@@ -1,0 +1,628 @@
+{
+  "shaders": [
+    {
+      "name": "TextMeshPro/Distance Field",
+      "file": "Assets/Resources/shaders/tmp_sdf.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/BitPotionExt Atlas Material.mat",
+        "Assets/Material/ChevyRay - Babyblocks Atlas Material.mat",
+        "Assets/Material/ChevyRay - Bird Seed Atlas Material.mat",
+        "Assets/Material/ChevyRay - Bubble Time Atlas Material.mat",
+        "Assets/Material/ChevyRay - Love Bug Atlas Material.mat",
+        "Assets/Material/ChevyRay - Pinch Atlas Material.mat",
+        "Assets/Material/ChevyRay - Skullboy Atlas Material.mat",
+        "Assets/Material/ChevyRay - Softsquare Atlas Material.mat",
+        "Assets/Material/indienovaBC-Regular-12px Atlas Material.mat",
+        "Assets/Material/JF-Dot-ShinonomeMaru12 Atlas Material.mat",
+        "Assets/Material/Silver SDF Material.mat",
+        "Assets/Material/Silver SDF-ja Material.mat",
+        "Assets/Material/Silver SDF-ko-lfs Material.mat",
+        "Assets/Material/Silver SDF-ru Material.mat"
+      ]
+    },
+    {
+      "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Lit-Default_2.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/BonusBomb.mat",
+        "Assets/Material/BonusBombRigged.mat",
+        "Assets/Material/BonusCrit.mat",
+        "Assets/Material/BonusMaxHP.mat",
+        "Assets/Material/BonusRefresh.mat",
+        "Assets/Material/crystal_particle_material1.mat",
+        "Assets/Material/crystal_particle_material2.mat",
+        "Assets/Material/crystal_particle_material3.mat",
+        "Assets/Material/crystal_particle_material4.mat",
+        "Assets/Material/crystal_particle_material5.mat",
+        "Assets/Material/MapLineMat.mat"
+      ]
+    },
+    {
+      "name": "TextMeshPro/Distance Field",
+      "file": "Assets/Shader/TextMeshPro_Distance Field.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/ChevyRay - Bubble Time Atlas Material_0.mat",
+        "Assets/Material/ChevyRay - Softsquare Atlas Material_0.mat",
+        "Assets/Material/indienovaBC-Regular-12px Atlas Material_0.mat",
+        "Assets/Material/Silver SDF-MESH.mat",
+        "Assets/Material/Silver SDF-UI.mat",
+        "Assets/Fonts/bin/ChevyRay - Bird Seed Atlas Material.mat",
+        "Assets/Fonts/bin/ChevyRay - Love Bug Atlas Material.mat",
+        "Assets/Fonts/bin/ChevyRay - Pinch Atlas Material.mat",
+        "Assets/Fonts/bin/ChevyRay - Skullboy Atlas Material.mat"
+      ]
+    },
+    {
+      "name": "TextMeshPro/Distance Field",
+      "file": "Assets/Shader/TextMeshPro_Distance Field_0.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/ChevyRay - Skullboy Atlas Material_0.mat",
+        "Assets/Material/Silver SDF Material_0.mat",
+        "Assets/Fonts/bin/Silver/Silver SDF-ja Material.mat",
+        "Assets/Fonts/bin/Silver/Silver SDF-ko-lfs Material.mat"
+      ]
+    },
+    {
+      "name": "TextMeshPro/Sprite",
+      "file": "Assets/Resources/shaders/tmp_sprite.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/TextMeshPro_Sprite.mat",
+        "Assets/Material/TextMeshPro_Sprite_0.mat"
+      ]
+    },
+    {
+      "name": "Shader Graphs/LaserShader",
+      "file": "Assets/Shader/Shader Graphs_LaserShader.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/LaserMaterial.mat"
+      ]
+    },
+    {
+      "name": "TextMeshPro/Sprite",
+      "file": "Assets/Shader/TextMeshPro_Sprite.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Art/BoardElements/smallpegrect.mat"
+      ]
+    },
+    {
+      "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Lit-Default.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/Sprite-Lit-Default.mat"
+      ]
+    },
+    {
+      "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Lit-Default_0.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/Sprite-Lit-Default_0.mat"
+      ]
+    },
+    {
+      "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Lit-Default_1.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/Sprite-Lit-Default_1.mat"
+      ]
+    },
+    {
+      "name": "Universal Render Pipeline/2D/Sprite-Mask",
+      "file": "Assets/Shader/Universal Render Pipeline_2D_Sprite-Mask.shader",
+      "placeholder": true,
+      "materials": [
+        "Assets/Material/SpriteMask-Default.mat"
+      ]
+    },
+    {
+      "name": "Hidden/UI/Default (UIDissolve)",
+      "file": "Assets/Resources/uidissolve.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/UI/Default (UIEffect)",
+      "file": "Assets/Resources/uieffect.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/UI/Default (UIHsvModifier)",
+      "file": "Assets/Resources/uihsvmodifier.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/UI/Default (UIShiny)",
+      "file": "Assets/Resources/uishiny.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/UI/Default (UITransition)",
+      "file": "Assets/Resources/uittransition.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Core/FallbackError",
+      "file": "Assets/Shader/Hidden_Core_FallbackError.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Light2d-Point-Volumetric",
+      "file": "Assets/Shader/Hidden_Light2d-Point-Volumetric.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Light2D-Point",
+      "file": "Assets/Shader/Hidden_Light2D-Point.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Light2D-Shape-Volumetric",
+      "file": "Assets/Shader/Hidden_Light2D-Shape-Volumetric.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Light2D-Shape",
+      "file": "Assets/Shader/Hidden_Light2D-Shape.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Bloom",
+      "file": "Assets/Shader/Hidden_PostProcessing_Bloom.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Copy",
+      "file": "Assets/Shader/Hidden_PostProcessing_Copy.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/CopyStd",
+      "file": "Assets/Shader/Hidden_PostProcessing_CopyStd.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/CopyStdFromDoubleWide",
+      "file": "Assets/Shader/Hidden_PostProcessing_CopyStdFromDoubleWide.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/CopyStdFromTexArray",
+      "file": "Assets/Shader/Hidden_PostProcessing_CopyStdFromTexArray.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Debug/Histogram",
+      "file": "Assets/Shader/Hidden_PostProcessing_Debug_Histogram.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Debug/LightMeter",
+      "file": "Assets/Shader/Hidden_PostProcessing_Debug_LightMeter.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Debug/Overlays",
+      "file": "Assets/Shader/Hidden_PostProcessing_Debug_Overlays.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Debug/Vectorscope",
+      "file": "Assets/Shader/Hidden_PostProcessing_Debug_Vectorscope.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Debug/Waveform",
+      "file": "Assets/Shader/Hidden_PostProcessing_Debug_Waveform.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/DeferredFog",
+      "file": "Assets/Shader/Hidden_PostProcessing_DeferredFog.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/DepthOfField",
+      "file": "Assets/Shader/Hidden_PostProcessing_DepthOfField.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/DiscardAlpha",
+      "file": "Assets/Shader/Hidden_PostProcessing_DiscardAlpha.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/FinalPass",
+      "file": "Assets/Shader/Hidden_PostProcessing_FinalPass.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/GrainBaker",
+      "file": "Assets/Shader/Hidden_PostProcessing_GrainBaker.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Lut2DBaker",
+      "file": "Assets/Shader/Hidden_PostProcessing_Lut2DBaker.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/MotionBlur",
+      "file": "Assets/Shader/Hidden_PostProcessing_MotionBlur.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/MultiScaleVO",
+      "file": "Assets/Shader/Hidden_PostProcessing_MultiScaleVO.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/ScalableAO",
+      "file": "Assets/Shader/Hidden_PostProcessing_ScalableAO.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/ScreenSpaceReflections",
+      "file": "Assets/Shader/Hidden_PostProcessing_ScreenSpaceReflections.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/SubpixelMorphologicalAntialiasing",
+      "file": "Assets/Shader/Hidden_PostProcessing_SubpixelMorphologicalAntialiasing.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/TemporalAntialiasing",
+      "file": "Assets/Shader/Hidden_PostProcessing_TemporalAntialiasing.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Texture2DLerp",
+      "file": "Assets/Shader/Hidden_PostProcessing_Texture2DLerp.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/PostProcessing/Uber",
+      "file": "Assets/Shader/Hidden_PostProcessing_Uber.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Shader Graph/FallbackError",
+      "file": "Assets/Shader/Hidden_Shader Graph_FallbackError.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Shadow2DShadowSprite",
+      "file": "Assets/Shader/Hidden_Shadow2DShadowSprite.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Shadow2DUnshadowGeometry",
+      "file": "Assets/Shader/Hidden_Shadow2DUnshadowGeometry.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Shadow2DUnshadowSprite",
+      "file": "Assets/Shader/Hidden_Shadow2DUnshadowSprite.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/ShadowProjected2D",
+      "file": "Assets/Shader/Hidden_ShadowProjected2D.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/Bloom",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Bloom.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/BokehDepthOfField",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_BokehDepthOfField.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/CameraMotionBlur",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_CameraMotionBlur.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/Debug/DebugReplacement",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Debug_DebugReplacement.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/Edge Adaptive Spatial Upsampling",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Edge Adaptive Spatial Upsampling.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/FallbackError",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_FallbackError.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/FinalPost",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_FinalPost.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/GaussianDepthOfField",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_GaussianDepthOfField.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/LensFlareDataDriven",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_LensFlareDataDriven.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/LutBuilderHdr",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_LutBuilderHdr.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/LutBuilderLdr",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_LutBuilderLdr.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/PaniniProjection",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_PaniniProjection.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/Sampling",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Sampling.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/Scaling Setup",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Scaling Setup.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/Stop NaN",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_Stop NaN.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_SubpixelMorphologicalAntialiasing.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/TemporalAA",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_TemporalAA.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal Render Pipeline/UberPost",
+      "file": "Assets/Shader/Hidden_Universal Render Pipeline_UberPost.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal/BlitHDROverlay",
+      "file": "Assets/Shader/Hidden_Universal_BlitHDROverlay.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal/CoreBlit",
+      "file": "Assets/Shader/Hidden_Universal_CoreBlit.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal/CoreBlitColorAndDepth",
+      "file": "Assets/Shader/Hidden_Universal_CoreBlitColorAndDepth.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/Universal/HDRDebugView",
+      "file": "Assets/Shader/Hidden_Universal_HDRDebugView.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/VFX/Empty",
+      "file": "Assets/Shader/Hidden_VFX_Empty.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "Hidden/VoxelizeShader",
+      "file": "Assets/Shader/Hidden_VoxelizeShader.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field",
+      "file": "Assets/Shader/TextMeshPro_Mobile_Distance Field.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field",
+      "file": "Assets/Shader/TextMeshPro_Mobile_Distance Field_0.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Bitmap Custom Atlas",
+      "file": "Assets/Resources/shaders/tmp_bitmap-custom-atlas.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Bitmap",
+      "file": "Assets/Resources/shaders/tmp_bitmap-mobile.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Bitmap",
+      "file": "Assets/Resources/shaders/tmp_bitmap.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Distance Field Overlay",
+      "file": "Assets/Resources/shaders/tmp_sdf overlay.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field - Masking",
+      "file": "Assets/Resources/shaders/tmp_sdf-mobile masking.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field Overlay",
+      "file": "Assets/Resources/shaders/tmp_sdf-mobile overlay.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field",
+      "file": "Assets/Resources/shaders/tmp_sdf-mobile.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field (Surface)",
+      "file": "Assets/Resources/shaders/tmp_sdf-surface-mobile.shader",
+      "placeholder": true,
+      "materials": []
+    },
+    {
+      "name": "TextMeshPro/Distance Field (Surface)",
+      "file": "Assets/Resources/shaders/tmp_sdf-surface.shader",
+      "placeholder": true,
+      "materials": []
+    }
+  ],
+  "otherShaderReferences": {
+    "0000000000000000f000000000000000:211": [
+      "Assets/Material/blob_particle_material1.mat",
+      "Assets/Material/blob_particle_material2.mat",
+      "Assets/Material/blob_particle_material3.mat",
+      "Assets/Material/blob_particle_material4.mat",
+      "Assets/Material/coin_add_particle.mat",
+      "Assets/Material/coin_add_particle_0.mat",
+      "Assets/Material/leshyLeafParticle.mat",
+      "Assets/Material/ShadowParticle1.mat",
+      "Assets/Material/ShadowParticle2.mat",
+      "Assets/Material/ShadowParticle3.mat",
+      "Assets/Material/ShadowParticle4.mat",
+      "Assets/Material/ShadowParticle5.mat",
+      "Assets/Material/ShadowParticle6.mat",
+      "Assets/Material/ShadowParticle7.mat",
+      "Assets/Material/ShadowParticle8.mat",
+      "Assets/Material/spindoctorb_effect_minus_particle.mat",
+      "Assets/Material/spindoctorb_effect_particle.mat",
+      "Assets/Material/spindoctorb_effect_plus_particle.mat",
+      "Assets/Material/sweeperBlockParticle.mat",
+      "Assets/Prefabs/Enemies/Bosses/PainterBossProjectile/paintMaterial.mat"
+    ],
+    "0000000000000000f000000000000000:10750": [
+      "Assets/Material/bramballVineMaterial1.mat",
+      "Assets/Material/bramballVineMaterial2.mat",
+      "Assets/Material/bramballVineMaterial3.mat",
+      "Assets/Material/jupitorbLaserLine.mat",
+      "Assets/Material/jupitorbLaserLine_0.mat",
+      "Assets/Material/ScrollingMat.mat",
+      "Assets/Material/ScrollingMat_0.mat",
+      "Assets/Material/SlimePegLightning.mat",
+      "Assets/Material/SlimePegLightning_0.mat",
+      "Assets/Material/SlimePegLightning_1.mat",
+      "Assets/Material/SlimePegLightning_2.mat",
+      "Assets/Material/SolidMat.mat",
+      "Assets/Material/SolidStaticMat.mat",
+      "Assets/Material/StaticScrollingMat.mat"
+    ],
+    "0000000000000000f000000000000000:10753": [
+      "Assets/Material/CardParticle.mat",
+      "Assets/Material/Entrance2.mat",
+      "Assets/Material/maxHpLongPegRect.mat",
+      "Assets/Material/PegLightning.mat",
+      "Assets/Material/PegLightning_0.mat",
+      "Assets/Material/vineLongPegRect.mat",
+      "Assets/Art/BoardElements/critLongPegRect.mat",
+      "Assets/Art/BoardElements/longpegrect.mat",
+      "Assets/Art/BoardElements/LongPegSlimeMat.mat",
+      "Assets/Art/BoardElements/persistentCritLongPegRect.mat",
+      "Assets/Art/BoardElements/persistentRefreshLongPegRect.mat",
+      "Assets/Art/BoardElements/refreshLongPegRect.mat"
+    ],
+    "0000000000000000e000000000000000:10101": [
+      "Assets/Material/Font Material.mat"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Dll":  "Unity.2D.SpriteShape.Runtime.dll",
+        "Method":  "System.Void* Unity.Burst.BurstCompiler::GetILPPMethodFunctionPointer2(System.IntPtr,System.RuntimeMethodHandle,System.RuntimeTypeHandle)"
+    },
+    {
+        "Dll":  "Unity.2D.SpriteShape.Runtime.dll",
+        "Method":  "System.IntPtr Unity.Burst.BurstCompiler::CompileILPPMethod2(System.RuntimeMethodHandle)"
+    },
+    {
+        "Dll":  "Unity.Burst.dll",
+        "Method":  "System.Void* Unity.Burst.LowLevel.BurstCompilerService::GetOrCreateSharedMemory(UnityEngine.Hash128\u0026,System.UInt32,System.UInt32)"
+    },
+    {
+        "Dll":  "Unity.Collections.dll",
+        "Method":  "System.Void Unity.Collections.NativeArray`1/ReadOnly\u003c!0\u003e::.ctor(System.Void*,System.Int32)"
+    },
+    {
+        "Dll":  "Unity.Collections.dll",
+        "Method":  "System.Void* Unity.Burst.BurstCompiler::GetILPPMethodFunctionPointer2(System.IntPtr,System.RuntimeMethodHandle,System.RuntimeTypeHandle)"
+    },
+    {
+        "Dll":  "Unity.Collections.dll",
+        "Method":  "System.IntPtr Unity.Burst.BurstCompiler::CompileILPPMethod2(System.RuntimeMethodHandle)"
+    }
+]

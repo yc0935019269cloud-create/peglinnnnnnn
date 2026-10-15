@@ -1,0 +1,26 @@
+{
+  "file": "E:\\NEWTEST\\哥布林彈珠行動版\\reports\\unity6\\editor-import-20261015-002037.log",
+  "bytes": 594093,
+  "lines": 3933,
+  "repeatedThreadWarnings": 0,
+  "firstThreadWarningContext": [],
+  "lastDistinctLines": [
+    "[Physics::Module] Id: 0xf2b8ea05",
+    "Input System module state changed to: ShutdownInProgress.",
+    "Input Polling Thread exited.",
+    "Input System module state changed to: Shutdown.",
+    "[Licensing::IpcConnector] LicenseClient-USER-notifications channel disconnected successfully.",
+    "[Licensing::IpcConnector] LicenseClient-USER channel disconnected successfully.",
+    "Lingering sessions upon destruction of worker manager",
+    "Unity Data Store service was successfully shut down",
+    "UDS shutting down local client system",
+    "AcceleratorClientConnectionCallback - disconnected - :0",
+    "Cleanup mono",
+    "CodeReloadManager destroyed",
+    "Exiting batchmode successfully now!",
+    "[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0"
+  ],
+  "compilerErrors": [],
+  "lastImportedAssets": [],
+  "buildErrors": []
+}

@@ -1,0 +1,1143 @@
+{
+  "totalBytes": 331634844.0,
+  "files": [
+    {
+      "path": "Peglin.exe",
+      "bytes": 666624,
+      "sha256": "EEF9C95F79556964EC4907DCCDD71BB45F1CFF4535D173989FF81DA8FCDA1771"
+    },
+    {
+      "path": "UnityCrashHandler64.exe",
+      "bytes": 1185192,
+      "sha256": "93E0B4B929621C9AAA728E3A6D68EC6D47E6182E7EB9915A4CD5351678EB67E4"
+    },
+    {
+      "path": "UnityPlayer.dll",
+      "bytes": 31100840,
+      "sha256": "A8DCC8F6F4CBEE3DA56552A4ADBE56724228A0EFCC2FCD737B516933F0418081"
+    },
+    {
+      "path": "MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
+      "bytes": 7897520,
+      "sha256": "309CEA0F174B1688E2984C97D8C12B89DB0E60E75375B3C7A1F39D3F2F8D1BF6"
+    },
+    {
+      "path": "MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll",
+      "bytes": 611240,
+      "sha256": "085802A35347B99661DC8F9FD23F9E6484A45738C09190641AA73F34629D41D1"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\browscap.ini",
+      "bytes": 311984,
+      "sha256": "4DDD50F31FB968F30BEDEFC253A46DC3F2890192D05CDAA9E0A64A056EEE807E"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\config",
+      "bytes": 3815,
+      "sha256": "5776169973A26A387B8B3E5C0F2301A7AB9A6DD7C7D3EFA22A96ABC47FBF8662"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\DefaultWsdlHelpGenerator.aspx",
+      "bytes": 60575,
+      "sha256": "751861040B69EA63A3827507B7C8DA9C7F549DC181C1C8AF4B7CA78CC97D710A"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\machine.config",
+      "bytes": 29066,
+      "sha256": "E91782A27FA39FC6C1D6EE8B08529F5D35052310D0006034B878EB04B8F2AF30"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\settings.map",
+      "bytes": 2622,
+      "sha256": "49C6160F9D54AF4270A3B4E997FC4A8301F79B9E2070118FA46DDBCBBC44F9A2"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\web.config",
+      "bytes": 11635,
+      "sha256": "CF2B54339E069B9E42F7D6795EECBF562C50C1011F4CA8F65F578FE52D97FF92"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\Browsers\\Compat.browser",
+      "bytes": 1605,
+      "sha256": "8A1082057AC5681DCD4E9C227ED7FB8EB42AC1618963B5DE3B65739DD77E2741"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\DefaultWsdlHelpGenerator.aspx",
+      "bytes": 60575,
+      "sha256": "751861040B69EA63A3827507B7C8DA9C7F549DC181C1C8AF4B7CA78CC97D710A"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\machine.config",
+      "bytes": 33598,
+      "sha256": "E60AEC2C5115D65B3ACB3C55EA21576DBD770F579166C017125571E46AE560ED"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\settings.map",
+      "bytes": 2622,
+      "sha256": "CE1DB1AD8A9512073164E3ECCDC193F7EDA036E1A9733CAEC4635DE21B2865C8"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\web.config",
+      "bytes": 18802,
+      "sha256": "E38BB8CC68FE5B4EDECDFD288D094B9E8CED7629039B2A347682ABA0D8BD7492"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\Browsers\\Compat.browser",
+      "bytes": 1605,
+      "sha256": "8A1082057AC5681DCD4E9C227ED7FB8EB42AC1618963B5DE3B65739DD77E2741"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\DefaultWsdlHelpGenerator.aspx",
+      "bytes": 60575,
+      "sha256": "751861040B69EA63A3827507B7C8DA9C7F549DC181C1C8AF4B7CA78CC97D710A"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\machine.config",
+      "bytes": 34056,
+      "sha256": "EE950004B576FB28DC85F4B0435ED04BF96612DE2E8B53BE84D07AFE85A0DE6C"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\settings.map",
+      "bytes": 2622,
+      "sha256": "CE1DB1AD8A9512073164E3ECCDC193F7EDA036E1A9733CAEC4635DE21B2865C8"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\web.config",
+      "bytes": 18811,
+      "sha256": "C4CBDDD4FD9347B58CC5A72B36DC4BA1AD2BB699E65869D05CD3FB9865F0D824"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\Browsers\\Compat.browser",
+      "bytes": 1605,
+      "sha256": "8A1082057AC5681DCD4E9C227ED7FB8EB42AC1618963B5DE3B65739DD77E2741"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml",
+      "bytes": 25817,
+      "sha256": "0C56E34C69124510FA8C19E7B4C2CA6C1C4FF460AE19F798DD0CA035809E396D"
+    },
+    {
+      "path": "Peglin_Data\\app.info",
+      "bytes": 26,
+      "sha256": "43713A6ACD1746BDB857F1F6E9AE033DFE4439BC5BA5E14B3DE99EF9CBF3D846"
+    },
+    {
+      "path": "Peglin_Data\\boot.config",
+      "bytes": 113,
+      "sha256": "8FDEB9188466342DAEC8760F1C107AFC3D453913D2AB30031209C1F5DD24E808"
+    },
+    {
+      "path": "Peglin_Data\\globalgamemanagers",
+      "bytes": 995716,
+      "sha256": "0B7C04A788AB355E119309686C846F941636C82207031EBD649CD11AF9191C0B"
+    },
+    {
+      "path": "Peglin_Data\\globalgamemanagers.assets",
+      "bytes": 1253564,
+      "sha256": "E89EEDD91E5B00F06C564360192877A53539F9FF59F839DDAEE77727E452D449"
+    },
+    {
+      "path": "Peglin_Data\\globalgamemanagers.assets.resS",
+      "bytes": 4635696,
+      "sha256": "0DC6FF43BFEAEBF39706C917C74D4773273BAD92D256F1A62A78F8AD3EC11643"
+    },
+    {
+      "path": "Peglin_Data\\level0",
+      "bytes": 15752,
+      "sha256": "C0DC78835E8423515766603F88971981F77DCF531B882E31ADD8209C6B18A2F2"
+    },
+    {
+      "path": "Peglin_Data\\resources.assets",
+      "bytes": 66019012,
+      "sha256": "6625E7DB90BE3FBE28F207EE2B5ECEBE95C3011E68A40002AF10DB98F23FBEB2"
+    },
+    {
+      "path": "Peglin_Data\\resources.assets.resS",
+      "bytes": 17496864,
+      "sha256": "C0F03B4919C1E0C89039CDEBFB7A07B578D42BEB03BBA431FB9414860DF970B3"
+    },
+    {
+      "path": "Peglin_Data\\resources.resource",
+      "bytes": 4581696,
+      "sha256": "3324ED25CD9E57B29C975D1EF1D53616099E71BC4FC986B2D3E263DAA3D3CFB2"
+    },
+    {
+      "path": "Peglin_Data\\RuntimeInitializeOnLoads.json",
+      "bytes": 20878,
+      "sha256": "3321D22D1530C70330680E1DF98B4F117351CC59A912E89ACCC3243C6DF26004"
+    },
+    {
+      "path": "Peglin_Data\\ScriptingAssemblies.json",
+      "bytes": 5230,
+      "sha256": "CEC2398FCDC01D9E82ED1B3EB907657C9FFA8318297C2436627C9A8A34C574F3"
+    },
+    {
+      "path": "Peglin_Data\\sharedassets0.assets",
+      "bytes": 6125684,
+      "sha256": "0FB333EEEDC92A113C5226F5C3DAEE3BCD0F88FCD4309921F2705D280C514E4B"
+    },
+    {
+      "path": "Peglin_Data\\sharedassets0.assets.resS",
+      "bytes": 360816,
+      "sha256": "DD4E7F30AD1127D045BD3A34FC65A2AB67F7582E2C8F9B0F1D27778F8F0A74CA"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Assembly-CSharp-firstpass.dll",
+      "bytes": 1509376,
+      "sha256": "94783E62BB21EAC5AE0E9DDAB607B4005DCB5F2A1C834DCE4402EAA3BB7D7F51"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Assembly-CSharp.dll",
+      "bytes": 2061824,
+      "sha256": "BF5AF951BF16373F507C30AF068CCC92AA867AFFBE6E855DECF82486C2DC6244"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\AssetIcons.dll",
+      "bytes": 9728,
+      "sha256": "31D1991389A2C16AB6BBD661D5A3BE7D3DE37B3EF2D88BF78F7D71E96F099F40"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\DemiLib.dll",
+      "bytes": 11776,
+      "sha256": "8CE13F114AE918462DF3F41661A6636B89751BB993D57B9A18F736CA3525CD4E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\DOTween.dll",
+      "bytes": 162304,
+      "sha256": "48EA88B9FC7D95FC04AE333E7DF4FDEED865EC39629382E5524F5CDC32E7DD4E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\DOTweenPro.dll",
+      "bytes": 15872,
+      "sha256": "86F3A360ACA677B54B14FC489B8DBBCE08CFF5A88265AD8B57B88F16A90DB1FF"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Febucci.TextAnimator.Runtime.dll",
+      "bytes": 82944,
+      "sha256": "A515453A1832695E6FA9E36D0EDFC2130CADAEF4893DE70B2FD5A864DDC53C42"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\GalaxyCSharp.dll",
+      "bytes": 397312,
+      "sha256": "6D2264A2815D92E062A381B566DBBA60FC3F4077F997F32D3F7C6DECC7129E31"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Google.Apis.Auth.dll",
+      "bytes": 212992,
+      "sha256": "C2928C87D68035005C6D629B54713EFEB0A4DFA9A6DEEC93A312C60B7AE029A4"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Google.Apis.Auth.PlatformServices.dll",
+      "bytes": 5120,
+      "sha256": "7495B02D77AD9B04A061A41849749D9E0D8114D073A7B679E487F16F7AE69287"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Google.Apis.Core.dll",
+      "bytes": 81408,
+      "sha256": "B600F8CB3C82E2E39C8E177A7E15B9DB181AD3FAAB67302CE6642984FD913C41"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Google.Apis.dll",
+      "bytes": 81920,
+      "sha256": "8D08DF04B6875664E8D9DDBA558423797D37A8BC3F8A0148545526151A9B90FE"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Google.Apis.PlatformServices.dll",
+      "bytes": 4608,
+      "sha256": "6FD4AE4E7229DC9C75C2EC5455FC755B460244EFBEC166340A4C67B058491C69"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Google.Apis.Sheets.v4.dll",
+      "bytes": 222208,
+      "sha256": "D7A1626D43A783C2940A62F5D4E132703E26596EF82D7707EE40B4B73AD1A49B"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Mono.Security.dll",
+      "bytes": 241152,
+      "sha256": "576F911BE2E0DB795EA78F78828F3FAF4B20900BAF1CE8E33CA8FE599370FC1D"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\MoreMountains.Tools.dll",
+      "bytes": 1460224,
+      "sha256": "E53A74F87242DC250A4905EF151956F5C9B54FFD038243E8C4027D9A6A85F071"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\mscorlib.dll",
+      "bytes": 4631552,
+      "sha256": "98C9B62133DB5DD33B22BC6AAB6F28E4F04F5B5BE6559B28BA5C2738241434D0"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\NaughtyAttributes.Core.dll",
+      "bytes": 22528,
+      "sha256": "F1AF9EF6C4FC6BDA8D3FDDA40DC1BE803707D026D81CC0DE2C165B597AA333D1"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\NaughtyAttributes.Test.dll",
+      "bytes": 27136,
+      "sha256": "471C8FC95BBB2132B0BC230C45666A4B52D381037212BA33286CC30D18C71BB8"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\netstandard.dll",
+      "bytes": 90112,
+      "sha256": "6AE62E082DC494A2433984177F60CA4DB5FAE69B1F360A8B33754172B310B8C5"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Newtonsoft.Json.dll",
+      "bytes": 691712,
+      "sha256": "A56146202232958F46BD6A28B5A7DA166AEA123EE0D646735A46E5C341DFBF1F"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Peglin.OdinSerializer.dll",
+      "bytes": 391168,
+      "sha256": "249F303CF57C56A996FDC3C82E613E49B28E439BA2863DCB70143AF8F95D6DC9"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Purchasing.Common.dll",
+      "bytes": 13824,
+      "sha256": "70FD0C9EFD3D8498AA6E9379DC100DD6D5C7392B5C1E2E366D8543BA6A1EC8DC"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Rewired_Core.dll",
+      "bytes": 1939968,
+      "sha256": "8E1BAA0C530BB605FD104BE5D2419A74871890AAA6170A665777BC05171598DD"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Rewired_Windows_Functions.dll",
+      "bytes": 5120,
+      "sha256": "6D1521144455B127924CDB0C7305FE477C217A4111975B4307813F0E0602FF9E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Rewired_Windows.dll",
+      "bytes": 891904,
+      "sha256": "5D69BE003DAFB06B740816CE66A70208C89C196E7269DA8DD7967438E1D85749"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.ComponentModel.Composition.dll",
+      "bytes": 257024,
+      "sha256": "2535FD6FAC676852936CB435D917B2D69CC6FCDD391F7B3009898153BA04919F"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Configuration.dll",
+      "bytes": 124928,
+      "sha256": "EC883B49C12AB0E5110337E817A72CF781878D7FAF904AA8ABB1AB1C4B99BD78"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Core.dll",
+      "bytes": 1113088,
+      "sha256": "F1B33EB1AE8522EDCF9BA4C2B85F532D4BAB68BFA2A51527264BB61619BED4EA"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Data.DataSetExtensions.dll",
+      "bytes": 29696,
+      "sha256": "1C88D17E686CAF77551A18D3672A1589143E6B8AE83BFCF7C306478CDB64AB90"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Data.dll",
+      "bytes": 2125312,
+      "sha256": "534AC87E6A7C1E3CE02FF2D88F4FFA45E7B5FC44E6236922C2F46F8174A29E56"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.dll",
+      "bytes": 2639872,
+      "sha256": "ACE2DD6A7D534B581BF4A9D316E743D64508CA2135DB73DBFF0DDB9365FC454E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Drawing.dll",
+      "bytes": 489984,
+      "sha256": "435CC673A1ABA5AF488D8AF379D96F7E351A4B5ED2A1772892287A8268567DEB"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.EnterpriseServices.dll",
+      "bytes": 44544,
+      "sha256": "03F240D259B9CF27DBC5C9E8F42B8746A50CC5C52395D8E2DE5730321F9DE3B8"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.IO.Compression.dll",
+      "bytes": 114688,
+      "sha256": "15E84F38FB5E6BB926FE92A79374A083B8DFBABFA11F8CD1D409F21B98447CFD"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.IO.Compression.FileSystem.dll",
+      "bytes": 18432,
+      "sha256": "02F749FBE31E54CD8B86A35738E1DDDAE00CCC2E9FDB8990B93F1A494E6E753A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Net.Http.dll",
+      "bytes": 122880,
+      "sha256": "85F6D618B5DF944D2271E2D028B94A93CD371C6134507997441475B1700623CF"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Numerics.dll",
+      "bytes": 119296,
+      "sha256": "55EDA0FB467F9356D8F63933FB4B237732F1B215CB8EB0380398F05D3E8A3461"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Runtime.dll",
+      "bytes": 12288,
+      "sha256": "E0A7334B7BA419AAAB6BD3BB6992D693E689341A9178172C9BF99C2AA6A085BD"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Runtime.Serialization.dll",
+      "bytes": 934400,
+      "sha256": "C1058A78E3828052B92D535D8FB27F9F3C9EB9CBFCDEE1904898611B44D7CDB7"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Security.dll",
+      "bytes": 320000,
+      "sha256": "F7F53EB1401F2BD70EA1DCAB1C6C30AE7A4A142E26781C4A78BB885D2F6816A3"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.ServiceModel.Internals.dll",
+      "bytes": 215040,
+      "sha256": "5F926225818163439D823F9EF0F6E798E16604D8B75B66F22A133B40615F1B05"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Transactions.dll",
+      "bytes": 35328,
+      "sha256": "8983073E9627B1086102A9871A23E2BA53A0BB9FCC76826CAB9F5DEC9107E21A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Xml.dll",
+      "bytes": 3160064,
+      "sha256": "7A3587565CABF8294CFC372991545F3AE5790D54264E40069F5E0E460B66BC55"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\System.Xml.Linq.dll",
+      "bytes": 136704,
+      "sha256": "48B11F5D3A51034F9B9D330082F9099A0E68956EE2153D151CDF146BF9E76C78"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UIEffect.dll",
+      "bytes": 44544,
+      "sha256": "E73806A18F20738548E7A163FD0BD9421248189B1849FFA514B4849F7B142ED6"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.2D.Common.Runtime.dll",
+      "bytes": 44544,
+      "sha256": "6533B2577761E5E3E81F4E03987CE8C7A67882454F61D663398975D2D51B4313"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.2D.SpriteShape.Runtime.dll",
+      "bytes": 105472,
+      "sha256": "65E8F920B7FEA841220315E2FEC885077CCF84C29AA33E7E43F1455BB7C4CE2E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Addressables.dll",
+      "bytes": 110592,
+      "sha256": "0D32728557B01E5335219336817FA0993C6D153A840C19C8E0C2829BB9EDED4B"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.AI.Navigation.dll",
+      "bytes": 20480,
+      "sha256": "47575967DE7050F964ABF1CD09FF21B09939EFF48216752A0B4DB8469FF4CB19"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Burst.dll",
+      "bytes": 317440,
+      "sha256": "7AF556BC551721069DF80BCB77159EEAFCD4B1197A009149FD4219B99D191DFE"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Burst.Unsafe.dll",
+      "bytes": 5632,
+      "sha256": "9D9C1FF52411DECBEE5D9F0D1CD61EBEAA222077AA77A52101EA3DEBAFAE98E2"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Collections.dll",
+      "bytes": 364544,
+      "sha256": "847BF3CF6A8C193986044A9DEEFACE64E55037B84202F4BE7FE16EEB3265AD5A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Collections.LowLevel.ILSupport.dll",
+      "bytes": 4096,
+      "sha256": "DBD7FB37E353BF6609938BE1565C14C952FF6B6A67D2E6436AE3147A084D40F1"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.InternalAPIEngineBridge.001.dll",
+      "bytes": 6144,
+      "sha256": "333233FA40980EB62808B023CE236475FF5CF1400D37369CB23CFEFF95D48093"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Mathematics.dll",
+      "bytes": 741376,
+      "sha256": "4FF229747DF5687FA96C7AA430FEEA5A11802FE778CCD8F0D6FF9588B1141B5B"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.MemoryProfiler.dll",
+      "bytes": 6144,
+      "sha256": "7CAEA57F1BAFBA466EAF988BD17AF64A34CCC2074B5A6EBE818CC0C8DB3AD55A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Postprocessing.Runtime.dll",
+      "bytes": 162816,
+      "sha256": "29A4866E26040125C6EC9BCCF7E10DD3AA09EA9F011A176BA7C5CB9882535AB1"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Profiling.Core.dll",
+      "bytes": 10240,
+      "sha256": "5B2F7C4529CD111A8B4A1178B5E5657C3C2F4FEBCF3ABB22F8C65B5BD30B74B1"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Recorder.Base.dll",
+      "bytes": 5632,
+      "sha256": "1EB831B2D685992F2351AE2861D635F41D4D36D6F3A297770B04636FAAAD4423"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Recorder.dll",
+      "bytes": 7168,
+      "sha256": "5425FF4C1B36805B115AC4DDFA1C88396497EC1DF9FC04BBCA228A4D5B84A374"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "bytes": 8192,
+      "sha256": "AB55B17D00DE925B40C7F275436DE1E3884F2D7EA218C7DB9B9F9DE36B2CA51A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.RenderPipelines.Core.Runtime.dll",
+      "bytes": 528896,
+      "sha256": "E3F8D8D795FB2EE201A019A4541949B366BB46A494A9EFAF875758CDF4B3F698"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "bytes": 4608,
+      "sha256": "9D468E266B5250183468D61A0444955C6617C03866B1521D49B98657B3899341"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "bytes": 4608,
+      "sha256": "DD9E9F09D2D5FA3E1E1314A9C5DDFEB4B7946E7A84B1162D08C0B101B042B7B1"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.RenderPipelines.Universal.2D.Internal.dll",
+      "bytes": 5120,
+      "sha256": "4680A8213B92779905830AD0BE459968AA88A3876EC24F006F32D683A06F3F94"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.RenderPipelines.Universal.Config.Runtime.dll",
+      "bytes": 5632,
+      "sha256": "7C12871A1D8824B100B59CF35C8194EF4ECFEFC1289C7BEBD4F6C437B126005C"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.RenderPipelines.Universal.Runtime.dll",
+      "bytes": 787968,
+      "sha256": "D0830F83B57CE50BE76E22D435444DECA0A24A6CC1A9AEB38CB1CE2D2CECC0B4"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.RenderPipelines.Universal.Shaders.dll",
+      "bytes": 4608,
+      "sha256": "60475BC3E4414D625E9569A073DCB408E7CABB65EAC151CA89FF70F6ADE56BEC"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.ResourceManager.dll",
+      "bytes": 143872,
+      "sha256": "8EF51FFB62EE7AC595E4EA4B2845C8990DE2ABF4346DF472D4BA7BFEFFFD59F1"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.ScriptableBuildPipeline.dll",
+      "bytes": 8704,
+      "sha256": "2BBDDCC5F1D0ACB066259E568D9543D2796AA0FBA47A40F03C3F803DAC707E56"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Analytics.dll",
+      "bytes": 5632,
+      "sha256": "F1C2AF129E74509C8F39F5DC8266F911446E33604D8D28EEEF0610D9921CD925"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Components.dll",
+      "bytes": 10752,
+      "sha256": "797CDAE3A1526E97460FF884E1A6F471858AAE714CBBF01EB4CAB9461935D6B8"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Configuration.dll",
+      "bytes": 14336,
+      "sha256": "408EC948209B462B7A1B8BEC3E6C7AF456C56965D3FDFEDDE1453E5A37D0CD05"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Device.dll",
+      "bytes": 6656,
+      "sha256": "AFD13E6897460BC295C1C251706E71EBC3F044F8E442728A1AEFDF6E2118B223"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.dll",
+      "bytes": 16384,
+      "sha256": "AFEF89A5DE7BD1771B20EA9C01A1D3E02BC423346C0C4D62AA64EB0D2E198E31"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Environments.dll",
+      "bytes": 5632,
+      "sha256": "BECCD5FFF85B27609E8C6DA8F7D7B70463A03C0505292D24BF6E8DF7AE64F6C1"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Environments.Internal.dll",
+      "bytes": 5120,
+      "sha256": "E0BD739F4F3E4B6EF3B628E5034CD637A7D56F8B95250543A739F7507B7D0863"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Internal.dll",
+      "bytes": 74240,
+      "sha256": "BBC12A735E8D71B4C4C888D372422C0FF00791BAC79B85261C0AD1B223CF0696"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Networking.dll",
+      "bytes": 8192,
+      "sha256": "67B8BEC1FBF6AF9BC0824887BD614F62FF7124C149B4BAFB8668135046889712"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Registration.dll",
+      "bytes": 18432,
+      "sha256": "59041D1EF82C0B3AFE694461C51BCEC5C05F37587689765C133E1584E017E549"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Scheduler.dll",
+      "bytes": 12800,
+      "sha256": "EFDF4884EAB5EACDE1FA502A5939F9E1BD0C1E29FD21D67BF4FE5D119DA2AB82"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Telemetry.dll",
+      "bytes": 8704,
+      "sha256": "8F8EC0C12707131251EEF37198E6D891B3BA5F0B33B6E8982ACA6E260F9347DF"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Services.Core.Threading.dll",
+      "bytes": 7168,
+      "sha256": "E032EC1B04D5CDBBD48BC258282CFE484705E47FECD091D6DEF59F5036B94888"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.TextMeshPro.dll",
+      "bytes": 380416,
+      "sha256": "73CBCA48DACB4E1C818AB6A0B7C1CEAC293269FC460B30D4538D560B07718D10"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.Timeline.dll",
+      "bytes": 127488,
+      "sha256": "628AD43FD5025E3E8B934B5617A2B9CEE1B07F07FF67650730E7CBA9E224B73E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\Unity.VisualEffectGraph.Runtime.dll",
+      "bytes": 100352,
+      "sha256": "B6175C8D93C180D3B0F4D0979B21A2BF3771E331BFF04ADD92C6A60D79F51287"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.AccessibilityModule.dll",
+      "bytes": 23984,
+      "sha256": "493EA5C0D7103C2A6D83015100E7B7481E23B96D842BB18D4DE556B2CE60ABF4"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.AIModule.dll",
+      "bytes": 58800,
+      "sha256": "80891902F18D1C4BC4FE25EB0A3BE2E03FB83A4BB24C2B2C195B6BE2B31988FB"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.AndroidJNIModule.dll",
+      "bytes": 95144,
+      "sha256": "469897CD3B4C70CD9C4CCF74B67BC7751536E8588C2361CB66DC56BFCA6D13CC"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.AnimationModule.dll",
+      "bytes": 164272,
+      "sha256": "0DD736025840F2BC008B61778E65C0CCAA9CE4215E9E261E27EEBB526D176D07"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ARModule.dll",
+      "bytes": 21416,
+      "sha256": "644E0CC9CAB67AF64786B3A7B0FE9C9C560AA0058A1FDEA779F937AEF533329E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.AssetBundleModule.dll",
+      "bytes": 33200,
+      "sha256": "888102F4FAC12E8695D185D6770F637D520167CAF2AA620D17C5AD1527EB08C3"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.AudioModule.dll",
+      "bytes": 71600,
+      "sha256": "ED9A94A6616134863DF45B092184CE3E109BCEA37DA8B96AC7BE441C6B0B1D88"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ClothModule.dll",
+      "bytes": 26536,
+      "sha256": "E9E1CB595C46D2CA183E94F13F4C8F61E97ED85295EB41C7667C9C46B498E7BC"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ClusterInputModule.dll",
+      "bytes": 21928,
+      "sha256": "53EFA3DA43DB7B0351641E44068D881DB9675D2452794CCB14BB283F6564684B"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ClusterRendererModule.dll",
+      "bytes": 22448,
+      "sha256": "1F8FF563E756587BA7C5BF11AE4E340A362BC0D7D10D8586A92F2847ECC3B14E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ContentLoadModule.dll",
+      "bytes": 27568,
+      "sha256": "DEA49EB74519473B2F6B866C123191E3EE2C1E216B5E0D11181AFA6025945F8F"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.CoreModule.dll",
+      "bytes": 1393584,
+      "sha256": "80D43E5F8D52964E3EC0AC514076C3E2EE032AF8D9C0C3EF511DFDD9067EEE8E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.CrashReportingModule.dll",
+      "bytes": 21424,
+      "sha256": "F178030DDF200C31F62F28D68A0ADC05D0B3EF2816B5CDA1033AB470C959A434"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.DirectorModule.dll",
+      "bytes": 25000,
+      "sha256": "C05E85F2CB52063216107BDA924C76C19F7A779C64639E620BA649E3652D9EDC"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.dll",
+      "bytes": 126888,
+      "sha256": "9568A6C178E9C322A6B155213BE04661C920FCF46418E8E38B4AF9646362D5C6"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.DSPGraphModule.dll",
+      "bytes": 29616,
+      "sha256": "87593FB8EE263EC30B63791C5216F9F4FC9A509F5A934A3F8087C108E117DAAB"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.GameCenterModule.dll",
+      "bytes": 40360,
+      "sha256": "E7B29B4690C2E07129F53C57CE2B5BBA4DE49123950752B8D486FCD64262E9A6"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.GIModule.dll",
+      "bytes": 20392,
+      "sha256": "1566CBDDE7A181C0FC30775F8866AB2BA933FAD7B8B660D2B8006DCEC56944E0"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.GridModule.dll",
+      "bytes": 25520,
+      "sha256": "8A5B590B2FBF738E640F3B4305C6848F09D187A5A76B141D03548B0036C5540A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.HotReloadModule.dll",
+      "bytes": 20392,
+      "sha256": "47E67F7E36D6DC7CB77E7C7492680565FD3291DD73439CAFE468A81712DFC300"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ImageConversionModule.dll",
+      "bytes": 24496,
+      "sha256": "5D6A3BC40D7E8395137CCCCA9733542916296AB3CED3081DE14D335E3C6C606B"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.IMGUIModule.dll",
+      "bytes": 191400,
+      "sha256": "B423FF272E70533592CFA62FB87BD571A88AE5D539FD049288069392AAADDD78"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.InputLegacyModule.dll",
+      "bytes": 39336,
+      "sha256": "CD0029606BD708B22424302AFD798589A690231C2AC21F299D649BC6E474E375"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.InputModule.dll",
+      "bytes": 23976,
+      "sha256": "E2976D93457871FD8A37835DCD00FDBCDF40FB21E93E05363185F431AC90A323"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.JSONSerializeModule.dll",
+      "bytes": 22440,
+      "sha256": "0341D5AF7B88302B4171E91BFE939E9BE344EC154679200896D36791728027FA"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.LocalizationModule.dll",
+      "bytes": 21416,
+      "sha256": "95486FEEA8C917ADD964EEF3F7AF4A6CBA2449E76457234BDDDFF3D229C0F189"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.NVIDIAModule.dll",
+      "bytes": 34216,
+      "sha256": "EE648C0D5A6B68EB03E2E79388CAB6C24920BC757C281875C4776A630A94D959"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ParticleSystemModule.dll",
+      "bytes": 161712,
+      "sha256": "030A401E86E075FBD30B02EAB4803ADCD90413B2D49B3634C8097FD626DEA0DA"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.PerformanceReportingModule.dll",
+      "bytes": 20912,
+      "sha256": "848CEE1122E267080AFB508D03323967090F4AF39DD0116C9EE091114FF25F9F"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Physics2DModule.dll",
+      "bytes": 141736,
+      "sha256": "6489C192C7FFF6E4ED2D6BFFDB26CB64133143BB117CACDA3CB4BD730162294A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.PhysicsModule.dll",
+      "bytes": 138672,
+      "sha256": "DD5C5E60120707036263A77443AB29A21CDE540CBA927090437B5EC1A3CFB497"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ProfilerModule.dll",
+      "bytes": 20392,
+      "sha256": "05C799D69EB42E909BC85C9DD75EF16B8BA899812812001C9E7FA71F0B8C840A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.PropertiesModule.dll",
+      "bytes": 155568,
+      "sha256": "2871292FADC71916F3B72268B2C5301EAF862954E5197091A8C285BC065E92F2"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.AppleCore.dll",
+      "bytes": 6144,
+      "sha256": "6E78DE9C8F0DF9A5F470316D817EDEFFDD7AA7F2E1E49EF0BBD3125926D4D069"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.AppleMacosStub.dll",
+      "bytes": 6144,
+      "sha256": "E9B83FA4F162959AD85F1E797AC7B1321F10BED36DFCCFF7CA3D16A96C3C51F0"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.AppleStub.dll",
+      "bytes": 6144,
+      "sha256": "C8999D9368EE9A6CF0703781D83E33B09AAE32B956C5425EE4E88A689B0EC79B"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.Codeless.dll",
+      "bytes": 23040,
+      "sha256": "D9C7DBEDA3E8F1DACFB88B19090DC106B0460F0BD4E8DCBA0E987B550C25E612"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.dll",
+      "bytes": 57856,
+      "sha256": "C772FC3BC5524942544C0062DBA621052B6A61F65A87352E170E4B01D962909E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.SecurityCore.dll",
+      "bytes": 8704,
+      "sha256": "D2827070CAB72BB9BF222A3541915558590B01F4762F831C473EBF657F715A76"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.SecurityStub.dll",
+      "bytes": 7168,
+      "sha256": "9783F547E8E8FD36174D16A8429CFA7DF59933F2EC4245F20B4A9E3C2681C39D"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.Stores.dll",
+      "bytes": 203264,
+      "sha256": "C090457FB3C904D7A2075CE866871E84F1F90C09F0C46C6D1C4FB7C9AA6C1BED"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.WinRTCore.dll",
+      "bytes": 7168,
+      "sha256": "1BCB74CF001499EF6DA88CF02AEF473EAB62728B67D48DFB0A74D1C4F5795878"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.Purchasing.WinRTStub.dll",
+      "bytes": 5120,
+      "sha256": "4322CFD0CC3AB218C6D3CCC76C08A54F2523E360890B3472F99DA59A1577496D"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "bytes": 20392,
+      "sha256": "623F5D19A0AF24259766FF8654307A9746C3667A4CF3EA29533A4493B7ABB12F"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.ScreenCaptureModule.dll",
+      "bytes": 21416,
+      "sha256": "6A59C42898420D797F49E0872DBA69F682351E51261C1338798799E10C9DF7CD"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.SharedInternalsModule.dll",
+      "bytes": 33192,
+      "sha256": "B804EBE55DFA6275D8FE7C7D425DC381F691FA7A72CE0C9B0A1512B425E54C6D"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.SpriteMaskModule.dll",
+      "bytes": 22440,
+      "sha256": "9854B65A47DFE365C5843FE029DE9D8FDE2DC67EE8850BC20738510CA98B014C"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.SpriteShapeModule.dll",
+      "bytes": 26544,
+      "sha256": "6084F506D4CFDB4833F7035109AAFF79C1547B172BFB9531783774095A68F04E"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.StreamingModule.dll",
+      "bytes": 20904,
+      "sha256": "D254E43C7A003B072C46E6587794AAD1B1A151121F63686CC31D8772BDD12EFF"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.SubstanceModule.dll",
+      "bytes": 25000,
+      "sha256": "2C948D96A0118B81914CF1704A4E7B2D8242C55A7D6281C6C7498BA2C46B87FA"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.SubsystemsModule.dll",
+      "bytes": 35248,
+      "sha256": "4B02F77349AA008AC23E78767AF97151D02A4373DBE34C0F2A9DD2544A7C3E48"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.TerrainModule.dll",
+      "bytes": 101288,
+      "sha256": "735D8F4087C20E14F6EAFE1AA164D9E303BE4E4D6CF21F26641C9C1A60CB28FF"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.TerrainPhysicsModule.dll",
+      "bytes": 21424,
+      "sha256": "166981367BDA2A1199D2264C542865D3420945E0830DB3A35563EB5711A7084A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.TextCoreFontEngineModule.dll",
+      "bytes": 72616,
+      "sha256": "5B906B1DC479169586794CDEF42736BEF87B91CA98CCD48187040C53DC10458D"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.TextCoreTextEngineModule.dll",
+      "bytes": 249264,
+      "sha256": "BD7173EF8C69F8C00BAA9D03514A0DB63CEA93930B1D4DE5D8BFD54BF3693DBC"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.TextRenderingModule.dll",
+      "bytes": 39336,
+      "sha256": "94FB324F4933D8E1B48607C11A280C2F8653495914D82F9B7C1EB11F55B7B51D"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.TilemapModule.dll",
+      "bytes": 47016,
+      "sha256": "71C4505976BD5E8F5E74206FE69CE4BAAE96A9EB3E46A467D2A4BD5AC598F69B"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.TLSModule.dll",
+      "bytes": 27056,
+      "sha256": "DCF5569DDFE7A9B4C9FAA1282CCB969F7554F9ADAB209783BBD489A79572F64F"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UI.dll",
+      "bytes": 265216,
+      "sha256": "01C4448C243D0DD371E9AE6E8E8EB13F2821B1FCB27F900981C07C04238EF847"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UIElementsModule.dll",
+      "bytes": 1536424,
+      "sha256": "6AB19AB0DE88A60019CAF719095FDA921CC040EBC9FEAF390EE5DEFCE7CC4E6A"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UIModule.dll",
+      "bytes": 36776,
+      "sha256": "F3E21499DB60BD6A7569F2209D304828EB6778E1143B72A71AD72B4A61848097"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UmbraModule.dll",
+      "bytes": 20392,
+      "sha256": "DB07A3DAA13D983611AC87B28F1408D1D767973DC484089ED18AEA4542F36180"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityAnalyticsCommonModule.dll",
+      "bytes": 21424,
+      "sha256": "90148A4568BF51F5DED439B3AB591829F5DE15941BE89D7FB13B5C2AF64A5E0B"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityAnalyticsModule.dll",
+      "bytes": 44968,
+      "sha256": "6BAB7FC8DD1922630BAADC81379695B08C295CF1D12C2D0AAF0E0182043CAF0D"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityConnectModule.dll",
+      "bytes": 22440,
+      "sha256": "796A33E96FB5FF04A0293AB2BCCD34DE857B6E5D0ED12360071DF078907203CA"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityCurlModule.dll",
+      "bytes": 21936,
+      "sha256": "BF5C1D3657CB474AC96644A81A93E98CEECEAE75F2580E18CB121A18BB17DC67"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityTestProtocolModule.dll",
+      "bytes": 20392,
+      "sha256": "7360877878A36BF20B12319EF80FB8E8D2E6B3B88069A2567EA7CD1260A86CE8"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "bytes": 23472,
+      "sha256": "52C366138A739232D74F8A603A87E818CB98DCB8578B6E07686F8FA3DC7D62A6"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityWebRequestAudioModule.dll",
+      "bytes": 22952,
+      "sha256": "E7EFA73E531F74094F7A9EF747568632F40490FB4F922B6CBC6140B63356BE99"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityWebRequestModule.dll",
+      "bytes": 58792,
+      "sha256": "A8A907C49675672CCA0C7354023C9587C42BF5476F9DE20D49961347995AF616"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityWebRequestTextureModule.dll",
+      "bytes": 21936,
+      "sha256": "A2618050847722C62C65A884A84E312F2AAE2CC9EB2B09540E78E25C026C78A7"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll",
+      "bytes": 31656,
+      "sha256": "AF16FB72F19AFC8ED1786B74D78727BFEEC4A293D542BE4FE494E040F3B37F51"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.VehiclesModule.dll",
+      "bytes": 24488,
+      "sha256": "3B158C6E3CB0C8DDCEB616EB1A4F49DE6E0DC0C5AA78F3B138B2D7C1B8218003"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.VFXModule.dll",
+      "bytes": 58792,
+      "sha256": "530030E75BA90113557CEDA2BF228753431F172F1F6B7D7603EB82E1014E05A4"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.VideoModule.dll",
+      "bytes": 41384,
+      "sha256": "91C7859FBBBA3F4350D1CB560D398970FE3697CE710B7B6EC821DDD095BACD27"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.VirtualTexturingModule.dll",
+      "bytes": 36272,
+      "sha256": "C090F95200A04B6414212D301C67410C9882E0972235E50A773F7FF112CDC180"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.VRModule.dll",
+      "bytes": 27048,
+      "sha256": "8CCC32B331F1BFE8B7BE1B0CC8FE92301403B04B0A2BE50515E16482931681C3"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.WindModule.dll",
+      "bytes": 21424,
+      "sha256": "44D3C86B6F9132CFBB10C542DCC9B32D729C35091544CC35C66DA7D236936518"
+    },
+    {
+      "path": "Peglin_Data\\Managed\\UnityEngine.XRModule.dll",
+      "bytes": 71088,
+      "sha256": "3DBB4C0BB20BE72689364763975BEAB069997802D700FD5E08EB3458572CCE00"
+    },
+    {
+      "path": "Peglin_Data\\Plugins\\Steamworks.NET.txt",
+      "bytes": 239,
+      "sha256": "D8AD8E9A31DAAA76C91F306953341BBBF1B93E83F12199B9D4B59B1EA6C13A41"
+    },
+    {
+      "path": "Peglin_Data\\Plugins\\x86_64\\Galaxy64.dll",
+      "bytes": 13556224,
+      "sha256": "F92A130C80588DB7F2EE38E1E3394C141BBCF5E08CC84A5AA92CDF50663CE593"
+    },
+    {
+      "path": "Peglin_Data\\Plugins\\x86_64\\GalaxyCSharpGlue.dll",
+      "bytes": 1916416,
+      "sha256": "1B1607DFF5E1D7BA1CF44401EFF3999CBE2BBA504CF7E213A6A735704ED0EDD5"
+    },
+    {
+      "path": "Peglin_Data\\Plugins\\x86_64\\lib_burst_generated.dll",
+      "bytes": 242688,
+      "sha256": "1FA0F2C5A6D358C834337D9E77FC36B67BA12F49CFD9D1B9662A6D6F33E738F5"
+    },
+    {
+      "path": "Peglin_Data\\Plugins\\x86_64\\Rewired_DirectInput.dll",
+      "bytes": 12800,
+      "sha256": "9989B282D43621259160954F3C2191AFC3E3A13ADB0091C3F60BE228831858AD"
+    },
+    {
+      "path": "Peglin_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "bytes": 262944,
+      "sha256": "473F5A312B56519F347741B63F3DEA590946B96EA40EF3803D5F452C39AF2F1E"
+    },
+    {
+      "path": "Peglin_Data\\Resources\\unity default resources",
+      "bytes": 1564240,
+      "sha256": "A11E3E24520676183B3750564B4D9F5A90E8F41FD3523CBFB0C49F3989453DA2"
+    },
+    {
+      "path": "Peglin_Data\\Resources\\unity_builtin_extra",
+      "bytes": 327524,
+      "sha256": "531E23344C31BD9BD905B421757F0E4C966D44E1CBC0D34C6FDF444B26A3C245"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\UnityServicesProjectConfiguration.json",
+      "bytes": 1093,
+      "sha256": "A418B0DB19B41CD8E5FF133FD2AC9075DB51C5BBBE6B757B032FC87111A492BB"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\catalog.json",
+      "bytes": 233841,
+      "sha256": "1579F78542757A892D088D41D21FE3EA23B1BFBC22DC7B911E4138419E9E56F2"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\settings.json",
+      "bytes": 1604,
+      "sha256": "266BA7B58BDDE16DC35A6127594275DCB656F691FB62C72ED794EAFFB43DB525"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\AddressablesLink\\link.xml",
+      "bytes": 91219,
+      "sha256": "B1FC904F99F66057477975F9AEB131B62935933021C7ED5805732D0C18466A37"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\battleeffects_assets_all_6f26dc0dd113c5a4f3ddde462b57980e.bundle",
+      "bytes": 28218,
+      "sha256": "B18AAC8616816D4BFE24B3C2BD50FBAF2C5117BDCE193E754CF514E627538FD4"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\bd14c8846baebcec5b9f03bff03f05ce_monoscripts_33080fdefc82203c0986373d964f1b16.bundle",
+      "bytes": 37870,
+      "sha256": "CE39CA2D4BEB7C05D0321049B01B6AFBA64E298882D39B00EA61D38B80BA676D"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\bd14c8846baebcec5b9f03bff03f05ce_unitybuiltinshaders_357cdf26925e047636c5491601e6006f.bundle",
+      "bytes": 38421,
+      "sha256": "ABE45D3FE1BB80A2E3C636722EE5E532C3BDFEBA969C60C0807E9302EA258131"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\bestiary_assets_all_57d0061377e18046cba672a0f8f0fd41.bundle",
+      "bytes": 1279028,
+      "sha256": "AC42CB73F3E78173BE9D506E870F55D5CEFDFAE747ADB4BA48039C793A229203"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\contentupdate_assets_all_b0b797af1c976aa736edabd994644cb0.bundle",
+      "bytes": 223568,
+      "sha256": "D304A8865A23B7CEF0865107CE8BC8732AF73887D7A2E1806609DB7C95A37AA0"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\contentupdate1_assets_all_a5d3475516c2e2a0bfc1eaf5a7090845.bundle",
+      "bytes": 4754,
+      "sha256": "802FE3B03763E346046E3BB1EF8D8EC0DCA5E1A44A684EEFDD3BAC8BED24453D"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\defaultlocalgroup_scenes_all_b707905e91a196cdf54a060ad3b45f20.bundle",
+      "bytes": 105708398,
+      "sha256": "435C87D5CA140CFED4D0D2DC26202DF6CEA4E812E54FCDF78ACBC4CC356F4295"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\duplicateassetisolation_assets_all_7d4c822dc15c0b3ded8845ff972911f6.bundle",
+      "bytes": 2098582,
+      "sha256": "5AAAB651E519D26030091F1663CC7BF8EC690379B41282593414BC16C9A3498D"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\enemies_assets_all_32dc377ad9e710e6f97b46871e090f7c.bundle",
+      "bytes": 16032939,
+      "sha256": "0882816FE06FD5574A4DA9287301F6A006FC241F5068A330AE5D44BBA2BD4613"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\orbs_assets_all_9f30be497c41671a2e86733d095ac21f.bundle",
+      "bytes": 4427571,
+      "sha256": "381333B3AD178ACD23A0791A511B045BD8D0F273CCFACE1F0E1F182A6D3A86EF"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\pegboardassets_assets_all_dcc17e95a0bd3095ccd0c3306dffce6a.bundle",
+      "bytes": 224070,
+      "sha256": "704D327FB1406FAF90E7C122BBE20A618E9B21E79348DA11A60DCA260B369DF0"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\pegboarddata_assets_all_a6a5e4f9a0179cf3ba8a203c8e5e233a.bundle",
+      "bytes": 576477,
+      "sha256": "840EBE9FE8D44340ECA8DB7AFD1E0B751E6B5924ED6386625F4D875C418BD7F0"
+    },
+    {
+      "path": "Peglin_Data\\StreamingAssets\\aa\\StandaloneWindows64\\scriptableobjects_assets_all_fa3bb2f348d692f9f6637f45be8bacfd.bundle",
+      "bytes": 759423,
+      "sha256": "E1E7672F3B35E89883039C5ED142D34034F529563F16C1545FB050966FF6E264"
+    }
+  ],
+  "source": "E:\\SteamLibrary\\steamapps\\common\\Peglin",
+  "unity": "2022.3.62f2",
+  "fileCount": 227
+}

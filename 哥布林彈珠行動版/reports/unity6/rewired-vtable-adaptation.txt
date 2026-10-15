@@ -1,0 +1,12 @@
+﻿newslot + callvirt redirected to explicit impl: Rewired_Core.dll gQYWqRhlmkWRkkrRpWjcmQltnfCL::nbPsxFsGmeDxGPfgFiEHaGeUHNgb (1 site kinds)
+newslot + callvirt redirected to explicit impl: Rewired_Core.dll Rewired.ComponentControls.CustomControllerControl::qxztwDyUQORzUbPsUTYbrngUIGKl (1 site kinds)
+newslot + callvirt redirected to explicit impl: Rewired_Core.dll Rewired.ComponentControls.TouchControl::qxztwDyUQORzUbPsUTYbrngUIGKl (1 site kinds)
+Rewired_Core.dll newslot=3 kept=0
+newslot + callvirt redirected to explicit impl: Rewired_Windows.dll YmINImHbaSxJTFQFGdWHiozJCXxDb::VAPbiekCQMZJJOeqBPnWQivgRCpsA (1 site kinds)
+newslot + callvirt redirected to explicit impl: Rewired_Windows.dll OQvjsoFXFKGWhixCGTkcvLRGpcne::vBdORdmGoOTpawqjXQUnPLPQUHrD (1 site kinds)
+newslot + callvirt redirected to explicit impl: Rewired_Windows.dll VZSJqkCXfwLKPKawjArMnMLGydqR::vBdORdmGoOTpawqjXQUnPLPQUHrD (1 site kinds)
+newslot + callvirt redirected to explicit impl: Rewired_Windows.dll BFdcsHcEGFuQlpPMjINUXvXQdSwrA::vBdORdmGoOTpawqjXQUnPLPQUHrD (1 site kinds)
+newslot + callvirt redirected to explicit impl: Rewired_Windows.dll lddVbEBjeablIdzpPLkjqFtDDKrq::vBdORdmGoOTpawqjXQUnPLPQUHrD (1 site kinds)
+newslot + callvirt redirected to explicit impl: Rewired_Windows.dll gnYEVFqSVACRZmtnxHzaCHYyCbkh::vBdORdmGoOTpawqjXQUnPLPQUHrD (1 site kinds)
+Rewired_Windows.dll newslot=6 kept=0
+Rewired_Windows_Functions.dll newslot=0 kept=0

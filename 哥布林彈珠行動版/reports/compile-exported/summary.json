@@ -1,0 +1,11 @@
+{
+  "exitCode": 0,
+  "sourceCount": 1053,
+  "referenceCount": 166,
+  "errorCount": 0,
+  "warningCount": 594,
+  "outputExists": true,
+  "exportedReferences": true,
+  "firstpass": false,
+  "scope": "Static C# compilation. Unity engine/framework references are from the Windows player. ExportedReferences mode uses recovered plugin DLLs and a firstpass DLL rebuilt from recovered sources. Not a Unity Editor import, WebGL/AOT build, or runtime test."
+}

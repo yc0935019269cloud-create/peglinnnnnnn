@@ -1,0 +1,9 @@
+{
+  "exitCode": 0,
+  "sourceCount": 1053,
+  "referenceCount": 165,
+  "errorCount": 0,
+  "warningCount": 594,
+  "outputExists": true,
+  "scope": "Static C# compilation against Windows player DLLs; not a Unity Editor import, WebGL/AOT build, or runtime test."
+}

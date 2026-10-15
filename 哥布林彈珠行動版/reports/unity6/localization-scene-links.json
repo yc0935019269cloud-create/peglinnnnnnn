@@ -1,0 +1,884 @@
+[
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "5e52b9b455cab774e8d2d7ac86c2bc2e",
+    "originalTargetFileID": "1897",
+    "beforeSHA256": "98fdf5e053311b0eca375eb6eccefc6c33d654e71cb22414234ad3d337fab9fb",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_0.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "5e52b9b455cab774e8d2d7ac86c2bc2e",
+    "originalTargetFileID": "1899",
+    "beforeSHA256": "d7e76839851977d1d1283437315128d05e193379384d17ed7e69ceb1ffbd0e30",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_1.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "5e52b9b455cab774e8d2d7ac86c2bc2e",
+    "originalTargetFileID": "1900",
+    "beforeSHA256": "9b2679c9141dbd2ea4414404a2a75ffa05e236126b22d3066f44b37f28e55992",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_10.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "fd1d1de8018244e4c97073475a52acda",
+    "originalTargetFileID": "551",
+    "beforeSHA256": "41bc8fd2121410f08beb3bdb612498c3800772110c64bcde63aac8108df2cebb",
+    "afterSHA256": "cc117a1da92aee881b986b50f3003da16ecd69791846ad13de1cd3c2f1c52a25",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_11.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "906ba8b7750e6b345ac8baa084f89edf",
+    "originalTargetFileID": "1006",
+    "beforeSHA256": "4dc03a51396e49eac51b8e4db53af3e5e2ad35afdc88eba589eefbbae17fc91c",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_12.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "906ba8b7750e6b345ac8baa084f89edf",
+    "originalTargetFileID": "1003",
+    "beforeSHA256": "83687587410ceaed67959fc515bd1db2aafcaa4ab3a63d33c6b04eebfcf7c6ba",
+    "afterSHA256": "f35ca807ca7398cb49bec87c27f8ee28e5dae16ae039e908133971c0d1fe8724",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_13.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "906ba8b7750e6b345ac8baa084f89edf",
+    "originalTargetFileID": "986",
+    "beforeSHA256": "a7e4d35252bd31f48049c8a8ce8590ba40c776c1e2978d726018247c7f217f7c",
+    "afterSHA256": "f35ca807ca7398cb49bec87c27f8ee28e5dae16ae039e908133971c0d1fe8724",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_14.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "906ba8b7750e6b345ac8baa084f89edf",
+    "originalTargetFileID": "980",
+    "beforeSHA256": "650eec72cc6318759013620360c746372a19b2c272e30d94cdb49497237105d8",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_15.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5323",
+    "beforeSHA256": "90401f5a1b84e667c67c4579b473f8f8d546fd65d38aabc6b26fd0240c899898",
+    "afterSHA256": "f35ca807ca7398cb49bec87c27f8ee28e5dae16ae039e908133971c0d1fe8724",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_16.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5117",
+    "beforeSHA256": "9b514f0c39dc86b281c5a7f6f9c87dc727e6d5346e617602196045e1ec6a4a9a",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_17.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5033",
+    "beforeSHA256": "23fbb68e5b574552f06d5d0003e872d818e9d48f418a5b4b7f6032806a08b71e",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_18.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5063",
+    "beforeSHA256": "735facfe2adb0afb2fed2cdac8616f151e19b21583abf2fe750393253929a15a",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_19.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5007",
+    "beforeSHA256": "ed73e30fe1952f4b94cc858631d34ace16ac893a15f37761399a519a0420f721",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_2.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "5e52b9b455cab774e8d2d7ac86c2bc2e",
+    "originalTargetFileID": "1898",
+    "beforeSHA256": "73b3db8bc568ee6dc999acd6b258746773c33f0516aca26bde3fa3e9799384a5",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_20.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5006",
+    "beforeSHA256": "5cff43474c4b906257455c72b8a712e361f3f1008c0c5e74ff41e1d35db1764b",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_21.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5278",
+    "beforeSHA256": "18a91edcd1375cfe7f06462ac1c2d30b5b624f6519e889162d650f468e411c34",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_22.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5064",
+    "beforeSHA256": "43b442512bb8c5c784efdb545873cdac1464e331e7deabf89d2ba2d747e0843a",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_23.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5032",
+    "beforeSHA256": "afc60601c9a05f349e5a124511ca8ead20321fd908927a38ff8ddaffbc94c094",
+    "afterSHA256": "39cba5b25de646af6a3b4296a8fbdb26b7affaea69aa3d35779947ff5a7a0866",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_24.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5172",
+    "beforeSHA256": "2ec4f9162b3225c563ce5d92c64d92a7c5a511440c60fd61a107b74091cb0731",
+    "afterSHA256": "7cc90e82b75b53ef3235518807c37656c9b4ca119758dfdff9477e96023b42ec",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_25.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5281",
+    "beforeSHA256": "f945ff0d8526917d463ff1676a212d0c35813093ad0b9374e1ae45ce98fab4c2",
+    "afterSHA256": "2ae6f15a98bdb035b493f2fac330966f5047c46d22ec92b2165898d289ed103e",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_26.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5097",
+    "beforeSHA256": "62f630a7001337d1bface9c845122cb210d4fe773d80140f525a704691838307",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_27.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5152",
+    "beforeSHA256": "0844d7f36bbc4ebc938d0260a97ead924ec2b55762013f6b38e8a73036cdd873",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_28.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5222",
+    "beforeSHA256": "ac8b3b134f1037a85ffb4d9b0da5bae3e828b4ea2fb9e42cc3d17905b37f3847",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_29.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5159",
+    "beforeSHA256": "2d43e1ec9f6b3052465d08ec9d8254613a9b7cacc6b599529df34721ef623381",
+    "afterSHA256": "39cba5b25de646af6a3b4296a8fbdb26b7affaea69aa3d35779947ff5a7a0866",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_3.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "8f00c8ebd22e37047bc048ba734cf3f1",
+    "originalTargetFileID": "4546",
+    "beforeSHA256": "a3332c60dbcda3b342b31e347bedcde1062db860097b75c0334ad2d75d30d36c",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_30.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "b36bfc1f0e668d94b83fee1e11c9ac8c",
+    "originalTargetFileID": "5128",
+    "beforeSHA256": "e6528a200568256a3682932a400f64c2c0bb88a3d660b4e5d61ac558d46180fb",
+    "afterSHA256": "2ae6f15a98bdb035b493f2fac330966f5047c46d22ec92b2165898d289ed103e",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_31.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "11ae973bb61828b479e3e05df4d882b0",
+    "originalTargetFileID": "1002",
+    "beforeSHA256": "2d7b9bf940232a9f1ca3aae942f6e4b0b99626882bfdbfc5c99f939e2a175fe0",
+    "afterSHA256": "250d176e9502d7e9cba88c8df05a2a520fda1c7ba0ede0a9b37bce8b2700d9c7",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_32.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "11ae973bb61828b479e3e05df4d882b0",
+    "originalTargetFileID": "1058",
+    "beforeSHA256": "41907866813e43cb3caaa50cf3be9d7cba2276d3a6cb73072dd583bd386b5d89",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_33.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "11ae973bb61828b479e3e05df4d882b0",
+    "originalTargetFileID": "1001",
+    "beforeSHA256": "16b02d432dc8581659eae710b2606f30373a2b5bd6cf944a73b9bef10e3fe355",
+    "afterSHA256": "bde7fbc838a19ff01216aab8a89764aa2fbf3b3f8c663f00fa6e5ab78cd031b9",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_34.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "11ae973bb61828b479e3e05df4d882b0",
+    "originalTargetFileID": "1005",
+    "beforeSHA256": "a41447e807345ec11c811719886f32f0d124b9a6e150764642219abcee404635",
+    "afterSHA256": "bde7fbc838a19ff01216aab8a89764aa2fbf3b3f8c663f00fa6e5ab78cd031b9",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_35.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "f5e804437ba4bc64e8b3de052fbd42a6",
+    "originalTargetFileID": "1016",
+    "beforeSHA256": "f92f2789ef3930ebf7c3653374d6515e8371713dd320dec707bbd6f7f02ad29a",
+    "afterSHA256": "250d176e9502d7e9cba88c8df05a2a520fda1c7ba0ede0a9b37bce8b2700d9c7",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_36.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "f5e804437ba4bc64e8b3de052fbd42a6",
+    "originalTargetFileID": "1073",
+    "beforeSHA256": "51eba2eec8a8c2b8a406caa78a089b25320f6cdaa862123b046f39286210a71a",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_37.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "f5e804437ba4bc64e8b3de052fbd42a6",
+    "originalTargetFileID": "1047",
+    "beforeSHA256": "287f5cce10ba6916905cd51eb51a1e23492e303083d94cb41eaf56eb53c6a4f5",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_38.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "f5e804437ba4bc64e8b3de052fbd42a6",
+    "originalTargetFileID": "1018",
+    "beforeSHA256": "ae4f145be184ec17ea215c5088b1eeca488096112ec5f331fc91c4e188ce6c99",
+    "afterSHA256": "bde7fbc838a19ff01216aab8a89764aa2fbf3b3f8c663f00fa6e5ab78cd031b9",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_39.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "f5e804437ba4bc64e8b3de052fbd42a6",
+    "originalTargetFileID": "1023",
+    "beforeSHA256": "a6af3b44670350759d1ea9d37851e4af7d0be16b5911b9820836dab153c697a5",
+    "afterSHA256": "250d176e9502d7e9cba88c8df05a2a520fda1c7ba0ede0a9b37bce8b2700d9c7",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_4.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "8f00c8ebd22e37047bc048ba734cf3f1",
+    "originalTargetFileID": "4547",
+    "beforeSHA256": "d593e6eac3d4160b6aa6b56b0fcdb190fd5e18d853d1a82bebc6941daf2ddc97",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_40.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "f5e804437ba4bc64e8b3de052fbd42a6",
+    "originalTargetFileID": "1022",
+    "beforeSHA256": "c1f32ea8e15798a467d2a9539af9922467715a903f14b5c328bd54c3b0fadb78",
+    "afterSHA256": "250d176e9502d7e9cba88c8df05a2a520fda1c7ba0ede0a9b37bce8b2700d9c7",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_41.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "f5e804437ba4bc64e8b3de052fbd42a6",
+    "originalTargetFileID": "1020",
+    "beforeSHA256": "402a531da9bb2eed6e663b27138b9d34cc8d5323e4010a9470f0191157b05e1f",
+    "afterSHA256": "bde7fbc838a19ff01216aab8a89764aa2fbf3b3f8c663f00fa6e5ab78cd031b9",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_42.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "a285a970065ef354a8cc0a7b391a7926",
+    "originalTargetFileID": "2174",
+    "beforeSHA256": "7861ef9ea275c50187355d1ad116ae8d90d77ae409dbf35faa77734c7c500e59",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_43.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "a285a970065ef354a8cc0a7b391a7926",
+    "originalTargetFileID": "2080",
+    "beforeSHA256": "7d01e525723df34b7f64d69a0caa7a244014e79f2c58265bb773f906eab52620",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_44.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "783",
+    "beforeSHA256": "cd88f1b1a1dda81b2157fcec972ca4bc32bbb132c34c4fa3d1795c0ee02fea33",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_45.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "878",
+    "beforeSHA256": "fc92429cd1612587d7781d6174f1a153b6e2cb35abb0872fc3416caf248dd9d8",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_46.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "770",
+    "beforeSHA256": "41de4008551d5a7332818546dfbf178ae4a0e5773e06e5274456c0dbfce81749",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_47.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "775",
+    "beforeSHA256": "602b913fd6caba301c1bd92fc97e05e73b122a26f384fbe4f160dedc496fa856",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_48.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "806",
+    "beforeSHA256": "d18a06dadd33966eb1ce64e58cd301516230a46f1b9a3e166d3780e4e29a9fad",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_49.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "758",
+    "beforeSHA256": "dea93bced063a4976cf3a555091beab4fcab70b0bf934edd2441c16bdd582bc2",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_5.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "8f00c8ebd22e37047bc048ba734cf3f1",
+    "originalTargetFileID": "4549",
+    "beforeSHA256": "75194c2e2bc90935c65015545fd5cb519dd64010067f78fbe11c54ed4fd646c6",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_50.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "790",
+    "beforeSHA256": "6b5f9bf1a369dfc704e09bd2f031cbef5506d268a277ebf075f8d46a2eb79980",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_51.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "788",
+    "beforeSHA256": "d9166dcb3b71356598dcbdc0c3968626cbb63b08d714a0247c34d2b7a32268a2",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_52.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "886",
+    "beforeSHA256": "18541fa324a034cd7175d4022b6f98eb58e0a515ff18eb37e85b70b41bbe3138",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_53.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "763",
+    "beforeSHA256": "481437463cd1dec0c488e2e15069d55db4aa4dbbfcc5543d0bc57695550cd603",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_54.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "793",
+    "beforeSHA256": "ce5ef1ac0246981137495ff9a137e0b3eb4aec09457572d86a1ce456a2d77612",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_55.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "807",
+    "beforeSHA256": "384da7d442df4198489819a435b5fa92f6cc0e0cb5b82407039b0d722a0d313d",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_56.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "828",
+    "beforeSHA256": "cd8d7fd357efd6afa6f5953974689135d65d337d551816a50e0de3440437c828",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_57.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "784",
+    "beforeSHA256": "307c4f0e0acb77ccdcb6880c35aca85b060299e373034306dafeebfd01adce5d",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_58.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "754",
+    "beforeSHA256": "e805835162977f63dc44d0b4faa6ab7e8a4fc152c57d139bfa2da0f29782e449",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_59.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "799",
+    "beforeSHA256": "b6fdcb27177b12ee6793593914fa1f5fb9748f896aa9ff4cf438c3576caa9ae9",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_6.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "7300b46cc94d213478323fa11ac5f4c5",
+    "originalTargetFileID": "911",
+    "beforeSHA256": "242b899672acddbdeb2ad0cb0164719086c7b165be1b7a33d7e66b436e5566f6",
+    "afterSHA256": "250d176e9502d7e9cba88c8df05a2a520fda1c7ba0ede0a9b37bce8b2700d9c7",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_60.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "824",
+    "beforeSHA256": "1e71252107f9bb86554ad851bbd4834020ee2942a4707daab237946d6b7e4fa7",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_61.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "749",
+    "beforeSHA256": "4d433ad0a4d8c25ba59fb99cdfa5936b53ab5b35e2e006710f1fd9f00f134b32",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_62.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "823",
+    "beforeSHA256": "4a673e7dc30dad90d4d4cc3d87da84deae2bc9949d0ff90a8575d068b4a7162b",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_63.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "810",
+    "beforeSHA256": "447b4bce708ed09dec825ed41d0141585619da2822567393f6236e041ac80ad2",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_64.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "772fa1c97af8b1241a420f9c956b2f37",
+    "originalTargetFileID": "871",
+    "beforeSHA256": "790f2e24c98c535134120513260d3c71d13aada32986344d10b7017c3f7696a3",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_65.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "e910b281a75dd3f42b9e90fe89ccaf83",
+    "originalTargetFileID": "1100",
+    "beforeSHA256": "a0acee97e4a3a64541744b9fa110f8fc2386656585a9c2456c16673804ed971f",
+    "afterSHA256": "250d176e9502d7e9cba88c8df05a2a520fda1c7ba0ede0a9b37bce8b2700d9c7",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_66.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "e910b281a75dd3f42b9e90fe89ccaf83",
+    "originalTargetFileID": "1159",
+    "beforeSHA256": "9e428386b49046b64eb2ca625c438ad6345f62d20fbe31d18c056f0dbdb87c2e",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_67.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "e910b281a75dd3f42b9e90fe89ccaf83",
+    "originalTargetFileID": "1101",
+    "beforeSHA256": "624124b053e9e50f990570fc8e4eea7b5ae38c8bc221d9654b5c8910822b6488",
+    "afterSHA256": "bde7fbc838a19ff01216aab8a89764aa2fbf3b3f8c663f00fa6e5ab78cd031b9",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_68.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "e910b281a75dd3f42b9e90fe89ccaf83",
+    "originalTargetFileID": "1155",
+    "beforeSHA256": "cd5c1467a30ecaef6a8832ffb37f55266906eeed1a558ffebbf1e15903027ac9",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_69.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5190",
+    "beforeSHA256": "a4cf1dfb499a01c497bbdd40d7a6041811a89c6028a607ac82835c03ee22e2bd",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_7.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "7300b46cc94d213478323fa11ac5f4c5",
+    "originalTargetFileID": "962",
+    "beforeSHA256": "5ec72a5e9ae97cc0fd2492f3c3ad70b33682f0f1b02730eccec28700086838ec",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_70.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5159",
+    "beforeSHA256": "8b314297a4e5712825c8989cb64f24116b3bad45640a31a5ab1ba022001b4cc6",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_71.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5163",
+    "beforeSHA256": "3d92ef453fbbdd9094a1e0cae109413d781b2e5e68a14b45c1c58ef781b352f0",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_72.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5168",
+    "beforeSHA256": "768b77bd5da5143d1cf876a6c8604580e7cc9df44c86c945effeec099802454c",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_73.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5272",
+    "beforeSHA256": "a25c002ecbf7257ca5ac9c6d9b07501420c800fdc7210b04660875ff29c1432e",
+    "afterSHA256": "4116805490d9cfc2bc278df851fbaf28788e2ed23d898a0aa22b35073aa5f88b",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_74.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5161",
+    "beforeSHA256": "6a173994a592ead79dd3d0f132a16dac7ed4f68e401ef5a395eee11d0c6e294c",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_75.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5441",
+    "beforeSHA256": "1bc1e2ccc0116ed99c46ba29416af2e94ed91d6fc456fa02cf4c3a7cc23c3431",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_76.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5145",
+    "beforeSHA256": "d0d2595b189d46b44f5169b6827476f33afb1a4c4737a71dc708f3d7aa06201d",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_77.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5137",
+    "beforeSHA256": "41d0fc4a01be2dc8780c07ae4879249f2d932856ed6d1edec819a20f61113dbe",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_78.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5169",
+    "beforeSHA256": "62119d9f1a689194380024165554425b975bfbb7df3349facf0dba8fe566c7cd",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_79.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5195",
+    "beforeSHA256": "0283ed15e6416de91e9ed8e3ef852a5e24a8b5e1827e873fedcff8c497c615b1",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_8.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "7300b46cc94d213478323fa11ac5f4c5",
+    "originalTargetFileID": "912",
+    "beforeSHA256": "56b4155c84d9a8502ce7526df2e374f6642a969d7bacf60513003ba69175a8c1",
+    "afterSHA256": "bde7fbc838a19ff01216aab8a89764aa2fbf3b3f8c663f00fa6e5ab78cd031b9",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_80.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5199",
+    "beforeSHA256": "16e749f75447168bbe803a7cf82aaa471969823267743b26d7f524df672adee1",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_81.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5165",
+    "beforeSHA256": "6c32cc09851bb5f3f0820129c3e6f01188db8564b4149a87d2b2cd4a25a4f09d",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_82.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5198",
+    "beforeSHA256": "8ad58f53dfdb7be2d55bdf7e173669e6fce8333d2ff173105dd78eb6f7c2cc29",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_83.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5143",
+    "beforeSHA256": "488ad74b73bad61cd39bda65dfb37c9ea01602e4ec1c18f7a66bb79eb5653a8c",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_84.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5548",
+    "beforeSHA256": "648399cf6a0949d98a8c95a6c60518aa66a2e10d6eadc556112a229af8c9f5b1",
+    "afterSHA256": "e34116c36fb537411ae0fd1b0f65a95de7faead3bdc291e39876e0b3ed222934",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_85.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5146",
+    "beforeSHA256": "47624b87d05c336f2917f3f05fe785e4e76f25c1e1e952e48a867d23e8f58589",
+    "afterSHA256": "bde7fbc838a19ff01216aab8a89764aa2fbf3b3f8c663f00fa6e5ab78cd031b9",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_86.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5197",
+    "beforeSHA256": "576660c5ca03373cd57a4cf35eacaff32a55499412e138fdb5a1fe1d621c416a",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_87.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5154",
+    "beforeSHA256": "e1c73f27c74b5524e0a01928c9fba9bcb7b4540fc57e157c894ea950dc5a7b6d",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_88.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5191",
+    "beforeSHA256": "a158e2ef7a9952356395b51d7e094924c4ac133bc5133943c822c78ffb9cb4bf",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_89.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5349",
+    "beforeSHA256": "e8f8d5e1a481562d3acb5bc5b1de47e7d7bf1417a91e42ac6b7fe2e33790a620",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_9.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "fd1d1de8018244e4c97073475a52acda",
+    "originalTargetFileID": "553",
+    "beforeSHA256": "a5d14b525d01b99d74c6aa3c3b904234f7a94017243a25d8b96e90371d99e21f",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_90.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5141",
+    "beforeSHA256": "d9c3d6ba29f36385120be5fd55aa689ded15e3fd028b10e70a190a5ab544d8ff",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_91.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5138",
+    "beforeSHA256": "ecb7ef16124c36e4d1d7c05870ef1531a74ba0fa23556a3c524ef13a3e4afdcd",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_92.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5178",
+    "beforeSHA256": "fa23614add8a3e23ca2dd6c0bbe5095a4f7d9ee6131e49c02012c543b0c1c6f7",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_93.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5471",
+    "beforeSHA256": "05a78f28fa02584db19d1e788bbbe1aee27a3f70a08a5cdf3e3d165e48267345",
+    "afterSHA256": "7cc90e82b75b53ef3235518807c37656c9b4ca119758dfdff9477e96023b42ec",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_94.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5526",
+    "beforeSHA256": "1f3eb4d845a6031a43e53087de831cb9ed4718ff318fbe3228bbbcaae2d531b8",
+    "afterSHA256": "cc117a1da92aee881b986b50f3003da16ecd69791846ad13de1cd3c2f1c52a25",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_95.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5424",
+    "beforeSHA256": "1934a8ba91d3073710256af0cc0859a6696117073e7de23493cc3ac4c8063691",
+    "afterSHA256": "6cd4ba5daa3042ac4410d8ca01bc4df546bab16ab7a8a63c10297a857ec1abd3",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  },
+  {
+    "file": "Assets/MonoBehaviour/MonoBehaviour_96.asset",
+    "script": "LocalizeTarget_TextMeshPro_UGUI.cs.meta",
+    "originalTargetSceneGuid": "1ba3065b0a03df54e9e5d3b003266d03",
+    "originalTargetFileID": "5157",
+    "beforeSHA256": "35fedbd2e63677d57e5ed35d7690ca504d9a0f14bc2b4ab3b5e55ced5538e2d8",
+    "afterSHA256": "acdd6b7bec9055ef95e042011ed34224ab43bd2af0af0c6e68a6f46d5a332042",
+    "reason": "A standalone ScriptableObject asset cannot persist a scene component reference. I2 LocalizeTarget<T>.IsValid already rebinds a null mTarget via cmp.GetComponent<T>(); preserve the remaining localization settings."
+  }
+]

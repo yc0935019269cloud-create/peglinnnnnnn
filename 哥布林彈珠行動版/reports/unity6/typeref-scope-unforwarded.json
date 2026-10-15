@@ -1,0 +1,7 @@
+﻿{
+    "Dll":  "UnityEngine.Purchasing.dll",
+    "Type":  "UnityEngine.Analytics.AnalyticsResult",
+    "Scope":  "UnityEngine.UnityAnalyticsModule",
+    "Real":  "UnityEngine.UnityAnalyticsCommonModule",
+    "ScopeModuleExists":  true
+}

@@ -1,0 +1,41 @@
+{
+  "file": "E:\\NEWTEST\\哥布林彈珠行動版\\reports\\unity6\\editor-import-20261014-231754.log",
+  "bytes": 855014,
+  "lines": 6078,
+  "repeatedThreadWarnings": 0,
+  "firstThreadWarningContext": [],
+  "lastDistinctLines": [
+    "Dependency assembly - System.Reflection.DispatchProxy.dll",
+    "Dependency assembly - System.Security.Cryptography.Encryption.ECDiffieHellman.dll",
+    "Dependency assembly - UnityEngine.Purchasing.AppleCore.dll",
+    "Dependency assembly - System.Security.Cryptography.Csp.dll",
+    "Dependency assembly - System.Security.Cryptography.Hashing.Algorithms.dll",
+    "Dependency assembly - System.IO.UnmanagedMemoryStream.dll",
+    "Dependency assembly - System.Web.Extensions.dll",
+    "Dependency assembly - System.Xml.XDocument.dll",
+    "Dependency assembly - System.EnterpriseServices.dll",
+    "Dependency assembly - I18N.MidEast.dll",
+    "Dependency assembly - System.Data.Entity.dll",
+    "Dependency assembly - System.Security.Cryptography.Primitives.dll",
+    "Dependency assembly - Unity.RenderPipelines.Universal.Config.Runtime.dll",
+    ""
+  ],
+  "compilerErrors": [],
+  "lastImportedAssets": [
+    "Importing 'GUID: 7eaf1f07a03f62041a5046dff8ce4e14 - Path: Assets/Prefabs/Enemies/Plants/Sporeshroom.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: 8e2a66951c1e24147bd84707dfddcc09 - Path: Assets/Prefabs/Enemies/Material/Chandelier.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: aeabf2215c195064892d4f0d097fe63b - Path: Assets/Prefabs/Enemies/Humanoids/GoblinSapperMinion.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ee2f3cc99a244544e87d79bc58422ec5 - Path: Assets/Prefabs/Enemies/Eldritch/MinesInvisibleMinion.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: fe7a8552208826b46a6673f94c37fffe - Path: Assets/Prefabs/Enemies/Humanoids/DemonWallFodderEnemyContainer.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: 3f96fcde8cc61904faec00a0e3d44d9c - Path: Assets/Prefabs/Enemies/Plants/IndoorPlant.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: 6f03a92c671c8ca42aa2cfe7cec4415a - Path: Assets/Prefabs/Enemies/Slimes/RedSlimeEnemy.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: af7121567088beb468439674ca58ca82 - Path: Assets/Prefabs/Enemies/Humanoids/ShieldKnight_Variant_3.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: afb8c4756164e76439c65e6cb8a42f7e - Path: Assets/Prefabs/Enemies/Plants/Stump.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: bf45fec362785f94f9de9209fb1161e9 - Path: Assets/Prefabs/Enemies/Slimes/NoSwordVarients/SlobeliskResistances.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ef8ffce67a3b3354b992270b6d658de1 - Path: Assets/Prefabs/Enemies/Material/DebugDemonWallMiniboss.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ff8ddeaf17976694194bd9e619e01063 - Path: Assets/Prefabs/Enemies/Bats/Bat.prefab' with importer (PrefabImporter)"
+  ],
+  "buildErrors": [
+    "FileNotFoundException: Could not load file or assembly 'Unity.InternalAPIEngineBridge.004, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies."
+  ]
+}

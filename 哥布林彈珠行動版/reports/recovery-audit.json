@@ -1,0 +1,213 @@
+{
+  "project": "E:\\NEWTEST\\哥布林彈珠行動版\\RecoveredProject\\ExportedProject",
+  "unityVersion": "m_EditorVersion: 2022.3.62f2",
+  "assetFileCount": 36268,
+  "assetBytes": 507292207,
+  "extensionCounts": {
+    ".anim": 858,
+    ".asset": 10542,
+    ".bundle": 13,
+    ".bytes": 143,
+    ".controller": 362,
+    ".cs": 2221,
+    ".dll": 75,
+    ".json": 5,
+    ".lighting": 16,
+    ".mat": 93,
+    ".mixer": 6,
+    ".ogg": 314,
+    ".otf": 2,
+    ".overridecontroller": 27,
+    ".physicsmaterial2d": 26,
+    ".playable": 6,
+    ".png": 2264,
+    ".prefab": 1309,
+    ".shader": 85,
+    ".ttf": 19,
+    ".txt": 3,
+    ".unity": 18,
+    ".xml": 1
+  },
+  "scenes": [
+    {
+      "file": "Assets/Scenes/Battle.unity",
+      "bytes": 5046702,
+      "objects": 7559,
+      "gameObjects": 1707,
+      "monoBehaviours": 2658,
+      "externalScriptReferences": 2658
+    },
+    {
+      "file": "Assets/Scenes/CastleMap.unity",
+      "bytes": 6056360,
+      "objects": 2630,
+      "gameObjects": 730,
+      "monoBehaviours": 487,
+      "externalScriptReferences": 487
+    },
+    {
+      "file": "Assets/Scenes/CastleWinScene.unity",
+      "bytes": 1027412,
+      "objects": 1569,
+      "gameObjects": 344,
+      "monoBehaviours": 585,
+      "externalScriptReferences": 585
+    },
+    {
+      "file": "Assets/Scenes/CoreMap.unity",
+      "bytes": 2141342,
+      "objects": 1707,
+      "gameObjects": 433,
+      "monoBehaviours": 465,
+      "externalScriptReferences": 465
+    },
+    {
+      "file": "Assets/Scenes/CoreWinScene.unity",
+      "bytes": 820215,
+      "objects": 1035,
+      "gameObjects": 244,
+      "monoBehaviours": 301,
+      "externalScriptReferences": 301
+    },
+    {
+      "file": "Assets/Scenes/FinalWinScene.unity",
+      "bytes": 1044237,
+      "objects": 1602,
+      "gameObjects": 349,
+      "monoBehaviours": 603,
+      "externalScriptReferences": 603
+    },
+    {
+      "file": "Assets/Scenes/ForestMap.unity",
+      "bytes": 2397420,
+      "objects": 3031,
+      "gameObjects": 863,
+      "monoBehaviours": 513,
+      "externalScriptReferences": 513
+    },
+    {
+      "file": "Assets/Scenes/ForestWinScene.unity",
+      "bytes": 1129149,
+      "objects": 1724,
+      "gameObjects": 376,
+      "monoBehaviours": 644,
+      "externalScriptReferences": 644
+    },
+    {
+      "file": "Assets/Scenes/MainMenu.unity",
+      "bytes": 5552174,
+      "objects": 7832,
+      "gameObjects": 1742,
+      "monoBehaviours": 2858,
+      "externalScriptReferences": 2858
+    },
+    {
+      "file": "Assets/Scenes/MinesMap.unity",
+      "bytes": 3235341,
+      "objects": 3183,
+      "gameObjects": 848,
+      "monoBehaviours": 574,
+      "externalScriptReferences": 574
+    },
+    {
+      "file": "Assets/Scenes/PegMinigame.unity",
+      "bytes": 2105115,
+      "objects": 3208,
+      "gameObjects": 706,
+      "monoBehaviours": 1197,
+      "externalScriptReferences": 1197
+    },
+    {
+      "file": "Assets/Scenes/PostMainMenu.unity",
+      "bytes": 547646,
+      "objects": 855,
+      "gameObjects": 183,
+      "monoBehaviours": 326,
+      "externalScriptReferences": 326
+    },
+    {
+      "file": "Assets/Scenes/PreMainMenu.unity",
+      "bytes": 68603,
+      "objects": 113,
+      "gameObjects": 27,
+      "monoBehaviours": 36,
+      "externalScriptReferences": 36
+    },
+    {
+      "file": "Assets/Scenes/RunSummary.unity",
+      "bytes": 1011324,
+      "objects": 1448,
+      "gameObjects": 341,
+      "monoBehaviours": 494,
+      "externalScriptReferences": 494
+    },
+    {
+      "file": "Assets/Scenes/ShopScenario.unity",
+      "bytes": 3274411,
+      "objects": 4678,
+      "gameObjects": 1059,
+      "monoBehaviours": 1590,
+      "externalScriptReferences": 1590
+    },
+    {
+      "file": "Assets/Scenes/TextScenario.unity",
+      "bytes": 1951129,
+      "objects": 2946,
+      "gameObjects": 647,
+      "monoBehaviours": 1087,
+      "externalScriptReferences": 1087
+    },
+    {
+      "file": "Assets/Scenes/Treasure.unity",
+      "bytes": 4701487,
+      "objects": 6853,
+      "gameObjects": 1502,
+      "monoBehaviours": 2402,
+      "externalScriptReferences": 2402
+    },
+    {
+      "file": "Assets/Scenes/WinScene.unity",
+      "bytes": 995691,
+      "objects": 1429,
+      "gameObjects": 314,
+      "monoBehaviours": 536,
+      "externalScriptReferences": 536
+    }
+  ],
+  "guidCheckScope": "External GUID existence only. Does not validate referenced local fileIDs, field deserialization, shader rendering, or runtime scene loading.",
+  "yamlFilesScanned": 13188,
+  "missingGuidCount": 4,
+  "missingScriptReferenceCount": 1,
+  "zeroScriptFileCount": 1,
+  "duplicateGuidCount": 0,
+  "localPointerGapFileCount": 0,
+  "editorDisabledPluginCount": 75,
+  "dummyShaderCount": 85,
+  "metaWithoutAssetCount": 0,
+  "sourceUnchanged": true,
+  "changedSourceFiles": [],
+  "sourceRiskFileCounts": {
+    "steam_calls": 12,
+    "gog_calls": 0,
+    "addressables": 9,
+    "disk_io": 7,
+    "threads_tasks": 3,
+    "purchase_services": 2,
+    "touch_input": 9,
+    "native_imports": 1
+  },
+  "exportWarnings": [
+    "Export [Warning] : Unable to convert 'Silver SDF-ja-lfs Atlas' to bitmap",
+    "ExportProgress [Warning] : Failed to export 'Silver SDF-ja-lfs Atlas' (TextureExportCollection)",
+    "Export [Warning] : Unable to convert 'Silver SDF-ru Atlas' to bitmap",
+    "ExportProgress [Warning] : Failed to export 'Silver SDF-ru Atlas' (TextureExportCollection)",
+    "Import [Warning] : Resource file 'com.talecrafter.animationimporter.Editor.dll' hasn't been found",
+    "Import [Warning] : Assembly 'com.talecrafter.animationimporter.Editor' hasn't been found",
+    "Import [Warning] : Could not read MonoBehaviour structure for `AnimationImporter.AnimationImporterSharedConfig`. Reason: Script ID is invalid",
+    "Export [Warning] : Unable to convert 'Silver SDF-ja-lfs Atlas' to bitmap",
+    "ExportProgress [Warning] : Failed to export 'Silver SDF-ja-lfs Atlas' (TextureExportCollection)"
+  ],
+  "unityEditorImportTested": false,
+  "webglBuilt": false,
+  "browserRuntimeTested": false
+}

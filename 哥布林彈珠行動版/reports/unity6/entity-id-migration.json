@@ -1,0 +1,38 @@
+[
+  {
+    "file": "Assets/Scripts/Assembly-CSharp/DamageCountDisplay.cs",
+    "beforeSHA256": "238fdf08f7bd60ec1085236bb23f94343adfbeda78999c819d1cbddf3108ddd1",
+    "afterSHA256": "9083c7900970d308d53ada4cf872c33b6955db33589fcb6475f8185925418499",
+    "reason": "Unity 6000.6 disallows Object.GetInstanceID. Preserve object identity using EntityId; comparisons use CompareTo and queued display keys use EntityId.None sentinel."
+  },
+  {
+    "file": "Assets/Scripts/Assembly-CSharp/DragonPegLayoutSimulation.cs",
+    "beforeSHA256": "a6b29787c9e3540ded131e437ec81bb9a6700e5d383087bdbc40f8b449e241d7",
+    "afterSHA256": "e023a01e11debe492dd89425753d8747094bb95067855119c406f1471e6397a3",
+    "reason": "Unity 6000.6 disallows Object.GetInstanceID. Preserve object identity using EntityId; comparisons use CompareTo and queued display keys use EntityId.None sentinel."
+  },
+  {
+    "file": "Assets/Scripts/Assembly-CSharp/Battle/BattleController.cs",
+    "beforeSHA256": "235461cc3d33b80e13a4d6cf62a9359763616d7973d0db502dd1b2cfae5581b0",
+    "afterSHA256": "7ff1001a558ccbcc87cbf4d153e542c7b58be9bf70784e7c2828e7036b222321",
+    "reason": "Unity 6000.6 disallows Object.GetInstanceID. Preserve object identity using EntityId; comparisons use CompareTo and queued display keys use EntityId.None sentinel."
+  },
+  {
+    "file": "Assets/Scripts/Assembly-CSharp/Battle/PegManager.cs",
+    "beforeSHA256": "9d61280aeb0181ca46ceeb528dda5c807af99739188113d82215024fc955bd5e",
+    "afterSHA256": "3ead5f226c76647bec007d7d87ca09b813776dde2ff3a2f62d1ff986fd733acb",
+    "reason": "Unity 6000.6 disallows Object.GetInstanceID. Preserve object identity using EntityId; comparisons use CompareTo and queued display keys use EntityId.None sentinel."
+  },
+  {
+    "file": "Assets/Plugins/Assembly-CSharp-firstpass/PixelCrushers/DialogueSystem/TextMeshProTypewriterEffect.cs",
+    "beforeSHA256": "18425840455dfd5d9df3b6459e6533d56139dcd39422d52a476044a65f0a132c",
+    "afterSHA256": "5ded67800db4f609dfacb92813429feafa80a84ad2254343e82b76dde702da7f",
+    "reason": "Unity 6000.6 disallows Object.GetInstanceID. Preserve object identity using EntityId; comparisons use CompareTo and queued display keys use EntityId.None sentinel."
+  },
+  {
+    "file": "Assets/Plugins/Assembly-CSharp-firstpass/PixelCrushers/DialogueSystem/UnityUITypewriterEffect.cs",
+    "beforeSHA256": "3ec75985fe242513031b641bd9bb9babb9746ea1ea3cfdf8606eb6674ac61eb1",
+    "afterSHA256": "750328d86c07259c9e995dfc5113a88e860b3ac0129740f67e199f8fa05a381b",
+    "reason": "Unity 6000.6 disallows Object.GetInstanceID. Preserve object identity using EntityId; comparisons use CompareTo and queued display keys use EntityId.None sentinel."
+  }
+]

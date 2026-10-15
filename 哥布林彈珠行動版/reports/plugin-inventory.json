@@ -1,0 +1,381 @@
+{
+  "plugins": [
+    {
+      "file": "Assets/Plugins/AssetIcons.dll",
+      "bytes": 9728
+    },
+    {
+      "file": "Assets/Plugins/DemiLib.dll",
+      "bytes": 11264
+    },
+    {
+      "file": "Assets/Plugins/DOTween.dll",
+      "bytes": 163328
+    },
+    {
+      "file": "Assets/Plugins/DOTweenPro.dll",
+      "bytes": 15872
+    },
+    {
+      "file": "Assets/Plugins/Febucci.TextAnimator.Runtime.dll",
+      "bytes": 82944
+    },
+    {
+      "file": "Assets/Plugins/GalaxyCSharp.dll",
+      "bytes": 385024
+    },
+    {
+      "file": "Assets/Plugins/Google.Apis.Auth.dll",
+      "bytes": 212480
+    },
+    {
+      "file": "Assets/Plugins/Google.Apis.Auth.PlatformServices.dll",
+      "bytes": 5120
+    },
+    {
+      "file": "Assets/Plugins/Google.Apis.Core.dll",
+      "bytes": 80896
+    },
+    {
+      "file": "Assets/Plugins/Google.Apis.dll",
+      "bytes": 81920
+    },
+    {
+      "file": "Assets/Plugins/Google.Apis.PlatformServices.dll",
+      "bytes": 4608
+    },
+    {
+      "file": "Assets/Plugins/Google.Apis.Sheets.v4.dll",
+      "bytes": 222208
+    },
+    {
+      "file": "Assets/Plugins/MoreMountains.Tools.dll",
+      "bytes": 1460736
+    },
+    {
+      "file": "Assets/Plugins/NaughtyAttributes.Core.dll",
+      "bytes": 22528
+    },
+    {
+      "file": "Assets/Plugins/NaughtyAttributes.Test.dll",
+      "bytes": 27136
+    },
+    {
+      "file": "Assets/Plugins/Newtonsoft.Json.dll",
+      "bytes": 689664
+    },
+    {
+      "file": "Assets/Plugins/Peglin.OdinSerializer.dll",
+      "bytes": 391168
+    },
+    {
+      "file": "Assets/Plugins/Purchasing.Common.dll",
+      "bytes": 13824
+    },
+    {
+      "file": "Assets/Plugins/Rewired_Core.dll",
+      "bytes": 1948160
+    },
+    {
+      "file": "Assets/Plugins/Rewired_Windows.dll",
+      "bytes": 928256
+    },
+    {
+      "file": "Assets/Plugins/Rewired_Windows_Functions.dll",
+      "bytes": 5120
+    },
+    {
+      "file": "Assets/Plugins/System.Runtime.CompilerServices.Unsafe.dll",
+      "bytes": 1536
+    },
+    {
+      "file": "Assets/Plugins/UIEffect.dll",
+      "bytes": 44544
+    },
+    {
+      "file": "Assets/Plugins/Unity.2D.Common.Runtime.dll",
+      "bytes": 44544
+    },
+    {
+      "file": "Assets/Plugins/Unity.2D.SpriteShape.Runtime.dll",
+      "bytes": 105472
+    },
+    {
+      "file": "Assets/Plugins/Unity.Addressables.dll",
+      "bytes": 110592
+    },
+    {
+      "file": "Assets/Plugins/Unity.AI.Navigation.dll",
+      "bytes": 19968
+    },
+    {
+      "file": "Assets/Plugins/Unity.Burst.dll",
+      "bytes": 317440
+    },
+    {
+      "file": "Assets/Plugins/Unity.Burst.Unsafe.dll",
+      "bytes": 5632
+    },
+    {
+      "file": "Assets/Plugins/Unity.Collections.dll",
+      "bytes": 365056
+    },
+    {
+      "file": "Assets/Plugins/Unity.Collections.LowLevel.ILSupport.dll",
+      "bytes": 4096
+    },
+    {
+      "file": "Assets/Plugins/Unity.InternalAPIEngineBridge.001.dll",
+      "bytes": 6144
+    },
+    {
+      "file": "Assets/Plugins/Unity.Mathematics.dll",
+      "bytes": 741888
+    },
+    {
+      "file": "Assets/Plugins/Unity.MemoryProfiler.dll",
+      "bytes": 6144
+    },
+    {
+      "file": "Assets/Plugins/Unity.Postprocessing.Runtime.dll",
+      "bytes": 162816
+    },
+    {
+      "file": "Assets/Plugins/Unity.Profiling.Core.dll",
+      "bytes": 9728
+    },
+    {
+      "file": "Assets/Plugins/Unity.Recorder.Base.dll",
+      "bytes": 5120
+    },
+    {
+      "file": "Assets/Plugins/Unity.Recorder.dll",
+      "bytes": 6656
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "bytes": 8192
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+      "bytes": 528896
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "bytes": 4608
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "bytes": 4608
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.2D.Internal.dll",
+      "bytes": 5120
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+      "bytes": 5120
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+      "bytes": 761856
+    },
+    {
+      "file": "Assets/Plugins/Unity.RenderPipelines.Universal.Shaders.dll",
+      "bytes": 4608
+    },
+    {
+      "file": "Assets/Plugins/Unity.ResourceManager.dll",
+      "bytes": 143872
+    },
+    {
+      "file": "Assets/Plugins/Unity.ScriptableBuildPipeline.dll",
+      "bytes": 8704
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Analytics.dll",
+      "bytes": 5632
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Components.dll",
+      "bytes": 10752
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Configuration.dll",
+      "bytes": 14336
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Device.dll",
+      "bytes": 6656
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.dll",
+      "bytes": 16384
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Environments.dll",
+      "bytes": 5632
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Environments.Internal.dll",
+      "bytes": 5120
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Internal.dll",
+      "bytes": 74240
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Networking.dll",
+      "bytes": 8192
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Registration.dll",
+      "bytes": 18432
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Scheduler.dll",
+      "bytes": 12800
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Telemetry.dll",
+      "bytes": 8704
+    },
+    {
+      "file": "Assets/Plugins/Unity.Services.Core.Threading.dll",
+      "bytes": 7168
+    },
+    {
+      "file": "Assets/Plugins/Unity.TextMeshPro.dll",
+      "bytes": 379904
+    },
+    {
+      "file": "Assets/Plugins/Unity.Timeline.dll",
+      "bytes": 127488
+    },
+    {
+      "file": "Assets/Plugins/Unity.VisualEffectGraph.Runtime.dll",
+      "bytes": 100352
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.AppleCore.dll",
+      "bytes": 6144
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.AppleMacosStub.dll",
+      "bytes": 6144
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.AppleStub.dll",
+      "bytes": 6144
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.Codeless.dll",
+      "bytes": 23040
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.dll",
+      "bytes": 57856
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.SecurityCore.dll",
+      "bytes": 8704
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.SecurityStub.dll",
+      "bytes": 7168
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.Stores.dll",
+      "bytes": 202752
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.WinRTCore.dll",
+      "bytes": 7168
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.Purchasing.WinRTStub.dll",
+      "bytes": 5120
+    },
+    {
+      "file": "Assets/Plugins/UnityEngine.UI.dll",
+      "bytes": 264704
+    }
+  ],
+  "editorDisabled": [
+    "Assets/Plugins/AssetIcons.dll",
+    "Assets/Plugins/DemiLib.dll",
+    "Assets/Plugins/DOTween.dll",
+    "Assets/Plugins/DOTweenPro.dll",
+    "Assets/Plugins/Febucci.TextAnimator.Runtime.dll",
+    "Assets/Plugins/GalaxyCSharp.dll",
+    "Assets/Plugins/Google.Apis.Auth.dll",
+    "Assets/Plugins/Google.Apis.Auth.PlatformServices.dll",
+    "Assets/Plugins/Google.Apis.Core.dll",
+    "Assets/Plugins/Google.Apis.dll",
+    "Assets/Plugins/Google.Apis.PlatformServices.dll",
+    "Assets/Plugins/Google.Apis.Sheets.v4.dll",
+    "Assets/Plugins/MoreMountains.Tools.dll",
+    "Assets/Plugins/NaughtyAttributes.Core.dll",
+    "Assets/Plugins/NaughtyAttributes.Test.dll",
+    "Assets/Plugins/Newtonsoft.Json.dll",
+    "Assets/Plugins/Peglin.OdinSerializer.dll",
+    "Assets/Plugins/Purchasing.Common.dll",
+    "Assets/Plugins/Rewired_Core.dll",
+    "Assets/Plugins/Rewired_Windows.dll",
+    "Assets/Plugins/Rewired_Windows_Functions.dll",
+    "Assets/Plugins/System.Runtime.CompilerServices.Unsafe.dll",
+    "Assets/Plugins/UIEffect.dll",
+    "Assets/Plugins/Unity.2D.Common.Runtime.dll",
+    "Assets/Plugins/Unity.2D.SpriteShape.Runtime.dll",
+    "Assets/Plugins/Unity.Addressables.dll",
+    "Assets/Plugins/Unity.AI.Navigation.dll",
+    "Assets/Plugins/Unity.Burst.dll",
+    "Assets/Plugins/Unity.Burst.Unsafe.dll",
+    "Assets/Plugins/Unity.Collections.dll",
+    "Assets/Plugins/Unity.Collections.LowLevel.ILSupport.dll",
+    "Assets/Plugins/Unity.InternalAPIEngineBridge.001.dll",
+    "Assets/Plugins/Unity.Mathematics.dll",
+    "Assets/Plugins/Unity.MemoryProfiler.dll",
+    "Assets/Plugins/Unity.Postprocessing.Runtime.dll",
+    "Assets/Plugins/Unity.Profiling.Core.dll",
+    "Assets/Plugins/Unity.Recorder.Base.dll",
+    "Assets/Plugins/Unity.Recorder.dll",
+    "Assets/Plugins/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+    "Assets/Plugins/Unity.RenderPipelines.Core.Runtime.dll",
+    "Assets/Plugins/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+    "Assets/Plugins/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+    "Assets/Plugins/Unity.RenderPipelines.Universal.2D.Internal.dll",
+    "Assets/Plugins/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+    "Assets/Plugins/Unity.RenderPipelines.Universal.Runtime.dll",
+    "Assets/Plugins/Unity.RenderPipelines.Universal.Shaders.dll",
+    "Assets/Plugins/Unity.ResourceManager.dll",
+    "Assets/Plugins/Unity.ScriptableBuildPipeline.dll",
+    "Assets/Plugins/Unity.Services.Core.Analytics.dll",
+    "Assets/Plugins/Unity.Services.Core.Components.dll",
+    "Assets/Plugins/Unity.Services.Core.Configuration.dll",
+    "Assets/Plugins/Unity.Services.Core.Device.dll",
+    "Assets/Plugins/Unity.Services.Core.dll",
+    "Assets/Plugins/Unity.Services.Core.Environments.dll",
+    "Assets/Plugins/Unity.Services.Core.Environments.Internal.dll",
+    "Assets/Plugins/Unity.Services.Core.Internal.dll",
+    "Assets/Plugins/Unity.Services.Core.Networking.dll",
+    "Assets/Plugins/Unity.Services.Core.Registration.dll",
+    "Assets/Plugins/Unity.Services.Core.Scheduler.dll",
+    "Assets/Plugins/Unity.Services.Core.Telemetry.dll",
+    "Assets/Plugins/Unity.Services.Core.Threading.dll",
+    "Assets/Plugins/Unity.TextMeshPro.dll",
+    "Assets/Plugins/Unity.Timeline.dll",
+    "Assets/Plugins/Unity.VisualEffectGraph.Runtime.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.AppleCore.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.AppleMacosStub.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.AppleStub.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.Codeless.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.SecurityCore.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.SecurityStub.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.Stores.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.WinRTCore.dll",
+    "Assets/Plugins/UnityEngine.Purchasing.WinRTStub.dll",
+    "Assets/Plugins/UnityEngine.UI.dll"
+  ]
+}

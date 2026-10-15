@@ -1,0 +1,10 @@
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\UnityGUI\GUIButton.cs(119,11): warning CS0219: 已指派變數 'obj2'，但是從未使用過它的值
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\TextAnimatorSubtitlePanel.cs(37,6): warning CS0618: 'TextAnimator.IncreaseVisibleChars()' 已經過時: 'Please use 'maxVisibleCharacter++' instead.'
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\PlayerPrefsSavedGameDataStorer.cs(20,16): warning CS0649: 從未指派欄位 'PlayerPrefsSavedGameDataStorer.m_debug'，會持續使用其預設值 false
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\PositionSaver.cs(51,16): warning CS0649: 從未指派欄位 'PositionSaver.m_multiscene'，會持續使用其預設值 false
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\InstantiatePrefabs.cs(25,20): warning CS0649: 從未指派欄位 'InstantiatePrefabs.m_position'，會持續使用其預設值 
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\SelectorFollowTarget.cs(24,22): warning CS0649: 從未指派欄位 'SelectorFollowTarget.lastSelectionDrawn'，會持續使用其預設值 null
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\Steamworks\SteamNetworkingMessage_t.cs(22,19): warning CS0649: 從未指派欄位 'SteamNetworkingMessage_t.m_pfnFreeData'，會持續使用其預設值 
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\SequencerCommands\SequencerCommandAudioWaitOnce.cs(22,16): warning CS0649: 從未指派欄位 'SequencerCommandAudioWaitOnce._restoreOriginalClip'，會持續使用其預設值 false
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\Steamworks\SteamNetworkingMessage_t.cs(24,19): warning CS0649: 從未指派欄位 'SteamNetworkingMessage_t.m_pfnRelease'，會持續使用其預設值 
+哥布林彈珠行動版\RecoveredProject\ExportedProject\Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\UnityGUI\UnityGUIQuestLogWindow.cs(52,20): warning CS0649: 從未指派欄位 'UnityGUIQuestLogWindow.groupHeadingStyle'，會持續使用其預設值 null

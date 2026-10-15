@@ -1,0 +1,32 @@
+{
+  "guids": {
+    "7678f1b20d6bb00fa286bd78ee78b003": [
+      "Assets/Resources/animationimporter/AnimationImporterConfig.asset"
+    ],
+    "93986b8bf13b8f146a2d88679b02cf0d": [
+      "Assets/Material/Silver SDF-ja Material.mat",
+      "Assets/MonoBehaviour/Silver SDF-ja-lfs.asset"
+    ],
+    "ae032aa51933c38459b3a8ff10f40b19": [
+      "Assets/Material/Silver SDF-ru Material.mat",
+      "Assets/MonoBehaviour/Silver SDF-ru-lfs.asset"
+    ],
+    "b7876ab4d5fa8224a8e5e880daf26e8d": [
+      "Assets/Fonts/bin/Silver/Silver SDF-ja Material.mat",
+      "Assets/Fonts/bin/Silver/Silver SDF-ja-lfs.asset"
+    ]
+  },
+  "missingScriptReferences": [
+    {
+      "file": "Assets/Resources/animationimporter/AnimationImporterConfig.asset",
+      "guid": "7678f1b20d6bb00fa286bd78ee78b003",
+      "fileID": "1732859253"
+    }
+  ],
+  "zeroScriptFiles": [
+    "Assets/Resources/MM_6D_Shake.asset"
+  ],
+  "duplicateGuids": {},
+  "metaWithoutAssets": [],
+  "localPointerGaps": []
+}

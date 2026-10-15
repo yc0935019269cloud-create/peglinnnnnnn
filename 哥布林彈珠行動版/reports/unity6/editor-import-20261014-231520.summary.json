@@ -1,0 +1,41 @@
+{
+  "file": "E:\\NEWTEST\\哥布林彈珠行動版\\reports\\unity6\\editor-import-20261014-231520.log",
+  "bytes": 1079122,
+  "lines": 9625,
+  "repeatedThreadWarnings": 0,
+  "firstThreadWarningContext": [],
+  "lastDistinctLines": [
+    "Input Polling Thread exited.",
+    "Input System module state changed to: Shutdown.",
+    "[Licensing::IpcConnector] LicenseClient-USER-notifications channel disconnected successfully.",
+    "[Licensing::IpcConnector] LicenseClient-USER channel disconnected successfully.",
+    "Lingering sessions upon destruction of worker manager",
+    "Unity Data Store service was successfully shut down",
+    "UDS shutting down local client system",
+    "AcceleratorClientConnectionCallback - disconnected - :0",
+    "Cleanup mono",
+    "CodeReloadManager destroyed",
+    "Checking for leaked weakptr:",
+    "  Found no leaked weakptrs.",
+    "[Package Manager] Server process was shutdown",
+    "##utp:{\"type\":\"MemoryLeaks\",\"version\":2,\"phase\":\"Immediate\",\"time\":1791990973307,\"processId\":3076,\"allocatedMemory\":30806040,\"memoryLabels\":[{\"Default\":366679},{\"Permanent\":15516},{\"NewDelete\":80279},{\"Thread\":4198728},{\"Manager\":32541},{\"VertexData\":8},{\"Geometry\":816},{\"Texture\":24},{\"Shader\":841246},{\"Material\":132},{\"GfxDevice\":88288},{\"Animation\":1200},{\"FreeType\":8},{\"FontEngine\":736},{\"Physics\":1970},{\"Physics2D\":16},{\"Serialization\":1394080},{\"Input\":42840},{\"JobScheduler\":256},{\"TextLib\":280},{\"Mono\":48},{\"MonoCode\":704},{\"ScriptingNativeRuntime\":1263724},{\"BaseObject\":49360},{\"Resource\":1444},{\"Renderer\":2536},{\"Transform\":4685},{\"File\":7389},{\"WebCam\":616},{\"Culling\":32},{\"Terrain\":11442},{\"Wind\":24},{\"STL\":40},{\"String\":2109279},{\"StaticString\":3808},{\"Utility\":2674262},{\"Curl\":2579},{\"PoolAlloc\":2168},{\"AI\":80},{\"TypeTree\":17165},{\"ScriptManager\":12656},{\"CodeReload\":448},{\"RuntimeInitializeOnLoadManager\":64},{\"Sprites\":102},{\"SpriteAtlas\":120},{\"GI\":7816},{\"Director\":8048},{\"CloudService\":7152},{\"WebRequest\":632},{\"VR\":49650},{\"SceneManager\":608},{\"Video\":64},{\"LazyScriptCache\":32},{\"Camera\":729},{\"Secure\":2377},{\"SerializationCache\":9256},{\"APIUpdating\":10320},{\"Subsystems\":336},{\"VirtualTexturing\":57888},{\"StaticSafetyDebugInfo\":278528},{\"Analytics\":768},{\"Hierarchy\":1188},{\"UIElements\":40},{\"CoreStats\":14456},{\"Identifiers\":7152},{\"Gui\":128},{\"EditorUtility\":152440},{\"VersionControl\":8},{\"Undo\":931},{\"AssetDatabase\":18272447},{\"AssetImporter\":40},{\"EditorGi\":328},{\"UnityConnect\":40441},{\"Upm\":1912},{\"UpmDiagnostics\":8},{\"AssetCompliance\":96},{\"DrivenProperties\":72},{\"LocalIPC\":258},{\"ProfilerEditor\":9746},{\"CoreBusinessMetrics\":3618},{\"Windowing\":456},{\"Licensing\":12909},{\"AssetReference\":32},{\"IPCStream\":32}]}"
+  ],
+  "compilerErrors": [],
+  "lastImportedAssets": [
+    "Importing 'GUID: aeabf2215c195064892d4f0d097fe63b - Path: Assets/Prefabs/Enemies/Humanoids/GoblinSapperMinion.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ce78d370eb7941f45a5ae6118b456a01 - Path: Assets/Resources/DebugUIPersistentCanvas.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ee2f3cc99a244544e87d79bc58422ec5 - Path: Assets/Prefabs/Enemies/Eldritch/MinesInvisibleMinion.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: fe7a8552208826b46a6673f94c37fffe - Path: Assets/Prefabs/Enemies/Humanoids/DemonWallFodderEnemyContainer.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: 1f9fa69e13d69da42a3118940710414c - Path: Assets/GameObject/DebugUIVector2.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: 3f96fcde8cc61904faec00a0e3d44d9c - Path: Assets/Prefabs/Enemies/Plants/IndoorPlant.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: 6f03a92c671c8ca42aa2cfe7cec4415a - Path: Assets/Prefabs/Enemies/Slimes/RedSlimeEnemy.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: af7121567088beb468439674ca58ca82 - Path: Assets/Prefabs/Enemies/Humanoids/ShieldKnight_Variant_3.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: afb8c4756164e76439c65e6cb8a42f7e - Path: Assets/Prefabs/Enemies/Plants/Stump.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: bf45fec362785f94f9de9209fb1161e9 - Path: Assets/Prefabs/Enemies/Slimes/NoSwordVarients/SlobeliskResistances.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ef8ffce67a3b3354b992270b6d658de1 - Path: Assets/Prefabs/Enemies/Material/DebugDemonWallMiniboss.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ff8ddeaf17976694194bd9e619e01063 - Path: Assets/Prefabs/Enemies/Bats/Bat.prefab' with importer (PrefabImporter)"
+  ],
+  "buildErrors": [
+    "Exception: Platform smoke build failed: Failed"
+  ]
+}

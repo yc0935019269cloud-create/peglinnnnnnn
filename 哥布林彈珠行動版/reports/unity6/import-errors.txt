@@ -1,0 +1,4 @@
+Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\TextMeshProTypewriterEffect.cs(138,41): error CS0619: 'Object.GetInstanceID()' is obsolete: 'Use GetEntityId instead.'
+Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\TextMeshProTypewriterEffect.cs(138,9): error CS0619: 'Object.GetInstanceID()' is obsolete: 'Use GetEntityId instead.'
+Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\UnityUITypewriterEffect.cs(145,41): error CS0619: 'Object.GetInstanceID()' is obsolete: 'Use GetEntityId instead.'
+Assets\Plugins\Assembly-CSharp-firstpass\PixelCrushers\DialogueSystem\UnityUITypewriterEffect.cs(145,9): error CS0619: 'Object.GetInstanceID()' is obsolete: 'Use GetEntityId instead.'

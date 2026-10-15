@@ -1,0 +1,38 @@
+{
+  "file": "E:\\NEWTEST\\哥布林彈珠行動版\\reports\\unity6\\editor-import-20261014-223135.log",
+  "bytes": 5937068,
+  "lines": 28020,
+  "repeatedThreadWarnings": 0,
+  "firstThreadWarningContext": [],
+  "lastDistinctLines": [
+    "[Physics::Module] Id: 0xf2b8ea05",
+    "Input System module state changed to: ShutdownInProgress.",
+    "Input Polling Thread exited.",
+    "Input System module state changed to: Shutdown.",
+    "[Licensing::IpcConnector] LicenseClient-USER-notifications channel disconnected successfully.",
+    "[Licensing::IpcConnector] LicenseClient-USER channel disconnected successfully.",
+    "Lingering sessions upon destruction of worker manager",
+    "Unity Data Store service was successfully shut down",
+    "UDS shutting down local client system",
+    "AcceleratorClientConnectionCallback - disconnected - :0",
+    "Cleanup mono",
+    "CodeReloadManager destroyed",
+    "Exiting batchmode successfully now!",
+    "[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0"
+  ],
+  "compilerErrors": [],
+  "lastImportedAssets": [
+    "Importing 'GUID: dfaca34a891258d4a97fb4de7d96390f - Path: Assets/GameObject/LightningSlimeLineRenderer_0.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: dfdececd5021db14f855b3b2bf6acd1f - Path: Assets/GameObject/Ballestra-Lvl2.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ef50c0344606ded438525dd1ff6a3680 - Path: Assets/Resources/prefabs/ShieldedPeg.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: efb2b3e543db1b24e84ddacc0fde294b - Path: Assets/GameObject/PupilOrb-Lvl3.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: efc3e5f6aacf60d439b079e7041ffdcd - Path: Assets/Resources_moved/Prefabs/Orbs/PotionBallt-Lvl2.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ef19b2e56685ec941a4fbfd105f2b67a - Path: Assets/GameObject/GiantBrickSlime.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ef8ffce67a3b3354b992270b6d658de1 - Path: Assets/Prefabs/Enemies/Material/DebugDemonWallMiniboss.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ffd002f7b3b66764ab61995a885855fd - Path: Assets/Resources_moved/Prefabs/Orbs/Protectorb-Lvl1.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ffb53e3839a96f9478012ece6946ffbf - Path: Assets/Prefabs/Enemies/Beasts/SpiderWebProjectile.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ffc9a6b67048d814ca8212e89e132f29 - Path: Assets/Resources_moved/Prefabs/Orbs/DoubleTrouball-Lvl3.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ff8ddeaf17976694194bd9e619e01063 - Path: Assets/Prefabs/Enemies/Bats/Bat.prefab' with importer (PrefabImporter)",
+    "Importing 'GUID: ffbdb338834475b46bead2450a7e223c - Path: Assets/Resources_moved/Prefabs/Orbs/Lazorb-Lvl3.prefab' with importer (PrefabImporter)"
+  ]
+}

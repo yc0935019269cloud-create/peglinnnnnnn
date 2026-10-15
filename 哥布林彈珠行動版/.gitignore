@@ -1,0 +1,12 @@
+# Private repo: the recovered game project, Unity working copy and playable Web build are tracked.
+# Not tracked:
+# - third-party tool downloads (re-downloadable, see README)
+tools/
+# - raw Unity/AssetRipper logs (hundreds of MB; bounded *.summary.json are kept)
+reports/unity6/*.log
+reports/*.log
+reports/*.pid
+# - verbatim copy of the Steam Windows Addressables (one bundle is 105.7 MB > GitHub's 100 MB limit;
+#   the Web port rebuilds its own bundles, and the originals are in the Steam install)
+**/StreamingAssets/aa/StandaloneWindows64/
+__pycache__/

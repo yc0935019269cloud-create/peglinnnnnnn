@@ -1,0 +1,29 @@
+{
+  "file": "E:\\NEWTEST\\哥布林彈珠行動版\\reports\\unity6\\editor-import-20261014-231502.log",
+  "bytes": 668701,
+  "lines": 5085,
+  "repeatedThreadWarnings": 0,
+  "firstThreadWarningContext": [],
+  "lastDistinctLines": [
+    "Assets\\Scripts\\Assembly-CSharp\\Rewired\\UI\\ControlMapper\\ControlMapper.cs(873,19): warning CS0649: Field 'ControlMapper.References._assignControllerButton' is never assigned to, and will always have its default value null",
+    "Assets\\Scripts\\Assembly-CSharp\\Loading\\AssetLoading.cs(22,41): warning UAC1015: Field 'OrbPrefabs' is a dictionary type 'System.Collections.Generic.Dictionary<string, UnityEngine.GameObject>' but is missing [SerializeField]. Unity's dictionary serialization backend skips dictionary fields without [SerializeField], even when the field is public. Add [SerializeField] to serialize this field, or [NonSerialized] to make the intent explicit. Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/Manual/script-serialization-analyzer.html#uac1015)",
+    "Assets\\Scripts\\Assembly-CSharp\\Loading\\AssetLoading.cs(24,41): warning UAC1015: Field 'EnemyPrefabs' is a dictionary type 'System.Collections.Generic.Dictionary<string, UnityEngine.GameObject>' but is missing [SerializeField]. Unity's dictionary serialization backend skips dictionary fields without [SerializeField], even when the field is public. Add [SerializeField] to serialize this field, or [NonSerialized] to make the intent explicit. Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/Manual/script-serialization-analyzer.html#uac1015)",
+    "Assets\\Scripts\\Assembly-CSharp\\Loading\\AssetLoading.cs(26,58): warning UAC1015: Field 'PegLayouts' is a dictionary type 'System.Collections.Generic.Dictionary<string, PegboardParser.PegboardData>' but is missing [SerializeField]. Unity's dictionary serialization backend skips dictionary fields without [SerializeField], even when the field is public. Add [SerializeField] to serialize this field, or [NonSerialized] to make the intent explicit. Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/Manual/script-serialization-analyzer.html#uac1015)",
+    "Assets\\Scripts\\Assembly-CSharp\\Loading\\AssetLoading.cs(30,40): warning UAC1015: Field 'EnemyDataTable' is a dictionary type 'System.Collections.Generic.Dictionary<string, Battle.Enemies.EnemyData>' but is missing [SerializeField]. Unity's dictionary serialization backend skips dictionary fields without [SerializeField], even when the field is public. Add [SerializeField] to serialize this field, or [NonSerialized] to make the intent explicit. Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/Manual/script-serialization-analyzer.html#uac1015)",
+    "Assets\\Scripts\\Assembly-CSharp\\Worldmap\\MapNode.cs(188,28): warning UAC1001: Field 'seededNodeData' type 'Map.SeededMapNodeData' is skipped by serialization (missing the [Serializable] attribute). Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/6000.6/Documentation/Manual/script-serialization-analyzer.html#uac1001)",
+    "Assets\\Scripts\\Assembly-CSharp\\PeglinUI\\LoadoutManager\\LoadoutEditorOrbs.cs(20,31): warning UAC1001: Field 'selectedStartingOrbs' type 'PeglinUI.LoadoutManager.LoadoutOrbData' is skipped by serialization (missing the [Serializable] attribute). Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/6000.6/Documentation/Manual/script-serialization-analyzer.html#uac1001)",
+    "Assets\\Scripts\\Assembly-CSharp\\ChangePotentialMapDataBasedOnCruciball.cs(17,27): warning UAC1001: Field 'seededMapNodeData' type 'Map.SeededMapNodeData' is skipped by serialization (missing the [Serializable] attribute). Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/6000.6/Documentation/Manual/script-serialization-analyzer.html#uac1001)",
+    "Assets\\Scripts\\Assembly-CSharp\\MapDataPegMinigame.cs(15,22): warning UAC1001: Field 'Rewards' type 'Peglin.PegMinigame.Reward' is skipped by serialization (missing the [Serializable] attribute). Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/6000.6/Documentation/Manual/script-serialization-analyzer.html#uac1001)",
+    "Assets\\Scripts\\Assembly-CSharp\\Battle\\PostBattleController.cs(74,31): warning UAC1001: Field 'seededBattleData' type 'Map.SeededBattleNodeData' is skipped by serialization (missing the [Serializable] attribute). Refer to the Serialization rules analyzer reference. (https://docs.unity3d.com/6000.6/Documentation/Manual/script-serialization-analyzer.html#uac1001)",
+    "Assets\\Scripts\\Assembly-CSharp\\DG\\Tweening\\DOTweenModuleUtils.cs(64,4): warning UAC0005: AppDomain.GetAssemblies() in Unity may return already unloaded assemblies and result in errors or leaks. Use Unity APIs instead, such as 'CurrentAssemblies.GetLoadedAssemblies()' or 'TypeCache.GetTypesDerivedFrom()'.",
+    "AssetDatabase: script compilation time: 7.025700s",
+    "Scripts have compiler errors.",
+    "[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 1"
+  ],
+  "compilerErrors": [
+    "Assets\\Scripts\\Assembly-CSharp\\Rewired\\Integration\\UnityUI\\RewiredStandaloneInputModule.cs(586,4): error CS0619: 'TouchInputModule' is obsolete: 'TouchInputModule is no longer required as Touch input is now handled in StandaloneInputModule.'",
+    "Assets\\Scripts\\Assembly-CSharp\\Rewired\\Integration\\UnityUI\\RewiredStandaloneInputModule.cs(586,46): error CS0619: 'TouchInputModule' is obsolete: 'TouchInputModule is no longer required as Touch input is now handled in StandaloneInputModule.'"
+  ],
+  "lastImportedAssets": [],
+  "buildErrors": []
+}
