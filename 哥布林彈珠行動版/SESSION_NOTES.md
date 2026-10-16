@@ -316,3 +316,10 @@
 - 瀏覽器實測 DOM：424x608 與 1280x720 畫布均為 (0,0,viewportWidth,viewportHeight)，無頁面溢出或 footer；可進入 Unity 資源預載。這次未重建 Unity，未驗證實體 iPhone 載入重啟問題。
 - 使用 100dvh 因應視窗高度；填滿網頁視窗不等於能自動隱藏瀏覽器網址列。遊戲相機內的比例留黑由原遊戲控制，避免裁切 UI。
 - 補充驗證：1280x720 實際進入繁體主選單，截圖 Reports/full-window-20261016.png；只有既有 ServicesCore 設定檔錯誤。已推送 a4a736ba，線上網址回傳新版滿版 HTML。
+
+## 2026-10-16｜iPad Chrome 黑畫面但音訊持續：限定平台緩解
+
+- 使用者確認：未切換 App 即自行黑畫面，但音訊持續；Safari 已可正常玩，Samsung 平板與電腦也正常。尚無 iPad WebGL/GPU crash 記錄，不能宣稱已找到根因。
+- WebRelease 與 FullWindow 範本：只對 iPad Chrome (CriOS + iPad/觸控 Mac UA) 設 devicePixelRatio <=1，依最長螢幕邊將內部繪圖長邊目標限制 1280；CSS 仍滿版。Safari、Android、桌機維持原解析度。原理依 Unity Web canvas size 文件與本機 SystemInfo.js 的 Module.devicePixelRatio 支援。
+- WebGL context lost 時顯示中斷提示，不自動重載、不清除存檔、不假裝已恢復。提示可能失去未儲存進度。
+- Node VM 執行實際網頁 JS：iPad Chrome 與 desktop-mode iPad Chrome 限制生效；iPad Safari、Samsung Chrome、Windows Chrome 不變；context-lost 提示分支通過。尚待使用者實體 iPad Chrome 驗證是否停止黑屏；這是降低渲染壓力的緩解，不是已證實根因修復。

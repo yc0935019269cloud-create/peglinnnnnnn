@@ -45,6 +45,21 @@ const config = {
   matchWebGLToCanvasSize: true,
   showBanner: showBanner
 };
+// iPad Chrome can advertise a desktop Mac user agent; include touch-capable Macs.
+// Keep Safari, Android and desktop rendering unchanged.
+const ipadChrome = /CriOS\//.test(navigator.userAgent) &&
+  (/iPad/.test(navigator.userAgent) ||
+   (/Macintosh|MacIntel/.test(navigator.userAgent + " " + navigator.platform) && navigator.maxTouchPoints > 1));
+if (ipadChrome) {
+  // Preserve the full-window CSS surface while bounding the GPU drawing buffer.
+  // Use the larger screen side so rotating does not raise the pixel budget.
+  const longestSide = Math.max(screen.width, screen.height, innerWidth, innerHeight, 1);
+  config.devicePixelRatio = Math.min(1, 1280 / longestSide);
+}
+canvas.addEventListener("webglcontextlost", () => {
+  showBanner("遊戲畫面已中斷（WebGL）。請重新整理，或改用 Safari 繼續遊玩；尚未存檔的進度可能遺失。", "error");
+  console.error("[WebDisplay] WebGL context lost");
+});
 // Keep the render surface responsive without forcing a browser fullscreen request.
 const script = document.createElement("script");
 script.src = "Build/WebRelease.loader.js";
