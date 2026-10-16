@@ -315,3 +315,4 @@
 - 新增 Assets/WebGLTemplates/FullWindow，BuildWeb 與 BuildWebRelease 均選 PROJECT:FullWindow，後續建置保留外觀。既有 wasm、資料檔與存檔識別不變。
 - 瀏覽器實測 DOM：424x608 與 1280x720 畫布均為 (0,0,viewportWidth,viewportHeight)，無頁面溢出或 footer；可進入 Unity 資源預載。這次未重建 Unity，未驗證實體 iPhone 載入重啟問題。
 - 使用 100dvh 因應視窗高度；填滿網頁視窗不等於能自動隱藏瀏覽器網址列。遊戲相機內的比例留黑由原遊戲控制，避免裁切 UI。
+- 補充驗證：1280x720 實際進入繁體主選單，截圖 Reports/full-window-20261016.png；只有既有 ServicesCore 設定檔錯誤。已推送 a4a736ba，線上網址回傳新版滿版 HTML。
