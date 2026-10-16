@@ -1,0 +1,8 @@
+PASS round RESET callback=peg-first
+PASS round RESET callback=orb-first (legacy failure reproduced)
+PASS round CRIT callback=peg-first
+PASS round CRIT callback=orb-first (legacy failure reproduced)
+PASS long RESET callback=peg-first
+PASS long RESET callback=orb-first (legacy failure reproduced)
+PASS long CRIT callback=peg-first
+PASS long CRIT callback=orb-first (legacy failure reproduced)

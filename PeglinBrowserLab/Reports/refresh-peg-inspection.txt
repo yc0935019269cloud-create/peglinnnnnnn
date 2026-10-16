@@ -1,0 +1,22 @@
+Assets/Prefabs/RegularPeg.prefab
+_regularSprite=Assets/Art/BoardElements/greypeg.asset
+ texture=greypeg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+_resetSprite=Assets/Art/BoardElements/Refresh Peg.asset
+ texture=Refresh Peg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+_persistantResetSprite=Assets/Art/BoardElements/persistentRefreshPeg.asset
+ texture=persistentRefreshPeg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+Assets/Prefabs/RegularPegMovable.prefab
+_regularSprite=Assets/Art/BoardElements/greypeg.asset
+ texture=greypeg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+_resetSprite=Assets/Art/BoardElements/Refresh Peg.asset
+ texture=Refresh Peg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+_persistantResetSprite=Assets/Art/BoardElements/persistentRefreshPeg.asset
+ texture=persistentRefreshPeg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+Assets/Resources_moved/Prefabs/FlickerPeg.prefab
+_regularSprite=Assets/Art/BoardElements/greypeg.asset
+ texture=greypeg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+_resetSprite=Assets/Art/BoardElements/Refresh Peg.asset
+ texture=Refresh Peg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+_persistantResetSprite=Assets/Art/BoardElements/persistentRefreshPeg.asset
+ texture=persistentRefreshPeg bounds=Center: (0.00, 0.00, 0.00), Extents: (0.25, 0.25, 0.10) uv=(0.000, 1.000);(1.000, 1.000);(0.000, 0.000);(1.000, 0.000)
+Assets/Prefabs/LongPeg.prefab

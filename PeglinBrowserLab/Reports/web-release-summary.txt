@@ -1,4 +1,4 @@
 result=Succeeded
 errors=0
-bytes=79511665
+bytes=79496431
 scope=Release (non-development) web build of the port for local play testing.

@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using I2.Loc;
 using UnityEngine;
 
@@ -77,14 +78,46 @@ namespace Battle.Pachinko.BallBehaviours
 			}
 			else if (convertTo == Peg.PegType.CRIT || convertTo == Peg.PegType.RESET)
 			{
-				peg.ConvertPegToType(convertTo);
-				peg.SetIsBonusSpecialPeg(newIsBonusSpecialPeg: true);
-				Peg.OnPegTypeConverted?.Invoke(convertTo, peg.GetCenterOfPeg());
+				// Both the orb and the peg receive this physics contact. Converting here
+				// lets the same contact consume the new special peg, or leaves its pop
+				// animation running over the replacement sprite. Finish the hit first.
+				peg.StartCoroutine(ConvertSpecialPegAfterHit(peg, convertTo));
 			}
 			else
 			{
 				peg.ConvertPegToType(convertTo);
 				Peg.OnPegTypeConverted?.Invoke(convertTo, peg.GetCenterOfPeg());
+			}
+		}
+
+		private static IEnumerator ConvertSpecialPegAfterHit(Peg peg, Peg.PegType type)
+		{
+			yield return null;
+			if (peg == null || !peg.gameObject.activeInHierarchy || peg.pegType == Peg.PegType.DESTROYED ||
+				peg.pegType == Peg.PegType.RESET || peg.pegType == Peg.PegType.CRIT || peg.isBonusSpecialPeg)
+			{
+				yield break;
+			}
+			// A long peg can now be in its delayed-death state, which temporarily
+			// rejects conversion. Restore the peg hit by this shot before converting.
+			if (peg is LongPeg longPeg)
+			{
+				longPeg.ManuallyEndHit();
+				longPeg.Reset();
+				longPeg.HardReset();
+				GameObject.FindWithTag("GameController")?.GetComponent<BattleController>()?.pegManager?.delayedDeathPegs.Remove(longPeg);
+			}
+			else
+			{
+				if (!peg.SupportsPegType(type)) yield break;
+				peg.Reset();
+			}
+			if (!peg.SupportsPegType(type)) yield break;
+			peg.ConvertPegToType(type);
+			if (peg.pegType == type)
+			{
+				peg.SetIsBonusSpecialPeg(newIsBonusSpecialPeg: true);
+				Peg.OnPegTypeConverted?.Invoke(type, peg.GetCenterOfPeg());
 			}
 		}
 	}

@@ -333,3 +333,18 @@
 - 內容：devicePixelRatio=1、繪圖緩衝長邊上限 1280（延後 250ms 合併連續尺寸變化）、preserveDrawingBuffer＋low-power、停用元素 requestFullscreen（桌面版互動時會要求全螢幕，疑為 WKWebView 畫布變黑的觸發點之一）、context lost 顯示提示。
 - 桌機 Edge 以 ?display=ipad-chrome 實測：進入繁體主選單；模擬 1800x1000 DPR2 時繪圖緩衝 1280x711、CSS 1800x1000，觸控點「新的遊戲」正確進入角色選擇畫面（座標縮放正確）；requestFullscreen 已被停用。
 - 未驗證：實體 iPad Chrome 是否停止黑屏。根因（GPU 記憶體、全螢幕切換或其他）尚未證實，這仍是緩解而非確認修復。若仍黑屏，下一步需 iPad 的錯誤畫面文字（是否出現「顯示-01」）。
+
+## 2026-10-17｜刷新彈珠命中轉換修復與建置發布
+- 使用者優先順序：先修刷新彈珠，驗證並重建後直接推 GitHub，再處理敘述問題。現象為城堡城牆魔王，發射後撞釘冒特效但沒有綠色 R；為 ConvertHitPegs 的 Refreshiball 命中轉換時序與消除動畫問題。
+- 根因分析：
+  1. 命中事件（ConvertHitPegs）與釘子本身碰撞結算在同一幀執行，即時轉換會被同一次碰撞結算消耗掉，或被未完成的彈珠縮放／消除動畫（DOTween Sequence）覆蓋圖片。
+  2. 長條釘子（LongPeg）被命中後會進入 delayedDeathPegs 與持續接觸狀態（_beingHit），若在此期間嘗試轉換會被拒絕或維持延遲死亡。
+  3. 普通釘子（RegularPeg）在播放消除動畫時，若未取消 sequence，動畫結束（OnDestroyAnimationEnded）會無條件將圖片強制設為 _destroyedSprite，即使該釘子已成功轉換為 RESET/CRIT 特殊釘。
+- 修正項目：
+  1. `ConvertHitPegs.cs`：命中特殊釘轉換（RESET/CRIT）改為協程延後到碰撞結算後（下一幀）執行。針對 LongPeg 清除 _beingHit、delayedDeathPegs 並執行 HardReset；轉換成功後才觸發特效。
+  2. `RegularPeg.cs`：在 ConvertPegToType 與 ResetRendererStatus 中徹底終止並清理 _destructionSequence 與 transform scale 補間；在 OnDestroyAnimationEnded 中加入防護，若當前 pegType 為 RESET/CRIT 或 bonus 釘，不得覆蓋為 destroyedSprite。
+- 回歸驗證（RefreshPegProbe.Validate）：
+  - 8 項全數 PASS（round/long pegs、RESET/CRIT、peg-first/orb-first 命中回調順序、消除動畫覆蓋防護、已銷毀釘子不復活；見 Reports/refresh-peg-regression.txt）。
+- 正式發布建置（WebPortSetup.BuildWebRelease）：
+  - 成功輸出至 PeglinBrowserLab/Builds/WebRelease（79.5 MB，errors=0，PROJECT:FullWindow 黑色滿版範本，gzip 壓縮支援靜態伺服器）。
+- 推送至 GitHub（main 分支），觸發 GitHub Actions 自動部署至 GitHub Pages。
