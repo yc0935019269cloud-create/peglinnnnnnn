@@ -23,13 +23,30 @@ namespace Battle.Attacks.AttackBehaviours
 		public void AffectEnemy(Enemy enemy, RelicManager rm, int critCount)
 		{
 			int num = intensity;
-			if (isCritThresholdCumulative && critCountThreshold > 0)
+			if (type == StatusEffectType.Poison)
 			{
-				num += critCount / critCountThreshold * critAddIntensity;
+				if (critCount > 0 && critCount >= critCountThreshold)
+				{
+					if (isCritThresholdCumulative && critCountThreshold > 0)
+					{
+						num = intensity * (1 + (critCount / critCountThreshold));
+					}
+					else
+					{
+						num = intensity * 2;
+					}
+				}
 			}
-			else if (critCountThreshold <= critCount)
+			else
 			{
-				num += critAddIntensity;
+				if (isCritThresholdCumulative && critCountThreshold > 0)
+				{
+					num += critCount / critCountThreshold * critAddIntensity;
+				}
+				else if (critCountThreshold <= critCount)
+				{
+					num += critAddIntensity;
+				}
 			}
 			enemy.ApplyStatusEffect(new StatusEffect(type, num), StatusEffectSource.PLAYER);
 		}

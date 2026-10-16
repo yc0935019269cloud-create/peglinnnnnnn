@@ -6,7 +6,8 @@ namespace Battle.Enemies
 	{
 		public void DoExtraTurnBehavior(Enemy enemy)
 		{
-			enemy.ResolveStatusEffects();
+			// Disabled to prevent double decay of status effects (e.g. Spinfection) when moving/attacking in the same turn.
+			// Status effects are already resolved once per round in EnemyManager.ResolveStatusEffects().
 		}
 	}
 }

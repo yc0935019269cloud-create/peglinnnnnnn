@@ -10241,8 +10241,8 @@ MonoBehaviour:
       - Applica <style=poison>Malasfera{[STATUS_EFFECT_CRIT_ADD]}</style> in più al colpo critico
       - Em um ataque crítico, aplica <style=poison>Boluição {[STATUS_EFFECT_CRIT_ADD]}</style> adicional.
       - Крит дополнительно накладывает <style=poison>{[STATUS_EFFECT_CRIT_ADD]} заражария</style>
-      - 如果暴击则额外施加 {[STATUS_EFFECT_AMOUNT]} 层<style=poison>剧毒</style>
-      - 如果暴擊則額外施加 {[STATUS_EFFECT_AMOUNT]} 層<style=poison>感染</style>
+      - 如果暴击则额外施加 {[STATUS_EFFECT_CRIT_ADD]} 层<style=poison>剧毒</style>
+      - 如果暴擊則額外施加 {[STATUS_EFFECT_CRIT_ADD]} 層<style=poison>感染</style>
       - "クリティカル時：\n追加で『<style=poison>猛毒</style>:{[STATUS_EFFECT_CRIT_ADD]}』"
       - 치명타는 추가 <style=poison>감염{[STATUS_EFFECT_CRIT_ADD]}</style>을 적용합니다.
       - 

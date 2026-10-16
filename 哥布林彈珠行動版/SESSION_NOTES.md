@@ -348,3 +348,23 @@
 - 正式發布建置（WebPortSetup.BuildWebRelease）：
   - 成功輸出至 PeglinBrowserLab/Builds/WebRelease（79.5 MB，errors=0，PROJECT:FullWindow 黑色滿版範本，gzip 壓縮支援靜態伺服器）。
 - 推送至 GitHub（main 分支），觸發 GitHub Actions 自動部署至 GitHub Pages。
+
+## 2026-10-17｜感染系列彈珠暴擊雙倍層數修復與史萊姆魔王額外掉層修復
+- 使用者回報需求：
+  1. 感染系列彈珠（髒鬼彈珠 Cauldron Bubball、野薊彈珠 PoisonOrb、苦痛與磨難彈珠 ToilAndTrouball 等）要求在暴擊時獲得雙倍感染層數（例如 3 等髒鬼基礎 3 層，暴擊應疊 6 層）。
+  2. 第一層史萊姆 BOSS（Forest Slime Boss）移動時會一次掉 2 層感染，要求修復。
+- 根因分析：
+  1. 彈珠層數問題：原版繁簡中文在 `Assets/Resources/I2Languages.asset` 的 `Orbs/applies_poison_crit_add` 誤植變數為 `{[STATUS_EFFECT_AMOUNT]}`（基礎層數）而非 `{[STATUS_EFFECT_CRIT_ADD]}`，導致中文敘述顯示「額外施加基礎層數」，讓玩家預期為雙倍（3+3=6），但戰鬥代碼 `AddStatusEffectOnHit` 僅按固定暴擊增量加 1（3+1=4）。
+  2. 史萊姆魔王掉層問題：`SlimeBossPrefab` 帶有全遊戲唯一的 `TriggerStatusEffectsOnExtraTurn` 組件。在回合開始時 `EnemyManager.ResolveStatusEffects()` 已結算並衰減 1 層；魔王移動時 `WalkEnemy.DoMoveAndShootAttack()` 又透過額外行動觸發器二次呼叫 `ResolveStatusEffects()`，導致在同一個大回合中被衰減 2 次。
+- 修正內容：
+  1. `AddStatusEffectOnHit.cs`：當狀態為 `StatusEffectType.Poison` 且命中暴擊（`critCount >= critCountThreshold`）時，層數強制按雙倍計算（`intensity * 2`，若為累計暴擊則依門檻倍增），實現使用者要求的「暴擊雙倍層數」。
+  2. `PoisonAttack.cs`：同步將暴擊時的 poison intensity 倍增為 `PoisonIntensity * 2`。
+  3. `LocalizationParamsManager.cs`：在取得 `STATUS_EFFECT_CRIT_ADD` 時，針對 Poison 彈珠動態回傳 `intensity.ToString()`，`STATUS_EFFECT_CRIT_AMOUNT` 回傳 `(intensity * 2).ToString()`，確保所有語言面板數值完全一致。
+  4. `I2Languages.asset`：將 `Orbs/applies_poison_crit_add` 繁簡中文變數修正為 `{[STATUS_EFFECT_CRIT_ADD]}`，與其他語系一致。
+  5. 彈珠 Prefabs：更新 `Assets/GameObject/` 與 `Assets/Resources_moved/Prefabs/Orbs/` 下的 CauldronBubball、PoisonOrb、ToilAndTrouball 各等級 prefab，序列化之 `critAddIntensity` 與 `STATUS_EFFECT_CRIT_ADD` 設為與基礎 intensity 相等，`STATUS_EFFECT_CRIT_AMOUNT` 設為雙倍值。
+  6. `TriggerStatusEffectsOnExtraTurn.cs`：排空 `DoExtraTurnBehavior()`，移除移動時的重複狀態結算，使史萊姆魔王每大回合僅正常結算衰減 1 次。
+- 回歸驗證：
+  - 新增 `SpinfectionProbe.cs`：全數驗證通過（CauldronBubball-Lv3 基礎 3、暴擊 6；PoisonOrb-Lv3 基礎 5、暴擊 10；Slime Boss 移動不重複衰減；Reports/spinfection-regression.txt）。
+  - 同時重跑 `RefreshPegProbe.cs`：全數 PASS。
+- 發布建置：
+  - `WebPortSetup.BuildWebRelease` 輸出至 `PeglinBrowserLab/Builds/WebRelease`，並推送至 GitHub main 分支。

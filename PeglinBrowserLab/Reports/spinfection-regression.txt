@@ -1,0 +1,6 @@
+Starting Spinfection & Slime Boss regression validation...
+PASS: CauldronBubball-Lv3 parameter validation (base=3, critAdd=3, critTotal=6)
+PASS: CauldronBubball-Lv3 non-crit hit applies 3 Spinfection stacks
+PASS: CauldronBubball-Lv3 crit hit applies 6 Spinfection stacks (2x base)
+PASS: PoisonOrb-Lv3 crit hit applies 10 Spinfection stacks (2x base)
+PASS: Slime Boss TriggerStatusEffectsOnExtraTurn does not cause duplicate decay

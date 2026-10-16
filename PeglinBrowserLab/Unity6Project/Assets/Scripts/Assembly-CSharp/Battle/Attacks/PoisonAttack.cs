@@ -16,7 +16,8 @@ namespace Battle.Attacks
 		public override List<StatusEffect> GetStatusEffects(int critCount)
 		{
 			List<StatusEffect> statusEffects = base.GetStatusEffects(critCount);
-			statusEffects.Add(new StatusEffect(StatusEffectType.Poison, PoisonIntensity));
+			int num = (critCount > 0) ? (PoisonIntensity * 2) : PoisonIntensity;
+			statusEffects.Add(new StatusEffect(StatusEffectType.Poison, num));
 			return statusEffects;
 		}
 	}

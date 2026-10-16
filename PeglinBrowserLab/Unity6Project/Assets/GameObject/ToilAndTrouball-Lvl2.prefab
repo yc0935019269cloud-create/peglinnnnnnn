@@ -381,7 +381,7 @@ MonoBehaviour:
   type: 15
   intensity: 4
   critCountThreshold: 1
-  critAddIntensity: 3
+  critAddIntensity: 4
   isCritThresholdCumulative: 0
 --- !u!114 &114025901758691103
 MonoBehaviour:
@@ -417,9 +417,9 @@ MonoBehaviour:
   - Name: STATUS_EFFECT_CRIT_THRESHOLD
     Value: 1
   - Name: STATUS_EFFECT_CRIT_AMOUNT
-    Value: 7
+    Value: 8
   - Name: STATUS_EFFECT_CRIT_ADD
-    Value: 3
+    Value: 4
   _IsGlobalManager: 0
 --- !u!114 &114705390221481576
 MonoBehaviour:

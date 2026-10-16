@@ -2,6 +2,9 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
+using Battle.Attacks.AttackBehaviours;
+using Battle.StatusEffects;
+
 namespace I2.Loc
 {
 	public class LocalizationParamsManager : MonoBehaviour, ILocalizationParamsManager
@@ -21,6 +24,23 @@ namespace I2.Loc
 
 		public string GetParameterValue(string ParamName)
 		{
+			if (ParamName == "STATUS_EFFECT_CRIT_ADD")
+			{
+				AddStatusEffectOnHit status = GetComponent<AddStatusEffectOnHit>();
+				if (status != null && status.type == StatusEffectType.Poison)
+				{
+					return status.intensity.ToString();
+				}
+			}
+			else if (ParamName == "STATUS_EFFECT_CRIT_AMOUNT")
+			{
+				AddStatusEffectOnHit status = GetComponent<AddStatusEffectOnHit>();
+				if (status != null && status.type == StatusEffectType.Poison)
+				{
+					return (status.intensity * 2).ToString();
+				}
+			}
+
 			if (_Params != null)
 			{
 				int i = 0;
