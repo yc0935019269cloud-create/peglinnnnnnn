@@ -323,3 +323,7 @@
 - WebRelease 與 FullWindow 範本：只對 iPad Chrome (CriOS + iPad/觸控 Mac UA) 設 devicePixelRatio <=1，依最長螢幕邊將內部繪圖長邊目標限制 1280；CSS 仍滿版。Safari、Android、桌機維持原解析度。原理依 Unity Web canvas size 文件與本機 SystemInfo.js 的 Module.devicePixelRatio 支援。
 - WebGL context lost 時顯示中斷提示，不自動重載、不清除存檔、不假裝已恢復。提示可能失去未儲存進度。
 - Node VM 執行實際網頁 JS：iPad Chrome 與 desktop-mode iPad Chrome 限制生效；iPad Safari、Samsung Chrome、Windows Chrome 不變；context-lost 提示分支通過。尚待使用者實體 iPad Chrome 驗證是否停止黑屏；這是降低渲染壓力的緩解，不是已證實根因修復。
+
+## 2026-10-16｜依使用者要求回復前一版
+- 使用者要先更新平板測試。已將 WebRelease/index.html 和 FullWindow/index.html 回復至 14d5dfb8：撤回 iPad Chrome 解析度限制及 WebGL 中斷提示，保留滿版外框；保留先前診斷紀錄。
+
