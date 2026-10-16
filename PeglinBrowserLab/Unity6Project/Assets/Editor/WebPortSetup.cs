@@ -30,7 +30,7 @@ public static class WebPortSetup
         string output = "E:/NEWTEST/PeglinBrowserLab/Builds/WebTest";
         Directory.CreateDirectory(output);
         PlayerSettings.WebGL.compressionFormat = WebGLCompressionFormat.Disabled;
-        PlayerSettings.WebGL.template = "APPLICATION:Default";
+        PlayerSettings.WebGL.template = "PROJECT:FullWindow";
         var report = BuildPipeline.BuildPlayer(new BuildPlayerOptions
         {
             scenes = new[] { BootScene, "Assets/Scenes/PreMainMenu.unity" },
@@ -55,7 +55,7 @@ public static class WebPortSetup
         PlayerSettings.WebGL.compressionFormat = WebGLCompressionFormat.Gzip;
         PlayerSettings.WebGL.decompressionFallback = true;
         PlayerSettings.WebGL.dataCaching = true;
-        PlayerSettings.WebGL.template = "APPLICATION:Default";
+        PlayerSettings.WebGL.template = "PROJECT:FullWindow";
         var report = BuildPipeline.BuildPlayer(new BuildPlayerOptions
         {
             scenes = new[] { BootScene, "Assets/Scenes/PreMainMenu.unity" },

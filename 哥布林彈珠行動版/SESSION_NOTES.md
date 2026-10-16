@@ -300,3 +300,18 @@
 - 分四批提交推送：研究筆記／腳本／報告 → RecoveredProject → Unity6Project＋RecoveredLibraries → Reports＋Builds/WebRelease。
 - 未收錄：tools/ 下載檔、原始 Unity 日誌、Development 建置（wasm 135 MB）、Steam 原版 Windows Addressables 副本（一個 bundle 105.7 MB 超過 GitHub 上限）。
 - repo 必須保持私人；不要開 GitHub Pages 或其他公開網址（公開散布商業遊戲內容）。
+
+## 2026-10-15｜GitHub Pages 與實體 iPhone 首次載入問題
+
+- 使用者本次明確要求設定 GitHub Pages；當時遠端 repo 已是 public。已新增 .github/workflows/pages.yml，只發布 PeglinBrowserLab/Builds/WebRelease，Pages 來源改為 GitHub Actions。提交 5ccc1f8c62abf594b60f5e4377a768d149281c52，run 38669154765 success；兩個舊的整庫 Jekyll run 均取消。
+- 公開網址 https://yc0935019269cloud-create.github.io/peglinnnnnnn/ 回應 200，桌面 Chrome 實際到繁體中文主選單。此結果不是手機驗證。
+- 使用者回報 iPhone 14 Plus：到哥布林載入畫面後整個網頁重新載入。手機瀏覽器種類與 iOS 版本尚未提供。懷疑 WebContent 程序因記憶體壓力或其他崩潰而重啟，但無裝置 crash/記憶體紀錄，不能判定根因。
+- 原始碼檢查：WebAddressablesBoot concurrent=48，預載所有非場景 Addressables 並永久保留 handles；手機 index.html 的 devicePixelRatio=1 仍被註解；ProjectSettings 初始 heap 32 MB、上限 2048 MB、growth 20%。既有字型修復筆記記載兩份 4096x8192 Alpha8 圖集。這些是需量測的記憶體風險，不代表已確認 OOM。
+- 本次診斷尚未更動遊戲或重新建置；手機問題尚未修復，不能宣稱可正常手機遊玩。
+
+## 2026-10-16｜滿版網頁外框
+
+- WebRelease/index.html 改為黑色滿版畫布，移除預設 Unity logo、favicon、白邊、底部工具列與固定 1024x576 容器；保留簡潔載入進度及錯誤提示。
+- 新增 Assets/WebGLTemplates/FullWindow，BuildWeb 與 BuildWebRelease 均選 PROJECT:FullWindow，後續建置保留外觀。既有 wasm、資料檔與存檔識別不變。
+- 瀏覽器實測 DOM：424x608 與 1280x720 畫布均為 (0,0,viewportWidth,viewportHeight)，無頁面溢出或 footer；可進入 Unity 資源預載。這次未重建 Unity，未驗證實體 iPhone 載入重啟問題。
+- 使用 100dvh 因應視窗高度；填滿網頁視窗不等於能自動隱藏瀏覽器網址列。遊戲相機內的比例留黑由原遊戲控制，避免裁切 UI。
