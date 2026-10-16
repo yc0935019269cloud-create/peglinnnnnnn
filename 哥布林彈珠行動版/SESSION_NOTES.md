@@ -327,3 +327,9 @@
 ## 2026-10-16｜依使用者要求回復前一版
 - 使用者要先更新平板測試。已將 WebRelease/index.html 和 FullWindow/index.html 回復至 14d5dfb8：撤回 iPad Chrome 解析度限制及 WebGL 中斷提示，保留滿版外框；保留先前診斷紀錄。
 
+
+## 2026-10-16｜iPad Chrome 黑畫面：第二版緩解（桌機模擬驗證，未經實體 iPad）
+- 使用者回報第一版（解析度上限＋中斷提示）後 iPad Chrome 仍黑畫面。第二版新增 ipad-display.js（WebRelease 與 FullWindow 範本同內容，index.html 以 ?v=2 載入）：僅對 iPad Chrome（CriOS）啟用，Safari／Android／桌機不變。
+- 內容：devicePixelRatio=1、繪圖緩衝長邊上限 1280（延後 250ms 合併連續尺寸變化）、preserveDrawingBuffer＋low-power、停用元素 requestFullscreen（桌面版互動時會要求全螢幕，疑為 WKWebView 畫布變黑的觸發點之一）、context lost 顯示提示。
+- 桌機 Edge 以 ?display=ipad-chrome 實測：進入繁體主選單；模擬 1800x1000 DPR2 時繪圖緩衝 1280x711、CSS 1800x1000，觸控點「新的遊戲」正確進入角色選擇畫面（座標縮放正確）；requestFullscreen 已被停用。
+- 未驗證：實體 iPad Chrome 是否停止黑屏。根因（GPU 記憶體、全螢幕切換或其他）尚未證實，這仍是緩解而非確認修復。若仍黑屏，下一步需 iPad 的錯誤畫面文字（是否出現「顯示-01」）。
