@@ -482,15 +482,6 @@ public class RegularPeg : Peg, IDummyPeg
 		{
 			return result;
 		}
-		if (_destructionSequence != null)
-		{
-			if (_destructionSequence.active)
-			{
-				_destructionSequence.Kill();
-			}
-			_destructionSequence = null;
-		}
-		base.transform.DOKill();
 		PegType pegType = base.pegType;
 		if (pegType == PegType.RESET && type == PegType.CRIT)
 		{
@@ -763,7 +754,6 @@ public class RegularPeg : Peg, IDummyPeg
 			}
 			_destructionSequence = null;
 		}
-		base.transform.DOKill();
 		if (_renderer != null && (GetComponent<FlickeringPeg>() == null || slimeType != SlimeType.None))
 		{
 			float a = ((_invis != null && pegType != PegType.CRIT && pegType != PegType.RESET) ? 0f : 1f);
@@ -774,9 +764,17 @@ public class RegularPeg : Peg, IDummyPeg
 
 	private void OnDestroyAnimationEnded()
 	{
-		if (pegType == PegType.DESTROYED || pegType == PegType.RESET || pegType == PegType.CRIT || isBonusSpecialPeg)
+		if (pegType == PegType.DESTROYED)
 		{
 			base.transform.localScale = Vector3.one;
+			return;
+		}
+		// Popping does not clear isBonusSpecialPeg, so a popped bonus peg (e.g. a
+		// Duplicatorb copy) must still get the destroyed sprite; skipping it left an
+		// R/C sprite on a peg with no collider. Only skip pegs revived mid-animation.
+		if (!IsPopped())
+		{
+			base.transform.localScale = _initialVector;
 			return;
 		}
 		EnablePoppedColliders();

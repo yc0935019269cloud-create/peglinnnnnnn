@@ -368,3 +368,14 @@
   - 同時重跑 `RefreshPegProbe.cs`：全數 PASS。
 - 發布建置：
   - `WebPortSetup.BuildWebRelease` 輸出至 `PeglinBrowserLab/Builds/WebRelease`，並推送至 GitHub main 分支。
+
+## 2026-10-22｜仿造彈珠特殊釘打不到、隨機移動釘子重疊修復（僅原始碼，尚未重建）
+- 使用者回報：1) 仿造彈珠（Duplicatorb）做出來的特殊釘（暴擊／刷新）打不到；2) 某些關卡每回合隨機移動的釘子會重疊。
+- 兩個都是 10-17 刷新彈珠修復（5bb0dba8）在 RegularPeg.cs 帶進來的回歸：
+  1. OnDestroyAnimationEnded 加了「isBonusSpecialPeg 就跳過」的防護。仿造彈珠的複製釘（以及刷新／暴擊彈珠轉換出的釘）都是 bonus 特殊釘，而 PopPeg 不會清除 isBonusSpecialPeg。結果被打爆的 bonus 暴擊釘碰撞體已關閉，卻一直留著特殊釘圖案到下次刷新，看起來是特殊釘但彈珠直接穿過。
+  2. ResetRendererStatus 與 ConvertPegToType 加了 `transform.DOKill()`。RandomPegField（moveEveryTurn）在 OnTurnComplete 時先對每顆釘子 DOScale 縮小，縮完才移位；同一事件裡 RegularPeg.SoftReset → Reset → ResetRendererStatus 把這個補間殺掉，活著的普通釘不再移動，只有已爆的釘子移到新位置，刷新後就疊在不動的釘子上。PegTeleport 的縮放補間也會被殺。
+- 修正（RegularPeg.cs）：
+  - OnDestroyAnimationEnded 改以碰撞體狀態判斷：DESTROYED 照原版；只有在動畫期間已被復活（!IsPopped()）才跳過並還原縮放；仍為爆掉狀態一律換成 destroyed 圖案（與原版一致）。
+  - ResetRendererStatus 移除 transform.DOKill()，只停止並清空本身的 _destructionSequence（Kill Sequence 已會停止其中的縮放補間）。
+  - ConvertPegToType 恢復原版（不再殺補間）。刷新彈珠延後轉換在轉換前會先呼叫 Reset()，已停止爆裂動畫，RefreshPegProbe 的檢查路徑不受影響。
+- 驗證界限：這個雲端環境沒有 Unity Editor 也沒有 C# 編譯器，未能編譯、跑 RefreshPegProbe 或重建 WebRelease；GitHub Pages 上的版本在使用者於本機執行 WebPortSetup.BuildWebRelease 並推送之前不會改變。下次在 Editor 請先跑 RefreshPegProbe.Validate，再實測仿造彈珠打暴擊釘／刷新釘與隨機移動釘子的關卡。
