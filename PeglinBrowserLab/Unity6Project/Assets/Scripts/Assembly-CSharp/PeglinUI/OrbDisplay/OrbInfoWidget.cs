@@ -45,6 +45,14 @@ namespace PeglinUI.OrbDisplay
 
 		private RewiredEventSystem _rewiredEventSystem;
 
+		private const float DescriptionFontSizeStep = 0.05f;
+
+		private const float UnboundedPreferredHeight = 32767f;
+
+		private float _descriptionFontSizeMin = -1f;
+
+		private float _descriptionFontSizeMax;
+
 		private void OnEnable()
 		{
 			BattleController.OnBombDetonated = (Action)Delegate.Combine(BattleController.OnBombDetonated, new Action(UpdateDamage));
@@ -64,7 +72,7 @@ namespace PeglinUI.OrbDisplay
 			_attack = attack;
 			_nameText.text = attack.GetNameWithLevel();
 			UpdateDamage();
-			_descriptionText.text = attack.Description;
+			SetDescriptionText(attack.Description);
 			TooltipKeywordDescriptions componentInChildren = GetComponentInChildren<TooltipKeywordDescriptions>();
 			if (componentInChildren != null && !string.IsNullOrEmpty(attack.EnglishDescription))
 			{
@@ -84,8 +92,46 @@ namespace PeglinUI.OrbDisplay
 			{
 				translation = LocalizationManager.GetTranslation(Tooltip.LOCKED_ORB_DESC_BASE_KEY);
 			}
-			_descriptionText.text = translation;
+			SetDescriptionText(translation);
 			GetComponentInChildren<TooltipKeywordDescriptions>().transform.MMDestroyAllChildren();
+		}
+
+		// Unity 6.6 TMP auto-size re-lays out the text several times without re-parsing it.
+		// An ellipsis written over an inline <sprite> in one pass makes the next pass cast it
+		// to TMP_SpriteCharacter and throw, so the panel keeps the previous orb's text (or the
+		// scene's English placeholder). Pick the size here so TMP lays the text out once.
+		private void SetDescriptionText(string description)
+		{
+			TextOverflowModes overflowMode = _descriptionText.overflowMode;
+			if (overflowMode != TextOverflowModes.Ellipsis && overflowMode != TextOverflowModes.Truncate)
+			{
+				_descriptionText.text = description;
+				return;
+			}
+			if (_descriptionFontSizeMin < 0f)
+			{
+				bool enableAutoSizing = _descriptionText.enableAutoSizing;
+				_descriptionFontSizeMin = (enableAutoSizing ? _descriptionText.fontSizeMin : _descriptionText.fontSize);
+				_descriptionFontSizeMax = (enableAutoSizing ? _descriptionText.fontSizeMax : _descriptionText.fontSize);
+				_descriptionText.enableAutoSizing = false;
+			}
+			Rect rect = _descriptionText.rectTransform.rect;
+			Vector4 margin = _descriptionText.margin;
+			float width = rect.width - margin.x - margin.z;
+			float height = rect.height - margin.y - margin.w;
+			float fontSize = _descriptionFontSizeMax;
+			while (fontSize > _descriptionFontSizeMin + 0.001f)
+			{
+				_descriptionText.fontSize = fontSize;
+				if (_descriptionText.GetPreferredValues(description, width, UnboundedPreferredHeight).y <= height)
+				{
+					break;
+				}
+				fontSize = Mathf.Max(fontSize - DescriptionFontSizeStep, _descriptionFontSizeMin);
+			}
+			_descriptionText.fontSize = Mathf.Max(fontSize, _descriptionFontSizeMin);
+			_descriptionText.text = description;
+			_descriptionText.ForceMeshUpdate(ignoreActiveState: false, forceTextReparsing: true);
 		}
 
 		private void HandleSelfDamageTaken(float damage)

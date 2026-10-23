@@ -398,3 +398,12 @@
 - 在雲端容器以 Playwright 無頭 Chromium（SwiftShader、zh-TW）實跑現行 WebRelease：滑鼠與觸控兩種輸入，新遊戲→森林關卡 1 戰鬥（含重新洗牌）→獎勵買新彈珠→森林關卡 2 戰鬥第一顆彈珠、重新整理後「繼續」進戰鬥、背包檢視彈珠。左側彈珠面板、佇列彈珠提示框、背包檢視全部是正確彈珠的繁體中文說明，未重現。
 - 程式碼觀察：左側面板（ShotDetailsWidget→OrbInfoWidget.Initialize）只在抽球動畫完成（DeckInfoManager.onActiveOrbScaleStarted / onActivePersistOrbDrawFinished）時更新；抽球動畫或教學視窗期間會暫時顯示上一顆彈珠。Battle.unity 中這個面板的預設文字是英文的「All Orb Nothing (Level 3)」與「Can target any enemy on screen…Zaps up to 2 additional pegs」，若面板在未呼叫 Initialize 前展開就會看到英文且不是目前彈珠的說明——這是候選原因，尚未證實。
 - 需要使用者提供：哪個畫面（戰鬥左側面板／點佇列彈珠的提示框／背包／獎勵）、哪顆彈珠、裝置與瀏覽器、英文內容或截圖。
+
+## 2026-10-23｜戰鬥彈珠說明顯示別顆彈珠／第一顆變英文：重現並修正
+- 使用者澄清症狀：戰鬥中左側彈珠說明有時是別顆彈珠的，有時第一顆彈珠的說明是英文；而且通常不是圓石／匕首彈珠。
+- 重現方法：在雲端以無頭 Chromium 跑現行 WebRelease，修改執行中存檔 Save_0r.data（DeckManager _prefabNames）換成指定彈珠，重新整理→繼續→逐顆發射並截圖、收集主控台。共測約 40 種彈珠。
+- 已重現：暴擊彈珠顯示尖碑彈珠的說明；發電／噴塗彈珠顯示前一顆的說明；戰鬥第一顆噴塗彈珠顯示英文「Can target any enemy on screen…」（Battle.unity 這個面板的預設文字）。每次出錯都同時出現 `InvalidCastException: Unable to cast object of type 'TMP_Character' to type 'TMP_SpriteCharacter'`（b3：3 次錯誤對 3 次錯誤顯示）。
+- 根因：Battle.unity 的 DescriptionText 是「省略號（Ellipsis）＋自動縮放 0.7–0.9」。反編譯工作副本的 Unity 6.6 Unity.TextMeshPro.dll：自動縮放會在只解析一次文字的情況下重複排版，某一輪把省略號寫進原本是內嵌圖示 <sprite> 的字元格，下一輪字體變小沒截斷到那裡時就把它當成圖示轉型而丟例外，網格沒更新，畫面留著上一段文字。只有說明長到會被截斷、截斷點又剛好落在圖示的彈珠才會發生。滑鼠移上去的提示框是 Overflow 模式，不受影響。
+- 修正：OrbInfoWidget.SetDescriptionText 在截斷模式（Ellipsis/Truncate）下自己挑字級（0.9 起每次 −0.05 到 0.7，以 GetPreferredValues 判斷是否放得下），並關閉 TMP 自動縮放，讓 TMP 只排版一次；其他模式維持原行為。外觀與原版相同（仍會縮小字、仍有省略號）。
+- 驗證：在建置副本的場景 bundle 只改這個元件（關自動縮放、保留省略號、字級 0.7，副本 catalog 的 CRC 同步更新），同樣 8 顆＋另外 12 顆彈珠全部顯示正確繁中說明，沒有新的例外；改成 Overflow 雖然也不再出錯，但長說明會疊到名稱，不採用。OrbInfoWidget.cs 以遊戲參考 DLL＋6.6 TMP 靜態編譯 0 錯誤（另一行既有的 PixelPerfectCamera 因參考是 2022 版而暫時替換）。報告：PeglinBrowserLab/Reports/orb-description-repro.txt。
+- 尚未驗證：含此 C# 修改的 Unity 重建。需在本機重建 WebRelease 後才會生效。
