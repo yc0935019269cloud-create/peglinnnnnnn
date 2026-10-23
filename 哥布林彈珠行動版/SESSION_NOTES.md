@@ -393,3 +393,8 @@
   - 事件文字：繁中 Thunderstorm 選項多一個 <；繁簡 GiantBrickSlime 的 <style=stone> 沒關閉。
 - 修正後重跑掃描：繁簡兩種語言的 Orbs/Relics/Statuses/Pegs 只剩措辭造成的圖示數量差異；所有內嵌圖示名稱都在 TMP_Sprites.asset 內。
 - 驗證界限：雲端環境無 Unity，未重建、未在瀏覽器實際看過；I2Languages 在 Resources，需要重建 WebRelease 才會生效。若使用者看到的是別的彈珠／別種顯示問題，需要彈珠名稱或截圖再查。
+
+## 2026-10-23｜使用者補充：戰鬥中彈珠簡介有時是別顆彈珠、第一顆彈珠簡介有時是英文（未重現）
+- 在雲端容器以 Playwright 無頭 Chromium（SwiftShader、zh-TW）實跑現行 WebRelease：滑鼠與觸控兩種輸入，新遊戲→森林關卡 1 戰鬥（含重新洗牌）→獎勵買新彈珠→森林關卡 2 戰鬥第一顆彈珠、重新整理後「繼續」進戰鬥、背包檢視彈珠。左側彈珠面板、佇列彈珠提示框、背包檢視全部是正確彈珠的繁體中文說明，未重現。
+- 程式碼觀察：左側面板（ShotDetailsWidget→OrbInfoWidget.Initialize）只在抽球動畫完成（DeckInfoManager.onActiveOrbScaleStarted / onActivePersistOrbDrawFinished）時更新；抽球動畫或教學視窗期間會暫時顯示上一顆彈珠。Battle.unity 中這個面板的預設文字是英文的「All Orb Nothing (Level 3)」與「Can target any enemy on screen…Zaps up to 2 additional pegs」，若面板在未呼叫 Initialize 前展開就會看到英文且不是目前彈珠的說明——這是候選原因，尚未證實。
+- 需要使用者提供：哪個畫面（戰鬥左側面板／點佇列彈珠的提示框／背包／獎勵）、哪顆彈珠、裝置與瀏覽器、英文內容或截圖。
