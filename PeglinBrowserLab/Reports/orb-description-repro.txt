@@ -1,0 +1,18 @@
+Orb description panel repro (2026-10-23)
+Build tested: PeglinBrowserLab/Builds/WebRelease (current main), headless Chromium + SwiftShader, zh-TW, touch input.
+Method: run save Save_0r.data edited so DeckManager _prefabNames holds chosen orbs; reload, Continue, fire every orb, screenshot the left orb panel, collect console.
+
+Original build:
+  b1 (12 orbs): Critiball panel kept Orbelisk text; 1x InvalidCastException TMP_Character -> TMP_SpriteCharacter.
+  b2: first orb Splatorb showed the scene placeholder "Can target any enemy on screen ..." (English); Generatorb showed Activatorb text.
+  b3 (8 orbs): Splatorb, Generatorb kept Orbelisk text; Critiball kept Activatorb text; exactly 3x the same InvalidCastException.
+Cause: Battle.unity DescriptionText uses overflow Ellipsis + auto-size (0.7-0.9). Unity 6.6 TMP auto-size re-runs
+GenerateTextMesh without re-parsing; an ellipsis written over an inline <sprite> slot in one pass is cast to
+TMP_SpriteCharacter in the next pass and throws, so the mesh keeps the previous text.
+
+Same build with only that component patched in a copy of the scene bundle (catalog CRC updated in the copy):
+  overflow Overflow: correct text, no exception, but long text overlaps name/damage (rejected).
+  auto-size off, Ellipsis kept, size 0.7: v3 (same 8 orbs) and v4 (12 more orbs) all correct, 0 new exceptions.
+Fix in source: OrbInfoWidget picks the font size itself (0.9 -> 0.7 step 0.05 via GetPreferredValues) and turns TMP auto-size off,
+so TMP lays the text out once. Static compile check of OrbInfoWidget.cs against game reference DLLs + 6.6 TMP: 0 errors.
+Not yet verified: a Unity rebuild with the C# change.

@@ -379,3 +379,31 @@
   - ResetRendererStatus 移除 transform.DOKill()，只停止並清空本身的 _destructionSequence（Kill Sequence 已會停止其中的縮放補間）。
   - ConvertPegToType 恢復原版（不再殺補間）。刷新彈珠延後轉換在轉換前會先呼叫 Reset()，已停止爆裂動畫，RefreshPegProbe 的檢查路徑不受影響。
 - 驗證界限：這個雲端環境沒有 Unity Editor 也沒有 C# 編譯器，未能編譯、跑 RefreshPegProbe 或重建 WebRelease；GitHub Pages 上的版本在使用者於本機執行 WebPortSetup.BuildWebRelease 並推送之前不會改變。下次在 Editor 請先跑 RefreshPegProbe.Validate，再實測仿造彈珠打暴擊釘／刷新釘與隨機移動釘子的關卡。
+
+## 2026-10-23｜戰鬥中彈珠／遺物效果說明的繁簡中文顯示錯誤（僅資料，尚未重建）
+- 使用者回報：戰鬥中彈珠的效果介紹顯示 bug 還沒修好（未指明哪顆彈珠）。
+- 戰鬥左側彈珠說明由 Attack.Description 把每條 Orbs/* 翻譯串成同一段 TMP 文字（每條前加 BULLET 圖示），所以某一條沒關閉的 <style> 會讓後面所有條目都套到同一個顏色樣式。
+- 以腳本解析 I2Languages.asset，逐條比對英文與繁中／簡中的 TMP 標籤、{[參數]} 與內嵌圖示，找到並修正（原版資料錯誤，非移植造成）：
+  - 繁中 Orbs/add_damage_per_rigged_bomb、Orbs/add_damage_per_shield_peg：<style=dmg_bonus> 沒有關閉 → 補 </style>。
+  - 繁簡 Orbs/flip_downgrades_and_heal：<sprite name=""PEG""> 引號重複，釘子圖示不顯示 → 改為 <sprite name="PEG">。
+  - 繁簡 Relics/debuff_slime_pegs_harder_desc2：用錯參數 DEBUFF_HARDER_AMOUNT（-3），英文與 Battle 場景值為 DEBUFF_FIRST_PEG_AMOUNT（-20）。
+  - 繁簡 Relics/no_discard_desc2：暴擊加成誤用 NO_DISCARD_DAMAGE_INCREASE（3）→ NO_DISCARD_CRIT_INCREASE（2）。
+  - 繁中 Relics/damage_creates_lightning_desc：「style=hit>」少了 <，標籤文字外露；簡中名稱與說明原本是空的，依繁中補上簡體。
+  - 繁中 Relics/max_health_medium_desc 多一個 </style>；繁中 Statuses/pop_desc「</style 時」少了 >；簡中 Statuses/player_bramble_desc 多一個 </style>。
+  - 事件文字：繁中 Thunderstorm 選項多一個 <；繁簡 GiantBrickSlime 的 <style=stone> 沒關閉。
+- 修正後重跑掃描：繁簡兩種語言的 Orbs/Relics/Statuses/Pegs 只剩措辭造成的圖示數量差異；所有內嵌圖示名稱都在 TMP_Sprites.asset 內。
+- 驗證界限：雲端環境無 Unity，未重建、未在瀏覽器實際看過；I2Languages 在 Resources，需要重建 WebRelease 才會生效。若使用者看到的是別的彈珠／別種顯示問題，需要彈珠名稱或截圖再查。
+
+## 2026-10-23｜使用者補充：戰鬥中彈珠簡介有時是別顆彈珠、第一顆彈珠簡介有時是英文（未重現）
+- 在雲端容器以 Playwright 無頭 Chromium（SwiftShader、zh-TW）實跑現行 WebRelease：滑鼠與觸控兩種輸入，新遊戲→森林關卡 1 戰鬥（含重新洗牌）→獎勵買新彈珠→森林關卡 2 戰鬥第一顆彈珠、重新整理後「繼續」進戰鬥、背包檢視彈珠。左側彈珠面板、佇列彈珠提示框、背包檢視全部是正確彈珠的繁體中文說明，未重現。
+- 程式碼觀察：左側面板（ShotDetailsWidget→OrbInfoWidget.Initialize）只在抽球動畫完成（DeckInfoManager.onActiveOrbScaleStarted / onActivePersistOrbDrawFinished）時更新；抽球動畫或教學視窗期間會暫時顯示上一顆彈珠。Battle.unity 中這個面板的預設文字是英文的「All Orb Nothing (Level 3)」與「Can target any enemy on screen…Zaps up to 2 additional pegs」，若面板在未呼叫 Initialize 前展開就會看到英文且不是目前彈珠的說明——這是候選原因，尚未證實。
+- 需要使用者提供：哪個畫面（戰鬥左側面板／點佇列彈珠的提示框／背包／獎勵）、哪顆彈珠、裝置與瀏覽器、英文內容或截圖。
+
+## 2026-10-23｜戰鬥彈珠說明顯示別顆彈珠／第一顆變英文：重現並修正
+- 使用者澄清症狀：戰鬥中左側彈珠說明有時是別顆彈珠的，有時第一顆彈珠的說明是英文；而且通常不是圓石／匕首彈珠。
+- 重現方法：在雲端以無頭 Chromium 跑現行 WebRelease，修改執行中存檔 Save_0r.data（DeckManager _prefabNames）換成指定彈珠，重新整理→繼續→逐顆發射並截圖、收集主控台。共測約 40 種彈珠。
+- 已重現：暴擊彈珠顯示尖碑彈珠的說明；發電／噴塗彈珠顯示前一顆的說明；戰鬥第一顆噴塗彈珠顯示英文「Can target any enemy on screen…」（Battle.unity 這個面板的預設文字）。每次出錯都同時出現 `InvalidCastException: Unable to cast object of type 'TMP_Character' to type 'TMP_SpriteCharacter'`（b3：3 次錯誤對 3 次錯誤顯示）。
+- 根因：Battle.unity 的 DescriptionText 是「省略號（Ellipsis）＋自動縮放 0.7–0.9」。反編譯工作副本的 Unity 6.6 Unity.TextMeshPro.dll：自動縮放會在只解析一次文字的情況下重複排版，某一輪把省略號寫進原本是內嵌圖示 <sprite> 的字元格，下一輪字體變小沒截斷到那裡時就把它當成圖示轉型而丟例外，網格沒更新，畫面留著上一段文字。只有說明長到會被截斷、截斷點又剛好落在圖示的彈珠才會發生。滑鼠移上去的提示框是 Overflow 模式，不受影響。
+- 修正：OrbInfoWidget.SetDescriptionText 在截斷模式（Ellipsis/Truncate）下自己挑字級（0.9 起每次 −0.05 到 0.7，以 GetPreferredValues 判斷是否放得下），並關閉 TMP 自動縮放，讓 TMP 只排版一次；其他模式維持原行為。外觀與原版相同（仍會縮小字、仍有省略號）。
+- 驗證：在建置副本的場景 bundle 只改這個元件（關自動縮放、保留省略號、字級 0.7，副本 catalog 的 CRC 同步更新），同樣 8 顆＋另外 12 顆彈珠全部顯示正確繁中說明，沒有新的例外；改成 Overflow 雖然也不再出錯，但長說明會疊到名稱，不採用。OrbInfoWidget.cs 以遊戲參考 DLL＋6.6 TMP 靜態編譯 0 錯誤（另一行既有的 PixelPerfectCamera 因參考是 2022 版而暫時替換）。報告：PeglinBrowserLab/Reports/orb-description-repro.txt。
+- 尚未驗證：含此 C# 修改的 Unity 重建。需在本機重建 WebRelease 後才會生效。
