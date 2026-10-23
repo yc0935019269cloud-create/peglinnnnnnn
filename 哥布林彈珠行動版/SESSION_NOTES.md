@@ -379,3 +379,17 @@
   - ResetRendererStatus 移除 transform.DOKill()，只停止並清空本身的 _destructionSequence（Kill Sequence 已會停止其中的縮放補間）。
   - ConvertPegToType 恢復原版（不再殺補間）。刷新彈珠延後轉換在轉換前會先呼叫 Reset()，已停止爆裂動畫，RefreshPegProbe 的檢查路徑不受影響。
 - 驗證界限：這個雲端環境沒有 Unity Editor 也沒有 C# 編譯器，未能編譯、跑 RefreshPegProbe 或重建 WebRelease；GitHub Pages 上的版本在使用者於本機執行 WebPortSetup.BuildWebRelease 並推送之前不會改變。下次在 Editor 請先跑 RefreshPegProbe.Validate，再實測仿造彈珠打暴擊釘／刷新釘與隨機移動釘子的關卡。
+
+## 2026-10-23｜戰鬥中彈珠／遺物效果說明的繁簡中文顯示錯誤（僅資料，尚未重建）
+- 使用者回報：戰鬥中彈珠的效果介紹顯示 bug 還沒修好（未指明哪顆彈珠）。
+- 戰鬥左側彈珠說明由 Attack.Description 把每條 Orbs/* 翻譯串成同一段 TMP 文字（每條前加 BULLET 圖示），所以某一條沒關閉的 <style> 會讓後面所有條目都套到同一個顏色樣式。
+- 以腳本解析 I2Languages.asset，逐條比對英文與繁中／簡中的 TMP 標籤、{[參數]} 與內嵌圖示，找到並修正（原版資料錯誤，非移植造成）：
+  - 繁中 Orbs/add_damage_per_rigged_bomb、Orbs/add_damage_per_shield_peg：<style=dmg_bonus> 沒有關閉 → 補 </style>。
+  - 繁簡 Orbs/flip_downgrades_and_heal：<sprite name=""PEG""> 引號重複，釘子圖示不顯示 → 改為 <sprite name="PEG">。
+  - 繁簡 Relics/debuff_slime_pegs_harder_desc2：用錯參數 DEBUFF_HARDER_AMOUNT（-3），英文與 Battle 場景值為 DEBUFF_FIRST_PEG_AMOUNT（-20）。
+  - 繁簡 Relics/no_discard_desc2：暴擊加成誤用 NO_DISCARD_DAMAGE_INCREASE（3）→ NO_DISCARD_CRIT_INCREASE（2）。
+  - 繁中 Relics/damage_creates_lightning_desc：「style=hit>」少了 <，標籤文字外露；簡中名稱與說明原本是空的，依繁中補上簡體。
+  - 繁中 Relics/max_health_medium_desc 多一個 </style>；繁中 Statuses/pop_desc「</style 時」少了 >；簡中 Statuses/player_bramble_desc 多一個 </style>。
+  - 事件文字：繁中 Thunderstorm 選項多一個 <；繁簡 GiantBrickSlime 的 <style=stone> 沒關閉。
+- 修正後重跑掃描：繁簡兩種語言的 Orbs/Relics/Statuses/Pegs 只剩措辭造成的圖示數量差異；所有內嵌圖示名稱都在 TMP_Sprites.asset 內。
+- 驗證界限：雲端環境無 Unity，未重建、未在瀏覽器實際看過；I2Languages 在 Resources，需要重建 WebRelease 才會生效。若使用者看到的是別的彈珠／別種顯示問題，需要彈珠名稱或截圖再查。

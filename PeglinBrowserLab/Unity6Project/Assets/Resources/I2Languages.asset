@@ -9229,7 +9229,7 @@ MonoBehaviour:
       - '<style=bramble>Rovo X</style> fa crescere X viticci fra i <sprite name="PEG">. I viticci ti danneggiano e catturano le tue sfere. <style=activate>Attiva</style> i <sprite name="VINE_PEG"> per distruggere i viticci a essi connessi.'
       - '<style=bramble>Enraizado X</style> faz X vinhas crescerem entre <sprite name="PEG">. Essas vinhas causam dano e capturam seus orbes. <style=activate>Ative</style> <sprite name="VINE_PEG"> para destruir vinhas conectadas.'
       - '<style=bramble>Лоза X</style> выращивает Х лиан между <sprite name="PEG">. Эти лианы наносят урон персонажу, и в них застревают шары. <style=activate>Активируйте</style> <sprite name="VINE_PEG">, чтобы уничтожить лианы.'
-      - 当你处于<style=bramble>藤蔓 X</style>状态时，将在 <sprite name="PEG"> 之间长出 X 条藤蔓。这些藤蔓会对你造成伤害，并捕捉你的弹珠。<style=activate>触发</style> </style> <sprite name="VINE_PEG"> 可以摧毁相连的藤蔓。
+      - 当你处于<style=bramble>藤蔓 X</style>状态时，将在 <sprite name="PEG"> 之间长出 X 条藤蔓。这些藤蔓会对你造成伤害，并捕捉你的弹珠。<style=activate>触发</style> <sprite name="VINE_PEG"> 可以摧毁相连的藤蔓。
       - 當你處於<style=bramble>刺藤 X</style>狀態時，會在 <sprite name="PEG"> 之間長出 X 條藤蔓，這些藤蔓會傷害你並且捕捉你的彈珠；<style=activate>觸發</style> <sprite name="VINE_PEG"> 時會摧毀相連的藤蔓。
       - "『<style=bramble>束縛</style>:X』を受けると、<sprite name=\"PEG\">と<sprite name=\"PEG\">の間に<style=bramble>X本のツタ</style>が伸びる。\nツタにオーブをヒットさせると\n<style=damage>ダメージを受け、当該オーブが</style>\n<style=damage>ツタに束縛される</style>。\nツタは、<sprite name=\"VINE_PEG\">を<style=activate>活性化</style>すると\n消滅する。"
       - '<style=bramble>얽힘 X</style>는 <sprite name="PEG"> 사이에 덩굴이 X개 자라게 합니다. 이 덩굴은 플레이어에게 대미지를 주고 구슬을 붙잡습니다. <sprite name="VINE_PEG">연결된 덩굴을 파괴하려면 <style=activate>활성화</style>를 누르세요.'
@@ -9368,7 +9368,7 @@ MonoBehaviour:
       - '<sprite name="PEG"> <style=pop>estouram</style> quando são <style=activate>ativados</style>, a menos que tenham <style=durable>Resistência</style>. <sprite name="UNPOP_PEG"> e <sprite name="DULL_PEG"> não podem ser estourados.'
       - '<sprite name="PEG"> <style=pop>лопаются</style> при <style=activate>активации</style>, если у них нет <style=durable>Прочности</style>. <sprite name="UNPOP_PEG"> <sprite name="DULL_PEG"> не могут лопаться.'
       - ' <sprite name="PEG"> 在被<style=activate>触发</style>后，若未拥有<style=durable>耐久</style>效果，将会<style=pop>被打破</style>。 <sprite name="UNPOP_PEG"> <sprite name="DULL_PEG"> 不会<style=pop>被打破</style>。'
-      - 當 <sprite name="PEG"> 被<style=activate>觸發</style 時，只要它們未擁有<style=durable>耐久</style>效果，就會被<style=pop>打破</style>；只有 <sprite name="UNPOP_PEG"> <sprite name="DULL_PEG"> 無法被打破。
+      - 當 <sprite name="PEG"> 被<style=activate>觸發</style> 時，只要它們未擁有<style=durable>耐久</style>效果，就會被<style=pop>打破</style>；只有 <sprite name="UNPOP_PEG"> <sprite name="DULL_PEG"> 無法被打破。
       - "『<style=durable>頑丈</style>』を\n持たない<sprite name=\"PEG\">は、\n<style=activate>活性化</style>時に\n<style=pop>破裂</style>する。\n<sprite name=\"UNPOP_PEG\">と<sprite name=\"DULL_PEG\">は\n破裂しない。"
       - '<sprite name="PEG">는 <style=durable>견고</style>하지 않으면 <style=activate>활성화</style>될 때 <style=pop>터집니다</style>. <sprite name="UNPOP_PEG"> <sprite name="DULL_PEG">는 터트릴 수 없습니다.'
       - 
@@ -9966,7 +9966,7 @@ MonoBehaviour:
       - Dá <style=dmg_bonus>+{[SHIELD_DAMAGE_MULTIPLIER]}</style> de dano para cada <sprite name="PEG_SHIELDED"> no tabuleiro.
       - Наносит <style=dmg_bonus>+{[SHIELD_DAMAGE_MULTIPLIER]}</style> урона за каждый <sprite name="PEG_SHIELDED"> на доске
       - 板面上每有一颗 <sprite name="PEG_SHIELDED"> ，攻击造成的伤害 <style=dmg_bonus>+{[SHIELD_DAMAGE_MULTIPLIER]}</style>
-      - 板面上每有一個 <sprite name="PEG_SHIELDED">，就使攻擊傷害 <style=dmg_bonus>+ {[SHIELD_DAMAGE_MULTIPLIER]}
+      - 板面上每有一個 <sprite name="PEG_SHIELDED">，就使攻擊傷害 <style=dmg_bonus>+ {[SHIELD_DAMAGE_MULTIPLIER]}</style>
       - "盤面上の\n<sprite name=\"PEG_SHIELDED\">1個につき、\n<style=dmg_bonus>追加ダメージ</style> <style=dmg_bonus>+{[SHIELD_DAMAGE_MULTIPLIER]}</style>"
       - 보드에 <sprite name="PEG_SHIELDED">이 있을 때마다 <style=dmg_bonus>+{[SHIELD_DAMAGE_MULTIPLIER]}</style>의 대미지를 줍니다.
       - 
@@ -17763,7 +17763,7 @@ MonoBehaviour:
       - Dá <style=dmg_bonus>+{[SPECIAL_PEG_DAMAGE_MULTIPLIER]}</style> de dano para cada <sprite name="RIGGED_BOMB"> no tabuleiro.
       - Наносит <style=dmg_bonus>+{[SPECIAL_PEG_DAMAGE_MULTIPLIER]}</style> урона за каждый <sprite name="RIGGED_BOMB"> на доске
       - 板面上每有一颗 <sprite name="RIGGED_BOMB"> ，攻击造成的伤害 <style=dmg_bonus>+ {[SPECIAL_PEG_DAMAGE_MULTIPLIER]}</style>
-      - 板面上每有一個 <sprite name="RIGGED_BOMB">，就使攻擊傷害 <style=dmg_bonus>+ {[SPECIAL_PEG_DAMAGE_MULTIPLIER]}
+      - 板面上每有一個 <sprite name="RIGGED_BOMB">，就使攻擊傷害 <style=dmg_bonus>+ {[SPECIAL_PEG_DAMAGE_MULTIPLIER]}</style>
       - "盤面上の\n<sprite name=\"RIGGED_BOMB\">1個につき、\n<style=dmg_bonus>追加ダメージ</style> <style=dmg_bonus>+{[SPECIAL_PEG_DAMAGE_MULTIPLIER]}</style>"
       - 보드에 <sprite name="RIGGED_BOMB">이 있을 때마다 <style=dmg_bonus>+{[SPECIAL_PEG_DAMAGE_MULTIPLIER]}</style>의 대미지를 줍니다.
       - 
@@ -18061,8 +18061,8 @@ MonoBehaviour:
       - Ogni {[NUM_HITS_NEEDED]} <sprite name="PEG"> depotenziati <style=hit>colpiti</style> si moltiplicano per -{[FLIP_MULT]} e <style=heal>ripristini 1 PS</style>
       - A cada {[NUM_HITS_NEEDED]}, <sprite name="PEG"> enfraquecidos <style=hit>atingidos</style> são multiplicador por -{[FLIP_MULT]} e você <style=heal>cura 1</style>
       - Значение каждого {[NUM_HITS_NEEDED]} <style=hit>задетого</style> ухудшенного <sprite name="PEG"> умножается на -{[FLIP_MULT]} и вы <style=heal>лечитесь на 1</style>
-      - "每<style=hit>击中</style> {[NUM_HITS_NEEDED]} 个被减弱的 <sprite name=\"\"PEG\"\"> 时，把该数值乘上 - {[FLIP_MULT]} 并<style=heal>治疗你 1 点血量</style>（每次发射只会对同一个钉子生效一次）\n"
-      - "每<style=hit>擊中</style> {[NUM_HITS_NEEDED]} 個被減弱的 <sprite name=\"\"PEG\"\"> 時，把該數值乘上 - {[FLIP_MULT]} 並<style=heal>治療你 1 點血量</style>（每次發射只會對同一個釘子生效一次）\n"
+      - "每<style=hit>击中</style> {[NUM_HITS_NEEDED]} 个被减弱的 <sprite name=\"PEG\"> 时，把该数值乘上 - {[FLIP_MULT]} 并<style=heal>治疗你 1 点血量</style>（每次发射只会对同一个钉子生效一次）\n"
+      - "每<style=hit>擊中</style> {[NUM_HITS_NEEDED]} 個被減弱的 <sprite name=\"PEG\"> 時，把該數值乘上 - {[FLIP_MULT]} 並<style=heal>治療你 1 點血量</style>（每次發射只會對同一個釘子生效一次）\n"
       - "<style=dmg_negative>弱化</style><sprite name=\"PEG\">に{[NUM_HITS_NEEDED]}<style=hit>ヒット</style>：\n当該<sprite name=\"PEG\">に\n‐{[FLIP_MULT]}を掛けつつ、 \nHPを <style=heal>1 回復</style>"
       - 다운그레이드된 <sprite name="PEG">에 {[NUM_HITS_NEEDED]}번 <style=hit>명중</style>할 때마다 -{[FLIP_MULT]}배로 곱해지며 <style=heal>1을 회복</style>합니다.
       - 
@@ -24157,7 +24157,7 @@ MonoBehaviour:
       - '<style=heal>Aumenta a Vida máxima em {[MAX_HEALTH_MEDIUM_AMOUNT]}</style>.'
       - Увеличивает макс. ОЗ на <style=heal>{[MAX_HEALTH_MEDIUM_AMOUNT]}</style>.
       - 增加<style=heal> {[MAX_HEALTH_MEDIUM_AMOUNT]} </style>点血量上限。
-      - 增加 <style=heal>{[MAX_HEALTH_MEDIUM_AMOUNT]}</style> 點最大血量</style>。
+      - 增加 <style=heal>{[MAX_HEALTH_MEDIUM_AMOUNT]} 點最大血量</style>。
       - 最大HP<style=heal>+{[MAX_HEALTH_MEDIUM_AMOUNT]}</style>
       - 최대 체력을 <style=heal>{[MAX_HEALTH_MEDIUM_AMOUNT]}</style> 증가시킵니다.
       - Ökar din maximala hälsa med {[MAX_HEALTH_MEDIUM_AMOUNT]}.
@@ -24593,8 +24593,8 @@ MonoBehaviour:
       - Tutti gli attacchi ottengono <style=dmg_bonus>+{[NO_DISCARD_DAMAGE_INCREASE]} / +{[NO_DISCARD_CRIT_INCREASE]}</style> ma hai -{[DISCARD_REDUCTION]} possibilità di scartare sfere.
       - Todos ataques possuem <style=dmg_bonus>+{[NO_DISCARD_DAMAGE_INCREASE]} / +{[NO_DISCARD_CRIT_INCREASE]}</style> mas você tem -{[DISCARD_REDUCTION]} descartes de orbes.
       - Все атаки получают <style=dmg_bonus>+{[NO_DISCARD_DAMAGE_INCREASE]} / +{[NO_DISCARD_CRIT_INCREASE]}</style>, но число сбросов уменьшается на {[DISCARD_REDUCTION]}.
-      - 所有攻击造成的<style=dmg_bonus>普通伤害 + {[NO_DISCARD_DAMAGE_INCREASE]}/暴击伤害 + {[NO_DISCARD_DAMAGE_INCREASE]}</style> ，但你可跳过弹珠的次数 - {[DISCARD_REDUCTION]} 。
-      - 所有彈珠的傷害 <style=dmg_bonus>+ {[NO_DISCARD_DAMAGE_INCREASE]}/+ {[NO_DISCARD_DAMAGE_INCREASE]}</style>，但你每次可棄用的彈珠量 -{[DISCARD_REDUCTION]} 個。
+      - 所有攻击造成的<style=dmg_bonus>普通伤害 + {[NO_DISCARD_DAMAGE_INCREASE]}/暴击伤害 + {[NO_DISCARD_CRIT_INCREASE]}</style> ，但你可跳过弹珠的次数 - {[DISCARD_REDUCTION]} 。
+      - 所有彈珠的傷害 <style=dmg_bonus>+ {[NO_DISCARD_DAMAGE_INCREASE]}/+ {[NO_DISCARD_CRIT_INCREASE]}</style>，但你每次可棄用的彈珠量 -{[DISCARD_REDUCTION]} 個。
       - "オーブの ｽﾀｯﾂ <style=dmg_bonus>+{[NO_DISCARD_DAMAGE_INCREASE]}/+{[NO_DISCARD_DAMAGE_INCREASE]}</style>。\n破棄できるオーブ -{[DISCARD_REDUCTION]}"
       - 모든 공격이 <style=dmg_bonus>+{[NO_DISCARD_DAMAGE_INCREASE]}/+{[NO_DISCARD_CRIT_INCREASE]}</style>를 얻지만, <style=damage>구슬 버리기가 {[DISCARD_REDUCTION]} 감소합니다</style>.
       - 
@@ -28388,8 +28388,8 @@ MonoBehaviour:
       - Il primo <sprite name="PEG"> su cui <style=upgr_slime>applichi melma</style> a ogni colpo riceve <style=dmg_negative>{[DEBUFF_FIRST_PEG_AMOUNT]}</style>.
       - O primeiro <sprite name="PEG"> que você <style=upgr_slime>aplicar gosma</style> a cada arremesso recebe <style=dmg_negative>{[DEBUFF_FIRST_PEG_AMOUNT]}</style>.
       - Первый <sprite name="PEG">, который вы покрываете <style=upgr_slime>слизью</style> за выстрел, ухудшается на <style=dmg_negative>{[DEBUFF_FIRST_PEG_AMOUNT]}</style>.
-      - "\n减弱每次发射时第一个涂上<style=upgr_slime>黏液</style>的 <sprite name=\"PEG\">。（<style=dmg_negative>{[DEBUFF_HARDER_AMOUNT]} 伤害</style>）"
-      - "\n減弱每次發射時第一個塗上<style=upgr_slime>黏液</style>的 <sprite name=\"PEG\">。（<style=dmg_negative>{[DEBUFF_HARDER_AMOUNT]} 傷害</style>）"
+      - "\n减弱每次发射时第一个涂上<style=upgr_slime>黏液</style>的 <sprite name=\"PEG\">。（<style=dmg_negative>{[DEBUFF_FIRST_PEG_AMOUNT]} 伤害</style>）"
+      - "\n減弱每次發射時第一個塗上<style=upgr_slime>黏液</style>的 <sprite name=\"PEG\">。（<style=dmg_negative>{[DEBUFF_FIRST_PEG_AMOUNT]} 傷害</style>）"
       - "オーブ発射後、\n最初にスライムが\n付与された<sprite name=\"PEG\">を\n <style=dmg_negative>弱化</style>する。\n<style=dmg_negative>（ダメージ {[DEBUFF_FIRST_PEG_AMOUNT]}）</style>"
       - 매번 발사할 때 처음으로 <style=upgr_slime>슬라임을 칠한</style> <sprite name="PEG">는 <style=dmg_negative>{[DEBUFF_FIRST_PEG_AMOUNT]}</style>만큼 다운그레이드됩니다.
       - 
@@ -28733,7 +28733,7 @@ MonoBehaviour:
       - Spuma di fulmine
       - Graxa Eletrizante
       - Молниеносная смазка
-      - 
+      - 带电油脂
       - 帶電油脂
       - 感電グリス
       - 
@@ -28756,8 +28756,8 @@ MonoBehaviour:
       - Ogni <style=damage>{[DMG_LIGHT_SLIME]} punti salute persi</style>, aggiunge {[DMG_LIGHT_SLIME_COUNT]}<style=upgr_slime>melma elettrificata</style> al campo di gioco. I <sprite name="PEG"> coperti da <style=upgr_slime>melma fulminante</style> sono <style=durable>Resistenti</style> e fulminano i <sprite name="PEG"> vicini quando <style=hit>colpiti</style>
       - Para cada <style=damage>{[DMG_LIGHT_SLIME]} de vida perdido</style>, adicione {[DMG_LIGHT_SLIME_COUNT]} <style=upgr_slime>geleca eletrizante</style> ao tabuleiro. <sprite name="PEG"> com <style=upgr_slime>geleca eletrizante</style> são <style=durable>Resistentes</style> e dão choque em <sprite name="PEG"> próximos quando são <style=hit>acertados</style>
       - За каждые <style=damage>{[DMG_LIGHT_SLIME]} потерянных здоровья на поле добавляется </style>{[DMG_LIGHT_SLIME_COUNT]} <style=upgr_slime>электрическая слизь</style>. <style=upgr_slime>Электрические штыри</style> <sprite name="PEG"> <style=durable>Прочные</style> и разряжаются в соседние <sprite name="PEG"> при <style=hit>задевании</style>.
-      - 
-      - "\n你每<style=damage>失去 {[DMG_LIGHT_SLIME]} 點血量</style>，就在板面上生成 {[DMG_LIGHT_SLIME_COUNT]} 個<style=upgr_slime>閃電黏液</style>。塗有<style=upgr_slime>閃電黏液</style>的 <sprite name=\"PEG\"> 會擁有<style=durable>耐久</style>效果，style=hit>擊中</style>它們時會連帶電擊鄰近的 <sprite name=\"PEG\">"
+      - "\n你每<style=damage>失去 {[DMG_LIGHT_SLIME]} 点血量</style>，就在板面上生成 {[DMG_LIGHT_SLIME_COUNT]} 个<style=upgr_slime>闪电黏液</style>。涂有<style=upgr_slime>闪电黏液</style>的 <sprite name=\"PEG\"> 会拥有<style=durable>耐久</style>效果，<style=hit>击中</style>它们时会连带电击邻近的 <sprite name=\"PEG\">"
+      - "\n你每<style=damage>失去 {[DMG_LIGHT_SLIME]} 點血量</style>，就在板面上生成 {[DMG_LIGHT_SLIME_COUNT]} 個<style=upgr_slime>閃電黏液</style>。塗有<style=upgr_slime>閃電黏液</style>的 <sprite name=\"PEG\"> 會擁有<style=durable>耐久</style>效果，<style=hit>擊中</style>它們時會連帶電擊鄰近的 <sprite name=\"PEG\">"
       - "<style=damage>HPを{[DMG_LIGHT_SLIME]}失う</style>度に付与：\n<style=dmg_bonus><style=upgr_slime>イナヅマスライム</style></style>×{[DMG_LIGHT_SLIME_COUNT]}\n\n↑が付与された<sprite name=\"PEG\">は\n『<style=durable>頑丈</style>』になり、\n<style=hit>ヒット</style>時、近くの<sprite name=\"PEG\">に\n電撃を放つ。"
       - 
       - 
@@ -33242,7 +33242,7 @@ MonoBehaviour:
       - Correr e desviar! <style=damage>(Ir em qualquer direção)</style>
       - Бежать и уворачиваться! <style=damage>(Случайный путь)</style>
       - 冲刺并躲避<style=damage>（随机选择下一关前进路线）</style>
-      - 衝刺並躲避！（<style=damage>隨機選擇前進路線<</style>）
+      - 衝刺並躲避！（<style=damage>隨機選擇前進路線</style>）
       - 走って避ける！<style=damage>（ランダムなルート選択）</style>
       - 달려서 피하기! <style=damage>(무작위 방향으로 이동)</style>
       - Spring och Vik undan! <style=damage>(Random navigation)</style>
@@ -33494,8 +33494,8 @@ MonoBehaviour:
       - Scendendo nella galleria della miniera, incontri un <style=stone>Melmattone gigante</style> addormentato! Ti sembra un po' troppo grosso per poterti saltare addosso, quindi decidi di andarlo a salutare.
       - Conforme você avança pelo túnel da mina, você encontra uma <style=stone>Gelecaixa de Tijolos</style> dormindo! Você acha que ela é grande demais para pular, então você pensa em acordá-la e falar com ela.
       - Спускаясь глубже в шахты, вы находите по дороге <style=stone>гигантского</style> спящего <style=stone>Кирпичного Коробёнка</style>! Он выглядит слишком большим, чтобы прыгать и представлять угрозу, так что вы решаете подойти и поприветствовать его.
-      - 当你在矿洞隧道中深入探索时，遇到了一只正在沉睡的<style=stone>巨型方砖史莱姆！这家伙体型太过庞大，直接跳过去会有危险，所以你考虑要叫醒它并打个招呼。
-      - 當你在礦洞隧道中深入探索時，遇到了一隻正在沉睡的<style=stone>巨型方磚史萊姆！這傢伙體型太過龐大，直接跳過去會有危險，所以你考慮要叫醒它並打個招呼。
+      - 当你在矿洞隧道中深入探索时，遇到了一只正在沉睡的<style=stone>巨型方砖史莱姆</style>！这家伙体型太过庞大，直接跳过去会有危险，所以你考虑要叫醒它并打个招呼。
+      - 當你在礦洞隧道中深入探索時，遇到了一隻正在沉睡的<style=stone>巨型方磚史萊姆</style>！這傢伙體型太過龐大，直接跳過去會有危險，所以你考慮要叫醒它並打個招呼。
       - "坑道を進む中で、眠っている<style=stone>巨大なレンガスライム</style>と出くわした！\nジャンプで飛び越えるにはあまりにもでかすぎるし、\n戦うにしてもかなり危険で骨が折れそうだ……\nここはいっその事、起こして挨拶してみるのはどうだろうか。"
       - 광산 터널을 탐험하다가 잠들어 있는 <style=stone>거대 벽돌 슬라임박스</style>를 발견했습니다! 펄쩍 뛰어올라 위협을 가하기에는 너무 커 보여서, 깨워서 인사를 건네볼까 고민합니다.
       - 
